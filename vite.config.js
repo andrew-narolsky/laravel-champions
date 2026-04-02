@@ -7,9 +7,10 @@ export default defineConfig({
         laravel({
             input: [
                 'resources/assets/vendors/mdi/css/materialdesignicons.min.css',
-                'resources/assets/js/main.js',
                 'resources/assets/css/custom.css',
                 'resources/assets/css/styles.css',
+                'resources/assets/js/app.js',
+                'resources/assets/js/utils/text-editor.js',
             ],
             refresh: true,
         }),
@@ -19,6 +20,10 @@ export default defineConfig({
                     src: 'resources/assets/images',
                     dest: '',
                 },
+                {
+                    src: 'resources/assets/fonts',
+                    dest: '',
+                }
             ]
         }),
     ],

@@ -19,6 +19,8 @@
     @yield('content')
 
 </div>
-@vite(['resources/assets/js/main.js'])
+
+@vite(['resources/assets/js/app.js'])
+
 </body>
 </html>
