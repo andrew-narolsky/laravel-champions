@@ -37,16 +37,22 @@
                     <table class="table table-striped">
                         <thead>
                             <tr>
-                                <th style="width: 70px"> </th>
+                                <th style="width: 70px">#</th>
+                                <th style="width: 200px">Thumbnail</th>
                                 <th style="width: 200px">Name</th>
                                 <th>Description</th>
-                                <th> </th>
+                                <th style="width: 200px; text-align: right">Actions</th>
                             </tr>
                         </thead>
                         <tbody>
                             @foreach($countries as $country)
                                 <tr>
                                     <td class="py-1">{{ $loop->index + 1 }}.</td>
+                                    <td>
+                                        @isset($country->thumbnail)
+                                            <img src="{{ $country->thumbnail?->getFileUrl() }}" alt="{{ $country->name }}" loading="lazy">
+                                        @endisset
+                                    </td>
                                     <td>
                                         {{ $country->name }}
                                     </td>
