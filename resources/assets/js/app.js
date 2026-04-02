@@ -20,9 +20,17 @@ import { Notyf } from 'notyf';
 import 'notyf/notyf.min.css';
 window.Notyf = new Notyf();
 
+// FileUploader
+import FileUploader from './utils/file-uploader';
+window.FileUploader = FileUploader;
+
 // Autoload modules
 const modules = import.meta.glob('./modules/*.js', { eager: true });
 Object.entries(modules).forEach(([path, module]) => {
-    const name = path.split('/').pop().replace('.js', '').replace(/(^\w|-\w)/g, c => c.replace('-', '').toUpperCase());
+    const name = path
+        .split('/')
+        .pop()
+        .replace('.js', '')
+        .replace(/(^\w|-\w)/g, c => c.replace('-', '').toUpperCase());
     window[name] = module.default;
 });

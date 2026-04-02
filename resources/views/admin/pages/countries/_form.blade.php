@@ -1,11 +1,11 @@
-<div class="row">
-    <div class="col-12 grid-margin stretch-card">
-        <div class="card">
-            <div class="card-body">
-                <form id="countries-form" method="POST" action="{{ $action }}">
-                    @csrf
-                    <input type="hidden" name="_method" value="{{ $method }}">
+<form id="countries-form" method="POST" action="{{ $action }}">
+    @csrf
+    <input type="hidden" name="_method" value="{{ $method }}">
 
+    <div class="row">
+        <div class="{{ isset($country) ? 'col-9' : 'col-12' }}">
+            <div class="card">
+                <div class="card-body">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input name="name" type="text" class="form-control @error('name') is-invalid @enderror" id="name" placeholder="Name" value="{{ old('name', $country->name ?? '')}}">
@@ -37,11 +37,31 @@
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror
                     </div>
-                </form>
+                </div>
             </div>
         </div>
+        @isset($country)
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="file">Thumbnail</label>
+                            @include('admin.partials.uploader', [
+                                'module' => $country::MODULE_NAME,
+                                'moduleId' => $country->id ?? null,
+                                'id' => $country->thumbnail->id ?? null,
+                                'file' => $country->thumbnail?->getFileUrl() ?? null,
+                                'allowed' => 'images',
+                                'uploadUrl' => route('attachments.upload'),
+                                'deleteUrl' => route('attachments.destroy', ['attachment' => '__ID__']),
+                            ])
+                        </div>
+                    </div>
+                </div>
+            </div>
+        @endisset
     </div>
-</div>
+</form>
 
 @section('js')
     @vite('resources/assets/js/utils/text-editor.js')
