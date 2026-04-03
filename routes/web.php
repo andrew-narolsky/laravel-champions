@@ -15,7 +15,7 @@ Auth::routes([
     'verify' => false,
 ]);
 
-Route::group(['prefix' => 'admin'], function () {
+Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
     Route::get('/', [DashboardController::class, 'index'])->name('admin');
 
     Route::post('/attachments/upload', [AttachmentController::class, 'upload'])->name('attachments.upload');

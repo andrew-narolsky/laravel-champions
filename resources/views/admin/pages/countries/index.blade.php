@@ -78,7 +78,7 @@
                             @endforeach
                         </tbody>
                     </table>
-                    {{ $countries->appends(request()->input())->links('admin.partials.pagination') }}
+                    {{ $countries->appends(request()->except('page'))->links('admin.partials.pagination') }}
                 </div>
             </div>
         </div>
