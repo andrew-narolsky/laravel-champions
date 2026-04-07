@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 
-@section('title', 'Countries')
-@section('wrapper', 'countries-page')
+@section('title', 'Clubs')
+@section('wrapper', 'clubs-page')
 
 @section('content')
 
@@ -11,12 +11,12 @@
                 <h3 class="page-title">
                     <span class="page-title-icon bg-gradient-primary text-white me-2">
                         <i class="mdi mdi-account menu-icon"></i>
-                    </span> Countries
+                    </span> Clubs
                 </h3>
             </div>
 
             <div class="col-auto ms-auto text-end mt-n1">
-                <a href="{{ route('countries.create') }}" class="btn btn-primary">New country</a>
+                <a href="{{ route('clubs.create') }}" class="btn btn-primary">New club</a>
             </div>
         </div>
         <nav aria-label="breadcrumb">
@@ -24,7 +24,7 @@
                 <li class="breadcrumb-item">
                     <a href="{{ route('admin') }}">Dashboard</a>
                 </li>
-                <li class="breadcrumb-item active" aria-current="page">Countries</li>
+                <li class="breadcrumb-item active" aria-current="page">Clubs</li>
             </ol>
         </nav>
     </div>
@@ -33,8 +33,8 @@
         <div class="col-lg-12 grid-margin stretch-card">
             <div class="card">
                 <div class="card-body">
-                    @if($countries->isEmpty())
-                        <span>No countries found.</span>
+                    @if($clubs->isEmpty())
+                        <span>No clubs found.</span>
                     @else
                         <table class="table table-striped">
                             <thead>
@@ -47,31 +47,31 @@
                             </tr>
                             </thead>
                             <tbody>
-                            @foreach($countries as $country)
+                            @foreach($clubs as $club)
                                 <tr>
                                     <td class="py-1">{{ $loop->index + 1 }}.</td>
                                     <td>
-                                        @isset($country->attachment)
-                                            <img src="{{ $country->attachment?->getFileUrl() }}" alt="{{ $country->name }}" loading="lazy">
+                                        @isset($club->attachment)
+                                            <img src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" loading="lazy">
                                         @endisset
                                     </td>
                                     <td>
-                                        {{ $country->name }}
+                                        {{ $club->name }}
                                     </td>
                                     <td>
-                                        {{ $country->description }}
+                                        {{ $club->description }}
                                     </td>
 
                                     <td class="d-flex flex-row justify-content-end">
-                                        <a href="{{ route('countries.edit', $country) }}" type="button" class="btn btn-inverse-info btn-icon">
+                                        <a href="{{ route('clubs.edit', $club) }}" type="button" class="btn btn-inverse-info btn-icon">
                                             <i class="mdi mdi-pencil"></i>
                                         </a>
 
-                                        <button type="submit" form="delete-country-{{ $country->id }}" class="btn btn-inverse-danger btn-icon">
+                                        <button type="submit" form="delete-country-{{ $club->id }}" class="btn btn-inverse-danger btn-icon">
                                             <i class="mdi mdi-delete"></i>
                                         </button>
 
-                                        <form method="POST" id="delete-country-{{ $country->id }}" action="{{ route('countries.destroy', $country) }}">
+                                        <form method="POST" id="delete-country-{{ $club->id }}" action="{{ route('clubs.destroy', $club) }}">
                                             @method('DELETE')
                                             @csrf
                                         </form>
@@ -80,7 +80,7 @@
                             @endforeach
                             </tbody>
                         </table>
-                        {{ $countries->appends(request()->except('page'))->links('admin.partials.pagination') }}
+                        {{ $clubs->appends(request()->except('page'))->links('admin.partials.pagination') }}
                     @endif
                 </div>
             </div>
