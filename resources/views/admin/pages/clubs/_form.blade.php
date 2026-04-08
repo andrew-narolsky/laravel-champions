@@ -43,7 +43,7 @@
                                 </option>
                             @endforeach
                         </select>
-                        @error('country')
+                        @error('country_id')
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror
                     </div>
@@ -164,6 +164,22 @@
                                 'uploadUrl' => route('attachments.upload'),
                                 'deleteUrl' => route('attachments.destroy', ['attachment' => '__ID__']),
                             ])
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label>Previous Names</label>
+                            <div id="names-wrapper">
+                                @if(isset($club) && $club->names->count())
+                                    @foreach($club->names as $i => $item)
+                                        @include('admin.pages.clubs._name-item', ['index' => $i, 'item' => $item])
+                                    @endforeach
+                                @endif
+                            </div>
+
+                            <button type="button" class="btn btn-sm btn-primary mt-2" id="add-name">
+                                + Add name
+                            </button>
                         </div>
                     </div>
                 </div>

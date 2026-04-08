@@ -40,11 +40,24 @@ export default class FormHelper {
             });
     }
 
+    static formatFieldName(field) {
+        const parts = field.split('.');
+
+        let result = parts.shift();
+
+        parts.forEach(part => {
+            result += `[${part}]`;
+        });
+
+        return result;
+    }
+
     static handleValidationErrors(form, errors) {
         for (let field in errors) {
-            if (!errors.hasOwnProperty(field)) continue;
+            const formatted = this.formatFieldName(field);
 
-            const input = form.querySelector(`[name="${field}"]`);
+            const input = form.querySelector(`[name="${CSS.escape(formatted)}"]`);
+
             if (!input) continue;
 
             this.showFieldError(input, errors[field][0]);

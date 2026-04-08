@@ -31,4 +31,9 @@ class Club extends Model
         'city',
         'address',
     ];
+
+    public function names()
+    {
+        return $this->hasMany(ClubName::class)->orderBy('from_year');
+    }
 }

@@ -84,6 +84,33 @@ class ClubSaveRequest extends FormRequest
                 'string',
                 'max:255',
             ],
+
+            'names' => [
+                'nullable',
+                'array'
+            ],
+
+            'names.*.name' => [
+                'required',
+                'string',
+                'max:255'
+            ],
+
+            'names.*.from_year' => [
+                'nullable',
+                'integer'
+            ],
+
+            'names.*.to_year' => [
+                'nullable',
+                'integer'
+            ],
+
+            'names.*.note' => [
+                'nullable',
+                'string',
+                'max:255'
+            ],
         ];
     }
 }

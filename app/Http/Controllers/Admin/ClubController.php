@@ -26,7 +26,14 @@ class ClubController extends Controller
 
     public function store(ClubSaveRequest $request): JsonResponse
     {
-        $club = new Club($request->all());
+        $club = Club::create($request->validated());
+
+        if ($request->has('names')) {
+            foreach ($request->names as $item) {
+                $club->names()->create($item);
+            }
+        }
+
         $club->save();
         return response()->json(['message' => 'Club successfully created!', 'redirect' => true]);
     }
@@ -39,7 +46,15 @@ class ClubController extends Controller
 
     public function update(ClubSaveRequest $request, Club $club): JsonResponse
     {
-        $club->fill($request->all());
+        $club->update($request->validated());
+        $club->names()->delete();
+
+        if ($request->has('names')) {
+            foreach ($request->names as $item) {
+                $club->names()->create($item);
+            }
+        }
+
         $club->save();
         return response()->json(['message' => 'Club successfully updated!']);
     }
