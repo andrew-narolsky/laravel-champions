@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Admin\AttachmentController;
 use App\Http\Controllers\Admin\ClubController;
+use App\Http\Controllers\Admin\CompetitionController;
 use App\Http\Controllers\Admin\CountryController;
 use App\Http\Controllers\Admin\DashboardController;
 use Illuminate\Support\Facades\Route;
@@ -24,4 +25,5 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
 
     Route::resource('/countries', CountryController::class)->except(['show']);
     Route::resource('/clubs', ClubController::class)->except(['show']);
+    Route::resource('/competitions', CompetitionController::class)->except(['show']);
 });

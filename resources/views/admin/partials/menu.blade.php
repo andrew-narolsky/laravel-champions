@@ -20,4 +20,10 @@
             <i class="mdi mdi-shield menu-icon"></i>
         </a>
     </li>
+    <li class="nav-item @ifroute('competitions.index') active @endifroute">
+        <a class="nav-link" href="{{ route('competitions.index') }}">
+            <span class="menu-title">Competitions</span>
+            <i class="mdi mdi-trophy-variant menu-icon"></i>
+        </a>
+    </li>
 </ul>
