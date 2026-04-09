@@ -39,6 +39,7 @@ class CompetitionController extends Controller
         $countries = Country::pluck('name', 'id');
         $types = collect(CompetitionType::cases())
             ->mapWithKeys(fn($case) => [$case->value => ucfirst(str_replace('_', ' ', $case->value))]);
+        $competition->load(['seasons']);
         return view('admin.pages.competitions.update', compact('competition', 'countries', 'types'));
     }
 

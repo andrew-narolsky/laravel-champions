@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 
-@section('title', 'Update competition')
-@section('wrapper', 'competitions-page')
+@section('title', 'Update season')
+@section('wrapper', 'seasons-page')
 
 @section('content')
 
@@ -11,12 +11,11 @@
                 <h3 class="page-title">
                     <span class="page-title-icon bg-gradient-primary text-white me-2">
                         <i class="mdi mdi-account menu-icon"></i>
-                    </span> Update "{{ $competition->name }}"
+                    </span> Update "{{ $season->name }}" for "{{ $competition->name }}"
                 </h3>
             </div>
             <div class="col-auto ms-auto text-end mt-n1">
-                <a href="{{ route('competitions.seasons.create', $competition) }}" class="btn btn-success">New Season</a>
-                <button type="submit" form="competitions-form" class="btn btn-primary" id="update">Update</button>
+                <button type="submit" form="clubs-form" class="btn btn-primary" id="update">Update</button>
             </div>
         </div>
         <nav aria-label="breadcrumb">
@@ -27,23 +26,14 @@
                 <li class="breadcrumb-item">
                     <a href="{{ route('competitions.index') }}">Competitions</a>
                 </li>
+                <li class="breadcrumb-item">
+                    <a href="{{ route('competitions.edit', $competition) }}">{{ $competition->name }}</a>
+                </li>
                 <li class="breadcrumb-item active" aria-current="page">Update</li>
             </ol>
         </nav>
     </div>
 
-    @include('admin.pages.competitions._form', ['competition' => $competition, 'method' => 'PUT', 'action' => route('competitions.update', $competition) ])
-
-    @isset($competition)
-        <div class="row mt-4">
-            <div class="col-12">
-                <div class="card">
-                    <div class="card-body">
-                        @include('admin.pages.seasons._table')
-                    </div>
-                </div>
-            </div>
-        </div>
-    @endisset
+    @include('admin.pages.seasons._form', ['method' => 'PUT', 'action' => route('competitions.seasons.update', [$competition, $season])])
 
 @endsection

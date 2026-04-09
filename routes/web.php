@@ -5,6 +5,7 @@ use App\Http\Controllers\Admin\ClubController;
 use App\Http\Controllers\Admin\CompetitionController;
 use App\Http\Controllers\Admin\CountryController;
 use App\Http\Controllers\Admin\DashboardController;
+use App\Http\Controllers\Admin\SeasonController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -20,10 +21,11 @@ Auth::routes([
 Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
     Route::get('/', [DashboardController::class, 'index'])->name('admin');
 
-    Route::post('/attachments/upload', [AttachmentController::class, 'upload'])->name('attachments.upload');
-    Route::delete('/attachments/{attachment}', [AttachmentController::class, 'destroy'])->name('attachments.destroy');
+    Route::post('attachments/upload', [AttachmentController::class, 'upload'])->name('attachments.upload');
+    Route::delete('attachments/{attachment}', [AttachmentController::class, 'destroy'])->name('attachments.destroy');
 
-    Route::resource('/countries', CountryController::class)->except(['show']);
-    Route::resource('/clubs', ClubController::class)->except(['show']);
-    Route::resource('/competitions', CompetitionController::class)->except(['show']);
+    Route::resource('countries', CountryController::class)->except(['show']);
+    Route::resource('clubs', ClubController::class)->except(['show']);
+    Route::resource('competitions', CompetitionController::class)->except(['show']);
+    Route::resource('competitions.seasons', SeasonController::class)->except(['index', 'show']);
 });

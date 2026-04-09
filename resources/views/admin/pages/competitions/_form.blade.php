@@ -50,9 +50,13 @@
 
                     <div class="form-group">
                         <label for="type">Type</label>
-                        <select name="type" id="type" class="form-control @error('type') is-invalid @enderror">
+                        <select name="type"
+                                id="type">
                             @foreach($types as $value => $label)
-                                <option value="{{ $value }}" @selected(old('type', $competition->type->value ?? '') === $value)>{{ $label }}</option>
+                                <option
+                                    value="{{ $value }}" @selected(old('type', $competition->type->value ?? '') === $value)>
+                                    {{ $label }}
+                                </option>
                             @endforeach
                         </select>
                         @error('type')
