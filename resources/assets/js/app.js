@@ -24,6 +24,9 @@ window.Notyf = new Notyf();
 import FileUploader from './utils/file-uploader';
 window.FileUploader = FileUploader;
 
+// Utils
+import './utils/sidebar';
+
 // Autoload modules
 const modules = import.meta.glob('./modules/*.js', { eager: true });
 Object.entries(modules).forEach(([path, module]) => {
