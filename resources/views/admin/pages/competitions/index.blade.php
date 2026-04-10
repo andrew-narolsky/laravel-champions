@@ -53,6 +53,8 @@
                                     <td>
                                         @isset($competition->attachment)
                                             <img src="{{ $competition->attachment?->getFileUrl() }}" alt="{{ $competition->name }}" loading="lazy">
+                                        @else
+                                            <img src="{{ asset('/build/images/trophy.svg') }}" alt="{{ $competition->name }}" loading="lazy">
                                         @endisset
                                     </td>
                                     <td>

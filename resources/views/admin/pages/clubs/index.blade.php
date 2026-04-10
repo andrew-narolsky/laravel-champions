@@ -53,6 +53,8 @@
                                     <td>
                                         @isset($club->attachment)
                                             <img src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" loading="lazy">
+                                        @else
+                                            <img src="{{ asset('/build/images/shield.svg') }}" alt="{{ $club->name }}" loading="lazy">
                                         @endisset
                                     </td>
                                     <td>
