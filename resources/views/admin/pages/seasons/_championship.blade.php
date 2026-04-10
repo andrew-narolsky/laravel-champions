@@ -1,35 +1,30 @@
-<div class="form-group">
-    <label>Champion</label>
-    <select name="result[champion_id]">
-        @foreach($clubs as $id => $club)
-            <option
-                value="{{ $id }}" @selected(old('result.champion_id', $season->result->champion_id ?? 0) == $id)>
-                {{ $club }}
-            </option>
-        @endforeach
-    </select>
-</div>
+@php
+    $existingResult = ($season ?? null)?->result;
 
-<div class="form-group">
-    <label>Runner-up</label>
-    <select name="result[runner_up_id]">
-        @foreach($clubs as $id => $club)
-            <option
-                value="{{ $id }}" @selected(old('result.runner_up_id', $season->result->runner_up_id ?? 0) == $id)>
-                {{ $club }}
-            </option>
-        @endforeach
-    </select>
-</div>
+    $championIds = old('result.places.champion', $existingResult?->champions->pluck('id')->toArray() ?? []);
+    if (empty($championIds)) $championIds = [null];
 
-<div class="form-group">
-    <label>Third place</label>
-    <select name="result[third_place_id]">
-        @foreach($clubs as $id => $club)
-            <option
-                value="{{ $id }}" @selected(old('result.third_place_id', $season->result->third_place_id ?? 0) == $id)>
-                {{ $club }}
-            </option>
-        @endforeach
-    </select>
-</div>
+    $runnerUpIds = old('result.places.runner_up', $existingResult?->runnerUps->pluck('id')->toArray() ?? []);
+    if (empty($runnerUpIds)) $runnerUpIds = [null];
+
+    $thirdPlaceIds = old('result.places.third_place', $existingResult?->thirdPlaces->pluck('id')->toArray() ?? []);
+    if (empty($thirdPlaceIds)) $thirdPlaceIds = [null];
+@endphp
+
+@include('admin.pages.seasons._position-selector', [
+    'place' => 'champion',
+    'label' => 'Champion(s)',
+    'existingIds' => $championIds,
+])
+
+@include('admin.pages.seasons._position-selector', [
+    'place' => 'runner_up',
+    'label' => 'Runner-up(s)',
+    'existingIds' => $runnerUpIds,
+])
+
+@include('admin.pages.seasons._position-selector', [
+    'place' => 'third_place',
+    'label' => 'Third place',
+    'existingIds' => $thirdPlaceIds,
+])

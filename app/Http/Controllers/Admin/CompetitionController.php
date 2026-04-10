@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\CompetitionSaveRequest;
 use App\Models\Competition;
 use App\Models\Country;
+use App\Models\Season;
 use Illuminate\Contracts\View\View;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
@@ -39,8 +40,8 @@ class CompetitionController extends Controller
         $countries = Country::pluck('name', 'id');
         $types = collect(CompetitionType::cases())
             ->mapWithKeys(fn($case) => [$case->value => ucfirst(str_replace('_', ' ', $case->value))]);
-        $competition->load(['seasons']);
-        return view('admin.pages.competitions.update', compact('competition', 'countries', 'types'));
+        $seasons = $competition->seasons()->paginate(Season::PAGINATION_LIMIT);
+        return view('admin.pages.competitions.update', compact('competition', 'countries', 'types', 'seasons'));
     }
 
     public function update(CompetitionSaveRequest $request, Competition $competition): JsonResponse

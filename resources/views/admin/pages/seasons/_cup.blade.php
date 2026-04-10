@@ -1,26 +1,24 @@
-<div class="form-group">
-    <label>Champion</label>
-    <select name="result[champion_id]">
-        @foreach($clubs as $id => $club)
-            <option
-                value="{{ $id }}" @selected(old('result.champion_id', $season->result->champion_id ?? 0) == $id)>
-                {{ $club }}
-            </option>
-        @endforeach
-    </select>
-</div>
+@php
+    $existingResult = ($season ?? null)?->result;
 
-<div class="form-group">
-    <label>Runner-up</label>
-    <select name="result[runner_up_id]">
-        @foreach($clubs as $id => $club)
-            <option
-                value="{{ $id }}" @selected(old('result.runner_up_id', $season->result->runner_up_id ?? 0) == $id)>
-                {{ $club }}
-            </option>
-        @endforeach
-    </select>
-</div>
+    $championIds = old('result.places.champion', $existingResult?->champions->pluck('id')->toArray() ?? []);
+    if (empty($championIds)) $championIds = [null];
+
+    $runnerUpIds = old('result.places.runner_up', $existingResult?->runnerUps->pluck('id')->toArray() ?? []);
+    if (empty($runnerUpIds)) $runnerUpIds = [null];
+@endphp
+
+@include('admin.pages.seasons._position-selector', [
+    'place' => 'champion',
+    'label' => 'Champion(s)',
+    'existingIds' => $championIds,
+])
+
+@include('admin.pages.seasons._position-selector', [
+    'place' => 'runner_up',
+    'label' => 'Runner-up(s)',
+    'existingIds' => $runnerUpIds,
+])
 
 <div class="form-group">
     <label>Score</label>
@@ -28,5 +26,5 @@
            name="result[score]"
            class="form-control"
            placeholder="e.g. 2-1"
-           value="{{ old('result.score', $season->result->score ?? '')}}">
+           value="{{ old('result.score', $existingResult?->score ?? '') }}">
 </div>

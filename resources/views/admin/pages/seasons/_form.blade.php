@@ -14,7 +14,7 @@
                                class="form-control @error('name') is-invalid @enderror"
                                id="name"
                                placeholder="e.g., 2024/25"
-                               value="{{ old('name', $season->name ?? '') }}">
+                               value="{{ old('name', ($season ?? null)?->name ?? '') }}">
                         @error('name')
                         <span class="invalid-feedback">{{ $message }}</span>
                         @enderror

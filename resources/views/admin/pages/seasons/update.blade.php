@@ -15,7 +15,7 @@
                 </h3>
             </div>
             <div class="col-auto ms-auto text-end mt-n1">
-                <button type="submit" form="clubs-form" class="btn btn-primary" id="update">Update</button>
+                <button type="submit" form="seasons-form" class="btn btn-primary" id="update">Update</button>
             </div>
         </div>
         <nav aria-label="breadcrumb">

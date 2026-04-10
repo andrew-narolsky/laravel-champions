@@ -11,9 +11,6 @@ return new class extends Migration
         Schema::create('results', function (Blueprint $table) {
             $table->id();
             $table->foreignId('season_id')->constrained()->cascadeOnDelete();
-            $table->foreignId('champion_id')->constrained('clubs');
-            $table->foreignId('runner_up_id')->nullable()->constrained('clubs');
-            $table->foreignId('third_place_id')->nullable()->constrained('clubs');
             $table->string('score')->nullable();
             $table->timestamps();
         });

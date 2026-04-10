@@ -34,6 +34,7 @@ class SeasonController extends Controller
 
     public function edit(Competition $competition, Season $season): View
     {
+        $season->load('result.champions', 'result.runnerUps', 'result.thirdPlaces');
         $clubs = $competition->country->clubs->pluck('name', 'id');
         return view('admin.pages.seasons.update', compact('competition', 'season', 'clubs'));
     }
@@ -59,11 +60,15 @@ class SeasonController extends Controller
 
     private function saveSeasonResult(Season $season, array $data): void
     {
-        $season->result()->updateOrCreate([], [
-            'champion_id' => $data['champion_id'] ?? null,
-            'runner_up_id' => $data['runner_up_id'] ?? null,
-            'third_place_id' => $data['third_place_id'] ?? null,
-            'score' => $data['score'] ?? null,
-        ]);
+        $result = $season->result()->firstOrCreate([]);
+        $result->update(['score' => $data['score'] ?? null]);
+
+        $result->clubs()->detach();
+
+        foreach ($data['places'] ?? [] as $place => $clubIds) {
+            foreach (array_filter((array) $clubIds) as $order => $clubId) {
+                $result->clubs()->attach($clubId, ['place' => $place, 'order' => $order]);
+            }
+        }
     }
 }
