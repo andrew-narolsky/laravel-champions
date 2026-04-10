@@ -15,6 +15,19 @@ class SeasonSeeder extends Seeder
             true
         );
 
+        $allClubNames = [];
+        foreach ($seasons as $data) {
+            foreach ($data['result']['places'] ?? [] as $clubNames) {
+                foreach ($clubNames as $clubName) {
+                    $allClubNames[] = $clubName;
+                }
+            }
+        }
+
+        $clubs = Club::whereIn('name', array_unique($allClubNames))
+            ->get()
+            ->keyBy('name');
+
         foreach ($seasons as $data) {
             $season = Season::create([
                 'name'           => $data['name'],
@@ -31,7 +44,7 @@ class SeasonSeeder extends Seeder
 
             foreach ($data['result']['places'] ?? [] as $place => $clubNames) {
                 foreach ($clubNames as $order => $clubName) {
-                    $club = Club::where('name', $clubName)->first();
+                    $club = $clubs->get($clubName);
 
                     if ($club) {
                         $result->clubs()->attach($club->id, [
