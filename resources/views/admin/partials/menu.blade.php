@@ -11,7 +11,7 @@
     <li class="nav-item @ifroute('countries.index') active @endifroute">
         <a class="nav-link" href="{{ route('countries.index') }}">
             <span class="menu-title">Countries</span>
-            <i class="mdi mdi-web menu-icon"></i>
+            <i class="mdi mdi-earth menu-icon"></i>
         </a>
     </li>
     <li class="nav-item @ifroute('clubs.index') active @endifroute">
@@ -23,7 +23,7 @@
     <li class="nav-item @ifroute('competitions.index') active @endifroute">
         <a class="nav-link" href="{{ route('competitions.index') }}">
             <span class="menu-title">Competitions</span>
-            <i class="mdi mdi-trophy-variant menu-icon"></i>
+            <i class="mdi mdi-trophy menu-icon"></i>
         </a>
     </li>
 </ul>
