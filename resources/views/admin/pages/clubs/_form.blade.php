@@ -87,10 +87,11 @@
                     <div class="form-group">
                         <label for="founded_at">Founded</label>
                         <input name="founded_at"
-                               type="date"
+                               type="text"
                                class="form-control @error('founded_at') is-invalid @enderror"
                                id="founded_at"
-                               value="{{ old('founded_at', isset($club) && $club->founded_at ? $club->founded_at->format('Y-m-d') : '') }}">
+                               placeholder="YYYY-MM-DD"
+                               value="{{ old('founded_at', isset($club) ? $club->founded_at : '') }}">
                         @error('founded_at')
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror
@@ -99,10 +100,11 @@
                     <div class="form-group">
                         <label for="destroyed_at">Destroyed</label>
                         <input name="destroyed_at"
-                               type="date"
+                               type="text"
                                class="form-control @error('destroyed_at') is-invalid @enderror"
                                id="destroyed_at"
-                               value="{{ old('destroyed_at', isset($club) && $club->destroyed_at ? $club->destroyed_at->format('Y-m-d') : '') }}">
+                               placeholder="YYYY-MM-DD"
+                               value="{{ old('destroyed_at', isset($club) ? $club->destroyed_at : '') }}">
                         @error('destroyed_at')
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror

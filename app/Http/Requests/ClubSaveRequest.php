@@ -51,13 +51,11 @@ class ClubSaveRequest extends FormRequest
             ],
             'founded_at' => [
                 'nullable',
-                'date',
-                'before_or_equal:today',
+                'regex:/^\d{4}(-\d{2}-\d{2})?$/',
             ],
             'destroyed_at' => [
                 'nullable',
-                'date',
-                'after_or_equal:founded_at',
+                'regex:/^\d{4}(-\d{2}-\d{2})?$/',
             ],
             'stadium' => [
                 'nullable',
