@@ -6,8 +6,8 @@
     <title>Football Champions</title>
 
     @vite([
-        'resources/assets/vendors/mdi/css/materialdesignicons.min.css',
-        'resources/assets/css/styles.css'
+        'resources/assets/admin/vendors/mdi/css/materialdesignicons.min.css',
+        'resources/assets/admin/css/styles.css'
     ])
 
     <link rel="icon" type="image/png" href="{{ asset('/build/images/favicon.ico') }}"/>
@@ -19,7 +19,7 @@
 
 </div>
 
-@vite(['resources/assets/js/app.js'])
+@vite(['resources/assets/admin/js/app.js'])
 
 </body>
 </html>

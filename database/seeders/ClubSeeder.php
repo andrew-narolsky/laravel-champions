@@ -36,6 +36,10 @@ class ClubSeeder extends Seeder
                 'city'          => $club['city'],
             ]);
 
+            if (!empty($club['names'])) {
+                $created->names()->createMany($club['names']);
+            }
+
             $srcFile = database_path("data/images/clubs/{$slug}.webp");
 
             if (file_exists($srcFile)) {

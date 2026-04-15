@@ -1,4 +1,4 @@
-import BaseModel from '../core/base-model';
+import BaseModel from '../core/base-model.js';
 
 export default class Competitions extends BaseModel {
     constructor() {

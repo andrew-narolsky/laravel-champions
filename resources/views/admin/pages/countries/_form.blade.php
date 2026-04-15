@@ -81,7 +81,7 @@
 </form>
 
 @section('js')
-    @vite('resources/assets/js/utils/text-editor.js')
+    @vite('resources/assets/admin/js/utils/text-editor.js')
     <script>
         document.addEventListener("DOMContentLoaded", () => {
             // noinspection JSUnresolvedReference

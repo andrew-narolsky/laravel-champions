@@ -18,11 +18,17 @@ class Country extends Model
         'name',
         'slug',
         'description',
+        'flag_code',
         'content',
     ];
 
     public function clubs(): HasMany
     {
-        return $this->hasMany(Club::class);
+        return $this->hasMany(Club::class)->with('attachment');
+    }
+
+    public function competitions(): HasMany
+    {
+        return $this->hasMany(Competition::class);
     }
 }

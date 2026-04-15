@@ -16,8 +16,8 @@ return new class extends Migration
             $table->string('nickname')->nullable();
             $table->string('description')->nullable();
             $table->text('content')->nullable();
-            $table->date('founded_at')->nullable();
-            $table->date('destroyed_at')->nullable();
+            $table->string('founded_at')->nullable();
+            $table->string('destroyed_at')->nullable();
             $table->string('stadium')->nullable();
             $table->string('city')->nullable();
             $table->string('address')->nullable();

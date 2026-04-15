@@ -7,9 +7,9 @@
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     @vite([
-        'resources/assets/vendors/mdi/css/materialdesignicons.min.css',
-        'resources/assets/css/styles.css',
-        'resources/assets/css/custom.css'
+        'resources/assets/admin/vendors/mdi/css/materialdesignicons.min.css',
+        'resources/assets/admin/css/styles.css',
+        'resources/assets/admin/css/custom.css'
     ])
 
     <link rel="icon" type="image/png" href="{{ asset('/build/images/favicon.ico') }}"/>
@@ -49,7 +49,7 @@
         </div>
     </div>
 
-@vite(['resources/assets/js/app.js'])
+@vite(['resources/assets/admin/js/app.js'])
 
 @yield('js')
 

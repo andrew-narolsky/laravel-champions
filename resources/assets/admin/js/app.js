@@ -7,7 +7,7 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 import * as bootstrap from 'bootstrap'
 
 // FormHelper
-import FormHelper from './utils/form-helper';
+import FormHelper from './utils/form-helper.js';
 window.FormHelper = FormHelper;
 
 // SlimSelect
@@ -21,11 +21,11 @@ import 'notyf/notyf.min.css';
 window.Notyf = new Notyf();
 
 // FileUploader
-import FileUploader from './utils/file-uploader';
+import FileUploader from './utils/file-uploader.js';
 window.FileUploader = FileUploader;
 
 // Utils
-import './utils/sidebar';
+import './utils/sidebar.js';
 
 // Autoload modules
 const modules = import.meta.glob('./modules/*.js', { eager: true });

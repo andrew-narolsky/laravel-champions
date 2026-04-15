@@ -4,17 +4,16 @@ namespace App\Models;
 
 use App\Enums\CompetitionType;
 use App\Enums\SeasonPosition;
+use App\Services\DateParserService;
 use App\Traits\HasAttachments;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Support\Collection;
 
 class Club extends Model
 {
     use HasAttachments;
-
-    protected $casts = [
-        'founded_at' => 'date',
-        'destroyed_at' => 'date',
-    ];
 
     const string MODULE_NAME = 'clubs';
 
@@ -39,32 +38,93 @@ class Club extends Model
         return $this->hasMany(ClubName::class)->orderBy('from_year');
     }
 
-    public function results()
+    public function country(): BelongsTo
     {
-        return $this->hasMany(Result::class);
+        return $this->belongsTo(Country::class);
     }
 
-    public function trophiesByType(CompetitionType $type)
+    public function results(): BelongsToMany
     {
-        return $this->results()
-            ->where('position', SeasonPosition::CHAMPION->value)
-            ->whereHas('season.competition', fn($q) =>
-            $q->where('type', $type->value)
-            );
+        return $this->belongsToMany(Result::class, 'result_clubs')
+            ->withPivot(['place', 'order']);
     }
 
-    public function championships()
-    {
-        return $this->trophiesByType(CompetitionType::CHAMPIONSHIP);
+    public function scopeWithTrophiesCount(
+        $query,
+        string $type,
+        string $alias = 'trophies_count',
+        ?int $competitionId = null
+    ) {
+        return $query->withCount([
+            'results as ' . $alias => function ($q) use ($type, $competitionId) {
+
+                $q->where('result_clubs.place', SeasonPosition::CHAMPION->value)
+                    ->whereHas('season.competition', function ($q) use ($type, $competitionId) {
+
+                        if ($competitionId) {
+                            $q->where('id', $competitionId);
+                            return;
+                        }
+
+                        $q->where('type', $type);
+                    });
+            }
+        ]);
     }
 
-    public function cups()
+
+    public function getNormalizedNameAttribute(): string
     {
-        return $this->trophiesByType(CompetitionType::CUP);
+        return preg_replace('/^(FC|FK|SC|AC|KF|KS)\s+/i', '', $this->name);
     }
 
-    public function superCups()
+    public function getCompetitionStatsAttribute(): Collection
     {
-        return $this->trophiesByType(CompetitionType::SUPER_CUP);
+        return $this->results
+            ->groupBy(fn($r) => $r->season->competition->type->value)
+            ->map(function ($results, $type) {
+
+                $grouped = $results->groupBy(fn($r) => $r->pivot->place);
+
+                $get = fn($place) => $grouped->has($place)
+                    ? [
+                        'count' => $grouped->get($place)->count(),
+                        'years' => $grouped->get($place)
+                            ->pluck('season.name')
+                            ->implode(' · ')
+                    ]
+                    : null;
+
+                $data = [
+                    'type' => CompetitionType::from($type),
+                    'champions' => $get(SeasonPosition::CHAMPION->value),
+                ];
+
+                if ($runnerups = $get(SeasonPosition::RUNNER_UP->value)) {
+                    $data['runnerups'] = $runnerups;
+                }
+
+                if ($third = $get(SeasonPosition::THIRD_PLACE->value)) {
+                    $data['third'] = $third;
+                }
+
+                return $data;
+            });
+    }
+
+    public function getDateParts(string $field): array
+    {
+        return app(DateParserService::class)
+            ->parse($this->{$field});
+    }
+
+    public function getFoundedDatePartsAttribute(): array
+    {
+        return $this->getDateParts('founded_at');
+    }
+
+    public function getDestroyedDatePartsAttribute(): array
+    {
+        return $this->getDateParts('destroyed_at');
     }
 }

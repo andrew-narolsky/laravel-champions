@@ -6,11 +6,15 @@ export default defineConfig({
     plugins: [
         laravel({
             input: [
-                'resources/assets/vendors/mdi/css/materialdesignicons.min.css',
-                'resources/assets/css/custom.css',
-                'resources/assets/css/styles.css',
-                'resources/assets/js/app.js',
-                'resources/assets/js/utils/text-editor.js',
+                // Admin
+                'resources/assets/admin/vendors/mdi/css/materialdesignicons.min.css',
+                'resources/assets/admin/css/custom.css',
+                'resources/assets/admin/css/styles.css',
+                'resources/assets/admin/js/app.js',
+                'resources/assets/admin/js/utils/text-editor.js',
+                // Frontend
+                'resources/assets/front/css/styles.css',
+                'resources/assets/front/js/scripts.js',
             ],
             refresh: true,
         }),
@@ -21,7 +25,11 @@ export default defineConfig({
                     dest: '',
                 },
                 {
-                    src: 'resources/assets/fonts',
+                    src: 'resources/assets/favicon',
+                    dest: '',
+                },
+                {
+                    src: 'resources/assets/admin/fonts',
                     dest: '',
                 }
             ]

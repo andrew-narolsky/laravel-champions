@@ -19,4 +19,17 @@ class ClubName extends Model
     {
         return $this->belongsTo(Club::class);
     }
+
+    public function getPeriodAttribute(): string
+    {
+        if ($this->from_year && $this->to_year) {
+            return "{$this->from_year} — {$this->to_year}";
+        }
+
+        if ($this->from_year) {
+            return "{$this->from_year} — present";
+        }
+
+        return '—';
+    }
 }

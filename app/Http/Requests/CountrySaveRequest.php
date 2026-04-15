@@ -34,6 +34,11 @@ class CountrySaveRequest extends FormRequest
                 'nullable',
                 'max:255'
             ],
+            'flag_code' => [
+                'string',
+                'nullable',
+                'max:255'
+            ],
             'content' => [
                 'string',
                 'nullable'
