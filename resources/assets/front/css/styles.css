@@ -615,6 +615,10 @@ a {
     opacity: 0.8;
 }
 
+.tc-icon img {
+    object-fit: contain;
+}
+
 .tc-icon svg {
     width: 56px;
     height: 56px;
