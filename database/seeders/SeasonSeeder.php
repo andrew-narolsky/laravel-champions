@@ -10,37 +10,56 @@ class SeasonSeeder extends Seeder
 {
     public function run(): void
     {
-        $seasons = json_decode(
-            file_get_contents(database_path('data/seasons.json')),
-            true
-        );
+        $path = database_path('data/seasons');
+        $files = glob($path . '/*.json');
 
         $allClubNames = [];
-        foreach ($seasons as $data) {
-            foreach ($data['result']['places'] ?? [] as $clubNames) {
-                foreach ($clubNames as $clubName) {
-                    $allClubNames[] = $clubName;
+        $seasonsData = [];
+
+        // 🔹 Спочатку читаємо ВСІ файли
+        foreach ($files as $file) {
+            $data = json_decode(file_get_contents($file), true);
+
+            foreach ($data as $season) {
+                $seasonsData[] = $season;
+
+                foreach ($season['result']['places'] ?? [] as $clubNames) {
+                    foreach ($clubNames as $clubName) {
+                        $allClubNames[] = $clubName;
+                    }
                 }
             }
         }
 
+        // 🔹 Отримуємо всі клуби одним запитом
         $clubs = Club::whereIn('name', array_unique($allClubNames))
             ->get()
             ->keyBy('name');
 
-        foreach ($seasons as $data) {
-            $season = Season::create([
-                'name'           => $data['name'],
-                'competition_id' => $data['competition_id'],
-            ]);
+        foreach ($seasonsData as $data) {
+            // 🔥 щоб не було дублювання
+            $season = Season::updateOrCreate(
+                [
+                    'name' => $data['name'],
+                    'competition_id' => $data['competition_id'],
+                ],
+                [] // якщо нема додаткових полів
+            );
 
             if (empty($data['result'])) {
                 continue;
             }
 
-            $result = $season->result()->create([
-                'score' => $data['result']['score'] ?? null,
-            ]);
+            // 🔥 result теж краще updateOrCreate
+            $result = $season->result()->updateOrCreate(
+                [],
+                [
+                    'score' => $data['result']['score'] ?? null,
+                ]
+            );
+
+            // 🔥 очищаємо pivot перед новим записом
+            $result->clubs()->detach();
 
             foreach ($data['result']['places'] ?? [] as $place => $clubNames) {
                 foreach ($clubNames as $order => $clubName) {
