@@ -34,7 +34,7 @@
                         <span class="v3-value" data-target="{{ $countriesCount }}" data-suffix="">0</span>
                     </div>
                     <div class="v3-icon">
-                        <img src="{{ asset('build/images/icons/countries.svg') }}" width="56" height="56" alt="Countries" loading="lazy">
+                        <img src="{{ asset('build/images/icons/countries.svg') }}" width="64" height="64" alt="Countries" loading="lazy">
                     </div>
                 </div>
 
@@ -44,7 +44,7 @@
                         <span class="v3-value" data-target="{{ $competitionsCount }}" data-suffix="">0</span>
                     </div>
                     <div class="v3-icon">
-                        <img src="{{ asset('build/images/icons/tournaments.svg') }}" width="56" height="56" alt="Tournaments" loading="lazy">
+                        <img src="{{ asset('build/images/icons/tournaments.svg') }}" width="64" height="64" alt="Tournaments" loading="lazy">
                     </div>
                 </div>
 
@@ -54,7 +54,7 @@
                         <span class="v3-value" data-target="{{ $clubsCount }}" data-suffix="0+">0+</span>
                     </div>
                     <div class="v3-icon">
-                        <img src="{{ asset('build/images/icons/clubs.svg') }}" width="56" height="56" alt="Clubs" loading="lazy">
+                        <img src="{{ asset('build/images/icons/clubs.svg') }}" width="64" height="64" alt="Clubs" loading="lazy">
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@
                         <span class="v3-value" data-target="{{ $seasonsCount }}" data-suffix="0+">0+</span>
                     </div>
                     <div class="v3-icon">
-                        <img src="{{ asset('build/images/icons/seasons.svg') }}" width="56" height="56" alt="Seasons" loading="lazy">
+                        <img src="{{ asset('build/images/icons/seasons.svg') }}" width="64" height="64" alt="Seasons" loading="lazy">
                     </div>
                 </div>
 

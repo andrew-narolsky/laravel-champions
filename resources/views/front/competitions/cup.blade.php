@@ -45,9 +45,13 @@
 
                 <div class="last-champ-card">
                     @isset($competition->attachment)
-                        <img src="{{ $competition->attachment->getFileUrl() }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        <div class="tc-icon">
+                            <img src="{{ $competition->attachment->getFileUrl() }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        </div>
                     @else
-                        <img src="{{ asset('/build/images/tournaments/cup.svg') }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        <div class="tc-icon">
+                            <img src="{{ asset('/build/images/tournaments/cup.svg') }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        </div>
                     @endisset
                     <div class="lc-info">
                         <div class="lc-season">Total Seasons</div>

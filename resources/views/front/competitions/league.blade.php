@@ -45,9 +45,13 @@
 
                 <div class="last-champ-card">
                     @isset($competition->attachment)
-                        <img src="{{ $competition->attachment->getFileUrl() }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        <div class="tc-icon">
+                            <img src="{{ $competition->attachment->getFileUrl() }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        </div>
                     @else
-                        <img src="{{ asset('/build/images/tournaments/championship.svg') }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        <div class="tc-icon">
+                            <img src="{{ asset('/build/images/tournaments/championship.svg') }}" class="lc-logo" alt="{{ $competition->name }}" loading="lazy">
+                        </div>
                     @endisset
                     <div class="lc-info">
                         <div class="lc-season">Total Seasons</div>
@@ -127,11 +131,10 @@
                     <tbody>
                     @foreach($seasons as $season)
                         @php
-                            $champion = $season->result?->champions?->first();
-                            $runnerUp = $season->result?->runnerUps?->first();
-                            $third = $season->result?->thirdPlaces?->first();
+                            $champions = $season->result?->champions?->pluck('name')->join(', ');
+                            $runnerUps = $season->result?->runnerUps?->pluck('name')->join(', ');
+                            $thirdPlaces = $season->result?->thirdPlaces?->pluck('name')->join(', ');
 
-                            // decade (2024 → 2020)
                             preg_match('/\d{4}/', $season->name, $matches);
                             $year = $matches[0] ?? null;
                             $decade = $year ? floor($year / 10) * 10 : null;
@@ -142,35 +145,23 @@
 
                             {{-- Champion --}}
                             <td class="place-1">
-                                @if($champion)
-                                    <div class="flex items-center gap-2">
-                                        {{ $champion->name }}
-                                    </div>
-                                @else
-                                    —
-                                @endif
+                                <div class="flex items-center gap-2">
+                                    {{ $champions ?: '—' }}
+                                </div>
                             </td>
 
                             {{-- Runner-up --}}
                             <td>
-                                @if($runnerUp)
-                                    <div class="flex items-center gap-2">
-                                        {{ $runnerUp->name }}
-                                    </div>
-                                @else
-                                    —
-                                @endif
+                                <div class="flex items-center gap-2">
+                                    {{ $runnerUps ?: '—' }}
+                                </div>
                             </td>
 
                             {{-- Third place --}}
                             <td>
-                                @if($third)
-                                    <div class="flex items-center gap-2">
-                                        {{ $third->name }}
-                                    </div>
-                                @else
-                                    —
-                                @endif
+                                <div class="flex items-center gap-2">
+                                    {{ $thirdPlaces ?: '—' }}
+                                </div>
                             </td>
                         </tr>
                     @endforeach

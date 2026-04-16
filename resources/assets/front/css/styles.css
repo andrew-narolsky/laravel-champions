@@ -609,12 +609,18 @@ a {
 
 .tc-icon {
     flex-shrink: 0;
-    width: 56px;
-    height: 56px;
+    width: 64px;
+    height: 65px;
     color: var(--accent);
     background: var(--text);
     padding: 5px;
     border-radius: 5px;
+}
+
+.last-champ-card .tc-icon {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
 }
 
 .tc-icon img {
@@ -1064,8 +1070,8 @@ a.trophy-name:hover {
 }
 
 .lc-logo {
-    width: 72px;
-    height: 72px;
+    width: 80px;
+    height: 80px;
     object-fit: contain;
     flex-shrink: 0;
 }
