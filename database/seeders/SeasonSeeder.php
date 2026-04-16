@@ -16,7 +16,6 @@ class SeasonSeeder extends Seeder
         $allClubNames = [];
         $seasonsData = [];
 
-        // 🔹 Спочатку читаємо ВСІ файли
         foreach ($files as $file) {
             $data = json_decode(file_get_contents($file), true);
 
@@ -31,26 +30,23 @@ class SeasonSeeder extends Seeder
             }
         }
 
-        // 🔹 Отримуємо всі клуби одним запитом
         $clubs = Club::whereIn('name', array_unique($allClubNames))
             ->get()
             ->keyBy('name');
 
         foreach ($seasonsData as $data) {
-            // 🔥 щоб не було дублювання
             $season = Season::updateOrCreate(
                 [
                     'name' => $data['name'],
                     'competition_id' => $data['competition_id'],
                 ],
-                [] // якщо нема додаткових полів
+                []
             );
 
             if (empty($data['result'])) {
                 continue;
             }
 
-            // 🔥 result теж краще updateOrCreate
             $result = $season->result()->updateOrCreate(
                 [],
                 [
@@ -58,7 +54,6 @@ class SeasonSeeder extends Seeder
                 ]
             );
 
-            // 🔥 очищаємо pivot перед новим записом
             $result->clubs()->detach();
 
             foreach ($data['result']['places'] ?? [] as $place => $clubNames) {

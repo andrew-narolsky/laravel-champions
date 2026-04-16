@@ -45,7 +45,11 @@
 
                 <!-- Logo block (wide) -->
                 <div class="last-champ-card" style="padding: 10px 24px;">
-                    <img src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" class="lc-logo" style="width:100px;height:100px;">
+                    @if($club->attachment)
+                        <img src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" class="lc-logo" style="width:100px;height:100px;">
+                    @else
+                        <img src="{{ asset('build/images/shield.svg') }}" alt="{{ $club->name }}" class="lc-logo" style="width:100px;height:100px;">
+                    @endif
                     <div class="lc-info">
                         <div class="lc-season">Club</div>
                         <div class="lc-name">{{ $club->name }}</div>
