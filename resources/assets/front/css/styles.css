@@ -1350,7 +1350,6 @@ a.trophy-name:hover {
 .alltime-table .row-wins .years {
     color: #ccc;
     font-size: 13px;
-    white-space: nowrap;
 }
 
 /* runner-up row */
@@ -1379,7 +1378,6 @@ a.trophy-name:hover {
 
 .alltime-table .row-ru .years {
     font-size: 13px;
-    white-space: nowrap;
 }
 
 /* highlight first club */
@@ -1456,7 +1454,6 @@ a.trophy-name:hover {
 
 .alltime-table .row-2nd .years {
     font-size: 13px;
-    white-space: nowrap;
 }
 
 .alltime-table .row-3rd td {
@@ -1484,7 +1481,6 @@ a.trophy-name:hover {
 
 .alltime-table .row-3rd .years {
     font-size: 13px;
-    white-space: nowrap;
 }
 
 .alltime-table .no-medal::before {
