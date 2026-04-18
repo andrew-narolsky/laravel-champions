@@ -9,13 +9,22 @@ use App\Models\Country;
 use Illuminate\Contracts\View\View;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
 
 class ClubController extends Controller
 {
-    public function index(): View
+    public function index(Request $request): View
     {
-        $clubs = Club::paginate(Club::PAGINATION_LIMIT);
-        return view('admin.pages.clubs.index', compact('clubs'));
+        $countries = Country::orderBy('name')->pluck('name', 'id');
+
+        $clubs = Club::query()
+            ->with('country')
+            ->when($request->filled('country_id'), fn($q) => $q->where('country_id', $request->country_id))
+            ->when($request->filled('search'), fn($q) => $q->where('name', 'like', '%' . $request->search . '%'))
+            ->orderBy('name')
+            ->paginate(Club::PAGINATION_LIMIT);
+
+        return view('admin.pages.clubs.index', compact('clubs', 'countries'));
     }
 
     public function create(): View
