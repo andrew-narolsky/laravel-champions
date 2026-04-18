@@ -51,7 +51,7 @@
                 <div class="v3-item">
                     <div class="v3-text">
                         <span class="v3-label">Clubs</span>
-                        <span class="v3-value" data-target="{{ $clubsCount }}" data-suffix="0+">0+</span>
+                        <span class="v3-value" data-target="{{ $clubsCount }}" data-suffix="+">+</span>
                     </div>
                     <div class="v3-icon">
                         <img src="{{ asset('build/images/icons/clubs.svg') }}" width="64" height="64" alt="Clubs" loading="lazy">
@@ -61,7 +61,7 @@
                 <div class="v3-item">
                     <div class="v3-text">
                         <span class="v3-label">Seasons</span>
-                        <span class="v3-value" data-target="{{ $seasonsCount }}" data-suffix="0+">0+</span>
+                        <span class="v3-value" data-target="{{ $seasonsCount }}" data-suffix="+">+</span>
                     </div>
                     <div class="v3-icon">
                         <img src="{{ asset('build/images/icons/seasons.svg') }}" width="64" height="64" alt="Seasons" loading="lazy">

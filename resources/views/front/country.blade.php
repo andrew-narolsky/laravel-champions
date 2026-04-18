@@ -125,10 +125,14 @@
                                 <tr>
                                     <td>{{ $season->name }}</td>
                                     <td class="club-name">
-                                        <a href="{{ route('club.show', $champion) }}" class="cl-az-item">
-                                            <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->name }}" loading="lazy">
-                                            {{ $champion?->name ?? '—' }}
-                                        </a>
+                                        @if($champion)
+                                            <a href="{{ route('club.show', $champion) }}" class="cl-az-item">
+                                                <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->name }}" loading="lazy">
+                                                {{ $champion->name }}
+                                            </a>
+                                        @else
+                                            {{ '—' }}
+                                        @endif
                                     </td>
                                 </tr>
                             @endforeach
