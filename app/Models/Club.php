@@ -75,7 +75,7 @@ class Club extends Model
 
     public function getNormalizedNameAttribute(): string
     {
-        return preg_replace('/^(1.|AC|AF|AK|ASKÖ|CE|DSV|FC|FK|KF|KS|SC|SK|SKN|SV|SpC|TSV|UE)\s+/i', '', $this->name);
+        return preg_replace('/^(1.|AC|AF|AK|ASKÖ|CE|DSV|FC|FK|KF|KS|PFK|SC|SK|SKN|SV|SpC|TSV|UE)\s+/i', '', $this->name);
     }
 
     public function getCompetitionStatsAttribute(): Collection
