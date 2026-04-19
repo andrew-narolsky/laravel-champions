@@ -10,6 +10,8 @@ class SeasonSeeder extends Seeder
 {
     public function run(): void
     {
+        $disallowedCountries = config('countries', []);
+
         $path = database_path('data/seasons');
         $files = glob($path . '/*.json');
 
@@ -17,6 +19,13 @@ class SeasonSeeder extends Seeder
         $seasonsData = [];
 
         foreach ($files as $file) {
+            
+            $countrySlug = basename($file, '.json');
+
+            if (in_array($countrySlug, $disallowedCountries)) {
+                continue;
+            }
+
             $data = json_decode(file_get_contents($file), true);
 
             foreach ($data as $season) {
@@ -58,6 +67,7 @@ class SeasonSeeder extends Seeder
 
             foreach ($data['result']['places'] ?? [] as $place => $clubNames) {
                 foreach ($clubNames as $order => $clubName) {
+
                     $club = $clubs->get($clubName);
 
                     if ($club) {

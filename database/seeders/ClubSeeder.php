@@ -13,32 +13,49 @@ class ClubSeeder extends Seeder
 {
     public function run(): void
     {
+        $disallowedCountries = config('countries', []);
+
         $path = database_path('data/clubs');
         $files = glob($path . '/*.json');
 
         $destPath = 'uploads/clubs';
         Storage::disk('public')->makeDirectory($destPath);
 
-        $countries = Country::all()->keyBy('id');
+        $countries = Country::whereNotIn('slug', $disallowedCountries)
+            ->get()
+            ->keyBy('slug');
 
         foreach ($files as $file) {
+
+            $countrySlug = basename($file, '.json');
+
+            $country = $countries->get($countrySlug);
+            if (!$country) {
+                continue;
+            }
+
             $clubs = json_decode(file_get_contents($file), true);
 
+            if (empty($clubs)) {
+                continue;
+            }
+
             foreach ($clubs as $club) {
+
                 $slug = Str::slug($club['name']);
 
                 $created = Club::updateOrCreate(
                     ['slug' => $slug],
                     [
                         'name'          => $club['name'],
-                        'country_id'    => $club['country_id'],
-                        'nickname'      => $club['nickname'],
-                        'description'   => $club['description'],
-                        'content'       => $club['content'],
-                        'founded_at'    => $club['founded_at'],
+                        'country_id'    => $country->id,
+                        'nickname'      => $club['nickname'] ?? null,
+                        'description'   => $club['description'] ?? null,
+                        'content'       => $club['content'] ?? null,
+                        'founded_at'    => $club['founded_at'] ?? null,
                         'destroyed_at'  => $club['destroyed_at'] ?: null,
-                        'stadium'       => $club['stadium'],
-                        'city'          => $club['city'],
+                        'stadium'       => $club['stadium'] ?? null,
+                        'city'          => $club['city'] ?? null,
                     ]
                 );
 
@@ -47,37 +64,32 @@ class ClubSeeder extends Seeder
                     $created->names()->createMany($club['names']);
                 }
 
-                $country = $countries->get($club['country_id']);
-                $countrySlug = $country?->slug;
+                $srcFile = database_path("data/images/clubs/{$countrySlug}/{$slug}.webp");
 
-                if (!$countrySlug) {
+                if (!file_exists($srcFile)) {
                     continue;
                 }
 
-                $srcFile = database_path("data/images/clubs/{$countrySlug}/{$slug}.webp");
+                $filename = "{$slug}.webp";
 
-                if (file_exists($srcFile)) {
-                    $filename = "{$slug}.webp";
+                Storage::disk('public')->put(
+                    "{$destPath}/{$filename}",
+                    fopen($srcFile, 'r')
+                );
 
-                    Storage::disk('public')->put(
-                        "{$destPath}/{$filename}",
-                        file_get_contents($srcFile)
-                    );
-
-                    Attachment::updateOrCreate(
-                        [
-                            'module'    => 'clubs',
-                            'module_id' => $created->id,
-                        ],
-                        [
-                            'filename'  => $filename,
-                            'path'      => $destPath,
-                            'ext'       => 'webp',
-                            'type'      => 'image',
-                            'size'      => filesize($srcFile),
-                        ]
-                    );
-                }
+                Attachment::updateOrCreate(
+                    [
+                        'module'    => 'clubs',
+                        'module_id' => $created->id,
+                    ],
+                    [
+                        'filename'  => $filename,
+                        'path'      => $destPath,
+                        'ext'       => 'webp',
+                        'type'      => 'image',
+                        'size'      => filesize($srcFile),
+                    ]
+                );
             }
         }
     }
