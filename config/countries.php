@@ -10,4 +10,5 @@ return [
     'belgium',
     'bosnia-and-herzegovina',
     'bulgaria',
+    'croatia',
 ];
