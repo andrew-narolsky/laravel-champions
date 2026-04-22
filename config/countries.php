@@ -12,4 +12,5 @@ return [
     'bulgaria',
     'croatia',
     'czech-republic',
+    'denmark',
 ];
