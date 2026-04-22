@@ -12,7 +12,7 @@
 @section('content')
 
     <!-- HERO -->
-    <section class="hero-section hero-section--inner">
+    <section class="hero-section hero-section--inner hero-section--inner-competition">
         <div class="hero-bg" style="background-image: url({{ asset('build/images/default-banner.webp') }});"></div>
         <div class="hero-overlay"></div>
 
@@ -74,7 +74,7 @@
                     <div class="lc-info">
                         <div class="lc-season">Stadium</div>
                         <div class="lc-name">
-                            {{ $stadium }}
+                            {{ $stadium ?: '?' }}
                         </div>
                         <div class="lc-detail">
                             {{ trim($capacity) }}
@@ -101,7 +101,7 @@
                         <div class="lc-season">Founded</div>
 
                         <div class="lc-name">
-                            {{ $year ?? '—' }}
+                            {{ $year ?: '?' }}
                         </div>
 
                         @if($detail)
@@ -139,7 +139,7 @@
                             @php([$year, $detail] = $club->destroyed_date_parts)
 
                             <div class="lc-name">
-                                {{ $year ?? '—' }}
+                                {{ $year ?: '?' }}
                             </div>
 
                             @if($detail)
@@ -158,7 +158,7 @@
     <section class="seo-section">
         <div class="container">
             <h1>About {{ $club->name }}</h1>
-            {!! $club->content !!}
+            {!! $club->content ?: '<p>No information yet</p>' !!}
         </div>
     </section>
 
