@@ -205,11 +205,11 @@
                         </thead>
 
                         <tbody>
-                        @foreach($stats as $stat)
+                        @foreach($stats as $key => $stat)
 
                             {{-- CHAMPIONS --}}
                             <tr class="row-1st row-first">
-                                <td class="club-name" rowspan="3">
+                                <td class="club-name" rowspan="@if($key == 'championship') 3 @else 2 @endif">
                                     <span class="club-inner">
                                         {{ $stat['type']->label() }}
                                     </span>

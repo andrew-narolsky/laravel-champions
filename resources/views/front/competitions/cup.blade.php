@@ -133,13 +133,9 @@
                         @php
                             $result = $season->result;
 
-                            $champion = $result?->clubs
-                                ->firstWhere('pivot.place', \App\Enums\SeasonPosition::CHAMPION->value);
+                            $champions = $result->champions?->pluck('name')->join(', ');
+                            $runnerUps = $result->runnerUps?->pluck('name')->join(', ');
 
-                            $runner = $result?->clubs
-                                ->firstWhere('pivot.place', \App\Enums\SeasonPosition::RUNNER_UP->value);
-
-                            // decade для data-атрибуту
                             preg_match('/\d{4}/', $season->name, $matches);
                             $year = $matches[0] ?? null;
                             $decade = $year ? substr($year, 0, 3) . '0' : null;
@@ -151,16 +147,16 @@
 
                             {{-- Winner --}}
                             <td class="place-1">
-                                @if($champion)
-                                    {{ $champion->name }}
-                                @else
-                                    —
-                                @endif
+                                <div class="flex items-center gap-2">
+                                    {{ $champions ?: '—' }}
+                                </div>
                             </td>
 
                             {{-- Finalist --}}
                             <td>
-                                {{ $runner?->name ?? '—' }}
+                                <div class="flex items-center gap-2">
+                                    {{ $runnerUps ?: '—' }}
+                                </div>
                             </td>
 
                             {{-- Score --}}

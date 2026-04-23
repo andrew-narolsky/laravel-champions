@@ -6,6 +6,7 @@ enum CompetitionType: string
 {
     case CHAMPIONSHIP = 'championship';
     case CUP = 'cup';
+    case LEAGUE_CUP = 'league_cup';
     case SUPER_CUP = 'super_cup';
 
     public function title(): string
@@ -22,7 +23,7 @@ enum CompetitionType: string
     {
         return match ($this) {
             self::CHAMPIONSHIP => 'league',
-            self::CUP, self::SUPER_CUP => 'cup',
+            self::CUP,self::LEAGUE_CUP, self::SUPER_CUP => 'cup',
         };
     }
 }
