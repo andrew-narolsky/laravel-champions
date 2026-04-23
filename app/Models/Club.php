@@ -30,7 +30,6 @@ class Club extends Model
         'destroyed_at',
         'stadium',
         'city',
-        'address',
     ];
 
     public function names()

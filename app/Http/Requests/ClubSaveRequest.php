@@ -67,11 +67,6 @@ class ClubSaveRequest extends FormRequest
                 'string',
                 'max:255',
             ],
-            'address' => [
-                'nullable',
-                'string',
-                'max:255',
-            ],
             'names' => [
                 'nullable',
                 'array'

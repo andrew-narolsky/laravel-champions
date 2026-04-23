@@ -20,7 +20,6 @@ return new class extends Migration
             $table->string('destroyed_at')->nullable();
             $table->string('stadium')->nullable();
             $table->string('city')->nullable();
-            $table->string('address')->nullable();
             $table->timestamps();
         });
     }

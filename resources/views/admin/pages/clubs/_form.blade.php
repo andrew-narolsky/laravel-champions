@@ -135,19 +135,6 @@
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror
                     </div>
-
-                    <div class="form-group">
-                        <label for="address">Address</label>
-                        <input name="address"
-                               type="text"
-                               class="form-control @error('address') is-invalid @enderror"
-                               id="address"
-                               placeholder="Address"
-                               value="{{ old('address', $club->address ?? '') }}">
-                        @error('address')
-                        <span class="invalid-feedback" role="alert">{{ $message }}</span>
-                        @enderror
-                    </div>
                 </div>
             </div>
         </div>
