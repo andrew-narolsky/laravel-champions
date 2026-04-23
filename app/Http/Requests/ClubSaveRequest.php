@@ -30,8 +30,12 @@ class ClubSaveRequest extends FormRequest
                 'alpha_dash',
                 Rule::unique('clubs', 'slug')->ignore($this->route('club')),
             ],
-            'country_id' => [
+            'country_ids' => [
                 'required',
+                'array',
+                'min:1',
+            ],
+            'country_ids.*' => [
                 'integer',
                 'exists:countries,id',
             ],

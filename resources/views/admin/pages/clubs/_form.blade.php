@@ -33,17 +33,20 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="country_id">Country</label>
-                        <select name="country_id"
-                                id="country_id">
+                        <label for="country_ids">Countries</label>
+                        <select name="country_ids[]"
+                                id="country_ids"
+                                multiple>
+                            @php
+                                $selectedCountryIds = old('country_ids', isset($club) ? $club->countries->pluck('id')->toArray() : []);
+                            @endphp
                             @foreach ($countries as $key => $country)
-                                <option
-                                    value="{{ $key }}" @selected(old('country_id', $club->country_id ?? 0) === $key)>
+                                <option value="{{ $key }}" @selected(in_array($key, $selectedCountryIds))>
                                     {{ $country }}
                                 </option>
                             @endforeach
                         </select>
-                        @error('country_id')
+                        @error('country_ids')
                         <span class="invalid-feedback" role="alert">{{ $message }}</span>
                         @enderror
                     </div>

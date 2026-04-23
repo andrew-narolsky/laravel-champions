@@ -4,6 +4,7 @@ namespace App\Models;
 
 use App\Traits\HasAttachments;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Country extends Model
@@ -22,9 +23,9 @@ class Country extends Model
         'content',
     ];
 
-    public function clubs(): HasMany
+    public function clubs(): BelongsToMany
     {
-        return $this->hasMany(Club::class)->with('attachment');
+        return $this->belongsToMany(Club::class)->with('attachment');
     }
 
     public function competitions(): HasMany

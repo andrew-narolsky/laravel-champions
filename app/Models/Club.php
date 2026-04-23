@@ -7,7 +7,6 @@ use App\Enums\SeasonPosition;
 use App\Services\DateParserService;
 use App\Traits\HasAttachments;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Support\Collection;
 
@@ -22,7 +21,6 @@ class Club extends Model
     protected $fillable = [
         'name',
         'slug',
-        'country_id',
         'nickname',
         'description',
         'content',
@@ -37,9 +35,14 @@ class Club extends Model
         return $this->hasMany(ClubName::class)->orderBy('from_year');
     }
 
-    public function country(): BelongsTo
+    public function countries(): BelongsToMany
     {
-        return $this->belongsTo(Country::class);
+        return $this->belongsToMany(Country::class);
+    }
+
+    public function getCountryAttribute(): ?Country
+    {
+        return $this->countries->first();
     }
 
     public function results(): BelongsToMany

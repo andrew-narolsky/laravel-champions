@@ -18,8 +18,8 @@ class ClubController extends Controller
         $countries = Country::orderBy('name')->pluck('name', 'id');
 
         $clubs = Club::query()
-            ->with('country')
-            ->when($request->filled('country_id'), fn($q) => $q->where('country_id', $request->country_id))
+            ->with('countries')
+            ->when($request->filled('country_id'), fn($q) => $q->whereHas('countries', fn($q2) => $q2->where('countries.id', $request->country_id)))
             ->when($request->filled('search'), fn($q) => $q->where('name', 'like', '%' . $request->search . '%'))
             ->orderBy('name')
             ->paginate(Club::PAGINATION_LIMIT);
@@ -35,7 +35,8 @@ class ClubController extends Controller
 
     public function store(ClubSaveRequest $request): JsonResponse
     {
-        $club = Club::create($request->validated());
+        $club = Club::create($request->safe()->except(['country_ids', 'names']));
+        $club->countries()->sync($request->country_ids);
 
         if ($request->has('names')) {
             foreach ($request->names as $item) {
@@ -43,7 +44,6 @@ class ClubController extends Controller
             }
         }
 
-        $club->save();
         return response()->json(['message' => 'Club successfully created!', 'redirect' => true]);
     }
 
@@ -55,7 +55,8 @@ class ClubController extends Controller
 
     public function update(ClubSaveRequest $request, Club $club): JsonResponse
     {
-        $club->update($request->validated());
+        $club->update($request->safe()->except(['country_ids', 'names']));
+        $club->countries()->sync($request->country_ids);
         $club->names()->delete();
 
         if ($request->has('names')) {
@@ -64,7 +65,6 @@ class ClubController extends Controller
             }
         }
 
-        $club->save();
         return response()->json(['message' => 'Club successfully updated!']);
     }
 
