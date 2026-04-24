@@ -14,4 +14,6 @@ return [
 //    'czech-republic',
 //    'denmark',
 //    'england',
+//    'estonia',
+//    'faroe-islands',
 ];

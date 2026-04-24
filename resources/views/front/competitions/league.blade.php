@@ -178,7 +178,7 @@
     <!-- ALL-TIME RECORDS TABLE -->
     <section class="alltime-section alltime-section--light">
         <div class="container">
-            <h2 class="section-title">All-Time Premier League Record</h2>
+            <h2 class="section-title">All-Time table</h2>
             <div class="table-scroll">
                 <table class="alltime-table">
                     <thead>
