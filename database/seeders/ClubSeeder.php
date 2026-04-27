@@ -57,19 +57,19 @@ class ClubSeeder extends Seeder
                         'city'          => $club['city'] ?? null,
                     ]
                 );
+                
+                $extraCountryIds = $club['country_id'] ?? [];
 
-                $countrySlugs = array_unique(array_merge(
-                    [$countrySlug],
-                    $club['countries'] ?? []
+                if (!is_array($extraCountryIds)) {
+                    $extraCountryIds = [$extraCountryIds];
+                }
+
+                $countryIds = array_unique(array_merge(
+                    [$country->id],
+                    $extraCountryIds
                 ));
 
-                $countryIds = collect($countrySlugs)
-                    ->map(fn($slug) => $countries->get($slug)?->id)
-                    ->filter()
-                    ->values()
-                    ->toArray();
-
-                $created->countries()->syncWithoutDetaching($countryIds);
+                $created->countries()->sync($countryIds);
 
                 if (!empty($club['names'])) {
                     $created->names()->delete();

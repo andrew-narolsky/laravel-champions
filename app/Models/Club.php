@@ -77,7 +77,7 @@ class Club extends Model
 
     public function getNormalizedNameAttribute(): string
     {
-        return preg_replace('/^(1.|AC|AF|AJ|AK|AS|ASKÖ|CA|CE|CO|ČFK|DSV|ÉF|EF|FC|FCI|FF|FK|GNK|HNK|HŠK|IFK|JK|JS|K|KAA|KF|KRC|KS|KSC|KSK|KSV|KV|KVC|LB|Le|NK|OFC|OGC|PFC|PFK|POFC|R|RAA|RC|RCS|RNK|RSC|RFC|RE|RRC|RWD|SC|SFC|SK|SKN|SV|SpC|TSV|UE|US)\s+/i', '', $this->name);
+        return preg_replace('/^(1. FC|AC|AF|AJ|AK|AS|ASKÖ|CA|CE|CO|ČFK|DSV|ÉF|EF|FC|FCI|FF|FK|GNK|HNK|HŠK|IFK|JK|JS|K|KAA|KF|KRC|KS|KSC|KSK|KSV|KV|KVC|LB|Le|NK|OFC|OGC|PFC|PFK|POFC|R|RAA|RC|RCS|RNK|RSC|RFC|RE|RRC|RWD|SC|SFC|SK|SKN|SpC|SpVgg|SpVg|SV|TSV|TSG|VfB|VfR|UE|US)\s+/i', '', $this->name);
     }
 
     public function getCompetitionStatsAttribute(): Collection
