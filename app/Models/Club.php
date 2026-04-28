@@ -113,6 +113,12 @@ class Club extends Model
 
                         if ($countryId) {
                             $q->where('country_id', $countryId);
+                        } else {
+                            $q->where('country_id', function ($sub) {
+                                $sub->selectRaw('MIN(country_id)')
+                                    ->from('club_country')
+                                    ->whereColumn('club_id', 'clubs.id');
+                            });
                         }
                     });
             }
