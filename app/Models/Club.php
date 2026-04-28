@@ -48,9 +48,14 @@ class Club extends Model
             ->withPivot(['place', 'order']);
     }
 
-    public function getCountryAttribute()
+
+    protected function country(): Attribute
     {
-        return $this->countries->first();
+        return Attribute::make(
+            get: fn () => $this->relationLoaded('countries')
+                ? $this->countries->first()
+                : $this->countries()->first()
+        );
     }
 
     protected function normalizedName(): Attribute
