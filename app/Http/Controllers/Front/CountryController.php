@@ -15,11 +15,15 @@ class CountryController extends Controller
         $type = CompetitionType::CHAMPIONSHIP->value;
         $limit = 10;
 
+        $country->load([
+            'competitions.attachment'
+        ]);
+
         $topChampionClubs = $statsService
-            ->getTopChampions($country->id, $type, null, $limit);
+            ->getTopChampions($type, $country->id, null, $limit);
 
         $latestChampions = $statsService
-            ->getLatestChampions($country->id, $type, null, $limit);
+            ->getLatestChampions($type, $country->id, null, $limit);
 
         return view('front.country', compact('country', 'topChampionClubs', 'latestChampions'));
     }

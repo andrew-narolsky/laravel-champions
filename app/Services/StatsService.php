@@ -18,17 +18,21 @@ class StatsService
 
     public function get(): array
     {
-        return Cache::rememberForever('home.stats', function () {
-            return [
-                'countriesCount' => Country::count(),
-                'clubsCount' => Club::count(),
-                'competitionsCount' => Competition::count(),
-                'seasonsCount' => Season::count(),
-                'topChampionClubs' => $this->getTopChampions(null, CompetitionType::CHAMPIONSHIP->value),
-                'topCupClubs' => $this->getTopChampions(null, CompetitionType::CUP->value),
-                'countries' => $this->getCountries(),
-            ];
-        });
+        $data = fn () => [
+            'countriesCount' => Country::count(),
+            'clubsCount' => Club::count(),
+            'competitionsCount' => Competition::count(),
+            'seasonsCount' => Season::count(),
+            'topChampionClubs' => $this->getTopChampions(CompetitionType::CHAMPIONSHIP->value),
+            'topCupClubs' => $this->getTopChampions(CompetitionType::CUP->value),
+            'countries' => $this->getCountries(),
+        ];
+
+        if (!config('app.cache_home_stats')) {
+            return $data();
+        }
+
+        return Cache::rememberForever('home.stats', $data);
     }
 
     public function clear(): void
@@ -37,8 +41,8 @@ class StatsService
     }
 
     public function getTopChampions(
-        ?int $countryId = null,
         ?string $type = null,
+        ?int $countryId = null,
         ?int $competitionId = null,
         ?int $limit = null
     ): Collection {
@@ -52,15 +56,15 @@ class StatsService
                 'countries:id,name',
                 'attachment'
             ])
-            ->withTrophiesCount($type, 'titles', $competitionId)
+            ->withTrophiesCount($type, 'titles', $competitionId, $countryId)
             ->orderByDesc('titles')
             ->limit($limit)
             ->get();
     }
 
     public function getLatestChampions(
-        ?int $countryId = null,
         ?string $type = null,
+        ?int $countryId = null,
         ?int $competitionId = null,
         ?int $limit = null
     ): Collection {
@@ -169,5 +173,51 @@ class StatsService
                 $c['third']['count'],
             ])
             ->values();
+    }
+
+    public function buildCompetitionStats(Club $club): Collection
+    {
+        return $club->results
+            ->groupBy(fn($r) => optional($r->season->competition->country)->name ?? 'Unknown')
+            ->map(function ($countryResults) {
+
+                return $countryResults
+                    ->groupBy(fn($r) => $r->season->competition->type->value)
+                    ->map(function ($results, $type) {
+
+                        $grouped = $results->groupBy(fn($r) => $r->pivot->place);
+
+                        $get = function ($place) use ($grouped) {
+                            if (!$grouped->has($place)) {
+                                return null;
+                            }
+
+                            $items = $grouped->get($place);
+
+                            return [
+                                'count' => $items->count(),
+                                'years' => $items
+                                    ->pluck('season.name')
+                                    ->implode(' · ')
+                            ];
+                        };
+
+                        $data = [
+                            'type' => CompetitionType::from($type),
+                            'champions' => $get(SeasonPosition::CHAMPION->value),
+                        ];
+
+                        if ($runnerups = $get(SeasonPosition::RUNNER_UP->value)) {
+                            $data['runnerups'] = $runnerups;
+                        }
+
+                        if ($third = $get(SeasonPosition::THIRD_PLACE->value)) {
+                            $data['third'] = $third;
+                        }
+
+                        return $data;
+                    })
+                    ->values();
+            });
     }
 }

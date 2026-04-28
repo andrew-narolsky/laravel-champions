@@ -11,7 +11,7 @@ class ClubController extends Controller
     public function index(Club $club): View
     {
         $club->load([
-            'results.season.competition:id,name,type'
+            'results.season.competition.country:id,name'
         ]);
         $stats = $club->competition_stats;
 

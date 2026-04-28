@@ -28,11 +28,11 @@ class CompetitionController extends Controller
         $allTime = $statsService->getCompetitionAllTimeTable($competition);
 
         $topCupClub = $statsService
-            ->getTopChampions($competition->country->id, $type, $competition->id, 1)
+            ->getTopChampions($type, $competition->country->id, $competition->id, 1)
             ->first();
 
         $latestChampion = $statsService
-            ->getLatestChampions($competition->country->id, $type, $competition->id, 1)
+            ->getLatestChampions($type, $competition->country->id, $competition->id, 1)
             ->first();
 
         return view('front.competition', compact(

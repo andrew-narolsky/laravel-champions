@@ -97,7 +97,11 @@
                                         </td>
                                         <td class="club-name">
                                             <a href="{{ route('club.show', $club) }}" class="cl-az-item">
-                                                <img class="cl-flag" src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" loading="lazy">
+                                                @if($club->attachment?->getFileUrl())
+                                                    <img class="cl-flag" src="{{ $club->attachment?->getFileUrl() }}" alt="{{ $club->name }}" loading="lazy">
+                                                @else
+                                                    <span class="cl-flag">⚽</span>
+                                                @endif
                                                 {{ $club->name }}
                                             </a>
                                         </td>
@@ -127,7 +131,11 @@
                                     <td class="club-name">
                                         @if($champion)
                                             <a href="{{ route('club.show', $champion) }}" class="cl-az-item">
-                                                <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->name }}" loading="lazy">
+                                                @if($champion->attachment?->getFileUrl())
+                                                    <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->name }}" loading="lazy">
+                                                @else
+                                                    <span class="cl-flag">⚽</span>
+                                                @endif
                                                 {{ $champion->name }}
                                             </a>
                                         @else

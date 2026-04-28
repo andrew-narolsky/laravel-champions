@@ -2,13 +2,13 @@
 
 namespace App\Models;
 
-use App\Enums\CompetitionType;
 use App\Enums\SeasonPosition;
 use App\Services\DateParserService;
+use App\Services\StatsService;
 use App\Traits\HasAttachments;
+use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
-use Illuminate\Support\Collection;
 
 class Club extends Model
 {
@@ -17,6 +17,8 @@ class Club extends Model
     const string MODULE_NAME = 'clubs';
 
     const int PAGINATION_LIMIT = 20;
+
+    private const string NAME_PREFIX_REGEX = '/^(1\. FC|AC|AF|AJ|AK|AS|ASKÖ|CA|CE|CO|ČFK|DSV|ÉF|EF|FC|FCI|FF|FK|GNK|HNK|HŠK|IFK|JK|JS|K|KAA|KF|KRC|KS|KSC|KSK|KSV|KV|KVC|LB|Le|NK|OFC|OGC|PFC|PFK|POFC|R|RAA|RC|RCS|RNK|RSC|RFC|RE|RRC|RWD|SC|SFC|SK|SKN|SpC|SpVgg|SpVg|SV|TSV|TSG|VfB|VfR|UE|US)\s+/i';
 
     protected $fillable = [
         'name',
@@ -40,28 +42,62 @@ class Club extends Model
         return $this->belongsToMany(Country::class);
     }
 
-    public function getCountryAttribute(): ?Country
-    {
-        return $this->countries->first();
-    }
-
     public function results(): BelongsToMany
     {
         return $this->belongsToMany(Result::class, 'result_clubs')
             ->withPivot(['place', 'order']);
     }
 
+    public function getCountryAttribute()
+    {
+        return $this->countries->first();
+    }
+
+    protected function normalizedName(): Attribute
+    {
+        return Attribute::make(
+            get: fn () => preg_replace(self::NAME_PREFIX_REGEX, '', $this->name)
+        );
+    }
+
+    protected function competitionStats(): Attribute
+    {
+        return Attribute::make(
+            get: fn () => app(StatsService::class)->buildCompetitionStats($this)
+        );
+    }
+
+    protected function dateParts(string $field): Attribute
+    {
+        return Attribute::make(
+            get: fn () => $this->{$field}
+                ? $this->getDateParts($field)
+                : [null, null]
+        );
+    }
+
+    protected function foundedDateParts(): Attribute
+    {
+        return $this->dateParts('founded_at');
+    }
+
+    protected function destroyedDateParts(): Attribute
+    {
+        return $this->dateParts('destroyed_at');
+    }
+
     public function scopeWithTrophiesCount(
         $query,
         string $type,
         string $alias = 'trophies_count',
-        ?int $competitionId = null
+        ?int $competitionId = null,
+        ?int $countryId = null
     ) {
         return $query->withCount([
-            'results as ' . $alias => function ($q) use ($type, $competitionId) {
+            'results as ' . $alias => function ($q) use ($type, $competitionId, $countryId) {
 
                 $q->where('result_clubs.place', SeasonPosition::CHAMPION->value)
-                    ->whereHas('season.competition', function ($q) use ($type, $competitionId) {
+                    ->whereHas('season.competition', function ($q) use ($type, $competitionId, $countryId) {
 
                         if ($competitionId) {
                             $q->where('id', $competitionId);
@@ -69,64 +105,18 @@ class Club extends Model
                         }
 
                         $q->where('type', $type);
+
+                        if ($countryId) {
+                            $q->where('country_id', $countryId);
+                        }
                     });
             }
         ]);
-    }
-
-
-    public function getNormalizedNameAttribute(): string
-    {
-        return preg_replace('/^(1. FC|AC|AF|AJ|AK|AS|ASKÖ|CA|CE|CO|ČFK|DSV|ÉF|EF|FC|FCI|FF|FK|GNK|HNK|HŠK|IFK|JK|JS|K|KAA|KF|KRC|KS|KSC|KSK|KSV|KV|KVC|LB|Le|NK|OFC|OGC|PFC|PFK|POFC|R|RAA|RC|RCS|RNK|RSC|RFC|RE|RRC|RWD|SC|SFC|SK|SKN|SpC|SpVgg|SpVg|SV|TSV|TSG|VfB|VfR|UE|US)\s+/i', '', $this->name);
-    }
-
-    public function getCompetitionStatsAttribute(): Collection
-    {
-        return $this->results
-            ->groupBy(fn($r) => $r->season->competition->type->value)
-            ->map(function ($results, $type) {
-
-                $grouped = $results->groupBy(fn($r) => $r->pivot->place);
-
-                $get = fn($place) => $grouped->has($place)
-                    ? [
-                        'count' => $grouped->get($place)->count(),
-                        'years' => $grouped->get($place)
-                            ->pluck('season.name')
-                            ->implode(' · ')
-                    ]
-                    : null;
-
-                $data = [
-                    'type' => CompetitionType::from($type),
-                    'champions' => $get(SeasonPosition::CHAMPION->value),
-                ];
-
-                if ($runnerups = $get(SeasonPosition::RUNNER_UP->value)) {
-                    $data['runnerups'] = $runnerups;
-                }
-
-                if ($third = $get(SeasonPosition::THIRD_PLACE->value)) {
-                    $data['third'] = $third;
-                }
-
-                return $data;
-            });
     }
 
     public function getDateParts(string $field): array
     {
         return app(DateParserService::class)
             ->parse($this->{$field});
-    }
-
-    public function getFoundedDatePartsAttribute(): array
-    {
-        return $this->getDateParts('founded_at');
-    }
-
-    public function getDestroyedDatePartsAttribute(): array
-    {
-        return $this->getDateParts('destroyed_at');
     }
 }

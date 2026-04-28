@@ -1266,6 +1266,13 @@ a.trophy-name:hover {
     margin-bottom: 20px;
 }
 
+.alltime-section .table-title {
+    margin-bottom: 15px;
+    padding-left: 12px;
+    color: var(--accent);
+    text-decoration: underline;
+}
+
 .alltime-table {
     width: 100%;
     border-collapse: collapse;
@@ -1805,7 +1812,13 @@ a.trophy-name:hover {
         grid-template-columns: 1fr;
     }
 
+    .alltime-table .club-name {
+        width: 100px;
+    }
 
+    .alltime-table {
+        min-width: 700px;
+    }
 }
 
 @media (max-width: 600px) {

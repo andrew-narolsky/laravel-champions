@@ -134,9 +134,11 @@
                         </svg>
 
                         <div class="lc-info">
-                            <div class="lc-season">Destroyed</div>
+                            <div class="lc-season">Dissolved</div>
 
-                            @php([$year, $detail] = $club->destroyed_date_parts)
+                            @php
+                                [$year, $detail] = $club->destroyed_date_parts ?? [null, null];
+                            @endphp
 
                             <div class="lc-name">
                                 {{ $year ?: '?' }}
@@ -193,66 +195,92 @@
         <section class="alltime-section @if($club->names->count()) alltime-section--light @endif">
             <div class="container">
                 <h2 class="section-title">Trophies & Finals</h2>
-                <div class="table-scroll">
 
-                    <table class="alltime-table">
-                        <thead>
-                        <tr>
-                            <th>Tournament</th>
-                            <th>Count</th>
-                            <th>Years</th>
-                        </tr>
-                        </thead>
+                @foreach($stats as $countryName => $countryStats)
+                    <h3 class="table-title">{{ $countryName }}</h3>
 
-                        <tbody>
-                        @foreach($stats as $key => $stat)
-
-                            {{-- CHAMPIONS --}}
-                            <tr class="row-1st row-first">
-                                <td class="club-name" rowspan="@if($key == 'championship') 3 @else 2 @endif">
-                                    <span class="club-inner">
-                                        {{ $stat['type']->label() }}
-                                    </span>
-                                </td>
-
-                                <td class="titles">
-                                    {{ isset($stat['champions']) ? $stat['champions']['count'] : 0 }}
-                                </td>
-
-                                <td class="years">
-                                    {{ isset($stat['champions']) ? $stat['champions']['years'] : '—' }}
-                                </td>
+                    <div class="table-scroll">
+                        <table class="alltime-table">
+                            <thead>
+                            <tr>
+                                <th>Tournament</th>
+                                <th>Count</th>
+                                <th>Years</th>
                             </tr>
+                            </thead>
 
-                            {{-- RUNNER-UP --}}
-                            <tr class="row-2nd">
-                                <td class="runnerup">
-                                    {{ isset($stat['runnerups']) ? $stat['runnerups']['count'] : 0 }}
-                                </td>
+                            <tbody>
+                            @foreach($countryStats as $stat)
 
-                                <td class="years">
-                                    {{ isset($stat['runnerups']) ? $stat['runnerups']['years'] : '—' }}
-                                </td>
-                            </tr>
+                                @php
+                                    $rows = [
+                                        'champions' => $stat['champions'] ?? null,
+                                        'runnerups' => $stat['runnerups'] ?? null,
+                                        'third' => $stat['third'] ?? null,
+                                    ];
 
-                            @if($stat['third'] ?? false)
-                                {{-- THIRD --}}
-                                <tr class="row-3rd">
-                                    <td class="third">
-                                        {{ $stat['third']['count'] }}
-                                    </td>
+                                    $rows = array_filter($rows);
+                                    $rowspan = count($rows);
+                                    $first = true;
+                                @endphp
 
-                                    <td class="years">
-                                        {{ $stat['third']['years'] ?: '—' }}
-                                    </td>
-                                </tr>
-                            @endif
+                                @foreach($rows as $type => $row)
 
-                        @endforeach
-                        </tbody>
-                    </table>
+                                    @php
+                                        $trClass = '';
 
-                </div>
+                                        if ($loop->first) {
+                                            $trClass .= 'row-1st row-first ';
+                                        }
+
+                                        if ($type === 'runnerups') {
+                                            $trClass .= 'row-2nd ';
+                                        }
+
+                                        if ($type === 'third') {
+                                            $trClass .= 'row-3rd ';
+                                        }
+
+                                        $tdClass = '';
+
+                                        if ($type === 'champions') {
+                                            $tdClass = 'titles';
+                                        } elseif ($type === 'runnerups') {
+                                            $tdClass = 'runnerup';
+                                        } elseif ($type === 'third') {
+                                            $tdClass = 'third';
+                                        }
+                                    @endphp
+
+                                    <tr class="{{ trim($trClass) }}">
+
+                                        @if($first)
+                                            <td class="club-name" rowspan="{{ $rowspan }}">
+                                            <span class="club-inner">
+                                                {{ $stat['type']->label() }}
+                                            </span>
+                                            </td>
+                                            @php $first = false; @endphp
+                                        @endif
+
+                                        <td class="{{ $tdClass }}">
+                                            {{ $row['count'] ?? 0 }}
+                                        </td>
+
+                                        <td class="years">
+                                            {{ $row['years'] ?? '—' }}
+                                        </td>
+                                    </tr>
+
+                                @endforeach
+
+                            @endforeach
+                            </tbody>
+                        </table>
+                    </div>
+
+                @endforeach
+
             </div>
         </section>
     @endif
