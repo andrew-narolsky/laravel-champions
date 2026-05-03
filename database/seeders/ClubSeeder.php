@@ -47,17 +47,18 @@ class ClubSeeder extends Seeder
                 $created = Club::updateOrCreate(
                     ['slug' => $slug],
                     [
-                        'name'          => $club['name'],
-                        'nickname'      => $club['nickname'] ?? null,
-                        'description'   => $club['description'] ?? null,
-                        'content'       => $club['content'] ?? null,
-                        'founded_at'    => $club['founded_at'] ?? null,
-                        'destroyed_at'  => $club['destroyed_at'] ?: null,
-                        'stadium'       => $club['stadium'] ?? null,
-                        'city'          => $club['city'] ?? null,
+                        'name'                  => $club['name'],
+                        'nickname'              => $club['nickname'] ?? null,
+                        'description'           => $club['description'] ?? null,
+                        'content'               => $club['content'] ?? null,
+                        'founded_at'            => $club['founded_at'] ?? null,
+                        'destroyed_at'          => $club['destroyed_at'] ?: null,
+                        'stadium'               => $club['stadium'] ?? null,
+                        'city'                  => $club['city'] ?? null,
+                        'primary_country_id'    => $club['primary_country_id'] ?? null,
                     ]
                 );
-                
+
                 $extraCountryIds = $club['country_id'] ?? [];
 
                 if (!is_array($extraCountryIds)) {

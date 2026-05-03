@@ -12,7 +12,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('slug')->unique();
-            $table->foreignId('country_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('primary_country_id')->nullable()->constrained('countries')->nullOnDelete();
             $table->string('nickname')->nullable();
             $table->string('description')->nullable();
             $table->text('content')->nullable();

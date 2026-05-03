@@ -8,6 +8,7 @@ use App\Services\StatsService;
 use App\Traits\HasAttachments;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 class Club extends Model
@@ -30,6 +31,7 @@ class Club extends Model
         'destroyed_at',
         'stadium',
         'city',
+        'primary_country_id',
     ];
 
     public function names()
@@ -37,9 +39,22 @@ class Club extends Model
         return $this->hasMany(ClubName::class)->orderBy('from_year');
     }
 
+    public function primaryCountry(): BelongsTo
+    {
+        return $this->belongsTo(Country::class, 'primary_country_id');
+    }
+
     public function countries(): BelongsToMany
     {
         return $this->belongsToMany(Country::class);
+    }
+
+    protected function country(): Attribute
+    {
+        return Attribute::make(
+            get: fn () => $this->primaryCountry
+                ?? ($this->relationLoaded('countries') ? $this->countries->first() : $this->countries()->first())
+        );
     }
 
     public function results(): BelongsToMany
@@ -48,15 +63,6 @@ class Club extends Model
             ->withPivot(['place', 'order']);
     }
 
-
-    protected function country(): Attribute
-    {
-        return Attribute::make(
-            get: fn () => $this->relationLoaded('countries')
-                ? $this->countries->first()
-                : $this->countries()->first()
-        );
-    }
 
     protected function normalizedName(): Attribute
     {
@@ -72,23 +78,18 @@ class Club extends Model
         );
     }
 
-    protected function dateParts(string $field): Attribute
-    {
-        return Attribute::make(
-            get: fn () => $this->{$field}
-                ? $this->getDateParts($field)
-                : [null, null]
-        );
-    }
-
     protected function foundedDateParts(): Attribute
     {
-        return $this->dateParts('founded_at');
+        return Attribute::make(
+            get: fn () => $this->founded_at ? $this->getDateParts('founded_at') : [null, null]
+        );
     }
 
     protected function destroyedDateParts(): Attribute
     {
-        return $this->dateParts('destroyed_at');
+        return Attribute::make(
+            get: fn () => $this->destroyed_at ? $this->getDateParts('destroyed_at') : [null, null]
+        );
     }
 
     public function scopeWithTrophiesCount(

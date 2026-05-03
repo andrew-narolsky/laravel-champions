@@ -53,7 +53,7 @@ class StatsService
             ->select(['id', 'name', 'slug'])
             ->when($countryId, fn($q) => $q->whereHas('countries', fn($q2) => $q2->where('countries.id', $countryId)))
             ->with([
-                'countries:id,name',
+                'primaryCountry:id,name',
                 'attachment'
             ])
             ->withTrophiesCount($type, 'titles', $competitionId, $countryId)

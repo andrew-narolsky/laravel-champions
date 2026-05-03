@@ -98,7 +98,7 @@
                                         {{ $club->name }}
                                     </td>
                                     <td>
-                                        {{ $club->country?->name }}
+                                        {{ $club->primaryCountry?->name }}
                                     </td>
                                     <td>
                                         {{ $club->description }}

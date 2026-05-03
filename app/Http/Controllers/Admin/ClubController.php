@@ -18,7 +18,7 @@ class ClubController extends Controller
         $countries = Country::orderBy('name')->pluck('name', 'id');
 
         $clubs = Club::query()
-            ->with('countries')
+            ->with(['countries', 'primaryCountry'])
             ->when($request->filled('country_id'), fn($q) => $q->whereHas('countries', fn($q2) => $q2->where('countries.id', $request->country_id)))
             ->when($request->filled('search'), fn($q) => $q->where('name', 'like', '%' . $request->search . '%'))
             ->orderBy('name')

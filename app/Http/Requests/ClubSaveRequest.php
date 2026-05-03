@@ -39,6 +39,11 @@ class ClubSaveRequest extends FormRequest
                 'integer',
                 'exists:countries,id',
             ],
+            'primary_country_id' => [
+                'nullable',
+                'integer',
+                'exists:countries,id',
+            ],
             'nickname' => [
                 'nullable',
                 'string',

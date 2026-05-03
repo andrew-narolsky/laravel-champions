@@ -52,6 +52,23 @@
                     </div>
 
                     <div class="form-group">
+                        <label for="primary_country_id">Primary Country</label>
+                        <select name="primary_country_id"
+                                id="primary_country_id"
+                                class="form-control @error('primary_country_id') is-invalid @enderror">
+                            <option value="">— None —</option>
+                            @foreach ($countries as $key => $country)
+                                <option value="{{ $key }}" @selected(old('primary_country_id', $club->primary_country_id ?? null) == $key)>
+                                    {{ $country }}
+                                </option>
+                            @endforeach
+                        </select>
+                        @error('primary_country_id')
+                        <span class="invalid-feedback" role="alert">{{ $message }}</span>
+                        @enderror
+                    </div>
+
+                    <div class="form-group">
                         <label for="nickname">Nickname</label>
                         <input name="nickname"
                                type="text"
