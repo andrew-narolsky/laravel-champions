@@ -12,12 +12,19 @@ class CountryController extends Controller
 {
     public function index(Country $country, StatsService $statsService): View
     {
-        $type = CompetitionType::CHAMPIONSHIP->value;
         $limit = 10;
 
         $country->load([
             'competitions.attachment'
         ]);
+
+        $hasChampionship = $country->competitions
+            ->where('type', CompetitionType::CHAMPIONSHIP)
+            ->isNotEmpty();
+
+        $type = $hasChampionship
+            ? CompetitionType::CHAMPIONSHIP->value
+            : CompetitionType::CUP->value;
 
         $topChampionClubs = $statsService
             ->getTopChampions($type, $country->id, null, $limit);
