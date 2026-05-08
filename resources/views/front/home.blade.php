@@ -222,7 +222,7 @@
                                     </a>
                                 </td>
                                 <td>
-                                    {{ $club->primaryCountry?->name ?? '' }}
+                                    {{ $club->country?->name ?? '' }}
                                 </td>
                                 <td class="titles">
                                     {{ $club->titles }}
@@ -279,7 +279,7 @@
                                     </a>
                                 </td>
                                 <td>
-                                    {{ $club->primaryCountry?->name ?? '' }}
+                                    {{ $club->country?->name ?? '' }}
                                 </td>
                                 <td class="titles">
                                     {{ $club->titles }}
