@@ -50,10 +50,11 @@ class StatsService
         $type ??= CompetitionType::CHAMPIONSHIP;
 
         return Club::query()
-            ->select(['id', 'name', 'slug'])
+            ->select(['id', 'name', 'slug', 'primary_country_id'])
             ->when($countryId, fn($q) => $q->whereHas('countries', fn($q2) => $q2->where('countries.id', $countryId)))
             ->with([
                 'primaryCountry:id,name',
+                'countries:id,name',
                 'attachment'
             ])
             ->withTrophiesCount($type, 'titles', $competitionId, $countryId)
