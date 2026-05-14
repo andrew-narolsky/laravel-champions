@@ -716,8 +716,9 @@
     },
     {
         "name": "Queen's Park FC",
-        "description": "England · Founded: 1867",
-        "country_id": 14,
+        "description": "Scotland · Founded: 1867",
+        "country_id": [14, 46],
+        "primary_country_id": 46,
         "nickname": "The Spiders",
         "content": "<p>Queen’s Park FC is a Scottish football club based in Glasgow, founded in 1867 and widely recognised as the oldest association football club in Scotland. The club played a crucial role in the early development of the game, helping to shape modern football tactics, particularly by promoting a passing style of play instead of the more physical “dribble-and-kick” approach common at the time.</p><p>In its early history, Queen’s Park was one of the dominant forces in Scottish football, winning numerous Scottish Cups during the late 19th century. The club also had a major influence on international football, supplying many players to the Scotland national team and even representing Scotland in early international matches. Despite this success, Queen’s Park remained committed to amateur status for most of its history, refusing to pay players while professionalism became the norm elsewhere.</p><p>Over time, this amateur philosophy made it difficult for the club to compete at the highest level, and its dominance faded as professional teams rose in strength. Queen’s Park eventually joined the Scottish Football League in 1900 but spent much of the modern era in the lower divisions. In recent years, the club has undergone significant changes, including voting to end its long-standing amateur status and move toward a professional model in order to remain competitive in modern football.</p>",
         "founded_at": "1867-07-09",
