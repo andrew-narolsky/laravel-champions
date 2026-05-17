@@ -325,9 +325,12 @@
 
                         @foreach($countriesGroup as $country)
                             <a href="{{ route('country.show', $country) }}" class="cl-az-item">
-                                <span class="cl-flag">
-                                    {{ $country->flag_code }}
-                                </span>
+                                @if($country->attachment?->getFileUrl())
+                                    <img class="cl-flag" src="{{ $country->attachment?->getFileUrl() }}" alt="{{ $country->name }}" loading="lazy">
+                                @else
+                                    <span class="cl-flag">⚽</span>
+                                @endif
+
                                 {{ $country->name }}
                             </a>
                         @endforeach

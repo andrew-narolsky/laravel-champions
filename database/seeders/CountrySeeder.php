@@ -27,7 +27,6 @@ class CountrySeeder extends Seeder
                 'name'        => $country['name'],
                 'slug'        => $slug,
                 'description' => $country['description'],
-                'flag_code'   => $country['flag'],
                 'content'     => $country['content'],
             ]);
 

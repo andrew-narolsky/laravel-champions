@@ -75,7 +75,7 @@ class StatsService
             ->select(['id', 'name', 'competition_id'])
             ->with([
                 'competition:id,name,country_id',
-                'competition.country:id,name,flag_code',
+                'competition.country:id,name',
                 'result.champions.attachment'
             ])
             ->whereHas('competition', function ($q) use ($countryId, $type, $competitionId) {
@@ -101,7 +101,8 @@ class StatsService
     protected function getCountries(): Collection
     {
         return Country::query()
-            ->select(['id', 'name', 'flag_code', 'slug'])
+            ->with('attachment')
+            ->select(['id', 'name', 'slug'])
             ->get();
     }
 
