@@ -354,7 +354,8 @@
     {
         "name": "Cardiff City FC",
         "description": "England · Founded: 1899",
-        "country_id": 14,
+        "country_id": [14, 55],
+        "primary_country_id": 14,
         "nickname": "The Bluebirds",
         "content": "<p>Cardiff City Football Club is a professional football club based in Cardiff, Wales. Founded in 1899 as Riverside AFC, the club was renamed Cardiff City in 1908 and became one of the main Welsh sides competing in the English football league system. They play their home matches at the Cardiff City Stadium and are known as “The Bluebirds,” reflecting their traditional blue kit.</p><p>Historically, Cardiff City’s most successful era came in the 1920s. The club reached the top division, finished as First Division runners-up in 1923–24, and won the FA Cup in 1927, becoming the only non-English club ever to win the competition. They also enjoyed spells in the top tier during the 1950s and have won the Welsh Cup many times, adding to their domestic success.</p><p>In the modern era, Cardiff have moved between divisions, including periods in the Premier League in the 2013–14 and 2018–19 seasons. The club has faced relegations and rebuilds but remains competitive in the English league system. Despite ups and downs, Cardiff City maintains a strong identity, a loyal fan base, and long-standing rivalries, especially with Swansea City in the South Wales derby.</p>",
         "founded_at": "1899-00-00",
@@ -387,7 +388,8 @@
     {
         "name": "Bristol City FC",
         "description": "England · Founded: 1894",
-        "country_id": 14,
+        "country_id": [14, 55],
+        "primary_country_id": 14,
         "nickname": "The Robins",
         "content": "<p>Bristol City Football Club is a professional football club based in Bristol, England. Founded in 1894, the club is nicknamed “The Robins” and plays its home matches at Ashton Gate Stadium. Over its long history, Bristol City has mainly competed within the English Football League system and has built a strong local identity and rivalry with Bristol Rovers.</p><p>Historically, the club has experienced both early success and long periods of movement between divisions. One of its best early achievements came in the 1906–07 season when it finished as First Division runners-up, which remains its highest league placing. Bristol City also reached the FA Cup final in 1909, narrowly losing to Manchester United. Throughout the 20th century, the club frequently moved between the second and third tiers of English football, earning a reputation as a “yo-yo” club.</p><p>In modern times, Bristol City has mostly competed in the Championship, the second tier of English football. The club has had spells of stability in this division and occasional pushes for promotion, but has not consistently reached the Premier League. Despite this, it remains a well-supported club with a strong regional following and continues to aim for top-flight football in the future.</p>",
         "founded_at": "1894-00-00",
@@ -640,7 +642,8 @@
     {
         "name": "Swansea City AFC",
         "description": "England · Founded: 1912",
-        "country_id": 14,
+        "country_id": [14, 55],
+        "primary_country_id": 14,
         "nickname": "The Swans",
         "content": "<p>Swansea City Association Football Club is a professional football team based in Swansea, Wales, founded in 1912 as Swansea Town. The club originally competed in regional and lower English leagues before joining the Football League in 1920. Over time, it developed a strong identity and became one of the most prominent Welsh clubs playing in the English football system.</p><p>Throughout its history, Swansea has experienced many promotions and relegations across the divisions. The club reached the top tier of English football for the first time in the early 1980s after a rapid rise through the leagues. However, this success was followed by a decline that saw them drop back down the divisions before rebuilding again in later decades.</p><p>In modern times, Swansea City has achieved some of its greatest successes, including promotion to the Premier League in 2011 and winning the League Cup in 2013, which marked the first major trophy in the club’s history. The team also competed in European football for the first time as a result. Since relegation from the Premier League in 2018, Swansea has been playing in the Championship, aiming to return to the top level of English football.</p>",
         "founded_at": "1912-00-00",
@@ -673,7 +676,8 @@
     {
         "name": "Tranmere Rovers FC",
         "description": "England · Founded: 1884",
-        "country_id": 14,
+        "country_id": [14, 55],
+        "primary_country_id": 14,
         "nickname": "The Rovers",
         "content": "<p>Tranmere Rovers FC is an English professional football club based in Birkenhead, Merseyside, founded in 1884. Originally formed as Belmont Football Club, the team adopted the name Tranmere Rovers in 1885. They play their home matches at Prenton Park, which has been their stadium since 1912. The club is traditionally known as “The Rovers” or “Super White Army.”</p><p>Throughout its history, Tranmere has mainly competed in the lower divisions of English football, but it has also experienced periods of success and movement through the league system. The club became a Football League member in 1921 and has generally remained within the professional league structure, apart from brief relegation outside it in recent years. Its most successful era came in the late 1980s and early 1990s, when it achieved promotions and strong cup performances.</p><p>Tranmere’s notable achievements include winning promotion to higher divisions multiple times and reaching the upper levels of the English league system in the early 1990s, when it came close to the top flight. The club also won the Associate Members’ Cup in 1990. In modern times, Tranmere has fluctuated between League One and League Two, continuing to compete as a resilient lower-league club with a strong local fan base.</p>",
         "founded_at": "1884-00-00",
