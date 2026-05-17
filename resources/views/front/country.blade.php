@@ -1,7 +1,7 @@
 @extends('layouts.front')
 
 @section('meta')
-    <title>{{ $country->name }} Football — Clubs, Competitions & Champions</title>
+    <title>Football in {{ $country->name }} — Clubs, Competitions & Champions</title>
     <meta name="description" content="Explore football in {{ $country->name }}: clubs, leagues, cups and super cups. View champions, season results, statistics and complete competition history." />
 @endsection
 
