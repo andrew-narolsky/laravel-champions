@@ -1151,6 +1151,10 @@ a.trophy-name:hover {
     -webkit-overflow-scrolling: touch;
 }
 
+.table-scroll + h3 {
+    margin-top: 30px;
+}
+
 .table-scroll .seasons-table {
     min-width: 500px;
 }
