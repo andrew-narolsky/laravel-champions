@@ -2,7 +2,8 @@
     {
         "name": "GNK Dinamo Zagreb",
         "description": "Croatia · Founded: 1945",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Plavi",
         "content": "<p>GNK Dinamo Zagreb is a professional football club based in Zagreb, widely regarded as the most successful club in Croatian football history. It was officially founded in 1945 following the dissolution of pre-war clubs such as Građanski Zagreb, although it later began claiming historical continuity with these earlier teams. Dinamo quickly established itself in the Yugoslav First League, winning its first championship in 1948 and adding several league titles and domestic cups during the Yugoslav era.</p><p>The club achieved its greatest international success in 1967, when it won the Inter-Cities Fairs Cup (a predecessor to the UEFA Cup/Europa League), becoming the only Croatian club to win a major European trophy. Throughout the Yugoslav period, Dinamo remained one of the country’s strongest sides, consistently competing at the top level. After the breakup of Yugoslavia in 1991, the club became a dominant force in independent Croatia, winning numerous league titles and establishing long-term domestic supremacy.</p><p>In the modern era, Dinamo Zagreb is known both for its consistent success in Croatian competitions and for its strong presence in European tournaments, regularly reaching the group stages of the UEFA Champions League and Europa League. The club is also famous for its youth academy, which has produced world-class players such as Luka Modrić and Mateo Kovačić. Today, Dinamo remains a key institution in Croatian football, combining domestic dominance with a reputation for developing elite talent.</p>",
         "founded_at": "1945-06-09",
@@ -13,7 +14,8 @@
     {
         "name": "HNK Hajduk Split",
         "description": "Croatia · Founded: 1911",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Bili",
         "content": "<p>HNK Hajduk Split is a Croatian football club based in Split, founded on 13 February 1911 by a group of students in Prague. Inspired by football culture they saw abroad, they established the club upon returning home, and Hajduk quickly became one of the leading teams in the region. During the interwar period, it regularly competed in the Yugoslav national championship and built a strong reputation as one of the most important clubs in the country.</p><p>After World War II, Hajduk became a permanent member of the Yugoslav First League, never being relegated throughout the entire Yugoslav era. The club enjoyed its golden period in the 1970s, winning multiple league titles and domestic cups, including a record five consecutive Yugoslav Cups between 1972 and 1977. It also achieved notable European results, reaching several quarter-finals and a UEFA Cup semi-final, establishing itself as one of the strongest teams in the Balkans.</p><p>Following the breakup of Yugoslavia, Hajduk joined the Croatian First League in 1992 and has remained in the top tier ever since. It is one of the most successful clubs in Croatian football, with numerous league and cup titles, and is known for its passionate fanbase, Torcida Split, one of the oldest organized supporter groups in Europe. Today, Hajduk continues to be a major force in Croatian football, combining historical prestige with consistent domestic competitiveness.</p>",
         "founded_at": "1911-02-13",
@@ -24,7 +26,8 @@
     {
         "name": "HNK Rijeka",
         "description": "Croatia · Founded: 1904",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Riječki bijeli",
         "content": "<p>HNK Rijeka is a Croatian football club based in the city of Rijeka, with roots dating back to 1904 through its earliest predecessor, Club Sportivo Olimpia. Over the decades, the club went through several transformations and name changes, including U.S. Fiumana during the Italian period and NK Kvarner after World War II, before adopting the name NK Rijeka in 1954. From its early years, the club reflected the multicultural character of the city and gradually developed into one of the main football institutions in the region.</p><p>During the Yugoslav era, Rijeka became a stable top-flight club, especially from the late 1950s onward. Its most successful period came in the late 1970s and 1980s, when it won back-to-back Yugoslav Cups in 1978 and 1979 and reached another final in 1987. Although it never won the Yugoslav league title, the club consistently achieved strong results, including a near-championship finish in 1984 and notable performances in European competitions, such as reaching the quarter-finals of the Cup Winners’ Cup.</p><p>Following Croatian independence in 1991, Rijeka became a regular member of the Croatian First League and established itself as one of the country’s leading clubs. Its greatest modern achievement came in the 2016–17 season, when it won both the league title and the Croatian Cup, breaking the long-standing dominance of Dinamo Zagreb and Hajduk Split. In recent years, Rijeka has remained competitive domestically and a frequent participant in European competitions, maintaining its status as one of Croatia’s top football clubs.</p>",
         "founded_at": "1904-00-00",
@@ -46,7 +49,8 @@
     {
         "name": "NK Lokomotiva Zagreb",
         "description": "Croatia · Founded: 1914",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Lokosi",
         "content": "<p>NK Lokomotiva Zagreb is a Croatian football club based in Zagreb, founded in 1914 as ŽŠK Victoria. After World War I, it was renamed Željezničar and spent the interwar years largely in the shadow of stronger local clubs such as Građanski and HAŠK, with only limited appearances at the top level. In 1945, the club adopted the name Lokomotiva, marking the beginning of its modern identity.</p><p>The club experienced its most successful early period between the late 1940s and mid-1950s, when it competed in the Yugoslav First League for several seasons. Its best result came in 1952, when it finished third, behind Hajduk Split and Red Star Belgrade. However, after relegation in 1957, Lokomotiva never returned to the Yugoslav top division and spent the following decades mostly in lower leagues until the breakup of Yugoslavia.</p><p>After Croatian independence, Lokomotiva initially played in the lower tiers before undergoing a rapid rise in the late 2000s, achieving three consecutive promotions and returning to the top flight in 2009 after more than 50 years. Since then, it has established itself as a stable Croatian First League club, achieving notable successes such as second-place finishes in 2013 and 2020, as well as appearances in European competitions. Today, Lokomotiva is known for developing young talent and maintaining a consistent presence in Croatia’s top division.</p>",
         "founded_at": "1914-05-01",
@@ -90,7 +94,8 @@
     {
         "name": "NK Varaždin",
         "description": "Croatia · Founded: 1931",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Krojači",
         "content": "<p>NK Varaždin was a Croatian football club based in the city of Varaždin, founded on 3 June 1931 as NK Slavija. Over the decades, the club went through several name changes, becoming NK Tekstilac after World War II and later NK Varteks in 1958 due to sponsorship from a local textile company. In 2010, after losing its main sponsor, it adopted the name NK Varaždin. The club played its home matches at Stadion Anđelko Herjavec and was one of the main football institutions in northern Croatia.</p><p>During the Yugoslav era, the club achieved moderate success, including reaching the final of the Yugoslav Cup in 1961. After Croatian independence in 1991, Varaždin became a founding member of the Croatian First League and established itself as a consistent top-flight team. Although it never won a national title, it was a regular contender near the top of the table and finished as runner-up in the Croatian Cup five times. Its best international results came in 1999, when it reached the quarter-finals of the UEFA Cup Winners’ Cup, and in 2001, when it eliminated Aston Villa from the UEFA Cup.</p><p>In the early 2010s, the club faced severe financial problems, leading to suspensions, relegation to the lowest tier, and eventual bankruptcy. Although it briefly returned to competition in lower divisions, the financial crisis could not be resolved, and NK Varaždin was officially dissolved in 2015. A successor club founded in 2012 later adopted the same name, continuing football in the city, but it is considered a separate legal entity from the original club.</p>",
         "founded_at": "1931-07-03",
@@ -134,7 +139,8 @@
     {
         "name": "HAŠK Zagreb",
         "description": "Croatia · Founded: 1903",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Akademičari",
         "content": "<p>HAŠK (Hrvatski akademski športski klub) was a Croatian football club based in Zagreb, founded in 1903 by a group of university students. It was one of the earliest organized sports clubs in Croatia and played a key role in developing modern football in the country. The club was strongly connected to the academic community of Zagreb and quickly became one of the leading teams in the early decades of Croatian football.</p><p>During the interwar period, HAŠK grew into one of the strongest clubs in the Kingdom of Yugoslavia. Its greatest success came in the 1937–38 season when it won the Yugoslav First League title, the club’s only national championship. It also regularly competed against other major teams such as Građanski Zagreb and Hajduk Split, and even participated in international competitions like the Mitropa Cup.</p><p>After World War II, the club was dissolved in 1945 by the new communist authorities, along with several other pre-war clubs in Zagreb. Its stadium and many of its players were taken over by newly formed clubs, most notably Dinamo Zagreb, which became the city’s main football institution. Although HAŠK ceased to exist, its legacy continues through successor organizations and its historical role in shaping Zagreb and Croatian football.</p>",
         "founded_at": "1903-11-06",
@@ -145,7 +151,8 @@
     {
         "name": "HŠK Concordia",
         "description": "Croatia · Founded: 1906",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "",
         "content": "<p>HŠK Concordia was a Croatian football club based in Zagreb, founded on 10 October 1906 originally as Srednjoškolski športski klub. It was one of the oldest and most important early football institutions in Croatia and developed into a major Zagreb club in the interwar period. After World War I, it merged with Viktorija and became Concordia, quickly establishing itself among the strongest teams in the Kingdom of Yugoslavia.</p><p>During the 1920s and 1930s, Concordia reached its peak and became one of the dominant clubs in Yugoslav football. The club won the Yugoslav First League title twice, in 1930 and 1932, marking the highest achievements in its history. It also played an important role in the development of football in Zagreb, hosting matches at its stadium in Tratinska (today Kranjčevićeva), which was one of the largest and most important venues in the region at the time.</p><p>In 1945, after World War II and the establishment of a new political system in Yugoslavia, HŠK Concordia was dissolved along with several other major pre-war clubs in Zagreb, including HAŠK and Građanski. Its players, infrastructure, and legacy were later absorbed into newly formed clubs, most notably Dinamo Zagreb, which inherited parts of its football tradition. Although Concordia ceased to exist, it remains historically significant as one of the most successful Croatian clubs of the pre-war era.</p>",
         "founded_at": "1906-00-00",
@@ -156,7 +163,8 @@
     {
         "name": "HŠK Građanski Zagreb",
         "description": "Croatia · Founded: 1911",
-        "country_id": 10,
+        "country_id": [10, 59],
+        "primary_country_id": 10,
         "nickname": "Purgeri",
         "content": "<p>HŠK Građanski Zagreb was a Croatian football club based in Zagreb, founded on 26 April 1911 during the Austro-Hungarian period. It was created as the First Croatian Citizens’ Sports Club and quickly became one of the most important early football institutions in Croatia. The club built its identity around a strong Croatian national and civic character and developed a large working-class fan base in the capital.</p><p>During the interwar period, Građanski grew into one of the strongest clubs in Yugoslav football. It won five Yugoslav First League titles (1923, 1926, 1928, 1936–37, 1939–40) and regularly competed for domestic dominance alongside rivals such as Hajduk Split and BSK Belgrade. The club also participated in international friendlies and the Mitropa Cup, and was widely regarded as one of the leading teams in the region before World War II.</p><p>After World War II in 1945, Građanski was dissolved by the new communist authorities along with several other major clubs in Zagreb. Shortly afterward, Dinamo Zagreb was founded and took over much of Građanski’s infrastructure, players, and fan base, later also adopting elements of its identity. Because of this continuity, Građanski is widely considered the historical predecessor of modern Dinamo Zagreb, leaving a major legacy in Croatian football history.</p>",
         "founded_at": "1911-04-26",
@@ -185,5 +193,29 @@
         "destroyed_at": "",
         "stadium": "Stadion Šubićevac, Cap. 3,970",
         "city": "Šibenik"
+    },
+    {
+        "name": "Zagreb XI",
+        "description": "Croatia · Founded: ?",
+        "country_id": [10, 59],
+        "primary_country_id": 10,
+        "nickname": "",
+        "content": "",
+        "founded_at": "",
+        "destroyed_at": "",
+        "stadium": "",
+        "city": "Zagreb"
+    },
+    {
+        "name": "Split XI",
+        "description": "Croatia · Founded: ?",
+        "country_id": [10, 59],
+        "primary_country_id": 10,
+        "nickname": "",
+        "content": "",
+        "founded_at": "",
+        "destroyed_at": "",
+        "stadium": "",
+        "city": "Split"
     }
 ]

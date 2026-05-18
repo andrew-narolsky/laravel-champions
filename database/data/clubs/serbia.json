@@ -2,7 +2,7 @@
     {
         "name": "Red Star Belgrade",
         "description": "Serbia · Founded: 1945",
-        "country_id": [47, 60],
+        "country_id": [47, 59, 60],
         "primary_country_id": 47,
         "nickname": "Zvezda",
         "content": "<p>Red Star Belgrade is one of the most successful and historically significant football clubs in Serbia and the former Yugoslavia. Founded in 1945 in Belgrade, the club quickly developed into a dominant force in domestic football and became a symbol of Serbian sport and identity. Over the decades, Red Star built a reputation for success, passionate supporters, and a strong football tradition.</p><p>The club achieved major success during the Yugoslav era, winning numerous league titles and domestic cups. Red Star became known for producing outstanding players and regularly competing in European tournaments. Their home ground, the Rajko Mitić Stadium, nicknamed the “Marakana,” became one of the most recognizable football venues in the region and a center of the club’s passionate football culture.</p><p>Red Star reached the peak of its international success in 1991 when it won the European Cup by defeating Olympique Marseille, becoming the only Serbian and Yugoslav club to achieve this feat. In the same year, the club also won the Intercontinental Cup, securing its place in football history. Since then, Red Star has remained Serbia’s most decorated football club and continues to play an important role in domestic and European competitions.</p>",
@@ -14,7 +14,7 @@
     {
         "name": "FK Partizan",
         "description": "Serbia · Founded: 1945",
-        "country_id": [47, 60],
+        "country_id": [47, 59, 60],
         "primary_country_id": 47,
         "nickname": "Parni valjak",
         "content": "<p>FK Partizan is one of the most historic and successful football clubs in Serbia and the former Yugoslavia. Founded in Belgrade in 1945 as part of the Yugoslav sports association linked to the army, the club quickly developed into a major force in regional football. Throughout its history, Partizan has remained in the top division and built a strong identity through its tradition, supporters, and long-standing rivalry with Red Star.</p><p>The club achieved significant domestic success by winning numerous league titles and cup trophies across the Yugoslav and Serbian eras. Nicknamed \"The Steamroller,\" Partizan became known for its attacking style and strong youth development system, producing many talented players who later achieved international recognition. Their home ground, Partizan Stadium, has been the club’s home since 1949 and remains one of Serbia’s most recognizable football venues.</p><p>Partizan also made history on the European stage. The club played in the first-ever European Champions Cup match in 1955 and became the first team from Southeast Europe to reach the European Cup final in 1966. In later years, Partizan continued to represent Serbian football internationally and became the first Serbian club to participate in the UEFA Champions League group stage, strengthening its reputation beyond domestic competitions.</p>",
@@ -26,7 +26,7 @@
     {
         "name": "FK Vojvodina",
         "description": "Serbia · Founded: 1914",
-        "country_id": [47, 60],
+        "country_id": [47, 59, 60],
         "primary_country_id": 47,
         "nickname": "Voša",
         "content": "<p>FK Vojvodina is one of the oldest and most respected football clubs in Serbia. Founded in 1914 in Novi Sad, the club developed into an important symbol of the Vojvodina region and became one of the most popular football institutions in the country. Known by nicknames such as “Voša” and “The Old Lady,” Vojvodina has maintained a long tradition and remains among Serbia’s most historic clubs.</p><p>Throughout its history, Vojvodina enjoyed considerable success during the Yugoslav era, winning the national league championship twice, in 1966 and 1989. The club also achieved success in international competitions, winning the Mitropa Cup in 1977 and the UEFA Intertoto Cup in 1976. Its home, Karađorđe Stadium, has long served as a central place for football in Novi Sad and the wider region.</p><p>In the modern Serbian era, Vojvodina has remained one of the strongest clubs outside the traditional dominance of Red Star and Partizan. The club regularly competes in the Serbian SuperLiga and has achieved success in domestic cup competitions, winning the Serbian Cup and maintaining a reputation for developing talented players and playing an important role in Serbian football culture.</p>",
@@ -38,7 +38,8 @@
     {
         "name": "FK Radnički Niš",
         "description": "Serbia · Founded: 1923",
-        "country_id": 47,
+        "country_id": [47, 59],
+        "primary_country_id": 47,
         "nickname": "Real sa Nišave",
         "content": "<p>FK Radnički Niš is a historic Serbian football club based in the city of Niš, founded in 1923. As one of the oldest clubs in the country, it developed a strong football tradition and became an important representative of southern Serbian football. The club, often nicknamed “Real sa Nišave,” has spent many years competing at the highest levels of domestic football and has built a loyal and passionate fan base.</p><p>During the Yugoslav era, Radnički Niš established itself as one of the country's strongest clubs, spending 29 seasons in the top division and achieving third-place league finishes in 1980 and 1981. The club enjoyed international success as well, winning the Balkans Cup in 1975 and gaining recognition for its performances against major European teams.</p><p>The greatest achievement in the club’s history came during the 1981–82 UEFA Cup campaign, when Radnički reached the semi-finals and became one of the first Yugoslav clubs to make a deep run in a major European competition. In modern Serbian football, the club has remained a regular participant in the top division, continuing to play an important role in the country’s football culture and development.</p>",
         "founded_at": "1923-04-24",
@@ -82,7 +83,7 @@
     {
         "name": "OFK Beograd",
         "description": "Serbia · Founded: 1911",
-        "country_id": [47, 60],
+        "country_id": [47, 59, 60],
         "primary_country_id": 47,
         "nickname": "Romantičari",
         "content": "<p>OFK Beograd is one of the oldest football clubs in Serbia, with origins dating back to 1911 when it was founded as Beogradski Sport Klub (BSK). Based in the Karaburma area of Belgrade, the club later underwent several name changes before becoming OFK Beograd in 1957. Nicknamed “The Romantics,” the club became known for its attractive style of football and an identity strongly connected with youth development and tradition.</p><p>The club enjoyed major success before and after World War II, winning five national championships and five domestic cup titles. During the 1950s, 1960s, and early 1970s, OFK Beograd experienced one of its most successful periods, establishing itself as one of the strongest clubs in Yugoslav football and becoming a regular participant in international competitions.</p><p>OFK Beograd also achieved notable results in Europe, reaching the semi-finals of the 1962–63 European Cup Winners’ Cup and the quarter-finals of the UEFA Cup in 1972–73. Throughout its history, the club gained a reputation for developing talented players, many of whom later became stars for both Serbian and Yugoslav national teams. Despite periods of decline, OFK Beograd remains an important part of Serbian football heritage.</p>",
@@ -208,7 +209,7 @@
     {
         "name": "FK Spartak Subotica",
         "description": "Serbia · Founded: 1921",
-        "country_id": [47, 60],
+        "country_id": [47, 59, 60],
         "primary_country_id": 47,
         "nickname": "",
         "content": "<p>FK Spartak Subotica is a Serbian football club based in the city of Subotica, founded in 1945. The club was named after Jovan Mikić “Spartak,” a local war hero and athlete who became a symbol of resistance during World War II. Spartak emerged from the pre-war football tradition in Subotica and quickly became one of the city’s main clubs in the post-war Yugoslav football system. It participated in the first post-war Yugoslav First League in the 1946–47 season, marking its early presence at the top level of national football.</p><p>Throughout the Yugoslav era, Spartak alternated between the first and second divisions. While the club never won the national championship, it maintained a reputation for developing local talent and contributing players to higher levels of Yugoslav football. One of its notable achievements during this period was reaching the Yugoslav Cup final in the early 1990s, where it finished as runner-up after losing heavily to Partizan. Despite this, Spartak remained a stable and recognizable name in Serbian football.</p><p>After the breakup of Yugoslavia, Spartak continued competing in the football system of FR Yugoslavia and later Serbia. The club faced periods of decline and financial instability, including relegations to lower divisions, but managed to return to the top flight in the late 2000s after restructuring. In modern times, FK Spartak Subotica competes in the Serbian SuperLiga, and while it is not among the dominant clubs, it is known for its solid league presence, youth development, and occasional strong performances in domestic competitions.</p>",
@@ -240,5 +241,89 @@
         "destroyed_at": "2006-00-00",
         "stadium": "Stadion Mirko Vučurević, Cap. 2,500",
         "city": "Banatski Dvor"
+    },
+    {
+        "name": "FK Radnički Beograd",
+        "description": "Serbia · Founded: 1920",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>FK Radnički Beograd is a Serbian football club based in Belgrade, founded on 20 April 1920 by students of a construction-craft school. The club was among the early organized football teams in the city and quickly joined the Belgrade Football Association, beginning competition in the lower divisions of the interwar Yugoslav football system. In its early years, Radnički struggled for stability but gradually built its identity as a workers’ club with strong local roots.</p><p>The club’s first major success came in the 1924–25 season when it won its league group, marking an important step in its development. After World War II, Radnički continued to compete within the Yugoslav football structure and eventually reached the top tier, where it experienced its strongest era in the 1950s. One of its most notable achievements was reaching the Yugoslav Cup final in the 1956–57 season, finishing as runners-up, which remains the club’s biggest historical accomplishment.</p><p>In the following decades, Radnički Beograd gradually declined from top-level football. After relegation from higher divisions in the mid-1960s, the club moved between lower leagues and eventually spent most of its later history outside the elite competition. Despite this decline, it remained an active club in Serbian football, continuing to participate in the domestic league system and maintaining its identity as one of the older clubs in Belgrade football history.</p>",
+        "founded_at": "1920-00-00",
+        "destroyed_at": "",
+        "stadium": "Stadion FK Radnički, Cap. 5,000",
+        "city": "Belgrade"
+    },
+    {
+        "name": "SK Jugoslavija",
+        "description": "Serbia · Founded: 1913",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "Crveni",
+        "content": "<p>SK Jugoslavija was one of the most important football clubs in early Serbian and Yugoslav football history, based in Belgrade. It was founded on 6 August 1913 under the name SK Velika Srbija by a group of players who split from BSK Belgrade, and it was later renamed SK Jugoslavija in 1919. The club quickly became a major force in the developing football scene of the Kingdom of Serbs, Croats and Slovenes (later Yugoslavia), earning a reputation as one of the strongest and most popular teams of its era.</p><p>During the interwar period, SK Jugoslavija was highly successful in domestic competitions. It won multiple Yugoslav championship titles, including in the 1920s, and consistently competed at the top level of national football. The club also played an important role in establishing early football rivalries in Belgrade, especially against BSK, which became one of the defining fixtures of Yugoslav football culture. SK Jugoslavija was known for its strong squad and its influence on the early development of the sport in the region.</p><p>After the disruption of World War II, the club’s history came to an abrupt end in 1945 when it was dissolved by the new communist authorities. Its assets and much of its structure were used in the formation of Red Star Belgrade, which effectively replaced it in the post-war football system. Because of this, SK Jugoslavija remains historically significant as both a successful pre-war club and a direct predecessor to one of Serbia’s most successful modern teams.</p>",
+        "founded_at": "1913-08-06",
+        "destroyed_at": "1945-05-05",
+        "stadium": "Stadion SK Jugoslavija, Cap. 30,000",
+        "city": "Belgrade"
+    },
+    {
+        "name": "FK Naša Krila Zemun",
+        "description": "Serbia · Founded: 1947",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>FK Naša Krila Zemun was a short-lived Yugoslav football club based in Zemun, founded in 1947 as a team of the Yugoslav Air Force. It was created shortly after World War II as part of a military sports organization and functioned as the Air Force’s representative football side. The club was active only until 1950, but in that brief period it became one of the more unusual and competitive teams in post-war Yugoslav football.</p><p>Despite its short existence, the club achieved remarkable results. In its first season (1947–48), Naša Krila earned promotion to the Yugoslav First League after finishing high in the second tier. It then established itself quickly among the country’s stronger teams, finishing 5th in the 1948–49 top-flight season and 6th in 1950. The club also had strong performances in the Yugoslav Cup, reaching the final in 1947 and again in 1949, and also making a semi-final appearance in 1948.</p><p>After the 1950 season, FK Naša Krila Zemun was disbanded. The dissolution came as part of a broader restructuring and reduction of military-linked sports clubs in Yugoslavia. Following its closure, the club’s players were released and many continued their careers elsewhere, while Naša Krila remained remembered as one of the most successful short-lived clubs in Yugoslav football history.</p>",
+        "founded_at": "1947-00-00",
+        "destroyed_at": "1950-00-00",
+        "stadium": "",
+        "city": "Zemun"
+    },
+    {
+        "name": "FK Bor 1919",
+        "description": "Serbia · Founded: 1919",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>FK Bor 1919 is a Serbian football club based in the city of Bor, founded in 1919 as a Serbian–French sports association. The club originally operated under names such as ASB (Association Sportive Bor) and was closely linked to the local mining industry, which played a key role in its early development. It gradually became part of the Yugoslav football system and built its identity through regional and lower-league competitions. The club is considered one of the oldest football institutions in Serbia, with a long tradition connected to the city’s industrial history.</p><p>During the post-war Yugoslav period, FK Bor developed into a competitive side and reached its peak in the late 1960s. The club achieved its most significant success in the 1967–68 season when it reached the final of the Yugoslav Cup, which led to participation in European competition. Following this success, Bor also played in the Yugoslav First League, where it competed against some of the strongest clubs in the country. In the early 1970s, the team remained active at high levels but gradually began to fluctuate between divisions.</p><p>In later decades, the club experienced financial and sporting difficulties, leading to frequent relegations and instability. After the breakup of Yugoslavia, FK Bor continued competing in the lower tiers of Serbian football, often relying on support from the local mining industry. The original club eventually ceased operations in 2017 due to financial problems, but it was re-established in 2018 as FK Bor 1919, preserving its history and identity. Today, the club competes in the Serbian league system and focuses on rebuilding its status and developing young players.</p>",
+        "founded_at": "1919-00-00",
+        "destroyed_at": "",
+        "stadium": "FK Bor Stadium, Cap. 3,500",
+        "city": "Bor"
+    },
+    {
+        "name": "Belgrade XI",
+        "description": "Serbia · Founded: ?",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "",
+        "founded_at": "",
+        "destroyed_at": "",
+        "stadium": "",
+        "city": "Belgrade"
+    },
+    {
+        "name": "Subotica XI",
+        "description": "Serbia · Founded: ?",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "",
+        "founded_at": "",
+        "destroyed_at": "",
+        "stadium": "",
+        "city": "Subotica"
+    },
+    {
+        "name": "SAND Subotica",
+        "description": "Serbia · Founded: 1920",
+        "country_id": [47, 59],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>SAND Subotica (Subotičko atletičko nogometno društvo) was a football club from Subotica, in the Kingdom of Yugoslavia, founded in 1920. It emerged as one of the important early clubs in the city’s strong football tradition and competed in the regional football structure that fed into the Yugoslav national championship. The club also became known for being among the key representatives of Subotica football during the interwar period.</p><p>One of SAND Subotica’s notable achievements came in the 1927 Yugoslav Football Championship, where the team finished 4th out of 6 participants, marking a strong national-level performance for the club. During this period, several of its players gained recognition at the international level, with some being called up to the Yugoslavia national team, including players who later participated in major international competitions. The club also gained attention for its competitive matches and early influence on football development in the region.</p><p>SAND Subotica was also notable for its infrastructure and early innovations, including having one of the first stadiums in the country equipped with electrical lighting in the 1930s. The club remained active during the interwar period but was later dissolved following the major political and structural changes in Yugoslav football after World War II, as many pre-war clubs were reorganized or replaced by new institutions.</p>",
+        "founded_at": "1920-00-00",
+        "destroyed_at": "",
+        "stadium": "SAND Stadium",
+        "city": "Subotica"
     }
 ]
