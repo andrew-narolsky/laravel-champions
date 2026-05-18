@@ -2,7 +2,8 @@
     {
         "name": "Red Star Belgrade",
         "description": "Serbia · Founded: 1945",
-        "country_id": 47,
+        "country_id": [47, 60],
+        "primary_country_id": 47,
         "nickname": "Zvezda",
         "content": "<p>Red Star Belgrade is one of the most successful and historically significant football clubs in Serbia and the former Yugoslavia. Founded in 1945 in Belgrade, the club quickly developed into a dominant force in domestic football and became a symbol of Serbian sport and identity. Over the decades, Red Star built a reputation for success, passionate supporters, and a strong football tradition.</p><p>The club achieved major success during the Yugoslav era, winning numerous league titles and domestic cups. Red Star became known for producing outstanding players and regularly competing in European tournaments. Their home ground, the Rajko Mitić Stadium, nicknamed the “Marakana,” became one of the most recognizable football venues in the region and a center of the club’s passionate football culture.</p><p>Red Star reached the peak of its international success in 1991 when it won the European Cup by defeating Olympique Marseille, becoming the only Serbian and Yugoslav club to achieve this feat. In the same year, the club also won the Intercontinental Cup, securing its place in football history. Since then, Red Star has remained Serbia’s most decorated football club and continues to play an important role in domestic and European competitions.</p>",
         "founded_at": "1945-03-06",
@@ -13,7 +14,8 @@
     {
         "name": "FK Partizan",
         "description": "Serbia · Founded: 1945",
-        "country_id": 47,
+        "country_id": [47, 60],
+        "primary_country_id": 47,
         "nickname": "Parni valjak",
         "content": "<p>FK Partizan is one of the most historic and successful football clubs in Serbia and the former Yugoslavia. Founded in Belgrade in 1945 as part of the Yugoslav sports association linked to the army, the club quickly developed into a major force in regional football. Throughout its history, Partizan has remained in the top division and built a strong identity through its tradition, supporters, and long-standing rivalry with Red Star.</p><p>The club achieved significant domestic success by winning numerous league titles and cup trophies across the Yugoslav and Serbian eras. Nicknamed \"The Steamroller,\" Partizan became known for its attacking style and strong youth development system, producing many talented players who later achieved international recognition. Their home ground, Partizan Stadium, has been the club’s home since 1949 and remains one of Serbia’s most recognizable football venues.</p><p>Partizan also made history on the European stage. The club played in the first-ever European Champions Cup match in 1955 and became the first team from Southeast Europe to reach the European Cup final in 1966. In later years, Partizan continued to represent Serbian football internationally and became the first Serbian club to participate in the UEFA Champions League group stage, strengthening its reputation beyond domestic competitions.</p>",
         "founded_at": "1945-10-04",
@@ -24,7 +26,8 @@
     {
         "name": "FK Vojvodina",
         "description": "Serbia · Founded: 1914",
-        "country_id": 47,
+        "country_id": [47, 60],
+        "primary_country_id": 47,
         "nickname": "Voša",
         "content": "<p>FK Vojvodina is one of the oldest and most respected football clubs in Serbia. Founded in 1914 in Novi Sad, the club developed into an important symbol of the Vojvodina region and became one of the most popular football institutions in the country. Known by nicknames such as “Voša” and “The Old Lady,” Vojvodina has maintained a long tradition and remains among Serbia’s most historic clubs.</p><p>Throughout its history, Vojvodina enjoyed considerable success during the Yugoslav era, winning the national league championship twice, in 1966 and 1989. The club also achieved success in international competitions, winning the Mitropa Cup in 1977 and the UEFA Intertoto Cup in 1976. Its home, Karađorđe Stadium, has long served as a central place for football in Novi Sad and the wider region.</p><p>In the modern Serbian era, Vojvodina has remained one of the strongest clubs outside the traditional dominance of Red Star and Partizan. The club regularly competes in the Serbian SuperLiga and has achieved success in domestic cup competitions, winning the Serbian Cup and maintaining a reputation for developing talented players and playing an important role in Serbian football culture.</p>",
         "founded_at": "1914-03-06",
@@ -79,7 +82,8 @@
     {
         "name": "OFK Beograd",
         "description": "Serbia · Founded: 1911",
-        "country_id": 47,
+        "country_id": [47, 60],
+        "primary_country_id": 47,
         "nickname": "Romantičari",
         "content": "<p>OFK Beograd is one of the oldest football clubs in Serbia, with origins dating back to 1911 when it was founded as Beogradski Sport Klub (BSK). Based in the Karaburma area of Belgrade, the club later underwent several name changes before becoming OFK Beograd in 1957. Nicknamed “The Romantics,” the club became known for its attractive style of football and an identity strongly connected with youth development and tradition.</p><p>The club enjoyed major success before and after World War II, winning five national championships and five domestic cup titles. During the 1950s, 1960s, and early 1970s, OFK Beograd experienced one of its most successful periods, establishing itself as one of the strongest clubs in Yugoslav football and becoming a regular participant in international competitions.</p><p>OFK Beograd also achieved notable results in Europe, reaching the semi-finals of the 1962–63 European Cup Winners’ Cup and the quarter-finals of the UEFA Cup in 1972–73. Throughout its history, the club gained a reputation for developing talented players, many of whom later became stars for both Serbian and Yugoslav national teams. Despite periods of decline, OFK Beograd remains an important part of Serbian football heritage.</p>",
         "founded_at": "1911-07-06",
@@ -152,5 +156,89 @@
         "destroyed_at": "",
         "stadium": "SRC Mr Radoš Milovanović, Cap. 3,600",
         "city": "Lučani"
+    },
+    {
+        "name": "FK Obilić",
+        "description": "Serbia · Founded: 1924",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "Vitezovi",
+        "content": "<p>FK Obilić is a Serbian football club from Belgrade, founded in 1924 and named after the medieval Serbian hero Miloš Obilić. Based in the Vračar district, the club became one of the oldest football institutions in Serbia and spent much of its early history competing in regional and lower-level Yugoslav competitions. After World War II, the club was temporarily forced to change its name due to political reasons before eventually restoring its original identity.</p><p>The club achieved its greatest success during the late 1990s. Obilić rose rapidly through the Yugoslav football system and won the FR Yugoslavia First League title in the 1997–98 season, becoming only the third club after the breakup of Yugoslavia to break the dominance of the country's traditional giants. During this period, the club participated in European competitions and faced teams such as Bayern Munich and Atlético Madrid. Its rise was strongly associated with the controversial ownership of Serbian paramilitary leader Arkan.</p><p>Following the early 2000s, FK Obilić entered a long period of decline. After Arkan's death, the club gradually dropped through the divisions and eventually disappeared from recognized senior football competitions. Although the club still exists and its stadium remains in Belgrade, Obilić is remembered primarily for its dramatic rise, unexpected championship victory, and unusual place in Serbian football history.</p>",
+        "founded_at": "1924-08-01",
+        "destroyed_at": "",
+        "stadium": "Obilić Stadium, Cap. 4,600",
+        "city": "Vračar"
+    },
+    {
+        "name": "FK Smederevo 1924",
+        "description": "Serbia · Founded: 1924",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "Oklopnici",
+        "content": "<p>FK Smederevo 1924 is a Serbian football club based in the city of Smederevo, founded on 6 May 1924. It originally began as FK Sartid, established by the local steel industry company SARTID. During its early decades, the club frequently changed names and struggled to establish itself in the top tiers of Yugoslav football, spending most of its history in lower divisions.</p><p>The club experienced its most successful period in the early 2000s. Competing under the name FK Sartid Smederevo, it achieved promotion to the top level of Serbian football and became a competitive side in national competitions. The highlight of this era came in the 2002–03 season, when the club won the Serbia and Montenegro Cup by defeating Red Star Belgrade in the final, marking the greatest achievement in its history.</p><p>After this success, the club participated in European competitions but soon entered a period of decline following changes in ownership and restructuring. In 2004, it reverted to the name FK Smederevo and later went through further reorganisations and mergers. Despite ups and downs in league status, FK Smederevo 1924 remains an active club in Serbian football, playing its home matches at Smederevo City Stadium and continuing to compete in the national league system.</p>",
+        "founded_at": "1924-05-06",
+        "destroyed_at": "",
+        "stadium": "Smederevo Stadium, Cap. 17,200",
+        "city": "Smederevo"
+    },
+    {
+        "name": "FK Železnik 1930",
+        "description": "Serbia · Founded: 1930",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "Lavovi",
+        "content": "<p>FK Železnik 1930 is a Serbian football club based in Belgrade, originally founded on 28 May 1930 as Železnički SK. In its early decades, the club operated mostly at a regional level and spent much of its existence outside the top tiers of Yugoslav football. During the 1950s and 1960s, it became more organized, and after a merger in 1961 it adopted the name FK Železnik while continuing to develop within the lower divisions.</p><p>The club gradually progressed through the Yugoslav league system, reaching higher competitive levels in the 1990s after a period of significant change in Serbian football. A key turning point came after new ownership in the early 1990s, which led to rapid sporting progress. By the mid-1990s, Železnik had achieved promotion into the top divisions of FR Yugoslavia, establishing itself as a competitive first-league side.</p><p>The peak of FK Železnik’s history came in the early 2000s. The club reached the top tier of national football and achieved its greatest success by winning the Serbia and Montenegro Cup in the 2004–05 season. This victory also secured participation in European competition, marking the club’s only appearance on the continental stage. Shortly after this period, financial difficulties and restructuring led to a merger with FK Voždovac, and the club later continued in lower leagues under its re-established identity.</p>",
+        "founded_at": "1930-00-00",
+        "destroyed_at": "",
+        "stadium": "Železnik Stadium, Cap. 6,900",
+        "city": "Železnik"
+    },
+    {
+        "name": "FK Voždovac",
+        "description": "Serbia · Founded: 1912",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "Zmajevi",
+        "content": "<p>FK Voždovac is a Serbian football club based in Belgrade, founded in 1912 under the name FK Dušanovac. In its early decades, the club mostly competed in lower and regional divisions of Yugoslav football and went through several name changes before becoming Voždovački SK in 1929 and later adopting the current name FK Voždovac in 1973. During the early period, it remained a modest club without major national success but gradually built its identity within Belgrade football.</p><p>Throughout the post-war Yugoslav era, Voždovac continued to play mainly in the lower tiers, occasionally achieving promotion to higher divisions but struggling to maintain stability at the top level. A significant moment came in the early 2000s when the club returned to higher competition and strengthened its position in Serbian football. In the 2004–05 period, Voždovac also benefited from a merger with FK Železnik, which helped it reach the top national league and compete more consistently at the highest level.</p><p>In modern Serbian football, FK Voždovac is known as a stable SuperLiga and First League competitor, often competing in the top two tiers. The club also became widely recognized for its unique stadium, built on top of a shopping center and opened in 2013, which is one of the most unusual football venues in Europe. In recent years, Voždovac has maintained its role as a solid mid-level Serbian club, focusing on development and consistency rather than major trophy success.</p>",
+        "founded_at": "1912-00-00",
+        "destroyed_at": "",
+        "stadium": "Voždovac Stadium, Cap. 5,200",
+        "city": "Belgrade"
+    },
+    {
+        "name": "FK Spartak Subotica",
+        "description": "Serbia · Founded: 1921",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>FK Spartak Subotica is a Serbian football club based in the city of Subotica, founded in 1945. The club was named after Jovan Mikić “Spartak,” a local war hero and athlete who became a symbol of resistance during World War II. Spartak emerged from the pre-war football tradition in Subotica and quickly became one of the city’s main clubs in the post-war Yugoslav football system. It participated in the first post-war Yugoslav First League in the 1946–47 season, marking its early presence at the top level of national football.</p><p>Throughout the Yugoslav era, Spartak alternated between the first and second divisions. While the club never won the national championship, it maintained a reputation for developing local talent and contributing players to higher levels of Yugoslav football. One of its notable achievements during this period was reaching the Yugoslav Cup final in the early 1990s, where it finished as runner-up after losing heavily to Partizan. Despite this, Spartak remained a stable and recognizable name in Serbian football.</p><p>After the breakup of Yugoslavia, Spartak continued competing in the football system of FR Yugoslavia and later Serbia. The club faced periods of decline and financial instability, including relegations to lower divisions, but managed to return to the top flight in the late 2000s after restructuring. In modern times, FK Spartak Subotica competes in the Serbian SuperLiga, and while it is not among the dominant clubs, it is known for its solid league presence, youth development, and occasional strong performances in domestic competitions.</p>",
+        "founded_at": "1921-04-21",
+        "destroyed_at": "",
+        "stadium": "Subotica City Stadium, Cap. 13,000",
+        "city": "Subotica"
+    },
+    {
+        "name": "FK Napredak Kruševac",
+        "description": "Serbia · Founded: 1946",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "Čarapani",
+        "content": "<p>FK Napredak Kruševac is a Serbian football club based in Kruševac, founded on 8 December 1946 through the merger of three local teams: Zakić, Badža, and 14. Oktobar. The club played its first official match in early 1947 and quickly became part of the Yugoslav football system. After early promotion to the top division in 1949, Napredak experienced relegation and spent much of its early history moving between the first and second tiers of Yugoslav football.</p><p>The club returned to the Yugoslav First League multiple times, with one of its most notable periods coming in the late 1970s and early 1980s. During this era, Napredak achieved strong league performances, including a high finish that earned qualification for the UEFA Cup, marking its first participation in European competition. However, the team often struggled to maintain consistency at the top level and was frequently relegated after promotions, earning a reputation as a “yo-yo” club.</p><p>In the modern era, Napredak continued to compete across changing national systems following the breakup of Yugoslavia and later the formation of Serbia and Montenegro. One of the club’s biggest achievements came in 2000, when it reached the Yugoslav Cup final and qualified again for European competition. After several promotions and relegations in the 2000s and 2010s, the club established itself as a regular participant in Serbian professional football, competing mainly in the top two tiers and maintaining its status as an important regional club.</p>",
+        "founded_at": "1946-12-08",
+        "destroyed_at": "",
+        "stadium": "Mladost Stadium, Cap. 10,331",
+        "city": "Kruševac"
+    },
+    {
+        "name": "FK Budućnost Banatski Dvor",
+        "description": "Serbia · Founded: 1929",
+        "country_id": [47, 60],
+        "primary_country_id": 47,
+        "nickname": "",
+        "content": "<p>FK Budućnost Banatski Dvor was a Serbian football club based in Banatski Dvor, Vojvodina, founded in 1929. For much of its early history, the club competed in lower regional leagues and remained relatively modest in status within Yugoslav football. Its rise began in the 1990s under the ownership and leadership of businessman Mirko Vučurević, when the club started a rapid climb through the league system.</p><p>During the mid-to-late 1990s, Budućnost achieved a remarkable sequence of consecutive promotions, moving from lower regional competitions to the higher tiers of Serbian football. By the early 2000s, the club had reached the Second League of FR Yugoslavia and soon established itself as a competitive side at that level. It also showed strong performances in the national cup, reaching the later stages and proving itself capable of competing with more established clubs.</p><p>The peak of FK Budućnost Banatski Dvor came in the early 2000s when it reached the Serbia and Montenegro Cup final in the 2003–04 season, where it lost to Red Star Belgrade. This achievement qualified the club for European competition, marking its only appearance in UEFA tournaments. Shortly after, the club earned promotion to the top division but was dissolved in 2006 when it merged with FK Proleter Zrenjanin to form FK Banat Zrenjanin, ending its independent existence.</p>",
+        "founded_at": "1929-00-00",
+        "destroyed_at": "2006-00-00",
+        "stadium": "Stadion Mirko Vučurević, Cap. 2,500",
+        "city": "Banatski Dvor"
     }
 ]

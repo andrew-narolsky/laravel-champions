@@ -46,7 +46,8 @@
     {
         "name": "FK Zeta",
         "description": "Montenegro · Founded: 1927",
-        "country_id": 35,
+        "country_id": [35, 60],
+        "primary_country_id": 35,
         "nickname": "Vukovi",
         "content": "<p>FK Zeta is a Montenegrin football club based in Golubovci, near Podgorica, founded in 1927. Throughout its early history, the club went through several name changes before becoming known as Zeta. For many decades, it competed mainly in lower-tier and regional leagues within the former Yugoslav football system, gradually building its reputation as a stable provincial club.</p><p>The club’s most successful period began in the late 1990s and early 2000s, when it rose through the Yugoslav league system and eventually reached the top division. After Montenegro became independent in 2006, FK Zeta became part of the newly formed Montenegrin First League and achieved historic success by winning the inaugural league title in the 2006–07 season. This remains its greatest achievement to date, along with several strong domestic campaigns and qualifications for European competitions.</p><p>In the following years, FK Zeta continued to compete in the top flight and participated in UEFA qualifying rounds, occasionally achieving notable results on the international stage. However, the club later experienced a decline in performance and was relegated from the top division. Despite this, Zeta remains an important part of Montenegrin football history, known for its role in developing players and for its early success in the post-independence era.</p>",
         "founded_at": "1927-00-00",
