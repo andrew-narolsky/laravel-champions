@@ -39,7 +39,11 @@ function animateCounters() {
             const eased = 1 - Math.pow(1 - progress, 3);
             const current = Math.round(eased * target);
 
-            el.textContent = current + suffix;
+            if (progress >= 1) {
+                el.textContent = el.dataset.formatted || current + suffix;
+            } else {
+                el.textContent = current;
+            }
 
             if (progress < 1) requestAnimationFrame(tick);
         }
