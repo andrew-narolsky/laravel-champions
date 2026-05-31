@@ -98,7 +98,7 @@
                     </text>
                 </svg>
             </a>
-            <span class="footer-copy">© 2026 Football Champions. All rights reserved.</span>
+            <span class="footer-copy">© {{ date('Y') }} Football Champions</span>
         </div>
     </div>
 </footer>

@@ -115,62 +115,62 @@
             <div class="swiper winners-swiper">
                 <div class="swiper-wrapper">
 
-                    <a class="swiper-slide sc-v2" href="countries/england/tournaments/premier-league/">
-                        <div class="sc-v2-bg" style="background-color:#C8102E; background-image:url({{ asset('build/images/liverpool.webp') }});"></div>
+                    <a class="swiper-slide sc-v2" href="/competition/premier-league">
+                        <div class="sc-v2-bg" style="background-color:#C8102E; background-image:url({{ asset('build/images/arsenal.webp') }});"></div>
                         <div class="sc-v2-overlay">
                             <div class="sc-v2-content">
                                 <span class="sc-v2-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
                                 <div class="sc-v2-tournament">Premier League</div>
-                                <div class="sc-v2-club">Liverpool</div>
-                                <div class="sc-v2-season">2024/25</div>
+                                <div class="sc-v2-club">Arsenal</div>
+                                <div class="sc-v2-season">2025/26</div>
                             </div>
                         </div>
                     </a>
 
-                    <a class="swiper-slide sc-v2" href="countries/spain/tournaments/la-liga/">
+                    <a class="swiper-slide sc-v2" href="/competition/la-liga">
                         <div class="sc-v2-bg" style="background-color:#A50044; background-image:url({{ asset('build/images/barcelona.webp') }});"></div>
                         <div class="sc-v2-overlay">
                             <div class="sc-v2-content">
                                 <span class="sc-v2-flag">🇪🇸</span>
                                 <div class="sc-v2-tournament">La Liga</div>
                                 <div class="sc-v2-club">Barcelona</div>
-                                <div class="sc-v2-season">2024/25</div>
+                                <div class="sc-v2-season">2025/26</div>
                             </div>
                         </div>
                     </a>
 
-                    <a class="swiper-slide sc-v2" href="countries/germany/tournaments/bundesliga/">
+                    <a class="swiper-slide sc-v2" href="/competition/bundesliga">
                         <div class="sc-v2-bg" style="background-color:#DC052D; background-image:url({{ asset('build/images/bayern.webp') }});"></div>
                         <div class="sc-v2-overlay">
                             <div class="sc-v2-content">
                                 <span class="sc-v2-flag">🇩🇪</span>
                                 <div class="sc-v2-tournament">Bundesliga</div>
                                 <div class="sc-v2-club">Bayern Munich</div>
-                                <div class="sc-v2-season">2024/25</div>
+                                <div class="sc-v2-season">2025/26</div>
                             </div>
                         </div>
                     </a>
 
-                    <a class="swiper-slide sc-v2" href="countries/france/tournaments/ligue-1/">
+                    <a class="swiper-slide sc-v2" href="/competition/ligue-1">
                         <div class="sc-v2-bg" style="background-color:#004170; background-image:url({{ asset('build/images/psg.webp') }});"></div>
                         <div class="sc-v2-overlay">
                             <div class="sc-v2-content">
                                 <span class="sc-v2-flag">🇫🇷</span>
                                 <div class="sc-v2-tournament">Ligue 1</div>
                                 <div class="sc-v2-club">PSG</div>
-                                <div class="sc-v2-season">2024/25</div>
+                                <div class="sc-v2-season">2025/26</div>
                             </div>
                         </div>
                     </a>
 
-                    <a class="swiper-slide sc-v2" href="countries/italy/tournaments/serie-a/">
-                        <div class="sc-v2-bg" style="background-color:#12A0C4; background-image:url({{ asset('build/images/napoli.webp') }});"></div>
+                    <a class="swiper-slide sc-v2" href="/competition/serie-a">
+                        <div class="sc-v2-bg" style="background-color:#12A0C4; background-image:url({{ asset('build/images/inter.webp') }});"></div>
                         <div class="sc-v2-overlay">
                             <div class="sc-v2-content">
                                 <span class="sc-v2-flag">🇮🇹</span>
                                 <div class="sc-v2-tournament">Serie A</div>
-                                <div class="sc-v2-club">Napoli</div>
-                                <div class="sc-v2-season">2024/25</div>
+                                <div class="sc-v2-club">Inter</div>
+                                <div class="sc-v2-season">2025/26</div>
                             </div>
                         </div>
                     </a>

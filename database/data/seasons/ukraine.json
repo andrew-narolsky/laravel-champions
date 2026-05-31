@@ -402,8 +402,8 @@
             "score": null,
             "places": {
                 "champion": ["FC Shakhtar Donetsk"],
-                "runner_up": [],
-                "third_place": []
+                "runner_up": ["FC LNZ Cherkasy"],
+                "third_place": ["FC Polissya Zhytomyr"]
             }
         }
     },
@@ -756,6 +756,17 @@
             "places": {
                 "champion": ["FC Shakhtar Donetsk"],
                 "runner_up": ["FC Dynamo Kyiv"]
+            }
+        }
+    },
+    {
+        "name": "2025-26",
+        "competition_id": 148,
+        "result": {
+            "score": "3-1",
+            "places": {
+                "champion": ["FC Dynamo Kyiv"],
+                "runner_up": ["FC Chernihiv"]
             }
         }
     }
