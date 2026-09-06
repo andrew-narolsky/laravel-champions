@@ -74,7 +74,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin -
 # --------------------------------------------------
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
     && apt-get install -y nodejs \
-    && npm install -g npm@latest svgo
+    && npm install -g svgo
 
 # --------------------------------------------------
 # User (laradock)
