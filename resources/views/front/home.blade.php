@@ -1,7 +1,7 @@
 @extends('layouts.front')
 
 @section('meta')
-    <title>Football Champions — European Football Tournaments</title>
+    <title>Champions Review — European Football Tournaments</title>
     <meta name="description" content="Information about European football tournaments: leagues, cups, and super cups. Season winners, club and tournament statistics." />
 @endsection
 
