@@ -6,6 +6,8 @@
 
     @yield('meta')
 
+    <link rel="canonical" href="@yield('canonical', url()->current())" />
+
     <link rel="icon" type="image/png" href="{{ asset('build/favicon/favicon-96x96.png') }}" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="{{ asset('build/favicon/favicon.svg') }}" />
     <link rel="shortcut icon" href="{{ asset('build/favicon/favicon.ico') }}" />
