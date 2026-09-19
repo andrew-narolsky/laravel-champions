@@ -4,6 +4,7 @@ namespace App\Models;
 
 use App\Enums\CompetitionType;
 use App\Traits\HasAttachments;
+use App\Traits\HasSlugRedirects;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
@@ -11,6 +12,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Competition extends Model
 {
     use HasAttachments;
+    use HasSlugRedirects;
 
     const string MODULE_NAME = 'competitions';
 
@@ -37,5 +39,10 @@ class Competition extends Model
     public function country(): BelongsTo
     {
         return $this->belongsTo(Country::class);
+    }
+
+    public static function slugRedirectRouteName(): string
+    {
+        return 'competition.show';
     }
 }

@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use App\Traits\HasAttachments;
+use App\Traits\HasSlugRedirects;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasMany;
@@ -10,6 +11,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Country extends Model
 {
     use HasAttachments;
+    use HasSlugRedirects;
 
     const string MODULE_NAME = 'countries';
 
@@ -30,5 +32,10 @@ class Country extends Model
     public function competitions(): HasMany
     {
         return $this->hasMany(Competition::class);
+    }
+
+    public static function slugRedirectRouteName(): string
+    {
+        return 'country.show';
     }
 }

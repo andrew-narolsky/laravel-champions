@@ -6,6 +6,9 @@
 
     @yield('meta')
 
+    <meta property="og:site_name" content="Champions Review" />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link rel="canonical" href="@yield('canonical', url()->current())" />
 
     <link rel="icon" type="image/png" href="{{ asset('build/favicon/favicon-96x96.png') }}" sizes="96x96" />

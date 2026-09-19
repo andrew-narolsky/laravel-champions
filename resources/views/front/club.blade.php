@@ -2,11 +2,43 @@
 
 @php
     [$year, $detail] = $club->founded_date_parts ?? [null, null];
+
+    $metaTitle = "{$club->name} Football Club — History, Trophies & Statistics";
+    $metaDescription = "Discover {$club->name}: club history, stadium, honours, season results and all-time statistics. Founded in {$year}" . ($club->city ? ", based in {$club->city}" : '') . '.';
+    $ogImage = $club->attachment?->getFileUrl() ?? asset('build/images/champions.webp');
+
+    $clubJsonLd = array_filter([
+        '@context' => 'https://schema.org',
+        '@type' => 'SportsTeam',
+        'name' => $club->name,
+        'alternateName' => $club->nickname ?: null,
+        'sport' => 'Football',
+        'url' => route('club.show', $club),
+        'logo' => $club->attachment?->getFileUrl(),
+        'foundingDate' => $year ?: null,
+    ]);
 @endphp
 
 @section('meta')
-    <title>{{ $club->name }} Football Club — History, Trophies & Statistics</title>
-    <meta name="description" content="Discover {{ $club->name }}: club history, stadium, honours, season results and all-time statistics. Founded in {{ $year }}{{ $club->city ? ', based in ' . $club->city : '' }}." />
+    <title>{{ $metaTitle }}</title>
+    <meta name="description" content="{{ $metaDescription }}" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ route('club.show', $club) }}" />
+    <meta property="og:title" content="{{ $metaTitle }}" />
+    <meta property="og:description" content="{{ $metaDescription }}" />
+    <meta property="og:image" content="{{ $ogImage }}" />
+    <meta name="twitter:title" content="{{ $metaTitle }}" />
+    <meta name="twitter:description" content="{{ $metaDescription }}" />
+    <meta name="twitter:image" content="{{ $ogImage }}" />
+
+    @include('front.partials.breadcrumb-jsonld', ['items' => [
+        ['name' => 'Home', 'url' => url('/')],
+        ['name' => $club->country->name, 'url' => route('country.show', $club->country)],
+        ['name' => $club->name, 'url' => route('club.show', $club)],
+    ]])
+
+    <script type="application/ld+json">{!! json_encode($clubJsonLd, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}</script>
 @endsection
 
 @section('content')

@@ -6,6 +6,7 @@ use App\Enums\SeasonPosition;
 use App\Services\DateParserService;
 use App\Services\StatsService;
 use App\Traits\HasAttachments;
+use App\Traits\HasSlugRedirects;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -14,6 +15,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 class Club extends Model
 {
     use HasAttachments;
+    use HasSlugRedirects;
 
     const string MODULE_NAME = 'clubs';
 
@@ -130,5 +132,10 @@ class Club extends Model
     {
         return app(DateParserService::class)
             ->parse($this->{$field});
+    }
+
+    public static function slugRedirectRouteName(): string
+    {
+        return 'club.show';
     }
 }

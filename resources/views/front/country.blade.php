@@ -1,8 +1,28 @@
 @extends('layouts.front')
 
+@php
+    $metaTitle = "Football in {$country->name} — Clubs, Competitions & Champions";
+    $metaDescription = "Explore football in {$country->name}: clubs, leagues, cups and super cups. View champions, season results, statistics and complete competition history.";
+    $ogImage = $country->attachment?->getFileUrl() ?? asset('build/images/champions.webp');
+@endphp
+
 @section('meta')
-    <title>Football in {{ $country->name }} — Clubs, Competitions & Champions</title>
-    <meta name="description" content="Explore football in {{ $country->name }}: clubs, leagues, cups and super cups. View champions, season results, statistics and complete competition history." />
+    <title>{{ $metaTitle }}</title>
+    <meta name="description" content="{{ $metaDescription }}" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ route('country.show', $country) }}" />
+    <meta property="og:title" content="{{ $metaTitle }}" />
+    <meta property="og:description" content="{{ $metaDescription }}" />
+    <meta property="og:image" content="{{ $ogImage }}" />
+    <meta name="twitter:title" content="{{ $metaTitle }}" />
+    <meta name="twitter:description" content="{{ $metaDescription }}" />
+    <meta name="twitter:image" content="{{ $ogImage }}" />
+
+    @include('front.partials.breadcrumb-jsonld', ['items' => [
+        ['name' => 'Home', 'url' => url('/')],
+        ['name' => $country->name, 'url' => route('country.show', $country)],
+    ]])
 @endsection
 
 @section('content')

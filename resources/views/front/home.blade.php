@@ -3,6 +3,15 @@
 @section('meta')
     <title>Champions Review — European Football Tournaments</title>
     <meta name="description" content="Information about European football tournaments: leagues, cups, and super cups. Season winners, club and tournament statistics." />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ url()->current() }}" />
+    <meta property="og:title" content="Champions Review — European Football Tournaments" />
+    <meta property="og:description" content="Information about European football tournaments: leagues, cups, and super cups. Season winners, club and tournament statistics." />
+    <meta property="og:image" content="{{ asset('build/images/champions.webp') }}" />
+    <meta name="twitter:title" content="Champions Review — European Football Tournaments" />
+    <meta name="twitter:description" content="Information about European football tournaments: leagues, cups, and super cups. Season winners, club and tournament statistics." />
+    <meta name="twitter:image" content="{{ asset('build/images/champions.webp') }}" />
 @endsection
 
 @section('content')
