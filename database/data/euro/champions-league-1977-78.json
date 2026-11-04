@@ -1,0 +1,654 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1977-78",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "celtic-fc",
+              "away": "jeunesse-esch",
+              "score": "5:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "jeunesse-esch",
+              "away": "celtic-fc",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-wacker-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-basel",
+              "away": "fc-wacker-innsbruck",
+              "score": "1:3"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-wacker-innsbruck",
+              "away": "fc-basel",
+              "score": "0:1",
+              "note": "Played at Stadion Lehen, Salzburg"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "sligo-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "red-star-belgrade",
+              "away": "sligo-rovers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "sligo-rovers-fc",
+              "away": "red-star-belgrade",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "vasas-sc",
+              "away": "borussia-monchengladbach",
+              "score": "0:3"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "borussia-monchengladbach",
+              "away": "vasas-sc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-torpedo-moscow"
+          ],
+          "winner": "sl-benfica",
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "sl-benfica",
+              "away": "fc-torpedo-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-torpedo-moscow",
+              "away": "sl-benfica",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Benfica won 4:1 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "trabzonspor",
+              "away": "boldklubben-1903",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "boldklubben-1903",
+              "away": "trabzonspor",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "halmstads-bk"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "sg-dynamo-dresden",
+              "away": "halmstads-bk",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "halmstads-bk",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "pfc-levski-sofia",
+              "away": "slask-wroclaw",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "slask-wroclaw",
+              "away": "pfc-levski-sofia",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "lillestrom-sk",
+              "away": "afc-ajax",
+              "score": "2:0",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "afc-ajax",
+              "away": "lillestrom-sk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-15",
+              "home": "valur",
+              "away": "glentoran-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-29",
+              "home": "glentoran-fc",
+              "away": "valur",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "ac-omonia",
+              "away": "juventus-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "juventus-fc",
+              "away": "ac-omonia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "kups-kuopio",
+              "away": "club-brugge-kv",
+              "score": "0:4"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "club-brugge-kv",
+              "away": "kups-kuopio",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "floriana-fc",
+              "away": "panathinaikos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "panathinaikos-fc",
+              "away": "floriana-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "fc-nantes"
+          ],
+          "winner": "fc-nantes",
+          "note": "Nantes won on away goals",
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fk-dukla-prague",
+              "away": "fc-nantes",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-nantes",
+              "away": "fk-dukla-prague",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-15",
+              "home": "fc-dinamo-bucuresti",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "atletico-madrid",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-wacker-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "celtic-fc",
+              "away": "fc-wacker-innsbruck",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-wacker-innsbruck",
+              "away": "celtic-fc",
+              "score": "3:0",
+              "note": "Played at Stadion Lehen, Salzburg"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "red-star-belgrade",
+              "away": "borussia-monchengladbach",
+              "score": "0:3"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "borussia-monchengladbach",
+              "away": "red-star-belgrade",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "sl-benfica",
+              "away": "boldklubben-1903",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "boldklubben-1903",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "liverpool-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "5:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "sg-dynamo-dresden",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "pfc-levski-sofia",
+              "away": "afc-ajax",
+              "score": "1:2"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "afc-ajax",
+              "away": "pfc-levski-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "glentoran-fc",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "juventus-fc",
+              "away": "glentoran-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "club-brugge-kv",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "panathinaikos-fc",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "fc-nantes",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "atletico-madrid",
+              "away": "fc-nantes",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "borussia-monchengladbach"
+          ],
+          "winner": "borussia-monchengladbach",
+          "note": "Borussia Mönchengladbach won on away goals",
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "fc-wacker-innsbruck",
+              "away": "borussia-monchengladbach",
+              "score": "3:1"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "borussia-monchengladbach",
+              "away": "fc-wacker-innsbruck",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "juventus-fc"
+          ],
+          "winner": "juventus-fc",
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "juventus-fc",
+              "away": "afc-ajax",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Juventus won 3:0 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "club-brugge-kv",
+              "away": "atletico-madrid",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "atletico-madrid",
+              "away": "club-brugge-kv",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-29",
+              "home": "borussia-monchengladbach",
+              "away": "liverpool-fc",
+              "score": "2:1",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            },
+            {
+              "date": "1978-04-12",
+              "home": "liverpool-fc",
+              "away": "borussia-monchengladbach",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-29",
+              "home": "juventus-fc",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-04-12",
+              "home": "club-brugge-kv",
+              "away": "juventus-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-05-10",
+              "home": "club-brugge-kv",
+              "away": "liverpool-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -108,6 +108,33 @@
         </div>
     </section>
 
+    @if($euroCompetitions->count())
+        <!-- ═══════════════════════════════════════
+             EUROPEAN CUPS
+        ═══════════════════════════════════════ -->
+        <section class="tournaments-section">
+            <div class="container">
+                <h2 class="section-title">European Cups</h2>
+                <div class="euro-cups-grid">
+                    @foreach($euroCompetitions as $competition)
+                        <a href="{{ route('euro.show', $competition) }}" class="tournament-card">
+                            <div class="tc-icon">
+                                <img src="{{ $competition->attachment?->getFileUrl() ?? asset('build/images/tournaments/cup.svg') }}" width="56" height="56" alt="{{ $competition->name }}" loading="lazy">
+                            </div>
+                            <div class="tc-body">
+                                <span class="tc-type">{{ $competition->seasons_count }} {{ Str::plural('season', $competition->seasons_count) }}</span>
+                                <span class="tc-name">{{ $competition->name }}</span>
+                                @if($competition->description)
+                                    <span class="tc-meta">{{ $competition->description }}</span>
+                                @endif
+                            </div>
+                        </a>
+                    @endforeach
+                </div>
+            </div>
+        </section>
+    @endif
+
     <!-- ═══════════════════════════════════════
          WINNERS SLIDER
     ═══════════════════════════════════════ -->

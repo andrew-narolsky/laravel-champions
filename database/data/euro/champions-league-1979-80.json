@@ -1,0 +1,686 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1979-80",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "dundalk-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-08-29",
+              "home": "dundalk-fc",
+              "away": "linfield-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-09-05",
+              "home": "linfield-fc",
+              "away": "dundalk-fc",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Haarlem Stadion, Haarlem (Netherlands) after Linfield fans rioted at the first leg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "nottingham-forest-fc",
+              "away": "osters-if",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "osters-if",
+              "away": "nottingham-forest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arges-pitesti",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-arges-pitesti",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "aek-athens-fc",
+              "away": "fc-arges-pitesti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "ruch-chorzow"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "bfc-dynamo",
+              "away": "ruch-chorzow",
+              "score": "4:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ruch-chorzow",
+              "away": "bfc-dynamo",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "servette-fc",
+              "away": "ksk-beveren",
+              "score": "3:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ksk-beveren",
+              "away": "servette-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "ujpest-fc",
+              "away": "fk-dukla-prague",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fk-dukla-prague",
+              "away": "ujpest-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "ik-start",
+              "away": "rc-strasbourg",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "rc-strasbourg",
+              "away": "ik-start",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "hjk-helsinki",
+              "away": "afc-ajax",
+              "score": "1:8"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "afc-ajax",
+              "away": "hjk-helsinki",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-boys-differdange",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "red-boys-differdange",
+              "away": "ac-omonia",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ac-omonia",
+              "away": "red-boys-differdange",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fk-partizani",
+              "away": "celtic-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "celtic-fc",
+              "away": "fk-partizani",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "dundalk-fc",
+              "away": "hibernians-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-09-26",
+              "home": "hibernians-fc",
+              "away": "dundalk-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-porto",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ac-milan",
+              "away": "fc-porto",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "pfc-levski-sofia",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "real-madrid-cf",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "valur",
+              "away": "hamburger-sv",
+              "score": "0:3"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "hamburger-sv",
+              "away": "valur",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "liverpool-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-dinamo-tbilisi",
+              "away": "liverpool-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "vejle-boldklub",
+              "away": "fk-austria-wien",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fk-austria-wien",
+              "away": "vejle-boldklub",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "hnk-hajduk-split",
+              "away": "trabzonspor",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "trabzonspor",
+              "away": "hnk-hajduk-split",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "fc-arges-pitesti"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "nottingham-forest-fc",
+              "away": "fc-arges-pitesti",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-arges-pitesti",
+              "away": "nottingham-forest-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "bfc-dynamo",
+              "away": "servette-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "servette-fc",
+              "away": "bfc-dynamo",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fk-dukla-prague",
+              "away": "rc-strasbourg",
+              "score": "1:0",
+              "note": "Played at Na Litavce, Příbram"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "rc-strasbourg",
+              "away": "fk-dukla-prague",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "afc-ajax",
+              "away": "ac-omonia",
+              "score": "10:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "ac-omonia",
+              "away": "afc-ajax",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "celtic-fc",
+              "away": "dundalk-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "dundalk-fc",
+              "away": "celtic-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "real-madrid-cf"
+          ],
+          "winner": "real-madrid-cf",
+          "note": "Real Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-porto",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "real-madrid-cf",
+              "away": "fc-porto",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "hamburger-sv",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-dinamo-tbilisi",
+              "away": "hamburger-sv",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "vejle-boldklub",
+              "away": "hnk-hajduk-split",
+              "score": "0:3"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "hnk-hajduk-split",
+              "away": "vejle-boldklub",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "nottingham-forest-fc",
+              "away": "bfc-dynamo",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "bfc-dynamo",
+              "away": "nottingham-forest-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "rc-strasbourg",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "afc-ajax",
+              "away": "rc-strasbourg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "celtic-fc",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "real-madrid-cf",
+              "away": "celtic-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "hnk-hajduk-split"
+          ],
+          "winner": "hamburger-sv",
+          "note": "Hamburg won on away goals",
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "hamburger-sv",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "hnk-hajduk-split",
+              "away": "hamburger-sv",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "nottingham-forest-fc",
+              "away": "afc-ajax",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-04-23",
+              "home": "afc-ajax",
+              "away": "nottingham-forest-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "real-madrid-cf",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-04-23",
+              "home": "hamburger-sv",
+              "away": "real-madrid-cf",
+              "score": "5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1980-05-28",
+              "home": "nottingham-forest-fc",
+              "away": "hamburger-sv",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Santiago Bernabéu Stadium, Madrid"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

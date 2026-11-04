@@ -1,0 +1,634 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1965-66",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "keflavik",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-29",
+              "home": "keflavik",
+              "away": "ferencvarosi-tc",
+              "score": "1:4",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1965-09-08",
+              "home": "ferencvarosi-tc",
+              "away": "keflavik",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyn-fotball",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-31",
+              "home": "lyn-fotball",
+              "away": "derry-city-fc",
+              "score": "5:3"
+            },
+            {
+              "date": "1965-09-09",
+              "home": "derry-city-fc",
+              "away": "lyn-fotball",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-08",
+              "home": "feyenoord",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1965-09-22",
+              "home": "real-madrid-cf",
+              "away": "feyenoord",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "kilmarnock-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-08",
+              "home": "kf-tirana",
+              "away": "kilmarnock-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-09-29",
+              "home": "kilmarnock-fc",
+              "away": "kf-tirana",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-08",
+              "home": "fenerbahce-sk",
+              "away": "rsc-anderlecht",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-09-15",
+              "home": "rsc-anderlecht",
+              "away": "fenerbahce-sk",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-12",
+              "home": "djurgardens-if",
+              "away": "pfc-levski-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1965-10-03",
+              "home": "pfc-levski-sofia",
+              "away": "djurgardens-if",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "drumcondra-fc",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-15",
+              "home": "drumcondra-fc",
+              "away": "1-fc-frankfurt",
+              "score": "1:0"
+            },
+            {
+              "date": "1965-09-22",
+              "home": "1-fc-frankfurt",
+              "away": "drumcondra-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-15",
+              "home": "linzer-ask",
+              "away": "gornik-zabrze",
+              "score": "1:3"
+            },
+            {
+              "date": "1965-09-22",
+              "home": "gornik-zabrze",
+              "away": "linzer-ask",
+              "score": "2:1",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-22",
+              "home": "fk-partizan",
+              "away": "fc-nantes",
+              "score": "2:0"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "fc-nantes",
+              "away": "fk-partizan",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-22",
+              "home": "hjk-helsinki",
+              "away": "manchester-united-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1965-10-06",
+              "home": "manchester-united-fc",
+              "away": "hjk-helsinki",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-22",
+              "home": "fc-lausanne-sport",
+              "away": "ac-sparta-prague",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-09-29",
+              "home": "ac-sparta-prague",
+              "away": "fc-lausanne-sport",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-26",
+              "home": "panathinaikos-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1965-10-10",
+              "home": "sliema-wanderers-fc",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "boldklubben-1909"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-28",
+              "home": "fc-dinamo-bucuresti",
+              "away": "boldklubben-1909",
+              "score": "4:0"
+            },
+            {
+              "date": "1965-10-06",
+              "home": "boldklubben-1909",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-dudelange",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-30",
+              "home": "stade-dudelange",
+              "away": "sl-benfica",
+              "score": "0:8",
+              "note": "Played at Stade de la Frontière, Esch-sur-Alzette"
+            },
+            {
+              "date": "1965-10-05",
+              "home": "sl-benfica",
+              "away": "stade-dudelange",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1965-10-06",
+              "home": "apoel-fc",
+              "away": "sv-werder-bremen",
+              "score": "0:5",
+              "note": "Played at Volksparkstadion, Hamburg"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "sv-werder-bremen",
+              "away": "apoel-fc",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-partizan",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-09",
+              "home": "fk-partizan",
+              "away": "sv-werder-bremen",
+              "score": "3:0"
+            },
+            {
+              "date": "1965-11-17",
+              "home": "sv-werder-bremen",
+              "away": "fk-partizan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-10",
+              "home": "pfc-levski-sofia",
+              "away": "sl-benfica",
+              "score": "2:2"
+            },
+            {
+              "date": "1965-12-08",
+              "home": "sl-benfica",
+              "away": "pfc-levski-sofia",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-10",
+              "home": "ferencvarosi-tc",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-11-17",
+              "home": "panathinaikos-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-17",
+              "home": "1-fc-frankfurt",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1965-12-01",
+              "home": "manchester-united-fc",
+              "away": "1-fc-frankfurt",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kilmarnock-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-17",
+              "home": "kilmarnock-fc",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1965-12-01",
+              "home": "real-madrid-cf",
+              "away": "kilmarnock-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "derry-city-fc"
+          ],
+          "winner": "rsc-anderlecht",
+          "note": "Second leg not played: Derry City forfeited after the IFA ruled the Brandywell unfit and the club refused to move the match",
+          "matches": [
+            {
+              "date": "1965-11-23",
+              "home": "rsc-anderlecht",
+              "away": "derry-city-fc",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-24",
+              "home": "ac-sparta-prague",
+              "away": "gornik-zabrze",
+              "score": "3:0"
+            },
+            {
+              "date": "1965-11-28",
+              "home": "gornik-zabrze",
+              "away": "ac-sparta-prague",
+              "score": "1:2",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1965-12-01",
+              "home": "fc-dinamo-bucuresti",
+              "away": "inter-milan",
+              "score": "2:1"
+            },
+            {
+              "date": "1965-12-16",
+              "home": "inter-milan",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1966-02-02",
+              "home": "manchester-united-fc",
+              "away": "sl-benfica",
+              "score": "3:2"
+            },
+            {
+              "date": "1966-03-09",
+              "home": "sl-benfica",
+              "away": "manchester-united-fc",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1966-02-23",
+              "home": "rsc-anderlecht",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-03-09",
+              "home": "real-madrid-cf",
+              "away": "rsc-anderlecht",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1966-02-23",
+              "home": "inter-milan",
+              "away": "ferencvarosi-tc",
+              "score": "4:0"
+            },
+            {
+              "date": "1966-03-02",
+              "home": "ferencvarosi-tc",
+              "away": "inter-milan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1966-03-02",
+              "home": "ac-sparta-prague",
+              "away": "fk-partizan",
+              "score": "4:1"
+            },
+            {
+              "date": "1966-03-09",
+              "home": "fk-partizan",
+              "away": "ac-sparta-prague",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1966-04-13",
+              "home": "real-madrid-cf",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-04-20",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-04-13",
+              "home": "fk-partizan",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-04-20",
+              "home": "manchester-united-fc",
+              "away": "fk-partizan",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1966-05-11",
+              "home": "real-madrid-cf",
+              "away": "fk-partizan",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

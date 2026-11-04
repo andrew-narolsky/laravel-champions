@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\Club;
 use App\Models\Competition;
 use App\Models\Country;
+use App\Models\EuroCompetition;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 
@@ -68,9 +69,25 @@ class SearchController extends Controller
                 'url' => route('competition.show', $competition->slug),
             ]);
 
+        $euroCompetitions = EuroCompetition::query()
+            ->where('name', 'like', $like)
+            ->with('attachment')
+            ->orderBy('name')
+            ->limit(self::LIMIT_PER_TYPE)
+            ->get()
+            ->map(fn (EuroCompetition $competition) => [
+                'type' => 'competition',
+                'label' => 'Tournament',
+                'name' => $competition->name,
+                'subtitle' => 'Europe',
+                'image' => $competition->attachment?->getFileUrl(),
+                'url' => route('euro.show', $competition->slug),
+            ]);
+
         $results = $clubs
             ->concat($countries)
             ->concat($competitions)
+            ->concat($euroCompetitions)
             ->sortBy('name')
             ->values();
 

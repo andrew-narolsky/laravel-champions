@@ -5,6 +5,7 @@ namespace App\Console\Commands;
 use App\Models\Club;
 use App\Models\Competition;
 use App\Models\Country;
+use App\Models\EuroCompetition;
 use Illuminate\Console\Command;
 use Spatie\Sitemap\Sitemap;
 use Spatie\Sitemap\Tags\Url;
@@ -46,6 +47,27 @@ class GenerateSitemap extends Command
                         ->setChangeFrequency(Url::CHANGE_FREQUENCY_WEEKLY)
                 );
                 $urls++;
+            });
+
+        EuroCompetition::query()->select(['id', 'slug', 'updated_at'])->with('seasons:id,euro_competition_id,name,updated_at')->orderBy('slug')
+            ->cursor()->each(function (EuroCompetition $competition) use ($sitemap, &$urls) {
+                $sitemap->add(
+                    Url::create(route('euro.show', $competition->slug))
+                        ->setLastModificationDate($competition->updated_at)
+                        ->setPriority(0.7)
+                        ->setChangeFrequency(Url::CHANGE_FREQUENCY_WEEKLY)
+                );
+                $urls++;
+
+                foreach ($competition->seasons as $season) {
+                    $sitemap->add(
+                        Url::create(route('euro.season', [$competition->slug, $season->name]))
+                            ->setLastModificationDate($season->updated_at)
+                            ->setPriority(0.6)
+                            ->setChangeFrequency(Url::CHANGE_FREQUENCY_MONTHLY)
+                    );
+                    $urls++;
+                }
             });
 
         Club::query()->select(['id', 'slug', 'updated_at'])->orderBy('slug')

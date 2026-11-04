@@ -1,0 +1,696 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1978-79",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1978-08-15",
+              "home": "as-monaco-fc",
+              "away": "fcsb",
+              "score": "3:0"
+            },
+            {
+              "date": "1978-08-30",
+              "home": "fcsb",
+              "away": "as-monaco-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "aek-athens-fc",
+              "away": "fc-porto",
+              "score": "6:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fc-porto",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "nottingham-forest-fc",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "liverpool-fc",
+              "away": "nottingham-forest-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "real-madrid-cf",
+              "away": "fc-progres-niederkorn",
+              "score": "5:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fc-progres-niederkorn",
+              "away": "real-madrid-cf",
+              "score": "0:7",
+              "note": "Played at Stade du Thillenberg, Differdange"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "grasshopper-club",
+              "away": "valletta-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "valletta-fc",
+              "away": "grasshopper-club",
+              "score": "3:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "odense-boldklub",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "odense-boldklub",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "ia-akranes"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "1-fc-koln",
+              "away": "ia-akranes",
+              "score": "4:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "ia-akranes",
+              "away": "1-fc-koln",
+              "score": "1:1",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "juventus-fc",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "rangers-fc",
+              "away": "juventus-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fenerbahce-sk",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "psv-eindhoven",
+              "away": "fenerbahce-sk",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "kf-vllaznia",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fk-austria-wien",
+              "away": "kf-vllaznia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "linfield-fc",
+              "away": "lillestrom-sk",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "lillestrom-sk",
+              "away": "linfield-fc",
+              "score": "1:0",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "bohemian-fc"
+          ],
+          "winner": "bohemian-fc",
+          "note": "Bohemians won on away goals",
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "ac-omonia",
+              "away": "bohemian-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "bohemian-fc",
+              "away": "ac-omonia",
+              "score": "1:0",
+              "note": "Played at Flower Lodge, Cork"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "sg-dynamo-dresden"
+          ],
+          "winner": "sg-dynamo-dresden",
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fk-partizan",
+              "away": "sg-dynamo-dresden",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "sg-dynamo-dresden",
+              "away": "fk-partizan",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Dynamo Dresden won 5:4 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-zbrojovka-brno",
+              "away": "ujpest-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "ujpest-fc",
+              "away": "fc-zbrojovka-brno",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "club-brugge-kv",
+              "away": "wisla-krakow",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "wisla-krakow",
+              "away": "club-brugge-kv",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-haka",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1",
+              "note": "Played at Ratina Stadium, Tampere (no floodlights in Valkeakoski)"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-haka",
+              "score": "3:1",
+              "note": "Played at Metalist Stadium, Kharkiv (Central Stadium in Kyiv under reconstruction)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "malmo-ff",
+              "away": "as-monaco-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "as-monaco-fc",
+              "away": "malmo-ff",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "nottingham-forest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "aek-athens-fc",
+              "away": "nottingham-forest-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "nottingham-forest-fc",
+              "away": "aek-athens-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "grasshopper-club"
+          ],
+          "winner": "grasshopper-club",
+          "note": "Grasshopper won on away goals",
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "real-madrid-cf",
+              "away": "grasshopper-club",
+              "score": "3:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "grasshopper-club",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "1-fc-koln",
+              "score": "0:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "1-fc-koln",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "rangers-fc",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "psv-eindhoven",
+              "away": "rangers-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fk-austria-wien",
+              "away": "lillestrom-sk",
+              "score": "4:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "lillestrom-sk",
+              "away": "fk-austria-wien",
+              "score": "0:0",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "bohemian-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "0:0",
+              "note": "Played at Oriel Park, Dundalk"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "sg-dynamo-dresden",
+              "away": "bohemian-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "wisla-krakow"
+          ],
+          "winner": "wisla-krakow",
+          "note": "Wisła Kraków won on away goals",
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-zbrojovka-brno",
+              "away": "wisla-krakow",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "wisla-krakow",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-dynamo-kyiv",
+              "away": "malmo-ff",
+              "score": "0:0",
+              "note": "Played at Metalist Stadium, Kharkiv (Central Stadium in Kyiv under reconstruction)"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "malmo-ff",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "nottingham-forest-fc",
+              "away": "grasshopper-club",
+              "score": "4:1"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "grasshopper-club",
+              "away": "nottingham-forest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-06",
+              "home": "1-fc-koln",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-03-22",
+              "home": "rangers-fc",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "fk-austria-wien",
+              "away": "sg-dynamo-dresden",
+              "score": "3:1"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "sg-dynamo-dresden",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "wisla-krakow",
+              "away": "malmo-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "malmo-ff",
+              "away": "wisla-krakow",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1979-04-11",
+              "home": "nottingham-forest-fc",
+              "away": "1-fc-koln",
+              "score": "3:3"
+            },
+            {
+              "date": "1979-04-25",
+              "home": "1-fc-koln",
+              "away": "nottingham-forest-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1979-04-11",
+              "home": "fk-austria-wien",
+              "away": "malmo-ff",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-04-25",
+              "home": "malmo-ff",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "malmo-ff",
+            "nottingham-forest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-05-30",
+              "home": "malmo-ff",
+              "away": "nottingham-forest-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Olympiastadion, Munich"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

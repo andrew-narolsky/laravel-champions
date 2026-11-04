@@ -1,0 +1,654 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1985-86",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "gornik-zabrze",
+              "away": "fc-bayern-munich",
+              "score": "1:2",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-bayern-munich",
+              "away": "gornik-zabrze",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "bfc-dynamo",
+              "away": "fk-austria-wien",
+              "score": "0:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fk-austria-wien",
+              "away": "bfc-dynamo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "rabat-ajax-fc",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "rabat-ajax-fc",
+              "away": "ac-omonia",
+              "score": "0:5"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "ac-omonia",
+              "away": "rabat-ajax-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "budapest-honved-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "shamrock-rovers-fc",
+              "away": "budapest-honved-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "vejle-boldklub",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fcsb",
+              "away": "vejle-boldklub",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-zenit",
+              "away": "valerenga-fotball",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "valerenga-fotball",
+              "away": "fc-zenit",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kuusysi",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-kuusysi",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fk-sarajevo",
+              "away": "fc-kuusysi",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "linfield-fc",
+              "away": "servette-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "servette-fc",
+              "away": "linfield-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "ia-akranes",
+              "away": "aberdeen-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "aberdeen-fc",
+              "away": "ia-akranes",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "ifk-goteborg",
+              "away": "botev-plovdiv",
+              "score": "3:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "botev-plovdiv",
+              "away": "ifk-goteborg",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fenerbahce-sk",
+              "score": "2:3"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fenerbahce-sk",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fc-barcelona"
+          ],
+          "winner": "fc-barcelona",
+          "note": "Barcelona won on away goals",
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "ac-sparta-prague",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-barcelona",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-porto",
+              "away": "afc-ajax",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "afc-ajax",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hellas-verona-fc",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "hellas-verona-fc",
+              "away": "paok-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "paok-fc",
+              "away": "hellas-verona-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "jeunesse-esch",
+              "away": "juventus-fc",
+              "score": "0:5",
+              "note": "Played at Stade Municipal, Luxembourg City"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "juventus-fc",
+              "away": "jeunesse-esch",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-bayern-munich",
+              "away": "fk-austria-wien",
+              "score": "4:2"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fk-austria-wien",
+              "away": "fc-bayern-munich",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "rsc-anderlecht",
+              "away": "ac-omonia",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "ac-omonia",
+              "away": "rsc-anderlecht",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "budapest-honved-fc",
+              "away": "fcsb",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fcsb",
+              "away": "budapest-honved-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "fc-kuusysi"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-zenit",
+              "away": "fc-kuusysi",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fc-kuusysi",
+              "away": "fc-zenit",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "servette-fc",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "aberdeen-fc",
+              "away": "servette-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "ifk-goteborg",
+              "away": "fenerbahce-sk",
+              "score": "4:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fenerbahce-sk",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-porto"
+          ],
+          "winner": "fc-barcelona",
+          "note": "Barcelona won on away goals",
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-barcelona",
+              "away": "fc-porto",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fc-porto",
+              "away": "fc-barcelona",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hellas-verona-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "hellas-verona-fc",
+              "away": "juventus-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "juventus-fc",
+              "away": "hellas-verona-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "fc-bayern-munich",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "rsc-anderlecht",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fc-kuusysi"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "fcsb",
+              "away": "fc-kuusysi",
+              "score": "0:0"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "fc-kuusysi",
+              "away": "fcsb",
+              "score": "0:1",
+              "note": "Played at Olympic Stadium, Helsinki"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "ifk-goteborg"
+          ],
+          "winner": "ifk-goteborg",
+          "note": "IFK Göteborg won on away goals",
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "aberdeen-fc",
+              "away": "ifk-goteborg",
+              "score": "2:2"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "ifk-goteborg",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "fc-barcelona",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "juventus-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1986-04-02",
+              "home": "rsc-anderlecht",
+              "away": "fcsb",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-04-16",
+              "home": "fcsb",
+              "away": "rsc-anderlecht",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "fc-barcelona"
+          ],
+          "winner": "fc-barcelona",
+          "matches": [
+            {
+              "date": "1986-04-02",
+              "home": "ifk-goteborg",
+              "away": "fc-barcelona",
+              "score": "3:0"
+            },
+            {
+              "date": "1986-04-16",
+              "home": "fc-barcelona",
+              "away": "ifk-goteborg",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "Barcelona won 5:4 on penalties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fcsb"
+          ],
+          "winner": "fcsb",
+          "matches": [
+            {
+              "date": "1986-05-07",
+              "home": "fc-barcelona",
+              "away": "fcsb",
+              "score": "0:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Ramón Sánchez Pizjuán, Seville; Steaua won 2:0 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

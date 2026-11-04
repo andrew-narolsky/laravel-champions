@@ -1,0 +1,689 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1980-81",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-08-16",
+              "home": "budapest-honved-fc",
+              "away": "valletta-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1980-09-03",
+              "home": "valletta-fc",
+              "away": "budapest-honved-fc",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "aberdeen-fc",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fk-austria-wien",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ops-oulu",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ops-oulu",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "liverpool-fc",
+              "away": "ops-oulu",
+              "score": "10:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "nottingham-forest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "pfc-cska-sofia",
+              "away": "nottingham-forest-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "nottingham-forest-fc",
+              "away": "pfc-cska-sofia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "szombierki-bytom"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "trabzonspor",
+              "away": "szombierki-bytom",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "szombierki-bytom",
+              "away": "trabzonspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "olympiacos-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:4"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-bayern-munich",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-dinamo-city",
+              "away": "afc-ajax",
+              "score": "0:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "afc-ajax",
+              "away": "fc-dinamo-city",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ibv-vestmannaeyjar",
+              "away": "fc-banik-ostrava",
+              "score": "1:1",
+              "note": "Played at Kópavogsvöllur, Kópavogur"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-banik-ostrava",
+              "away": "ibv-vestmannaeyjar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "bfc-dynamo",
+              "away": "apoel-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "apoel-fc",
+              "away": "bfc-dynamo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "jeunesse-esch",
+              "away": "fc-spartak-moscow",
+              "score": "0:5"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-spartak-moscow",
+              "away": "jeunesse-esch",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "halmstads-bk",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "halmstads-bk",
+              "away": "esbjerg-fb",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "esbjerg-fb",
+              "away": "halmstads-bk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "limerick-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "limerick-fc",
+              "away": "real-madrid-cf",
+              "score": "1:2",
+              "note": "Played at Lansdowne Road, Dublin"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "real-madrid-cf",
+              "away": "limerick-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "sporting-cp",
+              "away": "budapest-honved-fc",
+              "score": "0:2",
+              "note": "Played at Estádio do Bonfim, Setúbal"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "budapest-honved-fc",
+              "away": "sporting-cp",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "linfield-fc",
+              "away": "fc-nantes",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Haarlem Stadion, Haarlem (Netherlands)"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-nantes",
+              "away": "linfield-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "inter-milan",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "cs-universitatea-craiova",
+              "away": "inter-milan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "club-brugge-kv",
+              "away": "fc-basel",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-basel",
+              "away": "club-brugge-kv",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "viking-fk",
+              "away": "red-star-belgrade",
+              "score": "2:3"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "red-star-belgrade",
+              "away": "viking-fk",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "aberdeen-fc",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "liverpool-fc",
+              "away": "aberdeen-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "szombierki-bytom"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "pfc-cska-sofia",
+              "away": "szombierki-bytom",
+              "score": "4:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "szombierki-bytom",
+              "away": "pfc-cska-sofia",
+              "score": "0:1",
+              "note": "Played at Stadion Ruchu, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-bayern-munich",
+              "away": "afc-ajax",
+              "score": "5:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "afc-ajax",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "bfc-dynamo"
+          ],
+          "winner": "fc-banik-ostrava",
+          "note": "Baník Ostrava won on away goals",
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-banik-ostrava",
+              "away": "bfc-dynamo",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "bfc-dynamo",
+              "away": "fc-banik-ostrava",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-spartak-moscow",
+              "away": "esbjerg-fb",
+              "score": "3:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "esbjerg-fb",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "real-madrid-cf",
+              "away": "budapest-honved-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-11-04",
+              "home": "budapest-honved-fc",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-nantes",
+              "away": "inter-milan",
+              "score": "1:2"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "inter-milan",
+              "away": "fc-nantes",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-basel",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "red-star-belgrade",
+              "away": "fc-basel",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "liverpool-fc",
+              "away": "pfc-cska-sofia",
+              "score": "5:1"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "pfc-cska-sofia",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "fc-bayern-munich",
+              "away": "fc-banik-ostrava",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "fc-banik-ostrava",
+              "away": "fc-bayern-munich",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "fc-spartak-moscow",
+              "away": "real-madrid-cf",
+              "score": "0:0",
+              "note": "Played at Lenin Stadium, Tbilisi"
+            },
+            {
+              "date": "1981-03-19",
+              "home": "real-madrid-cf",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "inter-milan",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "red-star-belgrade",
+              "away": "inter-milan",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-bayern-munich"
+          ],
+          "winner": "liverpool-fc",
+          "note": "Liverpool won on away goals",
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "liverpool-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "fc-bayern-munich",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "real-madrid-cf",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-05-27",
+              "home": "real-madrid-cf",
+              "away": "liverpool-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Parc des Princes, Paris"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

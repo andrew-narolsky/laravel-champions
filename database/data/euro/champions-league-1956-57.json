@@ -1,0 +1,482 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1956-57",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "ca-spora-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1956-08-01",
+              "home": "borussia-dortmund",
+              "away": "ca-spora-luxembourg",
+              "score": "4:3"
+            },
+            {
+              "date": "1956-09-06",
+              "home": "ca-spora-luxembourg",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "1956-09-16",
+              "home": "borussia-dortmund",
+              "away": "ca-spora-luxembourg",
+              "score": "7:0",
+              "note": "Play-off"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1956-08-26",
+              "home": "fc-dinamo-bucuresti",
+              "away": "galatasaray-sk",
+              "score": "3:1"
+            },
+            {
+              "date": "1956-09-30",
+              "home": "galatasaray-sk",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1956-09-12",
+              "home": "rsc-anderlecht",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1956-09-26",
+              "home": "manchester-united-fc",
+              "away": "rsc-anderlecht",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1956-09-12",
+              "home": "sk-slovan-bratislava",
+              "away": "legia-warsaw",
+              "score": "4:0"
+            },
+            {
+              "date": "1956-09-19",
+              "home": "legia-warsaw",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "1956-09-19",
+              "home": "agf-aarhus",
+              "away": "ogc-nice",
+              "score": "1:1",
+              "note": "Played at Idrætsparken, Copenhagen"
+            },
+            {
+              "date": "1956-09-27",
+              "home": "ogc-nice",
+              "away": "agf-aarhus",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1956-09-20",
+              "home": "fc-porto",
+              "away": "athletic-bilbao",
+              "score": "1:2"
+            },
+            {
+              "date": "1956-09-26",
+              "home": "athletic-bilbao",
+              "away": "fc-porto",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1956-10-17",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dinamo-bucuresti",
+              "score": "8:1"
+            },
+            {
+              "date": "1956-12-30",
+              "home": "fc-dinamo-bucuresti",
+              "away": "pfc-cska-sofia",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1956-10-17",
+              "home": "manchester-united-fc",
+              "away": "borussia-dortmund",
+              "score": "3:2"
+            },
+            {
+              "date": "1956-11-21",
+              "home": "borussia-dortmund",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1956-10-24",
+              "home": "sk-slovan-bratislava",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            },
+            {
+              "date": "1956-12-12",
+              "home": "grasshopper-club",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Grünwalder Stadion, Munich"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "1956-10-24",
+              "home": "rangers-fc",
+              "away": "ogc-nice",
+              "score": "2:1"
+            },
+            {
+              "date": "1956-11-14",
+              "home": "ogc-nice",
+              "away": "rangers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1956-11-28",
+              "home": "ogc-nice",
+              "away": "rangers-fc",
+              "score": "3:1",
+              "note": "Play-off, Parc des Princes, Paris",
+              "neutral": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1956-11-01",
+              "home": "real-madrid-cf",
+              "away": "sk-rapid-wien",
+              "score": "4:2"
+            },
+            {
+              "date": "1956-11-14",
+              "home": "sk-rapid-wien",
+              "away": "real-madrid-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "1956-12-13",
+              "home": "real-madrid-cf",
+              "away": "sk-rapid-wien",
+              "score": "2:0",
+              "note": "Play-off"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rapid-jc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1956-11-03",
+              "home": "rapid-jc",
+              "away": "red-star-belgrade",
+              "score": "3:4"
+            },
+            {
+              "date": "1956-11-08",
+              "home": "red-star-belgrade",
+              "away": "rapid-jc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1956-11-21",
+              "home": "acf-fiorentina",
+              "away": "ifk-norrkoping",
+              "score": "1:1"
+            },
+            {
+              "date": "1956-11-28",
+              "home": "ifk-norrkoping",
+              "away": "acf-fiorentina",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Stadio Olimpico, Rome"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1956-11-22",
+              "home": "athletic-bilbao",
+              "away": "budapest-honved-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1956-12-20",
+              "home": "budapest-honved-fc",
+              "away": "athletic-bilbao",
+              "score": "3:3",
+              "neutral": true,
+              "note": "Played at Heysel Stadium, Brussels (Hungarian Revolution)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1957-01-16",
+              "home": "athletic-bilbao",
+              "away": "manchester-united-fc",
+              "score": "5:3"
+            },
+            {
+              "date": "1957-02-06",
+              "home": "manchester-united-fc",
+              "away": "athletic-bilbao",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1957-02-06",
+              "home": "acf-fiorentina",
+              "away": "grasshopper-club",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-02-27",
+              "home": "grasshopper-club",
+              "away": "acf-fiorentina",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "1957-02-14",
+              "home": "real-madrid-cf",
+              "away": "ogc-nice",
+              "score": "3:0"
+            },
+            {
+              "date": "1957-03-14",
+              "home": "ogc-nice",
+              "away": "real-madrid-cf",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1957-02-17",
+              "home": "red-star-belgrade",
+              "away": "pfc-cska-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-02-24",
+              "home": "pfc-cska-sofia",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1957-04-03",
+              "home": "red-star-belgrade",
+              "away": "acf-fiorentina",
+              "score": "0:1"
+            },
+            {
+              "date": "1957-04-18",
+              "home": "acf-fiorentina",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1957-04-11",
+              "home": "real-madrid-cf",
+              "away": "manchester-united-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-04-25",
+              "home": "manchester-united-fc",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1957-05-30",
+              "home": "real-madrid-cf",
+              "away": "acf-fiorentina",
+              "score": "2:0",
+              "neutral": false,
+              "note": "Santiago Bernabéu, Madrid"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

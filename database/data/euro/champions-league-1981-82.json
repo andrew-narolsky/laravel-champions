@@ -1,0 +1,688 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1981-82",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1981-08-26",
+              "home": "as-saint-etienne",
+              "away": "bfc-dynamo",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-01",
+              "home": "bfc-dynamo",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fk-austria-wien",
+              "away": "fk-partizani",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fk-partizani",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-dynamo-kyiv",
+              "away": "trabzonspor",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "trabzonspor",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "fc-zurich"
+          ],
+          "winner": "bfc-dynamo",
+          "note": "BFC Dynamo won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "bfc-dynamo",
+              "away": "fc-zurich",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-zurich",
+              "away": "bfc-dynamo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "aston-villa-fc",
+              "away": "valur",
+              "score": "5:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "valur",
+              "away": "aston-villa-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "widzew-lodz",
+              "away": "rsc-anderlecht",
+              "score": "1:4"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "rsc-anderlecht",
+              "away": "widzew-lodz",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "celtic-fc",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "juventus-fc",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ferencvarosi-tc",
+              "away": "fc-banik-ostrava",
+              "score": "3:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-banik-ostrava",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "hibernians-fc",
+              "away": "red-star-belgrade",
+              "score": "1:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "red-star-belgrade",
+              "away": "hibernians-fc",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ik-start",
+              "away": "az-alkmaar",
+              "score": "1:3"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "az-alkmaar",
+              "away": "ik-start",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ops-oulu",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ops-oulu",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "liverpool-fc",
+              "away": "ops-oulu",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "pfc-cska-sofia",
+              "away": "real-sociedad",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "real-sociedad",
+              "away": "pfc-cska-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progres-niederkorn",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-progres-niederkorn",
+              "away": "glentoran-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "glentoran-fc",
+              "away": "fc-progres-niederkorn",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "athlone-town-afc"
+          ],
+          "winner": "kjobenhavns-boldklub",
+          "note": "KB won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "kjobenhavns-boldklub",
+              "away": "athlone-town-afc",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "athlone-town-afc",
+              "away": "kjobenhavns-boldklub",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "cs-universitatea-craiova",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "olympiacos-fc",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "sl-benfica",
+              "away": "ac-omonia",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "ac-omonia",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "osters-if",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-bayern-munich",
+              "away": "osters-if",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fk-austria-wien",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-dynamo-kyiv",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "aston-villa-fc"
+          ],
+          "winner": "aston-villa-fc",
+          "note": "Aston Villa won on away goals",
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "bfc-dynamo",
+              "away": "aston-villa-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "aston-villa-fc",
+              "away": "bfc-dynamo",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "rsc-anderlecht",
+              "away": "juventus-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "juventus-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fc-banik-ostrava",
+              "away": "red-star-belgrade",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "red-star-belgrade",
+              "away": "fc-banik-ostrava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "az-alkmaar",
+              "away": "liverpool-fc",
+              "score": "2:2",
+              "note": "Played at Olympisch Stadion, Amsterdam"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "liverpool-fc",
+              "away": "az-alkmaar",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "pfc-cska-sofia",
+              "away": "glentoran-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "glentoran-fc",
+              "away": "pfc-cska-sofia",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "kjobenhavns-boldklub",
+              "away": "cs-universitatea-craiova",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "cs-universitatea-craiova",
+              "away": "kjobenhavns-boldklub",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "sl-benfica",
+              "away": "fc-bayern-munich",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-bayern-munich",
+              "away": "sl-benfica",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "fc-dynamo-kyiv",
+              "away": "aston-villa-fc",
+              "score": "0:0",
+              "note": "Played at Lokomotiv Stadium, Simferopol (weather conditions in Kyiv)"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "aston-villa-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "rsc-anderlecht",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "red-star-belgrade",
+              "away": "rsc-anderlecht",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "liverpool-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "pfc-cska-sofia",
+              "away": "liverpool-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "cs-universitatea-craiova",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "fc-bayern-munich",
+              "away": "cs-universitatea-craiova",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "aston-villa-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "rsc-anderlecht",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "pfc-cska-sofia",
+              "away": "fc-bayern-munich",
+              "score": "4:3"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "fc-bayern-munich",
+              "away": "pfc-cska-sofia",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-05-26",
+              "home": "fc-bayern-munich",
+              "away": "aston-villa-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "De Kuip, Rotterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1960-61",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "limerick-fc",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "1960-08-31",
+              "home": "limerick-fc",
+              "away": "bsc-young-boys",
+              "score": "0:5"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "bsc-young-boys",
+              "away": "limerick-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fredrikstad-fk",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1960-08-31",
+              "home": "fredrikstad-fk",
+              "away": "afc-ajax",
+              "score": "4:3"
+            },
+            {
+              "date": "1960-09-07",
+              "home": "afc-ajax",
+              "away": "fredrikstad-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hifk-fotboll",
+            "ifk-malmo"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-01",
+              "home": "hifk-fotboll",
+              "away": "ifk-malmo",
+              "score": "1:3"
+            },
+            {
+              "date": "1960-09-28",
+              "home": "ifk-malmo",
+              "away": "hifk-fotboll",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-de-reims",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-07",
+              "home": "stade-de-reims",
+              "away": "jeunesse-esch",
+              "score": "6:1"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "jeunesse-esch",
+              "away": "stade-de-reims",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-14",
+              "home": "sk-rapid-wien",
+              "away": "besiktas-jk",
+              "score": "4:0"
+            },
+            {
+              "date": "1960-09-28",
+              "home": "besiktas-jk",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-21",
+              "home": "agf-aarhus",
+              "away": "legia-warsaw",
+              "score": "3:0"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "legia-warsaw",
+              "away": "agf-aarhus",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-21",
+              "home": "juventus-fc",
+              "away": "pfc-cska-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "1960-10-12",
+              "home": "pfc-cska-sofia",
+              "away": "juventus-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-28",
+              "home": "red-star-belgrade",
+              "away": "ujpest-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1960-10-12",
+              "home": "ujpest-fc",
+              "away": "red-star-belgrade",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "k-lierse-sk"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-28",
+              "home": "fc-barcelona",
+              "away": "k-lierse-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "k-lierse-sk",
+              "away": "fc-barcelona",
+              "score": "0:3",
+              "note": "Played at Émile Versé Stadium, Brussels"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-29",
+              "home": "heart-of-midlothian-fc",
+              "away": "sl-benfica",
+              "score": "1:2"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "sl-benfica",
+              "away": "heart-of-midlothian-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fc-hradec-kralove"
+          ],
+          "winner": "fc-hradec-kralove",
+          "note": "CCA București withdrawn by the Romanian authorities",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "fc-erzgebirge-aue"
+          ],
+          "winner": "fc-erzgebirge-aue",
+          "note": "Glenavon withdrew: visas refused, neutral venues too costly",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "agf-aarhus",
+            "fredrikstad-fk"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-19",
+              "home": "agf-aarhus",
+              "away": "fredrikstad-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "1960-10-26",
+              "home": "fredrikstad-fk",
+              "away": "agf-aarhus",
+              "score": "0:1",
+              "note": "Played at Bislett Stadion, Oslo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-malmo",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-02",
+              "home": "ifk-malmo",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1960-11-13",
+              "home": "pfc-cska-sofia",
+              "away": "ifk-malmo",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-02",
+              "home": "bsc-young-boys",
+              "away": "hamburger-sv",
+              "score": "0:5"
+            },
+            {
+              "date": "1960-11-27",
+              "home": "hamburger-sv",
+              "away": "bsc-young-boys",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-06",
+              "home": "sl-benfica",
+              "away": "ujpest-fc",
+              "score": "6:2"
+            },
+            {
+              "date": "1960-11-30",
+              "home": "ujpest-fc",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-hradec-kralove",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-06",
+              "home": "fc-hradec-kralove",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1960-12-07",
+              "home": "panathinaikos-fc",
+              "away": "fc-hradec-kralove",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-erzgebirge-aue"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-09",
+              "home": "sk-rapid-wien",
+              "away": "fc-erzgebirge-aue",
+              "score": "3:1"
+            },
+            {
+              "date": "1960-11-23",
+              "home": "fc-erzgebirge-aue",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1960-12-21",
+              "home": "sk-rapid-wien",
+              "away": "fc-erzgebirge-aue",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, St. Jakob Stadium, Basel"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-09",
+              "home": "real-madrid-cf",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1960-11-23",
+              "home": "fc-barcelona",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "burnley-fc",
+            "stade-de-reims"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-16",
+              "home": "burnley-fc",
+              "away": "stade-de-reims",
+              "score": "2:0"
+            },
+            {
+              "date": "1960-11-30",
+              "home": "stade-de-reims",
+              "away": "burnley-fc",
+              "score": "3:2",
+              "note": "Played at Parc des Princes, Paris"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "burnley-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1961-01-18",
+              "home": "burnley-fc",
+              "away": "hamburger-sv",
+              "score": "3:1"
+            },
+            {
+              "date": "1961-03-15",
+              "home": "hamburger-sv",
+              "away": "burnley-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-hradec-kralove"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-08",
+              "home": "fc-barcelona",
+              "away": "fc-hradec-kralove",
+              "score": "4:0"
+            },
+            {
+              "date": "1961-03-15",
+              "home": "fc-hradec-kralove",
+              "away": "fc-barcelona",
+              "score": "1:1",
+              "note": "Played at Stadion Evžena Rošického, Prague"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-08",
+              "home": "sl-benfica",
+              "away": "agf-aarhus",
+              "score": "3:1"
+            },
+            {
+              "date": "1961-03-30",
+              "home": "agf-aarhus",
+              "away": "sl-benfica",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "ifk-malmo"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-22",
+              "home": "sk-rapid-wien",
+              "away": "ifk-malmo",
+              "score": "2:0"
+            },
+            {
+              "date": "1961-04-03",
+              "home": "ifk-malmo",
+              "away": "sk-rapid-wien",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1961-04-12",
+              "home": "fc-barcelona",
+              "away": "hamburger-sv",
+              "score": "1:0"
+            },
+            {
+              "date": "1961-04-26",
+              "home": "hamburger-sv",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            },
+            {
+              "date": "1961-05-03",
+              "home": "fc-barcelona",
+              "away": "hamburger-sv",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Heysel Stadium, Brussels"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1961-04-26",
+              "home": "sl-benfica",
+              "away": "sk-rapid-wien",
+              "score": "3:0"
+            },
+            {
+              "date": "1961-05-04",
+              "home": "sk-rapid-wien",
+              "away": "sl-benfica",
+              "score": "1:1",
+              "note": "Abandoned two minutes from time (crowd riot, pitch invasion); result stood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1961-05-31",
+              "home": "fc-barcelona",
+              "away": "sl-benfica",
+              "score": "2:3",
+              "neutral": true,
+              "note": "Wankdorf Stadium, Bern"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1974-75",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "hvidovre-if",
+            "ruch-chorzow"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "hvidovre-if",
+              "away": "ruch-chorzow",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "ruch-chorzow",
+              "away": "hvidovre-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "jeunesse-esch",
+              "away": "fenerbahce-sk",
+              "score": "2:3"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fenerbahce-sk",
+              "away": "jeunesse-esch",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-19",
+              "home": "hnk-hajduk-split",
+              "away": "keflavik",
+              "score": "7:1"
+            },
+            {
+              "date": "1974-09-24",
+              "home": "keflavik",
+              "away": "hnk-hajduk-split",
+              "score": "0:2",
+              "note": "Played at Stari plac, Split"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "as-saint-etienne",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "sporting-cp",
+              "away": "as-saint-etienne",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "viking-fk",
+              "away": "fc-ararat-yerevan",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-ararat-yerevan",
+              "away": "viking-fk",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "pfc-levski-sofia",
+              "away": "ujpest-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "ujpest-fc",
+              "away": "pfc-levski-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "leeds-united-fc",
+              "away": "fc-zurich",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-zurich",
+              "away": "leeds-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "rsc-anderlecht"
+          ],
+          "winner": "rsc-anderlecht",
+          "note": "Anderlecht won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sk-slovan-bratislava",
+              "away": "rsc-anderlecht",
+              "score": "4:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "rsc-anderlecht",
+              "away": "sk-slovan-bratislava",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "celtic-fc",
+              "away": "olympiacos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "olympiacos-fc",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "feyenoord",
+              "away": "coleraine-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "coleraine-fc",
+              "away": "feyenoord",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-stahl-linz",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-stahl-linz",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-barcelona",
+              "away": "fc-stahl-linz",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "valletta-fc",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "hjk-helsinki",
+              "away": "valletta-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "atvidabergs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "cs-universitatea-craiova",
+              "away": "atvidabergs-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-03",
+              "home": "atvidabergs-ff",
+              "away": "cs-universitatea-craiova",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "cork-celtic-fc",
+            "ac-omonia"
+          ],
+          "winner": "cork-celtic-fc",
+          "note": "Omonia withdrew due to the Turkish invasion of Cyprus",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "ruch-chorzow",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fenerbahce-sk",
+              "away": "ruch-chorzow",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "hnk-hajduk-split",
+              "away": "as-saint-etienne",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "as-saint-etienne",
+              "away": "hnk-hajduk-split",
+              "score": "5:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-bayern-munich",
+              "away": "1-fc-magdeburg",
+              "score": "3:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "1-fc-magdeburg",
+              "away": "fc-bayern-munich",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-celtic-fc",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "cork-celtic-fc",
+              "away": "fc-ararat-yerevan",
+              "score": "1:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fc-ararat-yerevan",
+              "away": "cork-celtic-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "ujpest-fc",
+              "away": "leeds-united-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "leeds-united-fc",
+              "away": "ujpest-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "rsc-anderlecht",
+              "away": "olympiacos-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "olympiacos-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:0",
+              "note": "Played at Panachaiki Stadium, Patras"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-22",
+              "home": "feyenoord",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "fc-barcelona",
+              "away": "feyenoord",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "atvidabergs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "hjk-helsinki",
+              "away": "atvidabergs-ff",
+              "score": "0:3"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "atvidabergs-ff",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "ruch-chorzow",
+              "away": "as-saint-etienne",
+              "score": "3:2"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "as-saint-etienne",
+              "away": "ruch-chorzow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "fc-bayern-munich",
+              "away": "fc-ararat-yerevan",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "fc-ararat-yerevan",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "leeds-united-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "rsc-anderlecht",
+              "away": "leeds-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "atvidabergs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-04",
+              "home": "fc-barcelona",
+              "away": "atvidabergs-ff",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-03-11",
+              "home": "atvidabergs-ff",
+              "away": "fc-barcelona",
+              "score": "0:3",
+              "note": "Played at Camp Nou, Barcelona"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-09",
+              "home": "as-saint-etienne",
+              "away": "fc-bayern-munich",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-04-23",
+              "home": "fc-bayern-munich",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-09",
+              "home": "leeds-united-fc",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            },
+            {
+              "date": "1975-04-23",
+              "home": "fc-barcelona",
+              "away": "leeds-united-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-05-28",
+              "home": "fc-bayern-munich",
+              "away": "leeds-united-fc",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Parc des Princes, Paris"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

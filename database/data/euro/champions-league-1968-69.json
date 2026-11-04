@@ -1,0 +1,609 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1968-69",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "malmo-ff",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "malmo-ff",
+              "away": "ac-milan",
+              "score": "2:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "ac-milan",
+              "away": "malmo-ff",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "ruch-chorzow"
+          ],
+          "winner": null,
+          "note": "Both clubs withdrew after UEFA paired the Eastern Bloc clubs against each other following the Soviet invasion of Czechoslovakia",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "as-saint-etienne",
+              "away": "celtic-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "celtic-fc",
+              "away": "as-saint-etienne",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-carl-zeiss-jena"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Carl Zeiss Jena withdrew after UEFA paired the Eastern Bloc clubs against each other following the Soviet invasion of Czechoslovakia",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "waterford-fc",
+              "away": "manchester-united-fc",
+              "score": "1:3",
+              "note": "Played at Lansdowne Road, Dublin"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "manchester-united-fc",
+              "away": "waterford-fc",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "rsc-anderlecht",
+              "away": "glentoran-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "glentoran-fc",
+              "away": "rsc-anderlecht",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "rosenborg-bk",
+              "away": "sk-rapid-wien",
+              "score": "1:3"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "sk-rapid-wien",
+              "away": "rosenborg-bk",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "real-madrid-cf",
+              "away": "ael-limassol",
+              "score": "6:0"
+            },
+            {
+              "date": "1968-09-26",
+              "home": "ael-limassol",
+              "away": "real-madrid-cf",
+              "score": "0:6",
+              "note": "Played at Santiago Bernabéu, Madrid"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-nurnberg",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "1-fc-nurnberg",
+              "away": "afc-ajax",
+              "score": "1:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "afc-ajax",
+              "away": "1-fc-nurnberg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "manchester-city-fc",
+              "away": "fenerbahce-sk",
+              "score": "0:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "fenerbahce-sk",
+              "away": "manchester-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "valur",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "sl-benfica",
+              "away": "valur",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "reipas-lahti"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "floriana-fc",
+              "away": "reipas-lahti",
+              "score": "1:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "reipas-lahti",
+              "away": "floriana-fc",
+              "score": "2:0",
+              "note": "Played at Olympic Stadium, Helsinki"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "fcsb",
+              "away": "fc-spartak-trnava",
+              "score": "3:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "fc-spartak-trnava",
+              "away": "fcsb",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "ferencvarosi-tc"
+          ],
+          "winner": null,
+          "note": "Both clubs withdrew after UEFA paired the Eastern Bloc clubs against each other following the Soviet invasion of Czechoslovakia",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "aek-athens-fc",
+              "away": "jeunesse-esch",
+              "score": "3:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "jeunesse-esch",
+              "away": "aek-athens-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "akademisk-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "fc-zurich",
+              "away": "akademisk-boldklub",
+              "score": "1:3"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "akademisk-boldklub",
+              "away": "fc-zurich",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan"
+          ],
+          "note": "Opponent withdrew (Dynamo Kyiv v Ruch Chorzów, both withdrawn)",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "celtic-fc",
+              "away": "red-star-belgrade",
+              "score": "5:1"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "red-star-belgrade",
+              "away": "celtic-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "manchester-united-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "rsc-anderlecht",
+              "away": "manchester-united-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "real-madrid-cf"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1968-11-20",
+              "home": "sk-rapid-wien",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-12-04",
+              "home": "real-madrid-cf",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "afc-ajax",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "fenerbahce-sk",
+              "away": "afc-ajax",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica"
+          ],
+          "note": "Opponent withdrew (Levski-Spartak v Ferencváros, both withdrawn)",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-20",
+              "home": "reipas-lahti",
+              "away": "fc-spartak-trnava",
+              "score": "1:9",
+              "note": "Played at Praterstadion, Vienna"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "fc-spartak-trnava",
+              "away": "reipas-lahti",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "akademisk-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "aek-athens-fc",
+              "away": "akademisk-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "akademisk-boldklub",
+              "away": "aek-athens-fc",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-02-19",
+              "home": "ac-milan",
+              "away": "celtic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-03-12",
+              "home": "celtic-fc",
+              "away": "ac-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1969-02-26",
+              "home": "manchester-united-fc",
+              "away": "sk-rapid-wien",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-03-05",
+              "home": "sk-rapid-wien",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1969-02-12",
+              "home": "afc-ajax",
+              "away": "sl-benfica",
+              "score": "1:3"
+            },
+            {
+              "date": "1969-02-19",
+              "home": "sl-benfica",
+              "away": "afc-ajax",
+              "score": "1:3"
+            },
+            {
+              "date": "1969-03-05",
+              "home": "afc-ajax",
+              "away": "sl-benfica",
+              "score": "3:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Stade Olympique Yves-du-Manoir, Paris"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-02-26",
+              "home": "fc-spartak-trnava",
+              "away": "aek-athens-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-03-12",
+              "home": "aek-athens-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-04-23",
+              "home": "ac-milan",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-05-15",
+              "home": "manchester-united-fc",
+              "away": "ac-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1969-04-13",
+              "home": "afc-ajax",
+              "away": "fc-spartak-trnava",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-04-24",
+              "home": "fc-spartak-trnava",
+              "away": "afc-ajax",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1969-05-28",
+              "home": "afc-ajax",
+              "away": "ac-milan",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Santiago Bernabéu Stadium, Madrid"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

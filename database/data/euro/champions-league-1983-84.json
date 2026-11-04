@@ -1,0 +1,652 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1983-84",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "odense-boldklub",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "odense-boldklub",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "liverpool-fc",
+              "away": "odense-boldklub",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "lech-poznan",
+              "away": "athletic-bilbao",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "athletic-bilbao",
+              "away": "lech-poznan",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "afc-ajax",
+              "away": "olympiacos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "olympiacos-fc",
+              "away": "afc-ajax",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "sl-benfica",
+              "away": "linfield-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "linfield-fc",
+              "away": "sl-benfica",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "vikingur-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "gyori-eto-fc",
+              "away": "vikingur-reykjavik",
+              "score": "2:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "vikingur-reykjavik",
+              "away": "gyori-eto-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "fc-dinamo-minsk",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "grasshopper-club",
+              "away": "fc-dinamo-minsk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kuusysi",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "fc-kuusysi",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-kuusysi",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "kf-vllaznia"
+          ],
+          "winner": "hamburger-sv",
+          "note": "Vllaznia withdrew",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "fenerbahce-sk",
+              "away": "bohemians-praha-1905",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "bohemians-praha-1905",
+              "away": "fenerbahce-sk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "sk-rapid-wien",
+              "away": "fc-nantes",
+              "score": "3:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-nantes",
+              "away": "sk-rapid-wien",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athlone-town-afc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "athlone-town-afc",
+              "away": "r-standard-liege",
+              "score": "2:3"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "r-standard-liege",
+              "away": "athlone-town-afc",
+              "score": "8:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamrun-spartans-fc",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "hamrun-spartans-fc",
+              "away": "dundee-united-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "dundee-united-fc",
+              "away": "hamrun-spartans-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "ac-omonia"
+          ],
+          "winner": "pfc-cska-sofia",
+          "note": "CSKA Sofia won on away goals",
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "pfc-cska-sofia",
+              "away": "ac-omonia",
+              "score": "3:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "ac-omonia",
+              "away": "pfc-cska-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "as-roma",
+              "away": "ifk-goteborg",
+              "score": "3:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "ifk-goteborg",
+              "away": "as-roma",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "bfc-dynamo",
+              "away": "jeunesse-esch",
+              "score": "4:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "jeunesse-esch",
+              "away": "bfc-dynamo",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "fk-partizan",
+              "away": "viking-fk",
+              "score": "5:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "viking-fk",
+              "away": "fk-partizan",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "liverpool-fc",
+              "away": "athletic-bilbao",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "athletic-bilbao",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "olympiacos-fc",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "sl-benfica",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "gyori-eto-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "3:6"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "fc-dinamo-minsk",
+              "away": "gyori-eto-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "fc-dinamo-bucuresti",
+              "away": "hamburger-sv",
+              "score": "3:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "hamburger-sv",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "sk-rapid-wien"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "bohemians-praha-1905",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "sk-rapid-wien",
+              "away": "bohemians-praha-1905",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "r-standard-liege",
+              "away": "dundee-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "dundee-united-fc",
+              "away": "r-standard-liege",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "pfc-cska-sofia",
+              "away": "as-roma",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "as-roma",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "bfc-dynamo",
+              "away": "fk-partizan",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "fk-partizan",
+              "away": "bfc-dynamo",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:1",
+              "note": "Played at Lenin Dinamo Stadium, Tbilisi"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "dundee-united-fc"
+          ],
+          "winner": "dundee-united-fc",
+          "note": "Dundee United won on away goals",
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "sk-rapid-wien",
+              "away": "dundee-united-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "dundee-united-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "as-roma",
+              "away": "bfc-dynamo",
+              "score": "3:0"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "bfc-dynamo",
+              "away": "as-roma",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1984-04-11",
+              "home": "liverpool-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-04-25",
+              "home": "fc-dinamo-bucuresti",
+              "away": "liverpool-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1984-04-11",
+              "home": "dundee-united-fc",
+              "away": "as-roma",
+              "score": "2:0"
+            },
+            {
+              "date": "1984-04-25",
+              "home": "as-roma",
+              "away": "dundee-united-fc",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "as-roma"
+          ],
+          "winner": "liverpool-fc",
+          "matches": [
+            {
+              "date": "1984-05-30",
+              "home": "liverpool-fc",
+              "away": "as-roma",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": false,
+              "note": "Stadio Olimpico, Rome; Liverpool won 4:2 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

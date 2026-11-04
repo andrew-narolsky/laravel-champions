@@ -1,0 +1,658 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1963-64",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "lyn-fotball",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-10",
+              "home": "lyn-fotball",
+              "away": "borussia-dortmund",
+              "score": "2:4"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "borussia-dortmund",
+              "away": "lyn-fotball",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-11",
+              "home": "galatasaray-sk",
+              "away": "ferencvarosi-tc",
+              "score": "4:0"
+            },
+            {
+              "date": "1963-10-12",
+              "home": "ferencvarosi-tc",
+              "away": "galatasaray-sk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-11",
+              "home": "dundalk-fc",
+              "away": "fc-zurich",
+              "score": "0:3",
+              "note": "Played at Dalymount Park, Dublin"
+            },
+            {
+              "date": "1963-09-25",
+              "home": "fc-zurich",
+              "away": "dundalk-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "pfc-spartak-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-11",
+              "home": "fk-partizani",
+              "away": "pfc-spartak-plovdiv",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "pfc-spartak-plovdiv",
+              "away": "fk-partizani",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-11",
+              "home": "fk-partizan",
+              "away": "anorthosis-famagusta-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1963-10-01",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fk-partizan",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-15",
+              "home": "fk-dukla-prague",
+              "away": "valletta-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1963-09-29",
+              "home": "valletta-fc",
+              "away": "fk-dukla-prague",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-18",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-09-25",
+              "home": "fc-carl-zeiss-jena",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-18",
+              "home": "gornik-zabrze",
+              "away": "fk-austria-wien",
+              "score": "1:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "fk-austria-wien",
+              "away": "gornik-zabrze",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "fk-austria-wien",
+              "away": "gornik-zabrze",
+              "score": "1:2",
+              "neutral": false,
+              "note": "Play-off, Praterstadion, Vienna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-18",
+              "home": "everton-fc",
+              "away": "inter-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-09-25",
+              "home": "inter-milan",
+              "away": "everton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-18",
+              "home": "as-monaco-fc",
+              "away": "aek-athens-fc",
+              "score": "7:2",
+              "note": "Played at Stade du Ray, Nice"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "aek-athens-fc",
+              "away": "as-monaco-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "fc-haka",
+              "away": "jeunesse-esch",
+              "score": "4:1"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "jeunesse-esch",
+              "away": "fc-haka",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "esbjerg-fb",
+              "away": "psv-eindhoven",
+              "score": "3:4"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "psv-eindhoven",
+              "away": "esbjerg-fb",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "rangers-fc",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "real-madrid-cf",
+              "away": "rangers-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lisburn-distillery-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "lisburn-distillery-fc",
+              "away": "sl-benfica",
+              "score": "3:3",
+              "note": "Played at Windsor Park, Belfast"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "sl-benfica",
+              "away": "lisburn-distillery-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "r-standard-liege",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-03",
+              "home": "ifk-norrkoping",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "sl-benfica",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-06",
+              "home": "sl-benfica",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-12-04",
+              "home": "borussia-dortmund",
+              "away": "sl-benfica",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "fc-dinamo-bucuresti",
+              "away": "real-madrid-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "1963-12-18",
+              "home": "real-madrid-cf",
+              "away": "fc-dinamo-bucuresti",
+              "score": "5:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "gornik-zabrze",
+              "away": "fk-dukla-prague",
+              "score": "2:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1963-11-20",
+              "home": "fk-dukla-prague",
+              "away": "gornik-zabrze",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-spartak-plovdiv",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "pfc-spartak-plovdiv",
+              "away": "psv-eindhoven",
+              "score": "0:1"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "psv-eindhoven",
+              "away": "pfc-spartak-plovdiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "galatasaray-sk"
+          ],
+          "winner": "fc-zurich",
+          "note": "Zürich qualified on coin toss",
+          "matches": [
+            {
+              "date": "1963-11-14",
+              "home": "fc-zurich",
+              "away": "galatasaray-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "galatasaray-sk",
+              "away": "fc-zurich",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-12-11",
+              "home": "fc-zurich",
+              "away": "galatasaray-sk",
+              "score": "2:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Stadio Flaminio, Rome"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-20",
+              "home": "jeunesse-esch",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "fk-partizan",
+              "away": "jeunesse-esch",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-27",
+              "home": "inter-milan",
+              "away": "as-monaco-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-12-04",
+              "home": "as-monaco-fc",
+              "away": "inter-milan",
+              "score": "1:3",
+              "note": "Played at Stade Vélodrome, Marseille"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-27",
+              "home": "ifk-norrkoping",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1963-12-04",
+              "home": "ac-milan",
+              "away": "ifk-norrkoping",
+              "score": "5:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1964-01-29",
+              "home": "real-madrid-cf",
+              "away": "ac-milan",
+              "score": "4:1"
+            },
+            {
+              "date": "1964-02-13",
+              "home": "ac-milan",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1964-02-26",
+              "home": "fk-partizan",
+              "away": "inter-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "1964-03-04",
+              "home": "inter-milan",
+              "away": "fk-partizan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1964-03-04",
+              "home": "psv-eindhoven",
+              "away": "fc-zurich",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-03-11",
+              "home": "fc-zurich",
+              "away": "psv-eindhoven",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1964-03-04",
+              "home": "fk-dukla-prague",
+              "away": "borussia-dortmund",
+              "score": "0:4"
+            },
+            {
+              "date": "1964-03-18",
+              "home": "borussia-dortmund",
+              "away": "fk-dukla-prague",
+              "score": "1:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1964-04-15",
+              "home": "borussia-dortmund",
+              "away": "inter-milan",
+              "score": "2:2"
+            },
+            {
+              "date": "1964-04-29",
+              "home": "inter-milan",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1964-04-22",
+              "home": "fc-zurich",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "1964-05-07",
+              "home": "real-madrid-cf",
+              "away": "fc-zurich",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1964-05-27",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Praterstadion, Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1982-83",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1982-08-25",
+              "home": "fc-dinamo-bucuresti",
+              "away": "valerenga-fotball",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-09-01",
+              "home": "valerenga-fotball",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "bfc-dynamo",
+              "away": "hamburger-sv",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "hamburger-sv",
+              "away": "bfc-dynamo",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "olympiacos-fc",
+              "away": "osters-if",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "osters-if",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "linfield-fc"
+          ],
+          "winner": "kf-tirana",
+          "note": "17 Nëntori won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "kf-tirana",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "linfield-fc",
+              "away": "kf-tirana",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "grasshopper-club",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "grasshopper-club",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sporting-cp",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "sporting-cp",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "as-monaco-fc",
+              "away": "pfc-cska-sofia",
+              "score": "0:0",
+              "note": "Played at Stade du Ray, Nice"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "pfc-cska-sofia",
+              "away": "as-monaco-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "celtic-fc",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "afc-ajax",
+              "away": "celtic-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "vikingur-reykjavik",
+              "away": "real-sociedad",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "real-sociedad",
+              "away": "vikingur-reykjavik",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "widzew-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "hibernians-fc",
+              "away": "widzew-lodz",
+              "score": "1:4"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "widzew-lodz",
+              "away": "hibernians-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-avenir-beggen",
+              "away": "sk-rapid-wien",
+              "score": "0:5"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "sk-rapid-wien",
+              "away": "fc-avenir-beggen",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "ac-omonia",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "hjk-helsinki",
+              "away": "ac-omonia",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-14",
+              "home": "dundalk-fc",
+              "away": "liverpool-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "liverpool-fc",
+              "away": "dundalk-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "aston-villa-fc",
+              "away": "besiktas-jk",
+              "score": "3:1",
+              "note": "Played behind closed doors"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "besiktas-jk",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fk-dukla-prague",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fk-dukla-prague",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "r-standard-liege",
+              "away": "gyori-eto-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "gyori-eto-fc",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hvidovre-if",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "hvidovre-if",
+              "away": "juventus-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "juventus-fc",
+              "away": "hvidovre-if",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "hamburger-sv",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "olympiacos-fc",
+              "away": "hamburger-sv",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "sporting-cp"
+          ],
+          "winner": "sporting-cp",
+          "note": "Sporting CP won on away goals",
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "pfc-cska-sofia",
+              "away": "sporting-cp",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "sporting-cp",
+              "away": "pfc-cska-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "real-sociedad",
+              "away": "celtic-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "celtic-fc",
+              "away": "real-sociedad",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "widzew-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "sk-rapid-wien",
+              "away": "widzew-lodz",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "widzew-lodz",
+              "away": "sk-rapid-wien",
+              "score": "5:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "kf-tirana"
+          ],
+          "winner": "fc-dynamo-kyiv",
+          "note": "17 Nëntori withdrew",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-19",
+              "home": "hjk-helsinki",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-11-02",
+              "home": "liverpool-fc",
+              "away": "hjk-helsinki",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "fc-dinamo-bucuresti",
+              "away": "aston-villa-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "aston-villa-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "r-standard-liege",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "juventus-fc",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "fc-dynamo-kyiv",
+              "away": "hamburger-sv",
+              "score": "0:3",
+              "note": "Played at Lenin Stadium, Tbilisi (weather conditions in Kyiv)"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "hamburger-sv",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "sporting-cp",
+              "away": "real-sociedad",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "real-sociedad",
+              "away": "sporting-cp",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "widzew-lodz",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "liverpool-fc",
+              "away": "widzew-lodz",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "aston-villa-fc",
+              "away": "juventus-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "juventus-fc",
+              "away": "aston-villa-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-sociedad",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "real-sociedad",
+              "away": "hamburger-sv",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-04-20",
+              "home": "hamburger-sv",
+              "away": "real-sociedad",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "widzew-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "juventus-fc",
+              "away": "widzew-lodz",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-04-20",
+              "home": "widzew-lodz",
+              "away": "juventus-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-05-25",
+              "home": "hamburger-sv",
+              "away": "juventus-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Olympic Stadium, Athens"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

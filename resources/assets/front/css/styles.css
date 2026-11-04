@@ -1253,6 +1253,102 @@ a.trophy-name:hover {
     margin-right: 8px;
 }
 
+/* ─── Euro: season / competition records under stats ──────────────────── */
+
+.euro-records {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 32px;
+    margin-top: 16px;
+    font-size: 15px;
+}
+
+.euro-records .v3-label {
+    font-size: 11px;
+    margin-right: 8px;
+}
+
+.euro-records small {
+    color: var(--text-muted);
+    margin-left: 4px;
+}
+
+/* ─── Home: European cups ───────────────────────────────────────────────── */
+
+.euro-cups-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+}
+
+/* ─── Euro season: stages, ties & matches ───────────────────────────────── */
+
+.euro-stage + .euro-stage {
+    margin-top: 56px;
+}
+
+.euro-stage .section-title {
+    margin-bottom: 16px;
+}
+
+.table-scroll .euro-ties-table {
+    min-width: 640px;
+    table-layout: fixed;
+}
+
+.euro-ties-table .col-date {
+    width: 110px;
+}
+
+.euro-ties-table .col-club {
+    width: 30%;
+}
+
+.euro-ties-table .col-agg {
+    width: 90px;
+}
+
+.euro-ties-table td {
+    vertical-align: top;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.euro-ties-table td:first-child {
+    width: auto;
+}
+
+.euro-group-matches {
+    margin-top: 24px;
+}
+
+.euro-ties-table td div + div {
+    margin-top: 4px;
+}
+
+/* club page: European cups block */
+.euro-club-titles {
+    margin: 0 0 32px;
+    padding-left: 12px;
+    line-height: 1.8;
+}
+
+.euro-club-subtitle {
+    margin: 0 0 12px;
+    padding-left: 12px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--text-muted);
+}
+
+.stage-notes {
+    margin-top: 12px;
+    padding-left: 12px;
+    color: var(--text-muted);
+}
+
 /* =========================================
    TOURNAMENT — MOST TITLED (white bg)
    ========================================= */

@@ -317,4 +317,52 @@
         </section>
     @endif
 
+    @if($euroHistory->count())
+        <!-- EUROPEAN CUPS -->
+        <section class="alltime-section">
+            <div class="container">
+                <h2 class="section-title">European Cups</h2>
+
+                @foreach($euroHistory as $item)
+                    <h3 class="table-title">
+                        <a href="{{ route('euro.show', $item['competition']) }}">{{ $item['competition']->name }}</a>
+                    </h3>
+
+                    @if($item['titles']->count() || $item['runner_ups']->count())
+                        <p class="euro-club-titles">
+                            @if($item['titles']->count())
+                                <strong>Winner ({{ $item['titles']->count() }}):</strong> {{ $item['titles']->join(' · ') }}<br>
+                            @endif
+                            @if($item['runner_ups']->count())
+                                <strong>Finalist ({{ $item['runner_ups']->count() }}):</strong> {{ $item['runner_ups']->join(' · ') }}
+                            @endif
+                        </p>
+                    @endif
+
+                    <h4 class="euro-club-subtitle">Seasons ({{ $item['seasons']->count() }})</h4>
+                    <div class="table-scroll">
+                        <table class="seasons-table">
+                            <thead>
+                            <tr>
+                                <th>Season</th>
+                                <th>Reached</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            @foreach($item['seasons'] as $row)
+                                <tr>
+                                    <td><a href="{{ route('euro.season', [$item['competition'], $row['season']->name]) }}">{{ $row['season']->name }}</a></td>
+                                    <td @class(['place-1' => $row['season']->winner_club_id === $club->id])>
+                                        {{ $row['season']->winner_club_id === $club->id ? 'Winner' : $row['best_stage']->label() }}
+                                    </td>
+                                </tr>
+                            @endforeach
+                            </tbody>
+                        </table>
+                    </div>
+                @endforeach
+            </div>
+        </section>
+    @endif
+
 @endsection

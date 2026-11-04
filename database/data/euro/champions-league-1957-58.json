@@ -1,0 +1,523 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1957-58",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-04",
+              "home": "pfc-cska-sofia",
+              "away": "vasas-sc",
+              "score": "2:1"
+            },
+            {
+              "date": "1957-10-03",
+              "home": "vasas-sc",
+              "away": "pfc-cska-sofia",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-04",
+              "home": "rangers-fc",
+              "away": "as-saint-etienne",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-09-25",
+              "home": "as-saint-etienne",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-dudelange",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-05",
+              "home": "stade-dudelange",
+              "away": "red-star-belgrade",
+              "score": "0:5"
+            },
+            {
+              "date": "1957-10-02",
+              "home": "red-star-belgrade",
+              "away": "stade-dudelange",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "glenavon-fc"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-11",
+              "home": "agf-aarhus",
+              "away": "glenavon-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1957-09-25",
+              "home": "glenavon-fc",
+              "away": "agf-aarhus",
+              "score": "0:3",
+              "note": "Played at Windsor Park, Belfast"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gwardia-warsaw",
+            "fc-erzgebirge-aue"
+          ],
+          "winner": "fc-erzgebirge-aue",
+          "note": "Wismut Karl-Marx-Stadt qualified on coin toss",
+          "matches": [
+            {
+              "date": "1957-09-11",
+              "home": "gwardia-warsaw",
+              "away": "fc-erzgebirge-aue",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-10-13",
+              "home": "fc-erzgebirge-aue",
+              "away": "gwardia-warsaw",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-10-15",
+              "home": "fc-erzgebirge-aue",
+              "away": "gwardia-warsaw",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Friedrich-Ludwig-Jahn-Sportpark, Berlin; abandoned after 100 min at 1:1 (floodlight failure)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-19",
+              "home": "sevilla-fc",
+              "away": "sl-benfica",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-09-26",
+              "home": "sl-benfica",
+              "away": "sevilla-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1957-09-25",
+              "home": "shamrock-rovers-fc",
+              "away": "manchester-united-fc",
+              "score": "0:6"
+            },
+            {
+              "date": "1957-10-02",
+              "home": "manchester-united-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1957-10-02",
+              "home": "ac-milan",
+              "away": "sk-rapid-wien",
+              "score": "4:1"
+            },
+            {
+              "date": "1957-10-09",
+              "home": "sk-rapid-wien",
+              "away": "ac-milan",
+              "score": "5:2"
+            },
+            {
+              "date": "1957-10-30",
+              "home": "ac-milan",
+              "away": "sk-rapid-wien",
+              "score": "4:2",
+              "neutral": true,
+              "note": "Play-off, Hardturm, Zürich"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1957-10-31",
+              "home": "r-antwerp-fc",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "1957-11-28",
+              "home": "real-madrid-cf",
+              "away": "r-antwerp-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-02",
+              "home": "ifk-norrkoping",
+              "away": "red-star-belgrade",
+              "score": "2:2"
+            },
+            {
+              "date": "1957-11-23",
+              "home": "red-star-belgrade",
+              "away": "ifk-norrkoping",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-erzgebirge-aue",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-20",
+              "home": "fc-erzgebirge-aue",
+              "away": "afc-ajax",
+              "score": "1:3"
+            },
+            {
+              "date": "1957-11-27",
+              "home": "afc-ajax",
+              "away": "fc-erzgebirge-aue",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-20",
+              "home": "bsc-young-boys",
+              "away": "vasas-sc",
+              "score": "1:1",
+              "note": "Played at Stade des Charmilles, Geneva"
+            },
+            {
+              "date": "1957-11-30",
+              "home": "vasas-sc",
+              "away": "bsc-young-boys",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-20",
+              "home": "manchester-united-fc",
+              "away": "fk-dukla-prague",
+              "score": "3:0"
+            },
+            {
+              "date": "1957-12-04",
+              "home": "fk-dukla-prague",
+              "away": "manchester-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-27",
+              "home": "sevilla-fc",
+              "away": "agf-aarhus",
+              "score": "4:0"
+            },
+            {
+              "date": "1957-12-04",
+              "home": "agf-aarhus",
+              "away": "sevilla-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-27",
+              "home": "borussia-dortmund",
+              "away": "fcsb",
+              "score": "4:2"
+            },
+            {
+              "date": "1957-12-08",
+              "home": "fcsb",
+              "away": "borussia-dortmund",
+              "score": "3:1"
+            },
+            {
+              "date": "1957-12-29",
+              "home": "borussia-dortmund",
+              "away": "fcsb",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Stadio Comunale, Bologna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1957-11-27",
+              "home": "rangers-fc",
+              "away": "ac-milan",
+              "score": "1:4"
+            },
+            {
+              "date": "1957-12-11",
+              "home": "ac-milan",
+              "away": "rangers-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1958-01-14",
+              "home": "manchester-united-fc",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1958-02-05",
+              "home": "red-star-belgrade",
+              "away": "manchester-united-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-01-23",
+              "home": "real-madrid-cf",
+              "away": "sevilla-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1958-02-23",
+              "home": "sevilla-fc",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1958-02-05",
+              "home": "afc-ajax",
+              "away": "vasas-sc",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-02-26",
+              "home": "vasas-sc",
+              "away": "afc-ajax",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1958-02-12",
+              "home": "borussia-dortmund",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1958-03-26",
+              "home": "ac-milan",
+              "away": "borussia-dortmund",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1958-04-02",
+              "home": "real-madrid-cf",
+              "away": "vasas-sc",
+              "score": "4:0"
+            },
+            {
+              "date": "1958-04-16",
+              "home": "vasas-sc",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1958-05-08",
+              "home": "manchester-united-fc",
+              "away": "ac-milan",
+              "score": "2:1"
+            },
+            {
+              "date": "1958-05-14",
+              "home": "ac-milan",
+              "away": "manchester-united-fc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1958-05-28",
+              "home": "real-madrid-cf",
+              "away": "ac-milan",
+              "score": "3:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

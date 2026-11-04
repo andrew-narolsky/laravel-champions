@@ -1,0 +1,640 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1986-87",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "mfk-vitkovice"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "paris-saint-germain-fc",
+              "away": "mfk-vitkovice",
+              "score": "2:2"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "mfk-vitkovice",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "rabat-ajax-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "fc-porto",
+              "away": "rabat-ajax-fc",
+              "score": "9:0",
+              "note": "Played at Estádio dos Arcos, Vila do Conde"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "rabat-ajax-fc",
+              "away": "fc-porto",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "brondby-if",
+              "away": "budapest-honved-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "budapest-honved-fc",
+              "away": "brondby-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "orgryte-is",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "orgryte-is",
+              "away": "bfc-dynamo",
+              "score": "2:3"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "bfc-dynamo",
+              "away": "orgryte-is",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "besiktas-jk",
+              "away": "fc-dinamo-city",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-dinamo-city",
+              "away": "besiktas-jk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "hjk-helsinki"
+          ],
+          "winner": "apoel-fc",
+          "note": "APOEL won on away goals",
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "apoel-fc",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "hjk-helsinki",
+              "away": "apoel-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "shamrock-rovers-fc",
+              "away": "celtic-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "celtic-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-dynamo-kyiv",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "psv-eindhoven",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-bayern-munich",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "fc-avenir-beggen",
+              "away": "fk-austria-wien",
+              "score": "0:3"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fk-austria-wien",
+              "away": "fc-avenir-beggen",
+              "score": "3:0",
+              "note": "Played at Stadion Lehen, Salzburg"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "rsc-anderlecht",
+              "away": "gornik-zabrze",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "gornik-zabrze",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "rosenborg-bk",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "linfield-fc",
+              "away": "rosenborg-bk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "red-star-belgrade",
+              "away": "panathinaikos-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "panathinaikos-fc",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "bsc-young-boys",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "real-madrid-cf",
+              "away": "bsc-young-boys",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "juventus-fc",
+              "away": "valur",
+              "score": "7:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "valur",
+              "away": "juventus-fc",
+              "score": "0:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "mfk-vitkovice",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "mfk-vitkovice",
+              "away": "fc-porto",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fc-porto",
+              "away": "mfk-vitkovice",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "brondby-if",
+              "away": "bfc-dynamo",
+              "score": "2:1"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "bfc-dynamo",
+              "away": "brondby-if",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "celtic-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fc-dynamo-kyiv",
+              "away": "celtic-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "apoel-fc"
+          ],
+          "winner": "besiktas-jk",
+          "note": "APOEL withdrew for political reasons",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "fc-bayern-munich",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fk-austria-wien",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "rsc-anderlecht",
+              "away": "fcsb",
+              "score": "3:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fcsb",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "rosenborg-bk",
+              "away": "red-star-belgrade",
+              "score": "0:3"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "red-star-belgrade",
+              "away": "rosenborg-bk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "juventus-fc"
+          ],
+          "winner": "real-madrid-cf",
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "real-madrid-cf",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "juventus-fc",
+              "away": "real-madrid-cf",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Real Madrid won 3:1 on penalties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "fc-porto",
+              "away": "brondby-if",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "brondby-if",
+              "away": "fc-porto",
+              "score": "1:1",
+              "note": "Played at Idrætsparken, Copenhagen"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-14",
+              "home": "besiktas-jk",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:5",
+              "note": "Played at İzmir Atatürk Stadium, İzmir (snow in Istanbul); postponed from 4 March"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "fc-dynamo-kyiv",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "fc-bayern-munich",
+              "away": "rsc-anderlecht",
+              "score": "5:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "rsc-anderlecht",
+              "away": "fc-bayern-munich",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "real-madrid-cf"
+          ],
+          "winner": "real-madrid-cf",
+          "note": "Real Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "red-star-belgrade",
+              "away": "real-madrid-cf",
+              "score": "4:2"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "real-madrid-cf",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1987-04-08",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "4:1"
+            },
+            {
+              "date": "1987-04-22",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "1:0",
+              "note": "Interrupted for 10 minutes after Real Madrid fans threw objects onto the pitch"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1987-04-08",
+              "home": "fc-porto",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-04-22",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-porto",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1987-05-27",
+              "home": "fc-bayern-munich",
+              "away": "fc-porto",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Prater Stadium, Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

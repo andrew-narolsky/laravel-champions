@@ -1,0 +1,693 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1970-71",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1970-08-18",
+              "home": "pfc-levski-sofia",
+              "away": "fk-austria-wien",
+              "score": "3:1"
+            },
+            {
+              "date": "1970-09-02",
+              "home": "fk-austria-wien",
+              "away": "pfc-levski-sofia",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "cagliari-calcio",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "cagliari-calcio",
+              "away": "as-saint-etienne",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "as-saint-etienne",
+              "away": "cagliari-calcio",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "atletico-madrid",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fk-austria-wien",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "rosenborg-bk",
+              "away": "r-standard-liege",
+              "score": "0:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "r-standard-liege",
+              "away": "rosenborg-bk",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "ifk-goteborg",
+              "away": "legia-warsaw",
+              "score": "0:4"
+            },
+            {
+              "date": "1970-10-01",
+              "home": "legia-warsaw",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "kf-tirana",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "afc-ajax",
+              "away": "kf-tirana",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fc-basel"
+          ],
+          "winner": "fc-basel",
+          "note": "Basel won on away goals",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-spartak-moscow",
+              "away": "fc-basel",
+              "score": "3:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fc-basel",
+              "away": "fc-spartak-moscow",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "waterford-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "glentoran-fc",
+              "away": "waterford-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "waterford-fc",
+              "away": "glentoran-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "kpv-kokkola"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "celtic-fc",
+              "away": "kpv-kokkola",
+              "score": "9:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "kpv-kokkola",
+              "away": "celtic-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fenerbahce-sk",
+              "away": "fc-carl-zeiss-jena",
+              "score": "0:4"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fc-carl-zeiss-jena",
+              "away": "fenerbahce-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "sporting-cp",
+              "away": "floriana-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "floriana-fc",
+              "away": "sporting-cp",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "ujpest-fc",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "red-star-belgrade",
+              "away": "ujpest-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "fc-uta-arad"
+          ],
+          "winner": "fc-uta-arad",
+          "note": "UTA Arad won on away goals",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "feyenoord",
+              "away": "fc-uta-arad",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fc-uta-arad",
+              "away": "feyenoord",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "epa-larnaca-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "epa-larnaca-fc",
+              "away": "borussia-monchengladbach",
+              "score": "0:6",
+              "note": "Played at Rosenaustadion, Augsburg (West Germany)"
+            },
+            {
+              "date": "1970-09-22",
+              "home": "borussia-monchengladbach",
+              "away": "epa-larnaca-fc",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "everton-fc",
+              "away": "keflavik",
+              "score": "6:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "keflavik",
+              "away": "everton-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "jeunesse-esch",
+              "away": "panathinaikos-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "panathinaikos-fc",
+              "away": "jeunesse-esch",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "sk-slovan-bratislava",
+              "away": "boldklubben-1903",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "boldklubben-1903",
+              "away": "sk-slovan-bratislava",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "cagliari-calcio",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "cagliari-calcio",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-11-05",
+              "home": "atletico-madrid",
+              "away": "cagliari-calcio",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "r-standard-liege",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "legia-warsaw",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "afc-ajax",
+              "away": "fc-basel",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-basel",
+              "away": "afc-ajax",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "waterford-fc",
+              "away": "celtic-fc",
+              "score": "0:7",
+              "note": "Played at Lansdowne Road, Dublin"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "celtic-fc",
+              "away": "waterford-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "fc-carl-zeiss-jena",
+              "away": "sporting-cp",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "sporting-cp",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-uta-arad"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "red-star-belgrade",
+              "away": "fc-uta-arad",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-uta-arad",
+              "away": "red-star-belgrade",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "everton-fc"
+          ],
+          "winner": "everton-fc",
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "borussia-monchengladbach",
+              "away": "everton-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "everton-fc",
+              "away": "borussia-monchengladbach",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Everton won 4:3 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "panathinaikos-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "sk-slovan-bratislava",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "legia-warsaw"
+          ],
+          "winner": "atletico-madrid",
+          "note": "Atlético Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "atletico-madrid",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "legia-warsaw",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "afc-ajax",
+              "away": "celtic-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "celtic-fc",
+              "away": "afc-ajax",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "fc-carl-zeiss-jena",
+              "away": "red-star-belgrade",
+              "score": "3:2"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "red-star-belgrade",
+              "away": "fc-carl-zeiss-jena",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "panathinaikos-fc"
+          ],
+          "winner": "panathinaikos-fc",
+          "note": "Panathinaikos won on away goals",
+          "matches": [
+            {
+              "date": "1971-03-09",
+              "home": "everton-fc",
+              "away": "panathinaikos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "panathinaikos-fc",
+              "away": "everton-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "atletico-madrid",
+              "away": "afc-ajax",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "afc-ajax",
+              "away": "atletico-madrid",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "panathinaikos-fc"
+          ],
+          "winner": "panathinaikos-fc",
+          "note": "Panathinaikos won on away goals",
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "red-star-belgrade",
+              "away": "panathinaikos-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "panathinaikos-fc",
+              "away": "red-star-belgrade",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-06-02",
+              "home": "afc-ajax",
+              "away": "panathinaikos-fc",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

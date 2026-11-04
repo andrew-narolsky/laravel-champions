@@ -1,0 +1,702 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1966-67",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "waterford-fc",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1966-08-31",
+              "home": "waterford-fc",
+              "away": "1-fc-frankfurt",
+              "score": "1:6",
+              "note": "Played at Dalymount Park, Dublin"
+            },
+            {
+              "date": "1966-09-07",
+              "home": "1-fc-frankfurt",
+              "away": "waterford-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-07",
+              "home": "sliema-wanderers-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:2"
+            },
+            {
+              "date": "1966-09-14",
+              "home": "pfc-cska-sofia",
+              "away": "sliema-wanderers-fc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "admira-wacker",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-07",
+              "home": "admira-wacker",
+              "away": "fk-vojvodina",
+              "score": "0:1"
+            },
+            {
+              "date": "1966-09-20",
+              "home": "fk-vojvodina",
+              "away": "admira-wacker",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-07",
+              "home": "kr-reykjavik",
+              "away": "fc-nantes",
+              "score": "2:3"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "fc-nantes",
+              "away": "kr-reykjavik",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aris-bonnevoie",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-07",
+              "home": "fc-aris-bonnevoie",
+              "away": "linfield-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1966-09-14",
+              "home": "linfield-fc",
+              "away": "fc-aris-bonnevoie",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-14",
+              "home": "fc-haka",
+              "away": "rsc-anderlecht",
+              "score": "1:10"
+            },
+            {
+              "date": "1966-09-28",
+              "home": "rsc-anderlecht",
+              "away": "fc-haka",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tsv-1860-munich",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-20",
+              "home": "tsv-1860-munich",
+              "away": "ac-omonia",
+              "score": "8:0"
+            },
+            {
+              "date": "1966-09-25",
+              "home": "ac-omonia",
+              "away": "tsv-1860-munich",
+              "score": "1:2",
+              "note": "Played at Rottal-Stadion, Pocking (West Germany)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "malmo-ff",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "atletico-madrid",
+              "away": "malmo-ff",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "celtic-fc",
+              "away": "fc-zurich",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "fc-zurich",
+              "away": "celtic-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "afc-ajax",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "besiktas-jk",
+              "away": "afc-ajax",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "liverpool-fc",
+              "away": "fc-petrolul-ploiesti",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "fc-petrolul-ploiesti",
+              "away": "liverpool-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1966-10-19",
+              "home": "liverpool-fc",
+              "away": "fc-petrolul-ploiesti",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Play-off, Heysel Stadium, Brussels"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "esbjerg-fb",
+              "away": "fk-dukla-prague",
+              "score": "0:2"
+            },
+            {
+              "date": "1966-10-04",
+              "home": "fk-dukla-prague",
+              "away": "esbjerg-fb",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "inter-milan",
+              "away": "fc-torpedo-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "fc-torpedo-moscow",
+              "away": "inter-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "pfc-cska-sofia",
+              "away": "olympiacos-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "olympiacos-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "gornik-zabrze",
+              "away": "1-fc-frankfurt",
+              "score": "2:1"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "1-fc-frankfurt",
+              "away": "gornik-zabrze",
+              "score": "2:1"
+            },
+            {
+              "date": "1966-10-26",
+              "home": "gornik-zabrze",
+              "away": "1-fc-frankfurt",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Hungária körút Stadion, Budapest"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1966-10-05",
+              "home": "vasas-sc",
+              "away": "sporting-cp",
+              "score": "5:0"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "sporting-cp",
+              "away": "vasas-sc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "kf-tirana"
+          ],
+          "winner": "valerenga-fotball",
+          "note": "17 Nëntori withdrew before the first leg",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-16",
+              "home": "fk-vojvodina",
+              "away": "atletico-madrid",
+              "score": "3:1"
+            },
+            {
+              "date": "1966-12-14",
+              "home": "atletico-madrid",
+              "away": "fk-vojvodina",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-12-21",
+              "home": "atletico-madrid",
+              "away": "fk-vojvodina",
+              "score": "2:3",
+              "extra_time": true,
+              "neutral": false,
+              "note": "Play-off, Estadio Manzanares, Madrid"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-30",
+              "home": "fc-nantes",
+              "away": "celtic-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1966-12-07",
+              "home": "celtic-fc",
+              "away": "fc-nantes",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-12-07",
+              "home": "afc-ajax",
+              "away": "liverpool-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1966-12-14",
+              "home": "liverpool-fc",
+              "away": "afc-ajax",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-17",
+              "home": "fk-dukla-prague",
+              "away": "rsc-anderlecht",
+              "score": "4:1"
+            },
+            {
+              "date": "1966-12-07",
+              "home": "rsc-anderlecht",
+              "away": "fk-dukla-prague",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-16",
+              "home": "inter-milan",
+              "away": "vasas-sc",
+              "score": "2:1"
+            },
+            {
+              "date": "1966-12-08",
+              "home": "vasas-sc",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tsv-1860-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-16",
+              "home": "tsv-1860-munich",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-11-30",
+              "home": "real-madrid-cf",
+              "away": "tsv-1860-munich",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-10-25",
+              "home": "valerenga-fotball",
+              "away": "linfield-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1966-11-08",
+              "home": "linfield-fc",
+              "away": "valerenga-fotball",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-23",
+              "home": "pfc-cska-sofia",
+              "away": "gornik-zabrze",
+              "score": "4:0"
+            },
+            {
+              "date": "1966-12-07",
+              "home": "gornik-zabrze",
+              "away": "pfc-cska-sofia",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-03-01",
+              "home": "fk-vojvodina",
+              "away": "celtic-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-03-08",
+              "home": "celtic-fc",
+              "away": "fk-vojvodina",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1967-03-01",
+              "home": "afc-ajax",
+              "away": "fk-dukla-prague",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-03-08",
+              "home": "fk-dukla-prague",
+              "away": "afc-ajax",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1967-02-15",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-03-01",
+              "home": "real-madrid-cf",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1967-03-01",
+              "home": "linfield-fc",
+              "away": "pfc-cska-sofia",
+              "score": "2:2"
+            },
+            {
+              "date": "1967-03-15",
+              "home": "pfc-cska-sofia",
+              "away": "linfield-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1967-04-12",
+              "home": "celtic-fc",
+              "away": "fk-dukla-prague",
+              "score": "3:1"
+            },
+            {
+              "date": "1967-04-25",
+              "home": "fk-dukla-prague",
+              "away": "celtic-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1967-04-19",
+              "home": "inter-milan",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-04-26",
+              "home": "pfc-cska-sofia",
+              "away": "inter-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-05-03",
+              "home": "inter-milan",
+              "away": "pfc-cska-sofia",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Stadio Comunale, Bologna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-05-25",
+              "home": "inter-milan",
+              "away": "celtic-fc",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Estádio Nacional, Lisbon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

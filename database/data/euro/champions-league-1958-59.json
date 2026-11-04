@@ -1,0 +1,602 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1958-59",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1958-08-26",
+              "home": "kjobenhavns-boldklub",
+              "away": "fc-schalke-04",
+              "score": "3:0"
+            },
+            {
+              "date": "1958-09-18",
+              "home": "fc-schalke-04",
+              "away": "kjobenhavns-boldklub",
+              "score": "5:2"
+            },
+            {
+              "date": "1958-10-01",
+              "home": "fc-schalke-04",
+              "away": "kjobenhavns-boldklub",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Diekman Stadion, Enschede"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-03",
+              "home": "r-standard-liege",
+              "away": "heart-of-midlothian-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1958-09-09",
+              "home": "heart-of-midlothian-fc",
+              "away": "r-standard-liege",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-10",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fk-dukla-prague",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-10-01",
+              "home": "fk-dukla-prague",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-14",
+              "home": "jeunesse-esch",
+              "away": "ifk-goteborg",
+              "score": "1:2"
+            },
+            {
+              "date": "1958-09-30",
+              "home": "ifk-goteborg",
+              "away": "jeunesse-esch",
+              "score": "0:1"
+            },
+            {
+              "date": "1958-10-15",
+              "home": "ifk-goteborg",
+              "away": "jeunesse-esch",
+              "score": "5:1",
+              "neutral": false,
+              "note": "Play-off"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ards-fc",
+            "stade-de-reims"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-14",
+              "home": "ards-fc",
+              "away": "stade-de-reims",
+              "score": "1:4",
+              "note": "Played at Windsor Park, Belfast"
+            },
+            {
+              "date": "1958-10-08",
+              "home": "stade-de-reims",
+              "away": "ards-fc",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "drumcondra-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-17",
+              "home": "atletico-madrid",
+              "away": "drumcondra-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1958-10-01",
+              "home": "drumcondra-fc",
+              "away": "atletico-madrid",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-erzgebirge-aue",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-17",
+              "home": "fc-erzgebirge-aue",
+              "away": "fc-petrolul-ploiesti",
+              "score": "4:2"
+            },
+            {
+              "date": "1958-09-28",
+              "home": "fc-petrolul-ploiesti",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:0"
+            },
+            {
+              "date": "1958-10-12",
+              "home": "fc-erzgebirge-aue",
+              "away": "fc-petrolul-ploiesti",
+              "score": "4:0",
+              "neutral": true,
+              "note": "Play-off, Nikita Khrushchev Republican Stadium, Kyiv"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "polonia-bytom",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-17",
+              "home": "polonia-bytom",
+              "away": "mtk-budapest-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1958-10-01",
+              "home": "mtk-budapest-fc",
+              "away": "polonia-bytom",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "wiener-sport-club"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-24",
+              "home": "juventus-fc",
+              "away": "wiener-sport-club",
+              "score": "3:1"
+            },
+            {
+              "date": "1958-10-01",
+              "home": "wiener-sport-club",
+              "away": "juventus-fc",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dos-utrecht",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1958-10-01",
+              "home": "dos-utrecht",
+              "away": "sporting-cp",
+              "score": "3:4"
+            },
+            {
+              "date": "1958-10-08",
+              "home": "sporting-cp",
+              "away": "dos-utrecht",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "olympiacos-fc"
+          ],
+          "winner": "besiktas-jk",
+          "note": "Olympiacos withdrew, refusing to play in Istanbul",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "manchester-united-fc"
+          ],
+          "winner": "bsc-young-boys",
+          "note": "Manchester United withdrew: invited after the Munich air disaster, but the Football League refused permission",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "sporting-cp",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1958-10-29",
+              "home": "sporting-cp",
+              "away": "r-standard-liege",
+              "score": "2:3"
+            },
+            {
+              "date": "1958-11-12",
+              "home": "r-standard-liege",
+              "away": "sporting-cp",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wiener-sport-club",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-05",
+              "home": "wiener-sport-club",
+              "away": "fk-dukla-prague",
+              "score": "3:1"
+            },
+            {
+              "date": "1958-11-26",
+              "home": "fk-dukla-prague",
+              "away": "wiener-sport-club",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-05",
+              "home": "mtk-budapest-fc",
+              "away": "bsc-young-boys",
+              "score": "1:2"
+            },
+            {
+              "date": "1958-11-26",
+              "home": "bsc-young-boys",
+              "away": "mtk-budapest-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-05",
+              "home": "atletico-madrid",
+              "away": "pfc-cska-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1958-11-26",
+              "home": "pfc-cska-sofia",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "1958-12-18",
+              "home": "atletico-madrid",
+              "away": "pfc-cska-sofia",
+              "score": "3:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Stade des Charmilles, Geneva"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "fc-erzgebirge-aue"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-09",
+              "home": "ifk-goteborg",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-11-15",
+              "home": "fc-erzgebirge-aue",
+              "away": "ifk-goteborg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wolverhampton-wanderers-fc",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-12",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "fc-schalke-04",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-11-18",
+              "home": "fc-schalke-04",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-13",
+              "home": "real-madrid-cf",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            },
+            {
+              "date": "1958-11-27",
+              "home": "besiktas-jk",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-de-reims",
+            "hps-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-26",
+              "home": "stade-de-reims",
+              "away": "hps-helsinki",
+              "score": "4:0"
+            },
+            {
+              "date": "1958-12-03",
+              "home": "hps-helsinki",
+              "away": "stade-de-reims",
+              "score": "0:3",
+              "note": "Played at Stade Robert Diochon, Rouen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "r-standard-liege",
+            "stade-de-reims"
+          ],
+          "matches": [
+            {
+              "date": "1959-02-04",
+              "home": "r-standard-liege",
+              "away": "stade-de-reims",
+              "score": "2:0"
+            },
+            {
+              "date": "1959-03-18",
+              "home": "stade-de-reims",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wiener-sport-club",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1959-03-04",
+              "home": "wiener-sport-club",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1959-03-18",
+              "home": "real-madrid-cf",
+              "away": "wiener-sport-club",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1959-03-04",
+              "home": "atletico-madrid",
+              "away": "fc-schalke-04",
+              "score": "3:0"
+            },
+            {
+              "date": "1959-03-18",
+              "home": "fc-schalke-04",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "fc-erzgebirge-aue"
+          ],
+          "matches": [
+            {
+              "date": "1959-03-11",
+              "home": "bsc-young-boys",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:2"
+            },
+            {
+              "date": "1959-03-18",
+              "home": "fc-erzgebirge-aue",
+              "away": "bsc-young-boys",
+              "score": "0:0"
+            },
+            {
+              "date": "1959-04-01",
+              "home": "bsc-young-boys",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Play-off, Olympic Stadium, Amsterdam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "stade-de-reims"
+          ],
+          "matches": [
+            {
+              "date": "1959-04-15",
+              "home": "bsc-young-boys",
+              "away": "stade-de-reims",
+              "score": "1:0"
+            },
+            {
+              "date": "1959-05-13",
+              "home": "stade-de-reims",
+              "away": "bsc-young-boys",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1959-04-15",
+              "home": "real-madrid-cf",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-05-07",
+              "home": "atletico-madrid",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1959-05-13",
+              "home": "real-madrid-cf",
+              "away": "atletico-madrid",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Play-off, La Romareda, Zaragoza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "stade-de-reims"
+          ],
+          "matches": [
+            {
+              "date": "1959-06-03",
+              "home": "real-madrid-cf",
+              "away": "stade-de-reims",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Neckarstadion, Stuttgart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1969-70",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "tps-turku",
+            "kjobenhavns-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1969-08-21",
+              "home": "tps-turku",
+              "away": "kjobenhavns-boldklub",
+              "score": "0:1"
+            },
+            {
+              "date": "1969-08-28",
+              "home": "kjobenhavns-boldklub",
+              "away": "tps-turku",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "hibernians-fc",
+              "away": "fc-spartak-trnava",
+              "score": "2:2"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "fc-spartak-trnava",
+              "away": "hibernians-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "waterford-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "galatasaray-sk",
+              "away": "waterford-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "waterford-fc",
+              "away": "galatasaray-sk",
+              "score": "2:3",
+              "note": "Played at Lansdowne Road, Dublin"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-uta-arad",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "fc-uta-arad",
+              "away": "legia-warsaw",
+              "score": "1:2"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "legia-warsaw",
+              "away": "fc-uta-arad",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "fc-bayern-munich",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "as-saint-etienne",
+              "away": "fc-bayern-munich",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "1-fc-frankfurt",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "panathinaikos-fc",
+              "away": "1-fc-frankfurt",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "red-star-belgrade",
+              "away": "linfield-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "linfield-fc",
+              "away": "red-star-belgrade",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-avenir-beggen"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-10",
+              "home": "ac-milan",
+              "away": "fc-avenir-beggen",
+              "score": "5:0"
+            },
+            {
+              "date": "1969-09-24",
+              "home": "fc-avenir-beggen",
+              "away": "ac-milan",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "kr-reykjavik",
+              "away": "feyenoord",
+              "score": "2:12",
+              "note": "Played at Feijenoord Stadion, Rotterdam"
+            },
+            {
+              "date": "1969-09-30",
+              "home": "feyenoord",
+              "away": "kr-reykjavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "r-standard-liege",
+              "away": "kf-tirana",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "kf-tirana",
+              "away": "r-standard-liege",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiakos-nicosia",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-24",
+              "home": "olympiakos-nicosia",
+              "away": "real-madrid-cf",
+              "score": "0:8",
+              "note": "Played at Santiago Bernabéu, Madrid"
+            },
+            {
+              "date": "1969-09-30",
+              "home": "real-madrid-cf",
+              "away": "olympiakos-nicosia",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "leeds-united-fc",
+              "away": "lyn-fotball",
+              "score": "10:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "lyn-fotball",
+              "away": "leeds-united-fc",
+              "score": "0:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "pfc-cska-sofia",
+              "away": "ferencvarosi-tc",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "ferencvarosi-tc",
+              "away": "pfc-cska-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "fc-basel",
+              "away": "celtic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "celtic-fc",
+              "away": "fc-basel",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "kjobenhavns-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "sl-benfica",
+              "away": "kjobenhavns-boldklub",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "kjobenhavns-boldklub",
+              "away": "sl-benfica",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "fk-austria-wien",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "fc-dynamo-kyiv",
+              "away": "fk-austria-wien",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "acf-fiorentina",
+              "away": "osters-if",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "osters-if",
+              "away": "acf-fiorentina",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "galatasaray-sk"
+          ],
+          "winner": "galatasaray-sk",
+          "note": "Galatasaray qualified on coin toss",
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "fc-spartak-trnava",
+              "away": "galatasaray-sk",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "galatasaray-sk",
+              "away": "fc-spartak-trnava",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "legia-warsaw",
+              "away": "as-saint-etienne",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-11-24",
+              "home": "as-saint-etienne",
+              "away": "legia-warsaw",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "red-star-belgrade"
+          ],
+          "winner": "1-fc-frankfurt",
+          "note": "Vorwärts Berlin won on away goals",
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "1-fc-frankfurt",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "red-star-belgrade",
+              "away": "1-fc-frankfurt",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "ac-milan",
+              "away": "feyenoord",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "feyenoord",
+              "away": "ac-milan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-19",
+              "home": "r-standard-liege",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-12-03",
+              "home": "real-madrid-cf",
+              "away": "r-standard-liege",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "leeds-united-fc",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "ferencvarosi-tc",
+              "away": "leeds-united-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "sl-benfica"
+          ],
+          "winner": "celtic-fc",
+          "note": "Celtic qualified on coin toss",
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "celtic-fc",
+              "away": "sl-benfica",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "sl-benfica",
+              "away": "celtic-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "fc-dynamo-kyiv",
+              "away": "acf-fiorentina",
+              "score": "1:2"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "acf-fiorentina",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "galatasaray-sk",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "legia-warsaw",
+              "away": "galatasaray-sk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "1-fc-frankfurt",
+              "away": "feyenoord",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "feyenoord",
+              "away": "1-fc-frankfurt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "r-standard-liege",
+              "away": "leeds-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "leeds-united-fc",
+              "away": "r-standard-liege",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "celtic-fc",
+              "away": "acf-fiorentina",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "acf-fiorentina",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "legia-warsaw",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1970-04-01",
+              "home": "legia-warsaw",
+              "away": "feyenoord",
+              "score": "0:0"
+            },
+            {
+              "date": "1970-04-15",
+              "home": "feyenoord",
+              "away": "legia-warsaw",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-04-01",
+              "home": "leeds-united-fc",
+              "away": "celtic-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-04-15",
+              "home": "celtic-fc",
+              "away": "leeds-united-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "feyenoord",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-05-06",
+              "home": "feyenoord",
+              "away": "celtic-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "San Siro, Milan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

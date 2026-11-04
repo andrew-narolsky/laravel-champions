@@ -1,0 +1,631 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1972-73",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "pfc-cska-sofia",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-10-26",
+              "home": "panathinaikos-fc",
+              "away": "pfc-cska-sofia",
+              "score": "0:2",
+              "note": "Replay: the original match on 27.09.1972 (1:2, CSKA won the shoot-out 3:2) was annulled because the referee ended the shoot-out prematurely"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "galatasaray-sk",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-bayern-munich",
+              "away": "galatasaray-sk",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "waterford-fc",
+              "away": "ac-omonia",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ac-omonia",
+              "away": "waterford-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-wacker-innsbruck",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-wacker-innsbruck",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "sliema-wanderers-fc",
+              "away": "gornik-zabrze",
+              "score": "0:5"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "gornik-zabrze",
+              "away": "sliema-wanderers-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aris-bonnevoie",
+            "fc-arges-pitesti"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-aris-bonnevoie",
+              "away": "fc-arges-pitesti",
+              "score": "0:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-arges-pitesti",
+              "away": "fc-aris-bonnevoie",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "real-madrid-cf",
+              "away": "keflavik",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "keflavik",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "olympique-de-marseille",
+              "away": "juventus-fc",
+              "score": "1:0",
+              "note": "Played at Stade de Gerland, Lyon"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "juventus-fc",
+              "away": "olympique-de-marseille",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "1-fc-magdeburg",
+              "away": "tps-turku",
+              "score": "6:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "tps-turku",
+              "away": "1-fc-magdeburg",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "celtic-fc",
+              "away": "rosenborg-bk",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "rosenborg-bk",
+              "away": "celtic-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "ujpest-fc",
+              "away": "fc-basel",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-basel",
+              "away": "ujpest-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "vejle-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "rsc-anderlecht",
+              "away": "vejle-boldklub",
+              "score": "4:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "vejle-boldklub",
+              "away": "rsc-anderlecht",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "derby-county-fc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "derby-county-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "derby-county-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "malmo-ff",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "sl-benfica",
+              "away": "malmo-ff",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-08",
+              "home": "pfc-cska-sofia",
+              "away": "afc-ajax",
+              "score": "1:3"
+            },
+            {
+              "date": "1972-11-29",
+              "home": "afc-ajax",
+              "away": "pfc-cska-sofia",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-24",
+              "home": "fc-bayern-munich",
+              "away": "ac-omonia",
+              "score": "9:0"
+            },
+            {
+              "date": "1972-10-26",
+              "home": "ac-omonia",
+              "away": "fc-bayern-munich",
+              "score": "0:4",
+              "note": "Played at Rosenaustadion, Augsburg (West Germany)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "fc-dynamo-kyiv",
+              "away": "gornik-zabrze",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "gornik-zabrze",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arges-pitesti",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "fc-arges-pitesti",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-11-09",
+              "home": "real-madrid-cf",
+              "away": "fc-arges-pitesti",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "juventus-fc",
+              "away": "1-fc-magdeburg",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "1-fc-magdeburg",
+              "away": "juventus-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "celtic-fc",
+              "away": "ujpest-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "ujpest-fc",
+              "away": "celtic-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "fc-spartak-trnava",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "rsc-anderlecht",
+              "away": "fc-spartak-trnava",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derby-county-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "derby-county-fc",
+              "away": "sl-benfica",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "sl-benfica",
+              "away": "derby-county-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "afc-ajax",
+              "away": "fc-bayern-munich",
+              "score": "4:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "fc-bayern-munich",
+              "away": "afc-ajax",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "fc-dynamo-kyiv",
+              "away": "real-madrid-cf",
+              "score": "0:0",
+              "note": "Played at Central Stadium, Odesa (frozen pitch in Kyiv)"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "real-madrid-cf",
+              "away": "fc-dynamo-kyiv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "ujpest-fc"
+          ],
+          "winner": "juventus-fc",
+          "note": "Juventus won on away goals",
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "juventus-fc",
+              "away": "ujpest-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "ujpest-fc",
+              "away": "juventus-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "derby-county-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "fc-spartak-trnava",
+              "away": "derby-county-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "derby-county-fc",
+              "away": "fc-spartak-trnava",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1973-04-11",
+              "home": "afc-ajax",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "real-madrid-cf",
+              "away": "afc-ajax",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "derby-county-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-04-11",
+              "home": "juventus-fc",
+              "away": "derby-county-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "derby-county-fc",
+              "away": "juventus-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-05-30",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Stadion Crvena Zvezda, Belgrade"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,6 +10,7 @@ use App\Http\Controllers\Front\HomeController;
 use App\Http\Controllers\Front\CountryController as FrontCountryController;
 use App\Http\Controllers\Front\CompetitionController as FrontCompetitionController;
 use App\Http\Controllers\Front\ClubController as FrontClubController;
+use App\Http\Controllers\Front\EuroCompetitionController;
 use App\Http\Controllers\Front\SearchController;
 use Illuminate\Support\Facades\Route;
 
@@ -26,6 +27,8 @@ Route::get('search', [SearchController::class, 'index'])->name('search');
 Route::get('country/{country:slug}', [FrontCountryController::class, 'index'])->name('country.show');
 Route::get('competition/{competition:slug}', [FrontCompetitionController::class, 'index'])->name('competition.show');
 Route::get('club/{club:slug}', [FrontClubController::class, 'index'])->name('club.show');
+Route::get('euro/{euroCompetition:slug}', [EuroCompetitionController::class, 'index'])->name('euro.show');
+Route::get('euro/{euroCompetition:slug}/{season}', [EuroCompetitionController::class, 'season'])->name('euro.season');
 
 Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
     Route::get('/', [DashboardController::class, 'index'])->name('admin');

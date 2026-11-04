@@ -1,0 +1,672 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1984-85",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "trabzonspor",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "trabzonspor",
+              "away": "fc-dnipro",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "fc-dnipro",
+              "away": "trabzonspor",
+              "score": "3:0",
+              "note": "Played at Metalurh Stadium, Kryvyi Rih (Dnipropetrovsk was a closed city for foreigners)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "fc-dinamo-bucuresti",
+              "away": "ac-omonia",
+              "score": "4:1"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "ac-omonia",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "lech-poznan",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "liverpool-fc",
+              "away": "lech-poznan",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-elbasani",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "kf-elbasani",
+              "away": "lyngby-boldklub",
+              "score": "0:3"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "lyngby-boldklub",
+              "away": "kf-elbasani",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "valerenga-fotball",
+              "away": "ac-sparta-prague",
+              "score": "3:3"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "ac-sparta-prague",
+              "away": "valerenga-fotball",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "red-star-belgrade",
+              "away": "sl-benfica",
+              "score": "3:2"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "sl-benfica",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "fc-ilves",
+              "away": "juventus-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "juventus-fc",
+              "away": "fc-ilves",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "vfb-stuttgart"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski-Spartak won on away goals",
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "pfc-levski-sofia",
+              "away": "vfb-stuttgart",
+              "score": "1:1"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "vfb-stuttgart",
+              "away": "pfc-levski-sofia",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "ia-akranes",
+              "away": "ksk-beveren",
+              "score": "2:2"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "ksk-beveren",
+              "away": "ia-akranes",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "fk-austria-wien",
+              "away": "valletta-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "valletta-fc",
+              "away": "fk-austria-wien",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "fc-avenir-beggen",
+              "away": "ifk-goteborg",
+              "score": "0:8"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "ifk-goteborg",
+              "away": "fc-avenir-beggen",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "grasshopper-club",
+              "away": "budapest-honved-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "budapest-honved-fc",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "feyenoord",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "panathinaikos-fc",
+              "away": "feyenoord",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "athletic-bilbao",
+              "score": "3:2"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "athletic-bilbao",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "bfc-dynamo"
+          ],
+          "winner": "bfc-dynamo",
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "aberdeen-fc",
+              "away": "bfc-dynamo",
+              "score": "2:1"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "bfc-dynamo",
+              "away": "aberdeen-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "BFC Dynamo won 5:4 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "shamrock-rovers-fc"
+          ],
+          "winner": "linfield-fc",
+          "note": "Linfield won on away goals",
+          "matches": [
+            {
+              "date": "1984-09-19",
+              "home": "linfield-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1984-10-03",
+              "home": "shamrock-rovers-fc",
+              "away": "linfield-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "ac-sparta-prague",
+              "away": "lyngby-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "lyngby-boldklub",
+              "away": "ac-sparta-prague",
+              "score": "1:2",
+              "note": "Played at Idrætsparken, Copenhagen"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "bfc-dynamo",
+              "away": "fk-austria-wien",
+              "score": "3:3"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "fk-austria-wien",
+              "away": "bfc-dynamo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fc-dnipro"
+          ],
+          "winner": "fc-dnipro",
+          "note": "Dnipro won on away goals",
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "pfc-levski-sofia",
+              "away": "fc-dnipro",
+              "score": "3:1"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "fc-dnipro",
+              "away": "pfc-levski-sofia",
+              "score": "2:0",
+              "note": "Played at Metalurh Stadium, Kryvyi Rih (Dnipropetrovsk was a closed city for foreigners)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "ksk-beveren"
+          ],
+          "winner": "ifk-goteborg",
+          "note": "IFK Göteborg won on away goals",
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "ifk-goteborg",
+              "away": "ksk-beveren",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "ksk-beveren",
+              "away": "ifk-goteborg",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "panathinaikos-fc",
+              "away": "linfield-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "linfield-fc",
+              "away": "panathinaikos-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "juventus-fc",
+              "away": "grasshopper-club",
+              "score": "2:0"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "grasshopper-club",
+              "away": "juventus-fc",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1984-10-24",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "3:1"
+            },
+            {
+              "date": "1984-11-07",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-03-06",
+              "home": "ifk-goteborg",
+              "away": "panathinaikos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1985-03-20",
+              "home": "panathinaikos-fc",
+              "away": "ifk-goteborg",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-03-06",
+              "home": "fk-austria-wien",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-03-20",
+              "home": "liverpool-fc",
+              "away": "fk-austria-wien",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1985-03-06",
+              "home": "juventus-fc",
+              "away": "ac-sparta-prague",
+              "score": "3:0"
+            },
+            {
+              "date": "1985-03-20",
+              "home": "ac-sparta-prague",
+              "away": "juventus-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fc-dnipro"
+          ],
+          "winner": "fc-girondins-de-bordeaux",
+          "matches": [
+            {
+              "date": "1985-03-06",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-dnipro",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-03-20",
+              "home": "fc-dnipro",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Played at Metalurh Stadium, Kryvyi Rih (Dnipropetrovsk was a closed city for foreigners); Bordeaux won 5:3 on penalties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1985-04-10",
+              "home": "juventus-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:0"
+            },
+            {
+              "date": "1985-04-24",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "juventus-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-04-10",
+              "home": "liverpool-fc",
+              "away": "panathinaikos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1985-04-24",
+              "home": "panathinaikos-fc",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-05-29",
+              "home": "liverpool-fc",
+              "away": "juventus-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels; 39 spectators died in the Heysel Stadium disaster before kick-off"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

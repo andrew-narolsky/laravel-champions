@@ -7,6 +7,7 @@ use App\Enums\SeasonPosition;
 use App\Models\Club;
 use App\Models\Competition;
 use App\Models\Country;
+use App\Models\EuroCompetition;
 use App\Models\Result;
 use App\Models\Season;
 use Illuminate\Support\Collection;
@@ -26,6 +27,11 @@ class StatsService
             'topChampionClubs' => $this->getTopChampions(CompetitionType::CHAMPIONSHIP->value),
             'topCupClubs' => $this->getTopChampions(CompetitionType::CUP->value),
             'countries' => $this->getCountries(),
+            'euroCompetitions' => EuroCompetition::query()
+                ->with('attachment')
+                ->withCount('seasons')
+                ->orderBy('id')
+                ->get(['id', 'name', 'slug', 'description']),
         ];
 
         if (!config('app.cache_home_stats')) {

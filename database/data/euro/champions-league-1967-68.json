@@ -1,0 +1,661 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1967-68",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "olympiakos-nicosia",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "olympiakos-nicosia",
+              "away": "fk-sarajevo",
+              "score": "2:2"
+            },
+            {
+              "date": "1967-10-11",
+              "home": "fk-sarajevo",
+              "away": "olympiakos-nicosia",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "manchester-united-fc",
+              "away": "hibernians-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1967-09-27",
+              "home": "hibernians-fc",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "celtic-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2"
+            },
+            {
+              "date": "1967-10-04",
+              "home": "fc-dynamo-kyiv",
+              "away": "celtic-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "gornik-zabrze",
+              "away": "djurgardens-if",
+              "score": "3:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1967-10-04",
+              "home": "djurgardens-if",
+              "away": "gornik-zabrze",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "hvidovre-if"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "fc-basel",
+              "away": "hvidovre-if",
+              "score": "1:2"
+            },
+            {
+              "date": "1967-10-18",
+              "home": "hvidovre-if",
+              "away": "fc-basel",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "afc-ajax",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-10-11",
+              "home": "real-madrid-cf",
+              "away": "afc-ajax",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skeid-fotball",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "skeid-fotball",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "1967-10-04",
+              "home": "ac-sparta-prague",
+              "away": "skeid-fotball",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chemnitzer-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "chemnitzer-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:3"
+            },
+            {
+              "date": "1967-10-18",
+              "home": "rsc-anderlecht",
+              "away": "chemnitzer-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "dundalk-fc",
+              "away": "vasas-sc",
+              "score": "0:1"
+            },
+            {
+              "date": "1967-10-11",
+              "home": "vasas-sc",
+              "away": "dundalk-fc",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "jeunesse-esch"
+          ],
+          "winner": "valur",
+          "note": "Valur won on away goals",
+          "matches": [
+            {
+              "date": "1967-09-17",
+              "home": "valur",
+              "away": "jeunesse-esch",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-10-01",
+              "home": "jeunesse-esch",
+              "away": "valur",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "sl-benfica"
+          ],
+          "winner": "sl-benfica",
+          "note": "Benfica won on away goals",
+          "matches": [
+            {
+              "date": "1967-09-13",
+              "home": "glentoran-fc",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "1967-10-04",
+              "home": "sl-benfica",
+              "away": "glentoran-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "kups-kuopio"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "as-saint-etienne",
+              "away": "kups-kuopio",
+              "score": "2:0"
+            },
+            {
+              "date": "1967-10-04",
+              "home": "kups-kuopio",
+              "away": "as-saint-etienne",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-13",
+              "home": "besiktas-jk",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            },
+            {
+              "date": "1967-09-19",
+              "home": "sk-rapid-wien",
+              "away": "besiktas-jk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-20",
+              "home": "olympiacos-fc",
+              "away": "juventus-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1967-10-11",
+              "home": "juventus-fc",
+              "away": "olympiacos-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1967-09-27",
+              "home": "botev-plovdiv",
+              "away": "fc-rapid-bucuresti",
+              "score": "2:0"
+            },
+            {
+              "date": "1967-10-18",
+              "home": "fc-rapid-bucuresti",
+              "away": "botev-plovdiv",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "fc-dinamo-city"
+          ],
+          "winner": "eintracht-braunschweig",
+          "note": "Dinamo Tirana withdrew",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-15",
+              "home": "fk-sarajevo",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1967-11-29",
+              "home": "manchester-united-fc",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-17",
+              "home": "fc-dynamo-kyiv",
+              "away": "gornik-zabrze",
+              "score": "1:2"
+            },
+            {
+              "date": "1967-11-29",
+              "home": "gornik-zabrze",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hvidovre-if",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-15",
+              "home": "hvidovre-if",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1967-11-29",
+              "home": "real-madrid-cf",
+              "away": "hvidovre-if",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-29",
+              "home": "ac-sparta-prague",
+              "away": "rsc-anderlecht",
+              "score": "3:2"
+            },
+            {
+              "date": "1967-12-06",
+              "home": "rsc-anderlecht",
+              "away": "ac-sparta-prague",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-15",
+              "home": "vasas-sc",
+              "away": "valur",
+              "score": "6:0"
+            },
+            {
+              "date": "1967-11-17",
+              "home": "valur",
+              "away": "vasas-sc",
+              "score": "1:5",
+              "note": "Played at Városi Stadion, Várpalota (Hungary)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-16",
+              "home": "sl-benfica",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            },
+            {
+              "date": "1967-11-30",
+              "home": "as-saint-etienne",
+              "away": "sl-benfica",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "eintracht-braunschweig"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-15",
+              "home": "sk-rapid-wien",
+              "away": "eintracht-braunschweig",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-11-29",
+              "home": "eintracht-braunschweig",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1967-11-29",
+              "home": "juventus-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-12-13",
+              "home": "fc-rapid-bucuresti",
+              "away": "juventus-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1968-02-28",
+              "home": "manchester-united-fc",
+              "away": "gornik-zabrze",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-03-13",
+              "home": "gornik-zabrze",
+              "away": "manchester-united-fc",
+              "score": "1:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1968-03-06",
+              "home": "real-madrid-cf",
+              "away": "ac-sparta-prague",
+              "score": "3:0"
+            },
+            {
+              "date": "1968-03-20",
+              "home": "ac-sparta-prague",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1968-03-06",
+              "home": "vasas-sc",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1968-03-14",
+              "home": "sl-benfica",
+              "away": "vasas-sc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-01-31",
+              "home": "eintracht-braunschweig",
+              "away": "juventus-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1968-02-28",
+              "home": "juventus-fc",
+              "away": "eintracht-braunschweig",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-03-20",
+              "home": "juventus-fc",
+              "away": "eintracht-braunschweig",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Wankdorf Stadium, Bern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1968-04-24",
+              "home": "manchester-united-fc",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-05-15",
+              "home": "real-madrid-cf",
+              "away": "manchester-united-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-05-09",
+              "home": "sl-benfica",
+              "away": "juventus-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-05-15",
+              "home": "juventus-fc",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sl-benfica",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-05-29",
+              "home": "sl-benfica",
+              "away": "manchester-united-fc",
+              "score": "1:4",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

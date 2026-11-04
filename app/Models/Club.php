@@ -11,6 +11,7 @@ use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Club extends Model
 {
@@ -65,6 +66,16 @@ class Club extends Model
             ->withPivot(['place', 'order']);
     }
 
+
+    public function euroTitles(): HasMany
+    {
+        return $this->hasMany(EuroSeason::class, 'winner_club_id');
+    }
+
+    public function euroRunnerUps(): HasMany
+    {
+        return $this->hasMany(EuroSeason::class, 'runner_up_club_id');
+    }
 
     protected function normalizedName(): Attribute
     {

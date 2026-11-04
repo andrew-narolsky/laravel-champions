@@ -1,0 +1,566 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1959-60",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "ogc-nice",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1959-08-26",
+              "home": "ogc-nice",
+              "away": "shamrock-rovers-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "shamrock-rovers-fc",
+              "away": "ogc-nice",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-03",
+              "home": "pfc-cska-sofia",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "fc-barcelona",
+              "away": "pfc-cska-sofia",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wiener-sport-club",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-09",
+              "home": "wiener-sport-club",
+              "away": "fc-petrolul-ploiesti",
+              "score": "0:0"
+            },
+            {
+              "date": "1959-09-16",
+              "home": "fc-petrolul-ploiesti",
+              "away": "wiener-sport-club",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "lks-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-09",
+              "home": "jeunesse-esch",
+              "away": "lks-lodz",
+              "score": "5:0"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "lks-lodz",
+              "away": "jeunesse-esch",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-09",
+              "home": "linfield-fc",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "ifk-goteborg",
+              "away": "linfield-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-10",
+              "home": "fk-inter-bratislava",
+              "away": "fc-porto",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-09-29",
+              "home": "fc-porto",
+              "away": "fk-inter-bratislava",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "csepel-sc"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-13",
+              "home": "fenerbahce-sk",
+              "away": "csepel-sc",
+              "score": "1:1"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "csepel-sc",
+              "away": "fenerbahce-sk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-13",
+              "home": "olympiacos-fc",
+              "away": "ac-milan",
+              "score": "2:2"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "ac-milan",
+              "away": "olympiacos-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-16",
+              "home": "rangers-fc",
+              "away": "rsc-anderlecht",
+              "score": "5:2"
+            },
+            {
+              "date": "1959-09-23",
+              "home": "rsc-anderlecht",
+              "away": "rangers-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1959-09-30",
+              "home": "1-fc-frankfurt",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-10-07",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "1-fc-frankfurt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "kups-kuopio"
+          ],
+          "winner": "eintracht-frankfurt",
+          "note": "Kuopion Palloseura withdrew after the draw",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "boldklubben-1909",
+            "wiener-sport-club"
+          ],
+          "matches": [
+            {
+              "date": "1959-10-21",
+              "home": "boldklubben-1909",
+              "away": "wiener-sport-club",
+              "score": "0:3"
+            },
+            {
+              "date": "1959-11-04",
+              "home": "wiener-sport-club",
+              "away": "boldklubben-1909",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1959-10-21",
+              "home": "real-madrid-cf",
+              "away": "jeunesse-esch",
+              "score": "7:0"
+            },
+            {
+              "date": "1959-11-04",
+              "home": "jeunesse-esch",
+              "away": "real-madrid-cf",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1959-10-25",
+              "home": "sparta-rotterdam",
+              "away": "ifk-goteborg",
+              "score": "3:1"
+            },
+            {
+              "date": "1959-11-05",
+              "home": "ifk-goteborg",
+              "away": "sparta-rotterdam",
+              "score": "3:1"
+            },
+            {
+              "date": "1959-11-25",
+              "home": "sparta-rotterdam",
+              "away": "ifk-goteborg",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Weserstadion, Bremen"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1959-11-04",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "1959-11-25",
+              "home": "fc-barcelona",
+              "away": "ac-milan",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1959-11-04",
+              "home": "bsc-young-boys",
+              "away": "eintracht-frankfurt",
+              "score": "1:4"
+            },
+            {
+              "date": "1959-11-25",
+              "home": "eintracht-frankfurt",
+              "away": "bsc-young-boys",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fk-inter-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1959-11-11",
+              "home": "rangers-fc",
+              "away": "fk-inter-bratislava",
+              "score": "4:3"
+            },
+            {
+              "date": "1959-11-18",
+              "home": "fk-inter-bratislava",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1959-11-11",
+              "home": "red-star-belgrade",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1959-11-24",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "red-star-belgrade",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "1959-11-19",
+              "home": "fenerbahce-sk",
+              "away": "ogc-nice",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-12-03",
+              "home": "ogc-nice",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "1959-12-23",
+              "home": "ogc-nice",
+              "away": "fenerbahce-sk",
+              "score": "5:1",
+              "neutral": true,
+              "note": "Play-off, Stade des Charmilles, Geneva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ogc-nice",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1960-02-04",
+              "home": "ogc-nice",
+              "away": "real-madrid-cf",
+              "score": "3:2"
+            },
+            {
+              "date": "1960-03-02",
+              "home": "real-madrid-cf",
+              "away": "ogc-nice",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-02-10",
+              "home": "fc-barcelona",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1960-03-02",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "fc-barcelona",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "wiener-sport-club"
+          ],
+          "matches": [
+            {
+              "date": "1960-03-03",
+              "home": "eintracht-frankfurt",
+              "away": "wiener-sport-club",
+              "score": "2:1"
+            },
+            {
+              "date": "1960-03-16",
+              "home": "wiener-sport-club",
+              "away": "eintracht-frankfurt",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-03-09",
+              "home": "sparta-rotterdam",
+              "away": "rangers-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1960-03-16",
+              "home": "rangers-fc",
+              "away": "sparta-rotterdam",
+              "score": "0:1"
+            },
+            {
+              "date": "1960-03-30",
+              "home": "rangers-fc",
+              "away": "sparta-rotterdam",
+              "score": "3:2",
+              "neutral": true,
+              "note": "Play-off, Highbury, London"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-04-13",
+              "home": "eintracht-frankfurt",
+              "away": "rangers-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "1960-05-05",
+              "home": "rangers-fc",
+              "away": "eintracht-frankfurt",
+              "score": "3:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1960-04-21",
+              "home": "real-madrid-cf",
+              "away": "fc-barcelona",
+              "score": "3:1"
+            },
+            {
+              "date": "1960-04-27",
+              "home": "fc-barcelona",
+              "away": "real-madrid-cf",
+              "score": "1:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1960-05-18",
+              "home": "eintracht-frankfurt",
+              "away": "real-madrid-cf",
+              "score": "3:7",
+              "neutral": true,
+              "note": "Hampden Park, Glasgow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

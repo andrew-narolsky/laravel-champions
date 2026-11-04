@@ -1,0 +1,664 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1976-77",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "rangers-fc",
+              "away": "fc-zurich",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-zurich",
+              "away": "rangers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "tps-turku"
+          ],
+          "winner": "tps-turku",
+          "note": "TPS won on away goals",
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "sliema-wanderers-fc",
+              "away": "tps-turku",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-28",
+              "home": "tps-turku",
+              "away": "sliema-wanderers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "ferencvarosi-tc",
+              "away": "jeunesse-esch",
+              "score": "5:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "jeunesse-esch",
+              "away": "ferencvarosi-tc",
+              "score": "2:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "sg-dynamo-dresden",
+              "away": "sl-benfica",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "sl-benfica",
+              "away": "sg-dynamo-dresden",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "pfc-cska-sofia",
+              "away": "as-saint-etienne",
+              "score": "0:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "as-saint-etienne",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "dundalk-fc",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "psv-eindhoven",
+              "away": "dundalk-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "ia-akranes",
+              "away": "trabzonspor",
+              "score": "1:3",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "trabzonspor",
+              "away": "ia-akranes",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "liverpool-fc",
+              "away": "crusaders-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-28",
+              "home": "crusaders-fc",
+              "away": "liverpool-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "viking-fk",
+              "away": "fc-banik-ostrava",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-banik-ostrava",
+              "away": "viking-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "koge-boldklub",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "koge-boldklub",
+              "away": "fc-bayern-munich",
+              "score": "0:5",
+              "note": "Played at Københavns Idrætspark, Copenhagen"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-bayern-munich",
+              "away": "koge-boldklub",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-dynamo-kyiv",
+              "away": "fk-partizan",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fk-partizan",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "ac-omonia",
+              "away": "paok-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "paok-fc",
+              "away": "ac-omonia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "torino-fc",
+              "away": "malmo-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "malmo-ff",
+              "away": "torino-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fk-austria-wien",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "borussia-monchengladbach",
+              "away": "fk-austria-wien",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stal-mielec",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "stal-mielec",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "real-madrid-cf",
+              "away": "stal-mielec",
+              "score": "1:0",
+              "note": "Played at Mestalla, Valencia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "club-brugge-kv",
+              "away": "fcsb",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fcsb",
+              "away": "club-brugge-kv",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zurich",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-zurich",
+              "away": "tps-turku",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "tps-turku",
+              "away": "fc-zurich",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "ferencvarosi-tc",
+              "away": "sg-dynamo-dresden",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "sg-dynamo-dresden",
+              "away": "ferencvarosi-tc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "as-saint-etienne",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "psv-eindhoven",
+              "away": "as-saint-etienne",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "trabzonspor",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "liverpool-fc",
+              "away": "trabzonspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-banik-ostrava",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "fc-bayern-munich",
+              "away": "fc-banik-ostrava",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-dynamo-kyiv",
+              "away": "paok-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "paok-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "torino-fc",
+              "away": "borussia-monchengladbach",
+              "score": "1:2"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "borussia-monchengladbach",
+              "away": "torino-fc",
+              "score": "0:0",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "real-madrid-cf",
+              "away": "club-brugge-kv",
+              "score": "0:0",
+              "note": "Played at La Rosaleda, Málaga"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "club-brugge-kv",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zurich",
+            "sg-dynamo-dresden"
+          ],
+          "winner": "fc-zurich",
+          "note": "Zürich won on away goals",
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "fc-zurich",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-zurich",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "as-saint-etienne",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "liverpool-fc",
+              "away": "as-saint-etienne",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "fc-bayern-munich",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "borussia-monchengladbach",
+              "away": "club-brugge-kv",
+              "score": "2:2",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "club-brugge-kv",
+              "away": "borussia-monchengladbach",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zurich",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "fc-zurich",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "liverpool-fc",
+              "away": "fc-zurich",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "fc-dynamo-kyiv",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "borussia-monchengladbach",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-05-25",
+              "home": "borussia-monchengladbach",
+              "away": "liverpool-fc",
+              "score": "1:3",
+              "neutral": true,
+              "note": "Stadio Olimpico, Rome"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

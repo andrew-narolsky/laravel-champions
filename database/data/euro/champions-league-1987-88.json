@@ -1,0 +1,657 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1987-88",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "fc-kuusysi"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "neuchatel-xamax-fcs",
+              "away": "fc-kuusysi",
+              "score": "5:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-kuusysi",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-bayern-munich",
+              "away": "pfc-cska-sofia",
+              "score": "4:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "pfc-cska-sofia",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "real-madrid-cf",
+              "away": "ssc-napoli",
+              "score": "2:0",
+              "note": "Played behind closed doors (UEFA ban after the 1986-87 semi-final incidents)"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ssc-napoli",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-porto",
+              "away": "fk-vardar",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fk-vardar",
+              "away": "fc-porto",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "lillestrom-sk",
+              "away": "linfield-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "linfield-fc",
+              "away": "lillestrom-sk",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "bfc-dynamo",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "bfc-dynamo",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "sk-rapid-wien",
+              "away": "hamrun-spartans-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "hamrun-spartans-fc",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "psv-eindhoven",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "galatasaray-sk",
+              "away": "psv-eindhoven",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fcsb",
+              "away": "mtk-budapest-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "mtk-budapest-fc",
+              "away": "fcsb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "shamrock-rovers-fc",
+              "away": "ac-omonia",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ac-omonia",
+              "away": "shamrock-rovers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-dynamo-kyiv",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "rangers-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "olympiacos-fc",
+              "away": "gornik-zabrze",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "gornik-zabrze",
+              "away": "olympiacos-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "agf-aarhus",
+              "away": "jeunesse-esch",
+              "score": "4:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "jeunesse-esch",
+              "away": "agf-aarhus",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fk-partizani"
+          ],
+          "winner": "sl-benfica",
+          "note": "Second leg not played: Partizani disqualified for the behaviour of their players and officials in the first leg (four sent off)",
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "sl-benfica",
+              "away": "fk-partizani",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fram-reykjavik",
+              "away": "ac-sparta-prague",
+              "score": "0:2"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ac-sparta-prague",
+              "away": "fram-reykjavik",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "malmo-ff",
+              "away": "rsc-anderlecht",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "rsc-anderlecht",
+              "away": "malmo-ff",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "neuchatel-xamax-fcs",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-bayern-munich",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "real-madrid-cf",
+              "away": "fc-porto",
+              "score": "2:1",
+              "note": "Played at Mestalla, Valencia (UEFA stadium ban)"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-porto",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "lillestrom-sk",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "lillestrom-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "sk-rapid-wien",
+              "away": "psv-eindhoven",
+              "score": "1:2"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "psv-eindhoven",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "fcsb",
+              "away": "ac-omonia",
+              "score": "3:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "ac-omonia",
+              "away": "fcsb",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "rangers-fc",
+              "away": "gornik-zabrze",
+              "score": "3:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "gornik-zabrze",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "agf-aarhus",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "sl-benfica",
+              "away": "agf-aarhus",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "ac-sparta-prague",
+              "away": "rsc-anderlecht",
+              "score": "1:2"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "rsc-anderlecht",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "3:2"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "psv-eindhoven"
+          ],
+          "winner": "psv-eindhoven",
+          "note": "PSV Eindhoven won on away goals",
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "psv-eindhoven",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "fcsb",
+              "away": "rangers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "rangers-fc",
+              "away": "fcsb",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "sl-benfica",
+              "away": "rsc-anderlecht",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "rsc-anderlecht",
+              "away": "sl-benfica",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "psv-eindhoven"
+          ],
+          "winner": "psv-eindhoven",
+          "note": "PSV Eindhoven won on away goals",
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "real-madrid-cf",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "psv-eindhoven",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "fcsb",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "sl-benfica",
+              "away": "fcsb",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "sl-benfica"
+          ],
+          "winner": "psv-eindhoven",
+          "matches": [
+            {
+              "date": "1988-05-25",
+              "home": "psv-eindhoven",
+              "away": "sl-benfica",
+              "score": "0:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Neckarstadion, Stuttgart; PSV Eindhoven won 6:5 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1964-65",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-08-17",
+              "home": "kr-reykjavik",
+              "away": "liverpool-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "1964-09-14",
+              "home": "liverpool-fc",
+              "away": "kr-reykjavik",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-02",
+              "home": "rangers-fc",
+              "away": "red-star-belgrade",
+              "score": "3:1"
+            },
+            {
+              "date": "1964-09-09",
+              "home": "red-star-belgrade",
+              "away": "rangers-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1964-11-04",
+              "home": "rangers-fc",
+              "away": "red-star-belgrade",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Highbury, London"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsg-chemie-leipzig",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-02",
+              "home": "bsg-chemie-leipzig",
+              "away": "gyori-eto-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1964-09-09",
+              "home": "gyori-eto-fc",
+              "away": "bsg-chemie-leipzig",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "gornik-zabrze"
+          ],
+          "winner": "fk-dukla-prague",
+          "note": "Dukla Prague qualified on coin toss",
+          "matches": [
+            {
+              "date": "1964-09-06",
+              "home": "fk-dukla-prague",
+              "away": "gornik-zabrze",
+              "score": "4:1"
+            },
+            {
+              "date": "1964-09-20",
+              "home": "gornik-zabrze",
+              "away": "fk-dukla-prague",
+              "score": "3:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1964-10-14",
+              "home": "fk-dukla-prague",
+              "away": "gornik-zabrze",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Play-off, Wedaustadion, Duisburg"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "fc-la-chaux-de-fonds"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-09",
+              "home": "as-saint-etienne",
+              "away": "fc-la-chaux-de-fonds",
+              "score": "2:2"
+            },
+            {
+              "date": "1964-09-16",
+              "home": "fc-la-chaux-de-fonds",
+              "away": "as-saint-etienne",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "bologna-fc"
+          ],
+          "winner": "rsc-anderlecht",
+          "note": "Anderlecht qualified on coin toss",
+          "matches": [
+            {
+              "date": "1964-09-09",
+              "home": "rsc-anderlecht",
+              "away": "bologna-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-10-07",
+              "home": "bologna-fc",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            },
+            {
+              "date": "1964-10-14",
+              "home": "rsc-anderlecht",
+              "away": "bologna-fc",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Play-off, Camp Nou, Barcelona"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-09",
+              "home": "reipas-lahti",
+              "away": "lyn-fotball",
+              "score": "2:1"
+            },
+            {
+              "date": "1964-10-07",
+              "home": "lyn-fotball",
+              "away": "reipas-lahti",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-09",
+              "home": "fk-partizani",
+              "away": "1-fc-koln",
+              "score": "0:0"
+            },
+            {
+              "date": "1964-09-23",
+              "home": "1-fc-koln",
+              "away": "fk-partizani",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-10",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "malmo-ff",
+              "score": "8:3"
+            },
+            {
+              "date": "1964-09-30",
+              "home": "malmo-ff",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-13",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:2"
+            },
+            {
+              "date": "1964-09-19",
+              "home": "fc-dinamo-bucuresti",
+              "away": "sliema-wanderers-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-16",
+              "home": "sk-rapid-wien",
+              "away": "shamrock-rovers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1964-09-30",
+              "home": "shamrock-rovers-fc",
+              "away": "sk-rapid-wien",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-16",
+              "home": "glentoran-fc",
+              "away": "panathinaikos-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1964-09-30",
+              "home": "panathinaikos-fc",
+              "away": "glentoran-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dws-amsterdam",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-16",
+              "home": "dws-amsterdam",
+              "away": "fenerbahce-sk",
+              "score": "3:1"
+            },
+            {
+              "date": "1964-10-07",
+              "home": "fenerbahce-sk",
+              "away": "dws-amsterdam",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aris-bonnevoie",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-16",
+              "home": "fc-aris-bonnevoie",
+              "away": "sl-benfica",
+              "score": "1:5"
+            },
+            {
+              "date": "1964-09-30",
+              "home": "sl-benfica",
+              "away": "fc-aris-bonnevoie",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1909",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1964-09-23",
+              "home": "boldklubben-1909",
+              "away": "real-madrid-cf",
+              "score": "2:5"
+            },
+            {
+              "date": "1964-10-14",
+              "home": "real-madrid-cf",
+              "away": "boldklubben-1909",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-la-chaux-de-fonds",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-04",
+              "home": "fc-la-chaux-de-fonds",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "1964-12-09",
+              "home": "sl-benfica",
+              "away": "fc-la-chaux-de-fonds",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dws-amsterdam",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-04",
+              "home": "dws-amsterdam",
+              "away": "lyn-fotball",
+              "score": "5:0"
+            },
+            {
+              "date": "1964-11-18",
+              "home": "lyn-fotball",
+              "away": "dws-amsterdam",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-11",
+              "home": "inter-milan",
+              "away": "fc-dinamo-bucuresti",
+              "score": "6:0"
+            },
+            {
+              "date": "1964-12-03",
+              "home": "fc-dinamo-bucuresti",
+              "away": "inter-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-11",
+              "home": "panathinaikos-fc",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            },
+            {
+              "date": "1964-11-25",
+              "home": "1-fc-koln",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-18",
+              "home": "real-madrid-cf",
+              "away": "fk-dukla-prague",
+              "score": "4:0"
+            },
+            {
+              "date": "1964-12-02",
+              "home": "fk-dukla-prague",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-18",
+              "home": "rangers-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-12-08",
+              "home": "sk-rapid-wien",
+              "away": "rangers-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-18",
+              "home": "gyori-eto-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "5:3"
+            },
+            {
+              "date": "1964-12-06",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "gyori-eto-fc",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1964-11-25",
+              "home": "liverpool-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:0"
+            },
+            {
+              "date": "1964-12-16",
+              "home": "rsc-anderlecht",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-koln",
+            "liverpool-fc"
+          ],
+          "winner": "liverpool-fc",
+          "note": "Liverpool qualified on coin toss",
+          "matches": [
+            {
+              "date": "1965-02-10",
+              "home": "1-fc-koln",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-03-17",
+              "home": "liverpool-fc",
+              "away": "1-fc-koln",
+              "score": "0:0"
+            },
+            {
+              "date": "1965-03-24",
+              "home": "liverpool-fc",
+              "away": "1-fc-koln",
+              "score": "2:2",
+              "neutral": true,
+              "note": "Play-off, De Kuip, Rotterdam"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-02-17",
+              "home": "inter-milan",
+              "away": "rangers-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1965-03-03",
+              "home": "rangers-fc",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1965-02-24",
+              "home": "sl-benfica",
+              "away": "real-madrid-cf",
+              "score": "5:1"
+            },
+            {
+              "date": "1965-03-17",
+              "home": "real-madrid-cf",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dws-amsterdam",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-02-24",
+              "home": "dws-amsterdam",
+              "away": "gyori-eto-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1965-03-10",
+              "home": "gyori-eto-fc",
+              "away": "dws-amsterdam",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1965-04-30",
+              "home": "gyori-eto-fc",
+              "away": "sl-benfica",
+              "score": "0:1",
+              "note": "Played at Népstadion, Budapest"
+            },
+            {
+              "date": "1965-05-06",
+              "home": "sl-benfica",
+              "away": "gyori-eto-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1965-05-04",
+              "home": "liverpool-fc",
+              "away": "inter-milan",
+              "score": "3:1"
+            },
+            {
+              "date": "1965-05-12",
+              "home": "inter-milan",
+              "away": "liverpool-fc",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1965-05-27",
+              "home": "inter-milan",
+              "away": "sl-benfica",
+              "score": "1:0",
+              "neutral": false,
+              "note": "San Siro, Milan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

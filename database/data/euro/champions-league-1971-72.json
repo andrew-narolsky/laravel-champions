@@ -1,0 +1,693 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1971-72",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1971-08-19",
+              "home": "valencia-cf",
+              "away": "union-luxembourg",
+              "score": "3:1"
+            },
+            {
+              "date": "1971-08-24",
+              "home": "union-luxembourg",
+              "away": "valencia-cf",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "olympique-de-marseille",
+              "away": "gornik-zabrze",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "gornik-zabrze",
+              "away": "olympique-de-marseille",
+              "score": "1:1",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "afc-ajax",
+              "away": "sg-dynamo-dresden",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "sg-dynamo-dresden",
+              "away": "afc-ajax",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "reipas-lahti",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "grasshopper-club",
+              "away": "reipas-lahti",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "stromsgodset",
+              "away": "arsenal-fc",
+              "score": "1:3",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "arsenal-fc",
+              "away": "stromsgodset",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fc-spartak-trnava"
+          ],
+          "winner": "fc-dinamo-bucuresti",
+          "note": "Dinamo București won on away goals",
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-spartak-trnava",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-spartak-trnava",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "olympiakos-nicosia"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "feyenoord",
+              "away": "olympiakos-nicosia",
+              "score": "8:0"
+            },
+            {
+              "date": "1971-09-22",
+              "home": "olympiakos-nicosia",
+              "away": "feyenoord",
+              "score": "0:9",
+              "note": "Played at Stadion Feijenoord, Rotterdam"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-wacker-innsbruck",
+              "away": "sl-benfica",
+              "score": "0:4"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "sl-benfica",
+              "away": "fc-wacker-innsbruck",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "pfc-cska-sofia",
+              "away": "fk-partizani",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fk-partizani",
+              "away": "pfc-cska-sofia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "hnk-hajduk-split"
+          ],
+          "winner": "valencia-cf",
+          "note": "Valencia won on away goals",
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "valencia-cf",
+              "away": "hnk-hajduk-split",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "hnk-hajduk-split",
+              "away": "valencia-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "ujpest-fc",
+              "away": "malmo-ff",
+              "score": "4:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "malmo-ff",
+              "away": "ujpest-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "boldklubben-1903",
+              "away": "celtic-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "celtic-fc",
+              "away": "boldklubben-1903",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-26",
+              "home": "ia-akranes",
+              "away": "sliema-wanderers-fc",
+              "score": "0:4",
+              "note": "Played at Empire Stadium, Gżira (Malta)"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "sliema-wanderers-fc",
+              "away": "ia-akranes",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "inter-milan",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "aek-athens-fc",
+              "away": "inter-milan",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-hibernians-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "cork-hibernians-fc",
+              "away": "borussia-monchengladbach",
+              "score": "0:5"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "borussia-monchengladbach",
+              "away": "cork-hibernians-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "galatasaray-sk",
+              "away": "pfc-cska-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "pfc-cska-moscow",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "r-standard-liege",
+              "away": "linfield-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "linfield-fc",
+              "away": "r-standard-liege",
+              "score": "2:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "olympique-de-marseille",
+              "away": "afc-ajax",
+              "score": "1:2"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "afc-ajax",
+              "away": "olympique-de-marseille",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "grasshopper-club",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "arsenal-fc",
+              "away": "grasshopper-club",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "fc-dinamo-bucuresti",
+              "away": "feyenoord",
+              "score": "0:3"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "feyenoord",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "sl-benfica",
+              "away": "pfc-cska-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "pfc-cska-sofia",
+              "away": "sl-benfica",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "valencia-cf",
+              "away": "ujpest-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "ujpest-fc",
+              "away": "valencia-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "celtic-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "sliema-wanderers-fc",
+              "away": "celtic-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-03",
+              "home": "inter-milan",
+              "away": "borussia-monchengladbach",
+              "score": "4:2"
+            },
+            {
+              "date": "1971-12-01",
+              "home": "borussia-monchengladbach",
+              "away": "inter-milan",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Replay at Olympiastadion, West Berlin: the original match on 20.10.1971 (7:1) was annulled after Inter's Boninsegna was hit by a can"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "pfc-cska-moscow",
+              "away": "r-standard-liege",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "r-standard-liege",
+              "away": "pfc-cska-moscow",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "afc-ajax",
+              "away": "arsenal-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "arsenal-fc",
+              "away": "afc-ajax",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "feyenoord",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "sl-benfica",
+              "away": "feyenoord",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "ujpest-fc",
+              "away": "celtic-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "celtic-fc",
+              "away": "ujpest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "r-standard-liege"
+          ],
+          "winner": "inter-milan",
+          "note": "Inter won on away goals",
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "inter-milan",
+              "away": "r-standard-liege",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "r-standard-liege",
+              "away": "inter-milan",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "afc-ajax",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-04-19",
+              "home": "sl-benfica",
+              "away": "afc-ajax",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "celtic-fc"
+          ],
+          "winner": "inter-milan",
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "inter-milan",
+              "away": "celtic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-04-19",
+              "home": "celtic-fc",
+              "away": "inter-milan",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Inter won 5:4 on penalties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1972-05-31",
+              "home": "inter-milan",
+              "away": "afc-ajax",
+              "score": "0:2",
+              "neutral": true,
+              "note": "De Kuip, Rotterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

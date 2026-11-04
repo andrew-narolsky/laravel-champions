@@ -1,0 +1,660 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1973-74",
+  "competition_name": "European Cup",
+  "source": "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "viking-fk",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "viking-fk",
+              "away": "fc-spartak-trnava",
+              "score": "1:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "fc-spartak-trnava",
+              "away": "viking-fk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "fc-zorya-luhansk",
+              "away": "apoel-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "apoel-fc",
+              "away": "fc-zorya-luhansk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "sl-benfica",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "olympiacos-fc",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "waterford-fc",
+              "away": "ujpest-fc",
+              "score": "2:3",
+              "note": "Played at Lansdowne Road, Dublin"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "ujpest-fc",
+              "away": "waterford-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "atvidabergs-ff"
+          ],
+          "winner": "fc-bayern-munich",
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "fc-bayern-munich",
+              "away": "atvidabergs-ff",
+              "score": "3:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "atvidabergs-ff",
+              "away": "fc-bayern-munich",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Bayern Munich won 4:3 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "sg-dynamo-dresden",
+              "away": "juventus-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "juventus-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax"
+          ],
+          "matches": []
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-wacker-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "pfc-cska-sofia",
+              "away": "fc-wacker-innsbruck",
+              "score": "3:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "fc-wacker-innsbruck",
+              "away": "pfc-cska-sofia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "club-brugge-kv",
+              "away": "floriana-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "floriana-fc",
+              "away": "club-brugge-kv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fram-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-18",
+              "home": "fc-basel",
+              "away": "fram-reykjavik",
+              "score": "5:0"
+            },
+            {
+              "date": "1973-09-20",
+              "home": "fram-reykjavik",
+              "away": "fc-basel",
+              "score": "2:6",
+              "note": "Played at Kleinholz Stadion, Olten (Switzerland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tps-turku",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "tps-turku",
+              "away": "celtic-fc",
+              "score": "1:6"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "celtic-fc",
+              "away": "tps-turku",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "vejle-boldklub",
+              "away": "fc-nantes",
+              "score": "2:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "fc-nantes",
+              "away": "vejle-boldklub",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "red-star-belgrade",
+              "away": "stal-mielec",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "stal-mielec",
+              "away": "red-star-belgrade",
+              "score": "0:1",
+              "note": "Played at Cracovia Stadium, Kraków"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "jeunesse-esch",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "liverpool-fc",
+              "away": "jeunesse-esch",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "crusaders-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "fc-dinamo-bucuresti",
+              "away": "crusaders-fc",
+              "score": "11:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "atletico-madrid",
+              "away": "galatasaray-sk",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "galatasaray-sk",
+              "away": "atletico-madrid",
+              "score": "0:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "fc-zorya-luhansk"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "fc-spartak-trnava",
+              "away": "fc-zorya-luhansk",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "fc-zorya-luhansk",
+              "away": "fc-spartak-trnava",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "sl-benfica",
+              "away": "ujpest-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "ujpest-fc",
+              "away": "sl-benfica",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "fc-bayern-munich",
+              "away": "sg-dynamo-dresden",
+              "score": "4:3"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-bayern-munich",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "afc-ajax",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "pfc-cska-sofia",
+              "away": "afc-ajax",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "club-brugge-kv",
+              "away": "fc-basel",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "fc-basel",
+              "away": "club-brugge-kv",
+              "score": "6:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "vejle-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "celtic-fc",
+              "away": "vejle-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-11-06",
+              "home": "vejle-boldklub",
+              "away": "celtic-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "red-star-belgrade",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-11-06",
+              "home": "liverpool-fc",
+              "away": "red-star-belgrade",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "fc-dinamo-bucuresti",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "atletico-madrid",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "ujpest-fc"
+          ],
+          "winner": "ujpest-fc",
+          "matches": [
+            {
+              "date": "1974-03-06",
+              "home": "fc-spartak-trnava",
+              "away": "ujpest-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "ujpest-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Újpest won 4:3 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-05",
+              "home": "fc-bayern-munich",
+              "away": "pfc-cska-sofia",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "pfc-cska-sofia",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-02-27",
+              "home": "fc-basel",
+              "away": "celtic-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "celtic-fc",
+              "away": "fc-basel",
+              "score": "4:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-06",
+              "home": "red-star-belgrade",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-03-21",
+              "home": "atletico-madrid",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1974-04-10",
+              "home": "ujpest-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-04-24",
+              "home": "fc-bayern-munich",
+              "away": "ujpest-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1974-04-10",
+              "home": "celtic-fc",
+              "away": "atletico-madrid",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-04-24",
+              "home": "atletico-madrid",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1974-05-15",
+              "home": "atletico-madrid",
+              "away": "fc-bayern-munich",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels"
+            },
+            {
+              "date": "1974-05-17",
+              "home": "atletico-madrid",
+              "away": "fc-bayern-munich",
+              "score": "0:4",
+              "neutral": true,
+              "note": "Replay, Heysel Stadium, Brussels"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
