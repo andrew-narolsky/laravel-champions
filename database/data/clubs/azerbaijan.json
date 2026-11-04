@@ -42,7 +42,33 @@
         "founded_at": "1997-00-00",
         "destroyed_at": "",
         "stadium": "Shamakhi City Stadium, Cap. 2,176",
-        "city": "Shamakhi"
+        "city": "Shamakhi",
+        "names": [
+            {
+                "name": "Khazar University",
+                "from_year": 1997,
+                "to_year": 2004,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Inter Baku",
+                "from_year": 2004,
+                "to_year": 2017,
+                "note": null
+            },
+            {
+                "name": "Keşlə FK",
+                "from_year": 2017,
+                "to_year": 2022,
+                "note": null
+            },
+            {
+                "name": "Şamaxı FK",
+                "from_year": 2022,
+                "to_year": null,
+                "note": "Moved to Shamakhi"
+            }
+        ]
     },
     {
         "name": "Shamkir FC",

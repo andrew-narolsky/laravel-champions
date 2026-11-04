@@ -1,0 +1,1969 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2014-15",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "fc-urartu"
+          ],
+          "winner": "fc-santa-coloma",
+          "note": "Santa Coloma won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-01",
+              "home": "fc-santa-coloma",
+              "away": "fc-urartu",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-08",
+              "home": "fc-urartu",
+              "away": "fc-santa-coloma",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-02",
+              "home": "lincoln-red-imps-fc",
+              "away": "hb-torshavn",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-08",
+              "home": "hb-torshavn",
+              "away": "lincoln-red-imps-fc",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-la-fiorita",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-01",
+              "home": "sp-la-fiorita",
+              "away": "fci-levadia-tallinn",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-08",
+              "home": "fci-levadia-tallinn",
+              "away": "sp-la-fiorita",
+              "score": "7:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "kf-skenderbeu"
+          ],
+          "winner": "fc-bate-borisov",
+          "note": "BATE Borisov won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "fc-bate-borisov",
+              "away": "kf-skenderbeu",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "kf-skenderbeu",
+              "away": "fc-bate-borisov",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "fc-santa-coloma",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-santa-coloma",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (Cyprus): Israeli clubs had to play home matches abroad during the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-aktobe"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-16",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-aktobe",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "fc-aktobe",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "hsk-zrinjski-mostar",
+              "away": "nk-maribor",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "nk-maribor",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fk-sutjeska-niksic",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "ac-sparta-prague",
+              "away": "fci-levadia-tallinn",
+              "score": "7:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "fci-levadia-tallinn",
+              "away": "ac-sparta-prague",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fk-ventspils"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-16",
+              "home": "malmo-ff",
+              "away": "fk-ventspils",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "fk-ventspils",
+              "away": "malmo-ff",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "sk-slovan-bratislava",
+              "away": "the-new-saints-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "the-new-saints-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:2",
+              "note": "Played at Belle Vue, Rhyl"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "kr-reykjavik",
+              "away": "celtic-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "celtic-fc",
+              "away": "kr-reykjavik",
+              "score": "4:0",
+              "note": "Played at Murrayfield Stadium, Edinburgh (Celtic Park used for the 2014 Commonwealth Games)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "cliftonville-fc",
+              "away": "debreceni-vsc",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "debreceni-vsc",
+              "away": "cliftonville-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "fk-partizan",
+              "away": "hb-torshavn",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "hb-torshavn",
+              "away": "fk-partizan",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-16",
+              "home": "legia-warsaw",
+              "away": "st-patricks-athletic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "st-patricks-athletic-fc",
+              "away": "legia-warsaw",
+              "score": "0:5",
+              "note": "Played at Tallaght Stadium, Tallaght"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "fk-rabotnicki",
+              "away": "hjk-helsinki",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "hjk-helsinki",
+              "away": "fk-rabotnicki",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fk-zalgiris",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "fk-zalgiris",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-16",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "f91-dudelange",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "f91-dudelange",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-15",
+              "home": "valletta-fc",
+              "away": "qarabag-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "qarabag-fk",
+              "away": "valletta-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-16",
+              "home": "stromsgodset",
+              "away": "fcsb",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-23",
+              "home": "fcsb",
+              "away": "stromsgodset",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "qarabag-fk",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fc-red-bull-salzburg",
+              "away": "qarabag-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-29",
+              "home": "debreceni-vsc",
+              "away": "fc-bate-borisov",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-05",
+              "home": "fc-bate-borisov",
+              "away": "debreceni-vsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-29",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fc-sheriff-tiraspol",
+              "away": "sk-slovan-bratislava",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "aab-fodbold",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "gnk-dinamo-zagreb",
+              "away": "aab-fodbold",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "celtic-fc"
+          ],
+          "winner": "celtic-fc",
+          "note": "Celtic won on away goals (after the awarded second leg)",
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "legia-warsaw",
+              "away": "celtic-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "celtic-fc",
+              "away": "legia-warsaw",
+              "score": "3:0",
+              "note": "Awarded 3:0 to Celtic: Legia fielded a suspended player (the match finished 0:2). Played at Murrayfield Stadium, Edinburgh"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "fc-aktobe",
+              "away": "fcsb",
+              "score": "2:2"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fcsb",
+              "away": "fc-aktobe",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "nk-maribor",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-05",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "nk-maribor",
+              "score": "2:2",
+              "neutral": true,
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (Cyprus): Israeli clubs had to play home matches abroad during the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "hjk-helsinki",
+              "away": "apoel-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "apoel-fc",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "malmo-ff"
+          ],
+          "winner": "malmo-ff",
+          "note": "Malmö won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-29",
+              "home": "ac-sparta-prague",
+              "away": "malmo-ff",
+              "score": "4:2"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "malmo-ff",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fk-partizan"
+          ],
+          "winner": "pfc-ludogorets-razgrad",
+          "note": "Ludogorets won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fk-partizan",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fk-partizan",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "ael-limassol",
+              "away": "fc-zenit",
+              "score": "1:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fc-zenit",
+              "away": "ael-limassol",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "fc-dnipro",
+              "away": "fc-copenhagen",
+              "score": "0:0",
+              "note": "Played at Olympic Stadium, Kyiv (war in Donbas)"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "fc-copenhagen",
+              "away": "fc-dnipro",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "feyenoord",
+              "away": "besiktas-jk",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-08-06",
+              "home": "besiktas-jk",
+              "away": "feyenoord",
+              "score": "3:1",
+              "note": "Played at Atatürk Olympic Stadium, Istanbul"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "grasshopper-club",
+              "away": "lille-osc",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-08-05",
+              "home": "lille-osc",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-30",
+              "home": "r-standard-liege",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-08-05",
+              "home": "panathinaikos-fc",
+              "away": "r-standard-liege",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "nk-maribor",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "nk-maribor",
+              "away": "celtic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-26",
+              "home": "celtic-fc",
+              "away": "nk-maribor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-19",
+              "home": "fc-red-bull-salzburg",
+              "away": "malmo-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-08-27",
+              "home": "malmo-ff",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "aab-fodbold",
+              "away": "apoel-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-26",
+              "home": "apoel-fc",
+              "away": "aab-fodbold",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-19",
+              "home": "fcsb",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-27",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fcsb",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            }
+          ],
+          "winner": "pfc-ludogorets-razgrad"
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-bate-borisov",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-26",
+              "home": "fc-bate-borisov",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-19",
+              "home": "besiktas-jk",
+              "away": "arsenal-fc",
+              "score": "0:0",
+              "note": "Played at Atatürk Olympic Stadium, Istanbul"
+            },
+            {
+              "date": "2014-08-27",
+              "home": "arsenal-fc",
+              "away": "besiktas-jk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "r-standard-liege",
+              "away": "fc-zenit",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-08-26",
+              "home": "fc-zenit",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-19",
+              "home": "fc-copenhagen",
+              "away": "bayer-04-leverkusen",
+              "score": "2:3"
+            },
+            {
+              "date": "2014-08-27",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-copenhagen",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lille-osc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "lille-osc",
+              "away": "fc-porto",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-08-26",
+              "home": "fc-porto",
+              "away": "lille-osc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-19",
+              "home": "ssc-napoli",
+              "away": "athletic-bilbao",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-27",
+              "home": "athletic-bilbao",
+              "away": "ssc-napoli",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2014-09-16",
+          "home": "olympiacos-fc",
+          "away": "atletico-madrid",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "juventus-fc",
+          "away": "malmo-ff",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "malmo-ff",
+          "away": "olympiacos-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "atletico-madrid",
+          "away": "juventus-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "atletico-madrid",
+          "away": "malmo-ff",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "olympiacos-fc",
+          "away": "juventus-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "malmo-ff",
+          "away": "atletico-madrid",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "juventus-fc",
+          "away": "olympiacos-fc",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "atletico-madrid",
+          "away": "olympiacos-fc",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "malmo-ff",
+          "away": "juventus-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "olympiacos-fc",
+          "away": "malmo-ff",
+          "score": "4:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "juventus-fc",
+          "away": "atletico-madrid",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "liverpool-fc",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "real-madrid-cf",
+          "away": "fc-basel",
+          "score": "5:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "fc-basel",
+          "away": "liverpool-fc",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "real-madrid-cf",
+          "score": "1:2",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "fc-basel",
+          "score": "1:0",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "liverpool-fc",
+          "away": "real-madrid-cf",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "fc-basel",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "real-madrid-cf",
+          "away": "liverpool-fc",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "liverpool-fc",
+          "score": "2:2",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "fc-basel",
+          "away": "real-madrid-cf",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "liverpool-fc",
+          "away": "fc-basel",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "real-madrid-cf",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "as-monaco-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "sl-benfica",
+          "away": "fc-zenit",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "fc-zenit",
+          "away": "as-monaco-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "bayer-04-leverkusen",
+          "away": "sl-benfica",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-zenit",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "as-monaco-fc",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "fc-zenit",
+          "away": "bayer-04-leverkusen",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "sl-benfica",
+          "away": "as-monaco-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "fc-zenit",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "bayer-04-leverkusen",
+          "away": "as-monaco-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "as-monaco-fc",
+          "away": "fc-zenit",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "sl-benfica",
+          "away": "bayer-04-leverkusen",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "galatasaray-sk",
+          "away": "rsc-anderlecht",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-09-16",
+          "home": "borussia-dortmund",
+          "away": "arsenal-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "arsenal-fc",
+          "away": "galatasaray-sk",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-01",
+          "home": "rsc-anderlecht",
+          "away": "borussia-dortmund",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "rsc-anderlecht",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "galatasaray-sk",
+          "away": "borussia-dortmund",
+          "score": "0:4",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "arsenal-fc",
+          "away": "rsc-anderlecht",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-04",
+          "home": "borussia-dortmund",
+          "away": "galatasaray-sk",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "rsc-anderlecht",
+          "away": "galatasaray-sk",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-26",
+          "home": "arsenal-fc",
+          "away": "borussia-dortmund",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "galatasaray-sk",
+          "away": "arsenal-fc",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2014-12-09",
+          "home": "borussia-dortmund",
+          "away": "rsc-anderlecht",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "as-roma",
+          "away": "pfc-cska-moscow",
+          "score": "5:1",
+          "group": "E"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "fc-bayern-munich",
+          "away": "manchester-city-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "pfc-cska-moscow",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "E",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "manchester-city-fc",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "pfc-cska-moscow",
+          "away": "manchester-city-fc",
+          "score": "2:2",
+          "group": "E",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "as-roma",
+          "away": "fc-bayern-munich",
+          "score": "1:7",
+          "group": "E"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "manchester-city-fc",
+          "away": "pfc-cska-moscow",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "fc-bayern-munich",
+          "away": "as-roma",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "pfc-cska-moscow",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "manchester-city-fc",
+          "away": "fc-bayern-munich",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "as-roma",
+          "away": "manchester-city-fc",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "fc-bayern-munich",
+          "away": "pfc-cska-moscow",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "fc-barcelona",
+          "away": "apoel-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "afc-ajax",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-barcelona",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "apoel-fc",
+          "away": "afc-ajax",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "apoel-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "fc-barcelona",
+          "away": "afc-ajax",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "paris-saint-germain-fc",
+          "away": "apoel-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "afc-ajax",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "apoel-fc",
+          "away": "fc-barcelona",
+          "score": "0:4",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "paris-saint-germain-fc",
+          "away": "afc-ajax",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "fc-barcelona",
+          "away": "paris-saint-germain-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "afc-ajax",
+          "away": "apoel-fc",
+          "score": "4:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "chelsea-fc",
+          "away": "fc-schalke-04",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "nk-maribor",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "sporting-cp",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "fc-schalke-04",
+          "away": "nk-maribor",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "fc-schalke-04",
+          "away": "sporting-cp",
+          "score": "4:3",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "chelsea-fc",
+          "away": "nk-maribor",
+          "score": "6:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "sporting-cp",
+          "away": "fc-schalke-04",
+          "score": "4:2",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "nk-maribor",
+          "away": "chelsea-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "fc-schalke-04",
+          "away": "chelsea-fc",
+          "score": "0:5",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "sporting-cp",
+          "away": "nk-maribor",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "chelsea-fc",
+          "away": "sporting-cp",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "nk-maribor",
+          "away": "fc-schalke-04",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "fc-porto",
+          "away": "fc-bate-borisov",
+          "score": "6:0",
+          "group": "H"
+        },
+        {
+          "date": "2014-09-17",
+          "home": "athletic-bilbao",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-porto",
+          "score": "2:2",
+          "group": "H",
+          "note": "Played at Arena Lviv, Lviv (war in Donbas)"
+        },
+        {
+          "date": "2014-09-30",
+          "home": "fc-bate-borisov",
+          "away": "athletic-bilbao",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "fc-bate-borisov",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:7",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-21",
+          "home": "fc-porto",
+          "away": "athletic-bilbao",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-bate-borisov",
+          "score": "5:0",
+          "group": "H",
+          "note": "Played at Arena Lviv, Lviv (war in Donbas)"
+        },
+        {
+          "date": "2014-11-05",
+          "home": "athletic-bilbao",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "fc-bate-borisov",
+          "away": "fc-porto",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-25",
+          "home": "fc-shakhtar-donetsk",
+          "away": "athletic-bilbao",
+          "score": "0:1",
+          "group": "H",
+          "note": "Played at Arena Lviv, Lviv (war in Donbas)"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "fc-porto",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-12-10",
+          "home": "athletic-bilbao",
+          "away": "fc-bate-borisov",
+          "score": "2:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "chelsea-fc"
+          ],
+          "winner": "paris-saint-germain-fc",
+          "note": "Paris Saint-Germain won on away goals",
+          "matches": [
+            {
+              "date": "2015-02-17",
+              "home": "paris-saint-germain-fc",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-03-11",
+              "home": "chelsea-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-24",
+              "home": "manchester-city-fc",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            },
+            {
+              "date": "2015-03-18",
+              "home": "fc-barcelona",
+              "away": "manchester-city-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-25",
+              "home": "bayer-04-leverkusen",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-03-17",
+              "home": "atletico-madrid",
+              "away": "bayer-04-leverkusen",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Atlético Madrid won 3:2 on penalties"
+            }
+          ],
+          "winner": "atletico-madrid"
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-24",
+              "home": "juventus-fc",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-03-18",
+              "home": "borussia-dortmund",
+              "away": "juventus-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-18",
+              "home": "fc-schalke-04",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-03-10",
+              "home": "real-madrid-cf",
+              "away": "fc-schalke-04",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-17",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-bayern-munich",
+              "score": "0:0",
+              "note": "Played at Arena Lviv, Lviv (war in Donbas)"
+            },
+            {
+              "date": "2015-03-11",
+              "home": "fc-bayern-munich",
+              "away": "fc-shakhtar-donetsk",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "as-monaco-fc"
+          ],
+          "winner": "as-monaco-fc",
+          "note": "Monaco won on away goals",
+          "matches": [
+            {
+              "date": "2015-02-25",
+              "home": "arsenal-fc",
+              "away": "as-monaco-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-03-17",
+              "home": "as-monaco-fc",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-18",
+              "home": "fc-basel",
+              "away": "fc-porto",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-03-10",
+              "home": "fc-porto",
+              "away": "fc-basel",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-15",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-04-21",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-14",
+              "home": "atletico-madrid",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-04-22",
+              "home": "real-madrid-cf",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-15",
+              "home": "fc-porto",
+              "away": "fc-bayern-munich",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-04-21",
+              "home": "fc-bayern-munich",
+              "away": "fc-porto",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-14",
+              "home": "juventus-fc",
+              "away": "as-monaco-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-04-22",
+              "home": "as-monaco-fc",
+              "away": "juventus-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2015-05-06",
+              "home": "fc-barcelona",
+              "away": "fc-bayern-munich",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-05-12",
+              "home": "fc-bayern-munich",
+              "away": "fc-barcelona",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2015-05-05",
+              "home": "juventus-fc",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-05-13",
+              "home": "real-madrid-cf",
+              "away": "juventus-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2015-06-06",
+              "home": "juventus-fc",
+              "away": "fc-barcelona",
+              "score": "1:3",
+              "neutral": true,
+              "note": "Olympiastadion, Berlin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

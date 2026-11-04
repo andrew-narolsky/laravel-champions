@@ -1,0 +1,1790 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2020-21",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "tre-fiori-fc",
+            "linfield-fc"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2020-08-08",
+              "home": "tre-fiori-fc",
+              "away": "linfield-fc",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Colovray Stadium, Nyon (Switzerland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "inter-club-descaldes"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2020-08-08",
+              "home": "fc-drita",
+              "away": "inter-club-descaldes",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Colovray Stadium, Nyon (Switzerland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "linfield-fc"
+          ],
+          "note": "Final round",
+          "matches": [
+            {
+              "date": "2020-08-11",
+              "home": "fc-drita",
+              "away": "linfield-fc",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Awarded 3:0 to Linfield: the match was not played because Drita players tested positive for COVID-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "ferencvarosi-tc",
+              "away": "djurgardens-if",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "celtic-fc",
+              "away": "kr-reykjavik",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "legia-warsaw",
+              "away": "linfield-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "fc-sheriff-tiraspol",
+              "away": "cs-fola-esch",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "connahs-quay-nomads-fc",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "connahs-quay-nomads-fc",
+              "away": "fk-sarajevo",
+              "score": "0:2",
+              "note": "Played at Cardiff City Stadium, Cardiff"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "europa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "red-star-belgrade",
+              "away": "europa-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "fk-buducnost-podgorica",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-armenia",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "fc-ararat-armenia",
+              "away": "ac-omonia",
+              "score": "0:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "floriana-fc",
+              "away": "cfr-cluj",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "riga-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "riga-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fk-sileks"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "qarabag-fk",
+              "away": "fk-sileks",
+              "score": "4:0",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "fc-dinamo-tbilisi",
+              "away": "kf-tirana",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-brest",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "fc-dynamo-brest",
+              "away": "fc-astana",
+              "score": "6:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "kups-kuopio"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "molde-fk",
+              "away": "kups-kuopio",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "fc-flora",
+              "away": "fk-suduva",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FK Sūduva won 4:2 on penalties"
+            }
+          ],
+          "winner": "fk-suduva"
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "nk-celje",
+              "away": "dundalk-fc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Szusza Ferenc Stadion, Budapest (Hungary) because of COVID-19 travel restrictions"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-21",
+              "home": "ki-klaksvik",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0",
+              "note": "Awarded 3:0 to KÍ: the match was not played because Slovan Bratislava players were in COVID-19 quarantine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "cfr-cluj",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "cfr-cluj",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "GNK Dinamo Zagreb won 6:5 on penalties"
+            }
+          ],
+          "winner": "gnk-dinamo-zagreb"
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "bsc-young-boys",
+              "away": "ki-klaksvik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "celtic-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "fk-suduva",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "legia-warsaw",
+              "away": "ac-omonia",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "nk-celje",
+              "away": "molde-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-midtjylland",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-brest",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "fc-dynamo-brest",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "qarabag-fk",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:1",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-25",
+              "home": "kf-tirana",
+              "away": "red-star-belgrade",
+              "score": "0:1",
+              "note": "Played at Arena Kombëtare, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "az-alkmaar",
+              "away": "fc-viktoria-plzen",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-25",
+              "home": "paok-fc",
+              "away": "besiktas-jk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-lokomotiva-zagreb",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-26",
+              "home": "nk-lokomotiva-zagreb",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-16",
+              "home": "ferencvarosi-tc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-16",
+              "home": "qarabag-fk",
+              "away": "molde-fk",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at AEK Arena, Larnaca (Cyprus)",
+              "neutral": true
+            }
+          ],
+          "winner": "molde-fk"
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-16",
+              "home": "ac-omonia",
+              "away": "red-star-belgrade",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "AC Omonia won 4:2 on penalties"
+            }
+          ],
+          "winner": "ac-omonia"
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-16",
+              "home": "fc-midtjylland",
+              "away": "bsc-young-boys",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-16",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-dynamo-brest",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-15",
+              "home": "paok-fc",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-15",
+              "home": "fc-dynamo-kyiv",
+              "away": "az-alkmaar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-15",
+              "home": "kaa-gent",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-22",
+              "home": "sk-slavia-prague",
+              "away": "fc-midtjylland",
+              "score": "0:0"
+            },
+            {
+              "date": "2020-09-30",
+              "home": "fc-midtjylland",
+              "away": "sk-slavia-prague",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-22",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:2"
+            },
+            {
+              "date": "2020-09-30",
+              "home": "fc-red-bull-salzburg",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-23",
+              "home": "olympiacos-fc",
+              "away": "ac-omonia",
+              "score": "2:0"
+            },
+            {
+              "date": "2020-09-29",
+              "home": "ac-omonia",
+              "away": "olympiacos-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "ferencvarosi-tc"
+          ],
+          "winner": "ferencvarosi-tc",
+          "note": "Ferencváros won on away goals",
+          "matches": [
+            {
+              "date": "2020-09-23",
+              "home": "molde-fk",
+              "away": "ferencvarosi-tc",
+              "score": "3:3"
+            },
+            {
+              "date": "2020-09-29",
+              "home": "ferencvarosi-tc",
+              "away": "molde-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-22",
+              "home": "fc-krasnodar",
+              "away": "paok-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2020-09-30",
+              "home": "paok-fc",
+              "away": "fc-krasnodar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-23",
+              "home": "kaa-gent",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2"
+            },
+            {
+              "date": "2020-09-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "kaa-gent",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2020-10-21",
+          "home": "fc-red-bull-salzburg",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "fc-bayern-munich",
+          "away": "atletico-madrid",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "atletico-madrid",
+          "away": "fc-red-bull-salzburg",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "fc-lokomotiv-moscow",
+          "away": "atletico-madrid",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "fc-red-bull-salzburg",
+          "away": "fc-bayern-munich",
+          "score": "2:6",
+          "group": "A"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "atletico-madrid",
+          "away": "fc-lokomotiv-moscow",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "fc-bayern-munich",
+          "away": "fc-red-bull-salzburg",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "atletico-madrid",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "fc-bayern-munich",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "fc-red-bull-salzburg",
+          "away": "atletico-madrid",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "real-madrid-cf",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:3",
+          "group": "B",
+          "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "inter-milan",
+          "away": "borussia-monchengladbach",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "fc-shakhtar-donetsk",
+          "away": "inter-milan",
+          "score": "0:0",
+          "group": "B",
+          "note": "Played at Olympic Stadium, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "borussia-monchengladbach",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "fc-shakhtar-donetsk",
+          "away": "borussia-monchengladbach",
+          "score": "0:6",
+          "group": "B",
+          "note": "Played at Olympic Stadium, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "real-madrid-cf",
+          "away": "inter-milan",
+          "score": "3:2",
+          "group": "B",
+          "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "borussia-monchengladbach",
+          "away": "fc-shakhtar-donetsk",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "inter-milan",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "fc-shakhtar-donetsk",
+          "away": "real-madrid-cf",
+          "score": "2:0",
+          "group": "B",
+          "note": "Played at Olympic Stadium, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "borussia-monchengladbach",
+          "away": "inter-milan",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "real-madrid-cf",
+          "away": "borussia-monchengladbach",
+          "score": "2:0",
+          "group": "B",
+          "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "inter-milan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "manchester-city-fc",
+          "away": "fc-porto",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "olympiacos-fc",
+          "away": "olympique-de-marseille",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "fc-porto",
+          "away": "olympiacos-fc",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "olympique-de-marseille",
+          "away": "manchester-city-fc",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "manchester-city-fc",
+          "away": "olympiacos-fc",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "fc-porto",
+          "away": "olympique-de-marseille",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "olympiacos-fc",
+          "away": "manchester-city-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "olympique-de-marseille",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "olympique-de-marseille",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "fc-porto",
+          "away": "manchester-city-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "manchester-city-fc",
+          "away": "olympique-de-marseille",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "olympiacos-fc",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "afc-ajax",
+          "away": "liverpool-fc",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2020-10-21",
+          "home": "fc-midtjylland",
+          "away": "atalanta-bc",
+          "score": "0:4",
+          "group": "D"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "liverpool-fc",
+          "away": "fc-midtjylland",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2020-10-27",
+          "home": "atalanta-bc",
+          "away": "afc-ajax",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "fc-midtjylland",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2020-11-03",
+          "home": "atalanta-bc",
+          "away": "liverpool-fc",
+          "score": "0:5",
+          "group": "D"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "liverpool-fc",
+          "away": "atalanta-bc",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2020-11-25",
+          "home": "afc-ajax",
+          "away": "fc-midtjylland",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "liverpool-fc",
+          "away": "afc-ajax",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2020-12-01",
+          "home": "atalanta-bc",
+          "away": "fc-midtjylland",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "afc-ajax",
+          "away": "atalanta-bc",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2020-12-09",
+          "home": "fc-midtjylland",
+          "away": "liverpool-fc",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "chelsea-fc",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "stade-rennais-fc",
+          "away": "fc-krasnodar",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "fc-krasnodar",
+          "away": "chelsea-fc",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "sevilla-fc",
+          "away": "stade-rennais-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "sevilla-fc",
+          "away": "fc-krasnodar",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "chelsea-fc",
+          "away": "stade-rennais-fc",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "fc-krasnodar",
+          "away": "sevilla-fc",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "stade-rennais-fc",
+          "away": "chelsea-fc",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "fc-krasnodar",
+          "away": "stade-rennais-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "sevilla-fc",
+          "away": "chelsea-fc",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "chelsea-fc",
+          "away": "fc-krasnodar",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "stade-rennais-fc",
+          "away": "sevilla-fc",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "fc-zenit",
+          "away": "club-brugge-kv",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "ss-lazio",
+          "away": "borussia-dortmund",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "borussia-dortmund",
+          "away": "fc-zenit",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "club-brugge-kv",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "fc-zenit",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "club-brugge-kv",
+          "away": "borussia-dortmund",
+          "score": "0:3",
+          "group": "F"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "ss-lazio",
+          "away": "fc-zenit",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "borussia-dortmund",
+          "away": "club-brugge-kv",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "borussia-dortmund",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "club-brugge-kv",
+          "away": "fc-zenit",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "fc-zenit",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "ss-lazio",
+          "away": "club-brugge-kv",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "fc-dynamo-kyiv",
+          "away": "juventus-fc",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "fc-barcelona",
+          "away": "ferencvarosi-tc",
+          "score": "5:1",
+          "group": "G"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "juventus-fc",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "ferencvarosi-tc",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "fc-barcelona",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "ferencvarosi-tc",
+          "away": "juventus-fc",
+          "score": "1:4",
+          "group": "G",
+          "note": "Played at Puskás Aréna, Budapest"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-barcelona",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "juventus-fc",
+          "away": "ferencvarosi-tc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "juventus-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "ferencvarosi-tc",
+          "away": "fc-barcelona",
+          "score": "0:3",
+          "group": "G",
+          "note": "Played at Puskás Aréna, Budapest"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "fc-barcelona",
+          "away": "juventus-fc",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "fc-dynamo-kyiv",
+          "away": "ferencvarosi-tc",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "paris-saint-germain-fc",
+          "away": "manchester-united-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2020-10-20",
+          "home": "rb-leipzig",
+          "away": "istanbul-basaksehir-fk",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "istanbul-basaksehir-fk",
+          "away": "paris-saint-germain-fc",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2020-10-28",
+          "home": "manchester-united-fc",
+          "away": "rb-leipzig",
+          "score": "5:0",
+          "group": "H"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "istanbul-basaksehir-fk",
+          "away": "manchester-united-fc",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2020-11-04",
+          "home": "rb-leipzig",
+          "away": "paris-saint-germain-fc",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "manchester-united-fc",
+          "away": "istanbul-basaksehir-fk",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2020-11-24",
+          "home": "paris-saint-germain-fc",
+          "away": "rb-leipzig",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "istanbul-basaksehir-fk",
+          "away": "rb-leipzig",
+          "score": "3:4",
+          "group": "H"
+        },
+        {
+          "date": "2020-12-02",
+          "home": "manchester-united-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "paris-saint-germain-fc",
+          "away": "istanbul-basaksehir-fk",
+          "score": "5:1",
+          "group": "H",
+          "note": "Suspended after 14 minutes at 0:0 when both teams left the pitch over an alleged racist remark by a match official; resumed on 9 December"
+        },
+        {
+          "date": "2020-12-08",
+          "home": "rb-leipzig",
+          "away": "manchester-united-fc",
+          "score": "3:2",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-24",
+              "home": "borussia-monchengladbach",
+              "away": "manchester-city-fc",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Puskás Aréna, Budapest (Hungary) because of COVID-19 travel restrictions"
+            },
+            {
+              "date": "2021-03-16",
+              "home": "manchester-city-fc",
+              "away": "borussia-monchengladbach",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Puskás Aréna, Budapest (Hungary) because of COVID-19 travel restrictions"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-23",
+              "home": "ss-lazio",
+              "away": "fc-bayern-munich",
+              "score": "1:4"
+            },
+            {
+              "date": "2021-03-17",
+              "home": "fc-bayern-munich",
+              "away": "ss-lazio",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-23",
+              "home": "atletico-madrid",
+              "away": "chelsea-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Arena Națională, Bucharest (Romania) because of COVID-19 travel restrictions"
+            },
+            {
+              "date": "2021-03-17",
+              "home": "chelsea-fc",
+              "away": "atletico-madrid",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-16",
+              "home": "rb-leipzig",
+              "away": "liverpool-fc",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Puskás Aréna, Budapest (Hungary) because of COVID-19 travel restrictions"
+            },
+            {
+              "date": "2021-03-10",
+              "home": "liverpool-fc",
+              "away": "rb-leipzig",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Puskás Aréna, Budapest (Hungary) because of COVID-19 travel restrictions"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "juventus-fc"
+          ],
+          "winner": "fc-porto",
+          "note": "Porto won on away goals",
+          "matches": [
+            {
+              "date": "2021-02-17",
+              "home": "fc-porto",
+              "away": "juventus-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-03-09",
+              "home": "juventus-fc",
+              "away": "fc-porto",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-16",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "2021-03-10",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-17",
+              "home": "sevilla-fc",
+              "away": "borussia-dortmund",
+              "score": "2:3"
+            },
+            {
+              "date": "2021-03-09",
+              "home": "borussia-dortmund",
+              "away": "sevilla-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2021-02-24",
+              "home": "atalanta-bc",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-03-16",
+              "home": "real-madrid-cf",
+              "away": "atalanta-bc",
+              "score": "3:1",
+              "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2021-04-06",
+              "home": "manchester-city-fc",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-04-14",
+              "home": "borussia-dortmund",
+              "away": "manchester-city-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-04-07",
+              "home": "fc-porto",
+              "away": "chelsea-fc",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Ramón Sánchez Pizjuán, Seville (Spain) because of COVID-19 travel restrictions"
+            },
+            {
+              "date": "2021-04-13",
+              "home": "chelsea-fc",
+              "away": "fc-porto",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Ramón Sánchez Pizjuán, Seville (Spain) because of COVID-19 travel restrictions"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "paris-saint-germain-fc"
+          ],
+          "winner": "paris-saint-germain-fc",
+          "note": "Paris Saint-Germain won on away goals",
+          "matches": [
+            {
+              "date": "2021-04-07",
+              "home": "fc-bayern-munich",
+              "away": "paris-saint-germain-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2021-04-13",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-04-06",
+              "home": "real-madrid-cf",
+              "away": "liverpool-fc",
+              "score": "3:1",
+              "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+            },
+            {
+              "date": "2021-04-14",
+              "home": "liverpool-fc",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-04-28",
+              "home": "paris-saint-germain-fc",
+              "away": "manchester-city-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-05-04",
+              "home": "manchester-city-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-04-27",
+              "home": "real-madrid-cf",
+              "away": "chelsea-fc",
+              "score": "1:1",
+              "note": "Played at Alfredo Di Stéfano Stadium, Madrid"
+            },
+            {
+              "date": "2021-05-05",
+              "home": "chelsea-fc",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-05-29",
+              "home": "manchester-city-fc",
+              "away": "chelsea-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Estádio do Dragão, Porto"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1938 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2013-14",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2013%E2%80%9314_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-shirak",
+            "sp-tre-penne"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "fc-shirak",
+              "away": "sp-tre-penne",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-07-09",
+              "home": "sp-tre-penne",
+              "away": "fc-shirak",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lusitanos",
+            "ebstreymur"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "fc-lusitanos",
+              "away": "ebstreymur",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-09",
+              "home": "ebstreymur",
+              "away": "fc-lusitanos",
+              "score": "5:1",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "neftci-pfk",
+            "kf-skenderbeu"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "neftci-pfk",
+              "away": "kf-skenderbeu",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "kf-skenderbeu",
+              "away": "neftci-pfk",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fcsb",
+              "away": "fk-vardar",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fk-vardar",
+              "away": "fcsb",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fc-viktoria-plzen",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "4:3"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "fc-viktoria-plzen",
+              "score": "1:2",
+              "note": "Played at Asim Ferhatović Hase Stadium, Sarajevo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fk-sutjeska-niksic",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "birkirkara-fc",
+              "away": "nk-maribor",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-24",
+              "home": "nk-maribor",
+              "away": "birkirkara-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sligo-rovers-fc",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "sligo-rovers-fc",
+              "away": "molde-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "molde-fk",
+              "away": "sligo-rovers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "fc-daugava"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "if-elfsborg",
+              "away": "fc-daugava",
+              "score": "7:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fc-daugava",
+              "away": "if-elfsborg",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "hjk-helsinki",
+              "away": "nomme-kalju-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "nomme-kalju-fc",
+              "away": "hjk-helsinki",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fk-ekranas",
+              "away": "fh-hafnarfjardar",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fh-hafnarfjardar",
+              "away": "fk-ekranas",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "the-new-saints-fc",
+              "away": "legia-warsaw",
+              "score": "1:3",
+              "note": "Played at Racecourse Ground, Wrexham"
+            },
+            {
+              "date": "2013-07-24",
+              "home": "legia-warsaw",
+              "away": "the-new-saints-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "cliftonville-fc",
+              "away": "celtic-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "celtic-fc",
+              "away": "cliftonville-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-fola-esch",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "cs-fola-esch",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:5",
+              "note": "Played at Stade Municipal, Differdange"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "gnk-dinamo-zagreb",
+              "away": "cs-fola-esch",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "gyori-eto-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "gyori-eto-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fc-bate-borisov",
+              "away": "fc-shakhter-karagandy",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "fc-shakhter-karagandy",
+              "away": "fc-bate-borisov",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shirak",
+            "fk-partizan"
+          ],
+          "winner": "fk-partizan",
+          "note": "Partizan won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "fc-shirak",
+              "away": "fk-partizan",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-24",
+              "home": "fk-partizan",
+              "away": "fc-shirak",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-17",
+              "home": "sk-slovan-bratislava",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-07-24",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "ebstreymur"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fc-dinamo-tbilisi",
+              "away": "ebstreymur",
+              "score": "6:1"
+            },
+            {
+              "date": "2013-07-23",
+              "home": "ebstreymur",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:3",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-basel",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "fc-basel",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-basel",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "legia-warsaw"
+          ],
+          "winner": "legia-warsaw",
+          "note": "Legia Warsaw won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-31",
+              "home": "molde-fk",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "legia-warsaw",
+              "away": "molde-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-31",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "fk-partizan",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fcsb",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "fcsb",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "nk-maribor"
+          ],
+          "winner": "nk-maribor",
+          "note": "Maribor won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-31",
+              "home": "apoel-fc",
+              "away": "nk-maribor",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "nk-maribor",
+              "away": "apoel-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-31",
+              "home": "celtic-fc",
+              "away": "if-elfsborg",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "if-elfsborg",
+              "away": "celtic-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhter-karagandy",
+            "kf-skenderbeu"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "fc-shakhter-karagandy",
+              "away": "kf-skenderbeu",
+              "score": "3:0",
+              "note": "Played at Astana Arena, Astana"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "kf-skenderbeu",
+              "away": "fc-shakhter-karagandy",
+              "score": "3:2",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "fk-austria-wien",
+              "away": "fh-hafnarfjardar",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "fh-hafnarfjardar",
+              "away": "fk-austria-wien",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "nomme-kalju-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "0:4",
+              "note": "Played at A. Le Coq Arena, Tallinn"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "fc-viktoria-plzen",
+              "away": "nomme-kalju-fc",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "fc-sheriff-tiraspol",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nordsjaelland",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "fc-nordsjaelland",
+              "away": "fc-zenit",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "fc-zenit",
+              "away": "fc-nordsjaelland",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-31",
+              "home": "fc-red-bull-salzburg",
+              "away": "fenerbahce-sk",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "fenerbahce-sk",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-metalist-kharkiv"
+          ],
+          "winner": "fc-metalist-kharkiv",
+          "note": "Metalist Kharkiv were later disqualified for match-fixing and replaced by PAOK in the play-off round",
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "paok-fc",
+              "away": "fc-metalist-kharkiv",
+              "score": "0:2",
+              "note": "Played behind closed doors (UEFA punishment)"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "fc-metalist-kharkiv",
+              "away": "paok-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "sv-zulte-waregem"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "psv-eindhoven",
+              "away": "sv-zulte-waregem",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-08-07",
+              "home": "sv-zulte-waregem",
+              "away": "psv-eindhoven",
+              "score": "0:3",
+              "note": "Played at Constant Vanden Stock Stadium, Brussels"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-30",
+              "home": "olympique-lyonnais",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-06",
+              "home": "grasshopper-club",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-21",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fk-austria-wien",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-27",
+              "home": "fk-austria-wien",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-21",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-basel",
+              "score": "2:4",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            },
+            {
+              "date": "2013-08-27",
+              "home": "fc-basel",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-20",
+              "home": "fc-viktoria-plzen",
+              "away": "nk-maribor",
+              "score": "3:1"
+            },
+            {
+              "date": "2013-08-28",
+              "home": "nk-maribor",
+              "away": "fc-viktoria-plzen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhter-karagandy",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-20",
+              "home": "fc-shakhter-karagandy",
+              "away": "celtic-fc",
+              "score": "2:0",
+              "note": "Played at Astana Arena, Astana"
+            },
+            {
+              "date": "2013-08-28",
+              "home": "celtic-fc",
+              "away": "fc-shakhter-karagandy",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "legia-warsaw"
+          ],
+          "winner": "fcsb",
+          "note": "Steaua București won on away goals",
+          "matches": [
+            {
+              "date": "2013-08-21",
+              "home": "fcsb",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-27",
+              "home": "legia-warsaw",
+              "away": "fcsb",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-20",
+              "home": "olympique-lyonnais",
+              "away": "real-sociedad",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-28",
+              "home": "real-sociedad",
+              "away": "olympique-lyonnais",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-21",
+              "home": "fc-schalke-04",
+              "away": "paok-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-27",
+              "home": "paok-fc",
+              "away": "fc-schalke-04",
+              "score": "2:3",
+              "note": "Played behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pacos-de-ferreira",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-20",
+              "home": "fc-pacos-de-ferreira",
+              "away": "fc-zenit",
+              "score": "1:4"
+            },
+            {
+              "date": "2013-08-28",
+              "home": "fc-zenit",
+              "away": "fc-pacos-de-ferreira",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-20",
+              "home": "psv-eindhoven",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-28",
+              "home": "ac-milan",
+              "away": "psv-eindhoven",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-21",
+              "home": "fenerbahce-sk",
+              "away": "arsenal-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2013-08-27",
+              "home": "arsenal-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2013-09-17",
+          "home": "manchester-united-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "4:2",
+          "group": "A"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "real-sociedad",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "fc-shakhtar-donetsk",
+          "away": "manchester-united-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "bayer-04-leverkusen",
+          "away": "real-sociedad",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-shakhtar-donetsk",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "manchester-united-fc",
+          "away": "real-sociedad",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "fc-shakhtar-donetsk",
+          "away": "bayer-04-leverkusen",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "real-sociedad",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "bayer-04-leverkusen",
+          "away": "manchester-united-fc",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "fc-shakhtar-donetsk",
+          "away": "real-sociedad",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "manchester-united-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "real-sociedad",
+          "away": "bayer-04-leverkusen",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "galatasaray-sk",
+          "away": "real-madrid-cf",
+          "score": "1:6",
+          "group": "B"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "fc-copenhagen",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "juventus-fc",
+          "away": "galatasaray-sk",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "real-madrid-cf",
+          "away": "fc-copenhagen",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "real-madrid-cf",
+          "away": "juventus-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "galatasaray-sk",
+          "away": "fc-copenhagen",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "juventus-fc",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "fc-copenhagen",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "real-madrid-cf",
+          "away": "galatasaray-sk",
+          "score": "4:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "juventus-fc",
+          "away": "fc-copenhagen",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "galatasaray-sk",
+          "away": "juventus-fc",
+          "score": "1:0",
+          "group": "B",
+          "note": "Abandoned after 31 minutes at 0:0 because of heavy snow and resumed from that point on 11 December"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "fc-copenhagen",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "sl-benfica",
+          "away": "rsc-anderlecht",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "olympiacos-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "1:4",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "paris-saint-germain-fc",
+          "away": "sl-benfica",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "rsc-anderlecht",
+          "away": "olympiacos-fc",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "rsc-anderlecht",
+          "away": "paris-saint-germain-fc",
+          "score": "0:5",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "sl-benfica",
+          "away": "olympiacos-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "paris-saint-germain-fc",
+          "away": "rsc-anderlecht",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "olympiacos-fc",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "rsc-anderlecht",
+          "away": "sl-benfica",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "paris-saint-germain-fc",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "sl-benfica",
+          "away": "paris-saint-germain-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "olympiacos-fc",
+          "away": "rsc-anderlecht",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "fc-bayern-munich",
+          "away": "pfc-cska-moscow",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2013-09-17",
+          "home": "fc-viktoria-plzen",
+          "away": "manchester-city-fc",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "pfc-cska-moscow",
+          "away": "fc-viktoria-plzen",
+          "score": "3:2",
+          "group": "D",
+          "note": "Played at Petrovsky Stadium, Saint Petersburg (poor pitch at Arena Khimki)"
+        },
+        {
+          "date": "2013-10-02",
+          "home": "manchester-city-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "pfc-cska-moscow",
+          "away": "manchester-city-fc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-23",
+          "home": "fc-bayern-munich",
+          "away": "fc-viktoria-plzen",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "manchester-city-fc",
+          "away": "pfc-cska-moscow",
+          "score": "5:2",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-05",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "pfc-cska-moscow",
+          "away": "fc-bayern-munich",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-27",
+          "home": "manchester-city-fc",
+          "away": "fc-viktoria-plzen",
+          "score": "4:2",
+          "group": "D"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "fc-bayern-munich",
+          "away": "manchester-city-fc",
+          "score": "2:3",
+          "group": "D"
+        },
+        {
+          "date": "2013-12-10",
+          "home": "fc-viktoria-plzen",
+          "away": "pfc-cska-moscow",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "fc-schalke-04",
+          "away": "fcsb",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "chelsea-fc",
+          "away": "fc-basel",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "fc-basel",
+          "away": "fc-schalke-04",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "fcsb",
+          "away": "chelsea-fc",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "fcsb",
+          "away": "fc-basel",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "fc-schalke-04",
+          "away": "chelsea-fc",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "fc-basel",
+          "away": "fcsb",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "chelsea-fc",
+          "away": "fc-schalke-04",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "fcsb",
+          "away": "fc-schalke-04",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "fc-basel",
+          "away": "chelsea-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "fc-schalke-04",
+          "away": "fc-basel",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "chelsea-fc",
+          "away": "fcsb",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "olympique-de-marseille",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "ssc-napoli",
+          "away": "borussia-dortmund",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "borussia-dortmund",
+          "away": "olympique-de-marseille",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "arsenal-fc",
+          "away": "ssc-napoli",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "arsenal-fc",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "olympique-de-marseille",
+          "away": "ssc-napoli",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "borussia-dortmund",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "ssc-napoli",
+          "away": "olympique-de-marseille",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "arsenal-fc",
+          "away": "olympique-de-marseille",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "borussia-dortmund",
+          "away": "ssc-napoli",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "olympique-de-marseille",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "ssc-napoli",
+          "away": "arsenal-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "fk-austria-wien",
+          "away": "fc-porto",
+          "score": "0:1",
+          "group": "G",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "atletico-madrid",
+          "away": "fc-zenit",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "fc-zenit",
+          "away": "fk-austria-wien",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "fc-porto",
+          "away": "atletico-madrid",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "fc-porto",
+          "away": "fc-zenit",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "fk-austria-wien",
+          "away": "atletico-madrid",
+          "score": "0:3",
+          "group": "G",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "fc-zenit",
+          "away": "fc-porto",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "atletico-madrid",
+          "away": "fk-austria-wien",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "fc-zenit",
+          "away": "atletico-madrid",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "fc-porto",
+          "away": "fk-austria-wien",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "fk-austria-wien",
+          "away": "fc-zenit",
+          "score": "4:1",
+          "group": "G",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "atletico-madrid",
+          "away": "fc-porto",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "ac-milan",
+          "away": "celtic-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-09-18",
+          "home": "fc-barcelona",
+          "away": "afc-ajax",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "afc-ajax",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-01",
+          "home": "celtic-fc",
+          "away": "fc-barcelona",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "celtic-fc",
+          "away": "afc-ajax",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-22",
+          "home": "ac-milan",
+          "away": "fc-barcelona",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "afc-ajax",
+          "away": "celtic-fc",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-06",
+          "home": "fc-barcelona",
+          "away": "ac-milan",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "celtic-fc",
+          "away": "ac-milan",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-26",
+          "home": "afc-ajax",
+          "away": "fc-barcelona",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "ac-milan",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-12-11",
+          "home": "fc-barcelona",
+          "away": "celtic-fc",
+          "score": "6:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-18",
+              "home": "manchester-city-fc",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-03-12",
+              "home": "fc-barcelona",
+              "away": "manchester-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-25",
+              "home": "olympiacos-fc",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-03-19",
+              "home": "manchester-united-fc",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-19",
+              "home": "ac-milan",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-03-11",
+              "home": "atletico-madrid",
+              "away": "ac-milan",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-18",
+              "home": "bayer-04-leverkusen",
+              "away": "paris-saint-germain-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "2014-03-12",
+              "home": "paris-saint-germain-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-26",
+              "home": "galatasaray-sk",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-03-18",
+              "home": "chelsea-fc",
+              "away": "galatasaray-sk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-26",
+              "home": "fc-schalke-04",
+              "away": "real-madrid-cf",
+              "score": "1:6"
+            },
+            {
+              "date": "2014-03-18",
+              "home": "real-madrid-cf",
+              "away": "fc-schalke-04",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-25",
+              "home": "fc-zenit",
+              "away": "borussia-dortmund",
+              "score": "2:4"
+            },
+            {
+              "date": "2014-03-19",
+              "home": "borussia-dortmund",
+              "away": "fc-zenit",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-19",
+              "home": "arsenal-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-03-11",
+              "home": "fc-bayern-munich",
+              "away": "arsenal-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-01",
+              "home": "fc-barcelona",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-04-09",
+              "home": "atletico-madrid",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-02",
+              "home": "real-madrid-cf",
+              "away": "borussia-dortmund",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-04-08",
+              "home": "borussia-dortmund",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "chelsea-fc"
+          ],
+          "winner": "chelsea-fc",
+          "note": "Chelsea won on away goals",
+          "matches": [
+            {
+              "date": "2014-04-02",
+              "home": "paris-saint-germain-fc",
+              "away": "chelsea-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2014-04-08",
+              "home": "chelsea-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-01",
+              "home": "manchester-united-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-04-09",
+              "home": "fc-bayern-munich",
+              "away": "manchester-united-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-23",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-04-29",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-22",
+              "home": "atletico-madrid",
+              "away": "chelsea-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-04-30",
+              "home": "chelsea-fc",
+              "away": "atletico-madrid",
+              "score": "1:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2014-05-24",
+              "home": "real-madrid-cf",
+              "away": "atletico-madrid",
+              "score": "4:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Estádio da Luz, Lisbon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

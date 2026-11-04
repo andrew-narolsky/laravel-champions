@@ -1,0 +1,675 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1996-97",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fenerbahce-sk",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "fenerbahce-sk",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-spartak-vladikavkaz"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "rangers-fc",
+              "away": "fc-spartak-vladikavkaz",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "fc-spartak-vladikavkaz",
+              "away": "rangers-fc",
+              "score": "2:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "panathinaikos-fc",
+              "away": "rosenborg-bk",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "rosenborg-bk",
+              "away": "panathinaikos-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "ifk-goteborg",
+              "away": "ferencvarosi-tc",
+              "score": "3:0",
+              "note": "Played at Idrottsparken, Norrköping"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "ferencvarosi-tc",
+              "away": "ifk-goteborg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "brondby-if"
+          ],
+          "winner": "widzew-lodz",
+          "note": "Widzew Łódź won on away goals",
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "widzew-lodz",
+              "away": "brondby-if",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "brondby-if",
+              "away": "widzew-lodz",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "grasshopper-club",
+              "away": "sk-slavia-prague",
+              "score": "5:0"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "sk-slavia-prague",
+              "away": "grasshopper-club",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "club-brugge-kv",
+              "away": "fcsb",
+              "score": "2:2"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "fcsb",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-07",
+              "home": "sk-rapid-wien",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-08-21",
+              "home": "fc-dynamo-kyiv",
+              "away": "sk-rapid-wien",
+              "score": "2:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1996-09-11",
+          "home": "aj-auxerre",
+          "away": "afc-ajax",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "grasshopper-club",
+          "away": "rangers-fc",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "rangers-fc",
+          "away": "aj-auxerre",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "afc-ajax",
+          "away": "grasshopper-club",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "aj-auxerre",
+          "away": "grasshopper-club",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "afc-ajax",
+          "away": "rangers-fc",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "rangers-fc",
+          "away": "afc-ajax",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "grasshopper-club",
+          "away": "aj-auxerre",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "rangers-fc",
+          "away": "grasshopper-club",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "afc-ajax",
+          "away": "aj-auxerre",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "aj-auxerre",
+          "away": "rangers-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "grasshopper-club",
+          "away": "afc-ajax",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "atletico-madrid",
+          "away": "fcsb",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "borussia-dortmund",
+          "away": "widzew-lodz",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "widzew-lodz",
+          "away": "atletico-madrid",
+          "score": "1:4",
+          "group": "B"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "fcsb",
+          "away": "borussia-dortmund",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "atletico-madrid",
+          "away": "borussia-dortmund",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "fcsb",
+          "away": "widzew-lodz",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "widzew-lodz",
+          "away": "fcsb",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "borussia-dortmund",
+          "away": "atletico-madrid",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "widzew-lodz",
+          "away": "borussia-dortmund",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "fcsb",
+          "away": "atletico-madrid",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "atletico-madrid",
+          "away": "widzew-lodz",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "borussia-dortmund",
+          "away": "fcsb",
+          "score": "5:3",
+          "group": "B"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "sk-rapid-wien",
+          "away": "fenerbahce-sk",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "juventus-fc",
+          "away": "manchester-united-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "fenerbahce-sk",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "manchester-united-fc",
+          "away": "sk-rapid-wien",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "sk-rapid-wien",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "fenerbahce-sk",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "juventus-fc",
+          "away": "sk-rapid-wien",
+          "score": "5:0",
+          "group": "C"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "manchester-united-fc",
+          "away": "fenerbahce-sk",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "manchester-united-fc",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "fenerbahce-sk",
+          "away": "sk-rapid-wien",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "juventus-fc",
+          "away": "fenerbahce-sk",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "sk-rapid-wien",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "ifk-goteborg",
+          "away": "rosenborg-bk",
+          "score": "2:3",
+          "group": "D"
+        },
+        {
+          "date": "1996-09-11",
+          "home": "ac-milan",
+          "away": "fc-porto",
+          "score": "2:3",
+          "group": "D"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "fc-porto",
+          "away": "ifk-goteborg",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "1996-09-25",
+          "home": "rosenborg-bk",
+          "away": "ac-milan",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "ifk-goteborg",
+          "away": "ac-milan",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "1996-10-16",
+          "home": "rosenborg-bk",
+          "away": "fc-porto",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "fc-porto",
+          "away": "rosenborg-bk",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "1996-10-30",
+          "home": "ac-milan",
+          "away": "ifk-goteborg",
+          "score": "4:2",
+          "group": "D"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "fc-porto",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "1996-11-20",
+          "home": "rosenborg-bk",
+          "away": "ifk-goteborg",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "ifk-goteborg",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "1996-12-04",
+          "home": "ac-milan",
+          "away": "rosenborg-bk",
+          "score": "1:2",
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-05",
+              "home": "borussia-dortmund",
+              "away": "aj-auxerre",
+              "score": "3:1"
+            },
+            {
+              "date": "1997-03-19",
+              "home": "aj-auxerre",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-05",
+              "home": "manchester-united-fc",
+              "away": "fc-porto",
+              "score": "4:0"
+            },
+            {
+              "date": "1997-03-19",
+              "home": "fc-porto",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-05",
+              "home": "afc-ajax",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-03-19",
+              "home": "atletico-madrid",
+              "away": "afc-ajax",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-05",
+              "home": "rosenborg-bk",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-03-19",
+              "home": "juventus-fc",
+              "away": "rosenborg-bk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-04-09",
+              "home": "borussia-dortmund",
+              "away": "manchester-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-04-23",
+              "home": "manchester-united-fc",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-04-09",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1997-04-23",
+              "home": "juventus-fc",
+              "away": "afc-ajax",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-05-28",
+              "home": "borussia-dortmund",
+              "away": "juventus-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Olympiastadion, Munich"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -84,6 +84,25 @@ class Club extends Model
         );
     }
 
+    /**
+     * Name the club had in the given year (from club_names), or the current name.
+     * When two names meet in the renaming year, the newer one wins.
+     * Eager load "names" when calling this for many clubs.
+     */
+    public function nameAt(?int $year): string
+    {
+        if ($year === null) {
+            return $this->name;
+        }
+
+        return $this->names
+            ->filter(fn (ClubName $n) => ($n->from_year === null || $n->from_year <= $year)
+                && ($n->to_year === null || $n->to_year >= $year))
+            ->sortByDesc('from_year')
+            ->first()
+            ?->name ?? $this->name;
+    }
+
     protected function competitionStats(): Attribute
     {
         return Attribute::make(

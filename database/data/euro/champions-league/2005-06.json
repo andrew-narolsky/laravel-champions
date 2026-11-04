@@ -1,0 +1,1900 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2005-06",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-07-19",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fci-levadia-tallinn",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "fc-petrzalka"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "fc-kairat",
+              "away": "fc-petrzalka",
+              "score": "2:0"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "fc-petrzalka",
+              "away": "fc-kairat",
+              "score": "4:1",
+              "extra_time": true,
+              "note": "Played at Národné tréningové centrum, Senec"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "neftci-pfk",
+              "away": "fh-hafnarfjardar",
+              "score": "2:0"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "fh-hafnarfjardar",
+              "away": "neftci-pfk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "fk-rabotnicki",
+              "away": "skonto-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "skonto-fc",
+              "away": "fk-rabotnicki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "fc-dinamo-minsk",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0",
+              "note": "Played at GSP Stadium, Nicosia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-12",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:4"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "fc-sheriff-tiraspol",
+              "away": "sliema-wanderers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hb-torshavn",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "hb-torshavn",
+              "away": "fbk-kaunas",
+              "score": "2:4",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            },
+            {
+              "date": "2005-07-19",
+              "home": "fbk-kaunas",
+              "away": "hb-torshavn",
+              "score": "4:0",
+              "note": "Played at Vėtra Stadium, Vilnius"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "liverpool-fc",
+              "away": "the-new-saints-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2005-07-19",
+              "home": "the-new-saints-fc",
+              "away": "liverpool-fc",
+              "score": "0:3",
+              "note": "Played at Racecourse Ground, Wrexham"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "fc-haka",
+              "away": "fc-pyunik",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "fc-pyunik",
+              "away": "fc-haka",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "nd-gorica",
+              "away": "kf-tirana",
+              "score": "2:0"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "kf-tirana",
+              "away": "nd-gorica",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "glentoran-fc",
+              "away": "shelbourne-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "shelbourne-fc",
+              "away": "glentoran-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-13",
+              "home": "f91-dudelange",
+              "away": "hsk-zrinjski-mostar",
+              "score": "0:1"
+            },
+            {
+              "date": "2005-07-20",
+              "home": "hsk-zrinjski-mostar",
+              "away": "f91-dudelange",
+              "score": "0:4",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fbk-kaunas",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "fbk-kaunas",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2005-08-02",
+              "home": "liverpool-fc",
+              "away": "fbk-kaunas",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "fc-dinamo-tbilisi",
+              "away": "brondby-if",
+              "score": "0:2"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "brondby-if",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "rsc-anderlecht",
+              "away": "neftci-pfk",
+              "score": "5:0"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "neftci-pfk",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "valerenga-fotball",
+              "away": "fc-haka",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "fc-haka",
+              "away": "valerenga-fotball",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-thun",
+              "score": "2:2"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "fc-thun",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0",
+              "note": "Played at Stade de Suisse, Bern"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-26",
+              "home": "anorthosis-famagusta-fc",
+              "away": "trabzonspor",
+              "score": "3:1",
+              "note": "Played at GSP Stadium, Nicosia"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "trabzonspor",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "fc-petrzalka",
+              "away": "celtic-fc",
+              "score": "5:0",
+              "note": "Played at Tehelné pole, Bratislava"
+            },
+            {
+              "date": "2005-08-02",
+              "home": "celtic-fc",
+              "away": "fc-petrzalka",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "kf-tirana",
+              "away": "pfc-cska-sofia",
+              "score": "0:2"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "pfc-cska-sofia",
+              "away": "kf-tirana",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "malmo-ff",
+              "away": "maccabi-haifa-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "maccabi-haifa-fc",
+              "away": "malmo-ff",
+              "score": "2:2",
+              "note": "Played at Bloomfield Stadium, Tel Aviv"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "shelbourne-fc",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "fcsb",
+              "away": "shelbourne-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "fk-rabotnicki",
+              "away": "fc-lokomotiv-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "fc-lokomotiv-moscow",
+              "away": "fk-rabotnicki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "f91-dudelange",
+              "away": "sk-rapid-wien",
+              "score": "1:6"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "sk-rapid-wien",
+              "away": "f91-dudelange",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "fk-partizan",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fk-partizan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2005-07-27",
+              "home": "debreceni-vsc",
+              "away": "hnk-hajduk-split",
+              "score": "3:0"
+            },
+            {
+              "date": "2005-08-03",
+              "home": "hnk-hajduk-split",
+              "away": "debreceni-vsc",
+              "score": "0:5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "wisla-krakow",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "wisla-krakow",
+              "away": "panathinaikos-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "panathinaikos-fc",
+              "away": "wisla-krakow",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "real-betis",
+              "away": "as-monaco-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "as-monaco-fc",
+              "away": "real-betis",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "valerenga-fotball",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "club-brugge-kv",
+              "away": "valerenga-fotball",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Club Brugge KV won 4:3 on penalties"
+            }
+          ],
+          "winner": "club-brugge-kv"
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "manchester-united-fc",
+              "away": "debreceni-vsc",
+              "score": "3:0"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "debreceni-vsc",
+              "away": "manchester-united-fc",
+              "score": "0:3",
+              "note": "Played at Ferenc Puskás Stadium, Budapest"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "everton-fc",
+              "away": "villarreal-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "villarreal-cf",
+              "away": "everton-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-09",
+              "home": "anorthosis-famagusta-fc",
+              "away": "rangers-fc",
+              "score": "1:2",
+              "note": "Played at GSP Stadium, Nicosia"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "rangers-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "fcsb",
+              "away": "rosenborg-bk",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "rosenborg-bk",
+              "away": "fcsb",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "sk-rapid-wien",
+              "away": "fc-lokomotiv-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "fc-lokomotiv-moscow",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "fc-petrzalka",
+              "away": "fk-partizan",
+              "score": "0:0",
+              "note": "Played at Tehelné pole, Bratislava"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "fk-partizan",
+              "away": "fc-petrzalka",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "FC Petržalka won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-petrzalka"
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "pfc-cska-sofia",
+              "away": "liverpool-fc",
+              "score": "1:3",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "liverpool-fc",
+              "away": "pfc-cska-sofia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "udinese-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "sporting-cp",
+              "away": "udinese-calcio",
+              "score": "0:1"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "udinese-calcio",
+              "away": "sporting-cp",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "malmo-ff",
+              "away": "fc-thun",
+              "score": "0:1"
+            },
+            {
+              "date": "2005-08-23",
+              "home": "fc-thun",
+              "away": "malmo-ff",
+              "score": "3:0",
+              "note": "Played at Stade de Suisse, Bern"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "fc-shakhtar-donetsk",
+              "away": "inter-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "inter-milan",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:1",
+              "note": "Played behind closed doors (UEFA punishment for crowd trouble in the 2004-05 quarter-final against Milan)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "fc-basel",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "sv-werder-bremen",
+              "away": "fc-basel",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "brondby-if",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "afc-ajax",
+              "away": "brondby-if",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-10",
+              "home": "rsc-anderlecht",
+              "away": "sk-slavia-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "2005-08-24",
+              "home": "sk-slavia-prague",
+              "away": "rsc-anderlecht",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2005-09-14",
+          "home": "sk-rapid-wien",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "club-brugge-kv",
+          "away": "juventus-fc",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "juventus-fc",
+          "away": "sk-rapid-wien",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "fc-bayern-munich",
+          "away": "club-brugge-kv",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "fc-bayern-munich",
+          "away": "juventus-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "sk-rapid-wien",
+          "away": "club-brugge-kv",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "juventus-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "club-brugge-kv",
+          "away": "sk-rapid-wien",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "fc-bayern-munich",
+          "away": "sk-rapid-wien",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "juventus-fc",
+          "away": "club-brugge-kv",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "sk-rapid-wien",
+          "away": "juventus-fc",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "club-brugge-kv",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "ac-sparta-prague",
+          "away": "afc-ajax",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "arsenal-fc",
+          "away": "fc-thun",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "fc-thun",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": "B",
+          "note": "Played at Stade de Suisse, Bern"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "afc-ajax",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "afc-ajax",
+          "away": "fc-thun",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "ac-sparta-prague",
+          "away": "arsenal-fc",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "fc-thun",
+          "away": "afc-ajax",
+          "score": "2:4",
+          "group": "B",
+          "note": "Played at Stade de Suisse, Bern"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "arsenal-fc",
+          "away": "ac-sparta-prague",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "afc-ajax",
+          "away": "ac-sparta-prague",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "fc-thun",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "B",
+          "note": "Played at Stade de Suisse, Bern"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "ac-sparta-prague",
+          "away": "fc-thun",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "arsenal-fc",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "udinese-calcio",
+          "away": "panathinaikos-fc",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "sv-werder-bremen",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "fc-barcelona",
+          "away": "udinese-calcio",
+          "score": "4:1",
+          "group": "C"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "panathinaikos-fc",
+          "away": "sv-werder-bremen",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "panathinaikos-fc",
+          "away": "fc-barcelona",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "udinese-calcio",
+          "away": "sv-werder-bremen",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "fc-barcelona",
+          "away": "panathinaikos-fc",
+          "score": "5:0",
+          "group": "C"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "sv-werder-bremen",
+          "away": "udinese-calcio",
+          "score": "4:3",
+          "group": "C"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "panathinaikos-fc",
+          "away": "udinese-calcio",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "fc-barcelona",
+          "away": "sv-werder-bremen",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "udinese-calcio",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "sv-werder-bremen",
+          "away": "panathinaikos-fc",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "villarreal-cf",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-09-14",
+          "home": "sl-benfica",
+          "away": "lille-osc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "lille-osc",
+          "away": "villarreal-cf",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-09-27",
+          "home": "manchester-united-fc",
+          "away": "sl-benfica",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "manchester-united-fc",
+          "away": "lille-osc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-10-18",
+          "home": "villarreal-cf",
+          "away": "sl-benfica",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "lille-osc",
+          "away": "manchester-united-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-11-02",
+          "home": "sl-benfica",
+          "away": "villarreal-cf",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "manchester-united-fc",
+          "away": "villarreal-cf",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-11-22",
+          "home": "lille-osc",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "villarreal-cf",
+          "away": "lille-osc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2005-12-07",
+          "home": "sl-benfica",
+          "away": "manchester-united-fc",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "ac-milan",
+          "away": "fenerbahce-sk",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "psv-eindhoven",
+          "away": "fc-schalke-04",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "fc-schalke-04",
+          "away": "ac-milan",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "fenerbahce-sk",
+          "away": "psv-eindhoven",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "fenerbahce-sk",
+          "away": "fc-schalke-04",
+          "score": "3:3",
+          "group": "E"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "ac-milan",
+          "away": "psv-eindhoven",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "fc-schalke-04",
+          "away": "fenerbahce-sk",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "psv-eindhoven",
+          "away": "ac-milan",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "fenerbahce-sk",
+          "away": "ac-milan",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "fc-schalke-04",
+          "away": "psv-eindhoven",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "ac-milan",
+          "away": "fc-schalke-04",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "psv-eindhoven",
+          "away": "fenerbahce-sk",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "olympique-lyonnais",
+          "away": "real-madrid-cf",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "olympiacos-fc",
+          "away": "rosenborg-bk",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "rosenborg-bk",
+          "away": "olympique-lyonnais",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "real-madrid-cf",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "real-madrid-cf",
+          "away": "rosenborg-bk",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "olympique-lyonnais",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "rosenborg-bk",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "olympiacos-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "real-madrid-cf",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "rosenborg-bk",
+          "away": "olympiacos-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "olympique-lyonnais",
+          "away": "rosenborg-bk",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "olympiacos-fc",
+          "away": "real-madrid-cf",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "chelsea-fc",
+          "away": "rsc-anderlecht",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "real-betis",
+          "away": "liverpool-fc",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "liverpool-fc",
+          "away": "chelsea-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "rsc-anderlecht",
+          "away": "real-betis",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "rsc-anderlecht",
+          "away": "liverpool-fc",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "chelsea-fc",
+          "away": "real-betis",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "liverpool-fc",
+          "away": "rsc-anderlecht",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "real-betis",
+          "away": "chelsea-fc",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "rsc-anderlecht",
+          "away": "chelsea-fc",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "liverpool-fc",
+          "away": "real-betis",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "chelsea-fc",
+          "away": "liverpool-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "real-betis",
+          "away": "rsc-anderlecht",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "rangers-fc",
+          "away": "fc-porto",
+          "score": "3:2",
+          "group": "H"
+        },
+        {
+          "date": "2005-09-13",
+          "home": "fc-petrzalka",
+          "away": "inter-milan",
+          "score": "0:1",
+          "group": "H",
+          "note": "Played at Tehelné pole, Bratislava"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "inter-milan",
+          "away": "rangers-fc",
+          "score": "1:0",
+          "group": "H",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble in the 2004-05 quarter-final against Milan)"
+        },
+        {
+          "date": "2005-09-28",
+          "home": "fc-porto",
+          "away": "fc-petrzalka",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "fc-porto",
+          "away": "inter-milan",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2005-10-19",
+          "home": "rangers-fc",
+          "away": "fc-petrzalka",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "inter-milan",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "H",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble in the 2004-05 quarter-final against Milan)"
+        },
+        {
+          "date": "2005-11-01",
+          "home": "fc-petrzalka",
+          "away": "rangers-fc",
+          "score": "2:2",
+          "group": "H",
+          "note": "Played at Tehelné pole, Bratislava"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "fc-porto",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2005-11-23",
+          "home": "inter-milan",
+          "away": "fc-petrzalka",
+          "score": "4:0",
+          "group": "H",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble in the 2004-05 quarter-final against Milan)"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "rangers-fc",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2005-12-06",
+          "home": "fc-petrzalka",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "H",
+          "note": "Played at Tehelné pole, Bratislava"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-22",
+              "home": "chelsea-fc",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            },
+            {
+              "date": "2006-03-07",
+              "home": "fc-barcelona",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-21",
+              "home": "real-madrid-cf",
+              "away": "arsenal-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-03-08",
+              "home": "arsenal-fc",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "juventus-fc"
+          ],
+          "winner": "juventus-fc",
+          "note": "Juventus won on away goals",
+          "matches": [
+            {
+              "date": "2006-02-22",
+              "home": "sv-werder-bremen",
+              "away": "juventus-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2006-03-07",
+              "home": "juventus-fc",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-21",
+              "home": "fc-bayern-munich",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-03-08",
+              "home": "ac-milan",
+              "away": "fc-bayern-munich",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-21",
+              "home": "psv-eindhoven",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-03-08",
+              "home": "olympique-lyonnais",
+              "away": "psv-eindhoven",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-22",
+              "home": "afc-ajax",
+              "away": "inter-milan",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-03-14",
+              "home": "inter-milan",
+              "away": "afc-ajax",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-02-21",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-03-08",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "villarreal-cf"
+          ],
+          "winner": "villarreal-cf",
+          "note": "Villarreal won on away goals",
+          "matches": [
+            {
+              "date": "2006-02-22",
+              "home": "rangers-fc",
+              "away": "villarreal-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-03-07",
+              "home": "villarreal-cf",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-03-28",
+              "home": "arsenal-fc",
+              "away": "juventus-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-04-05",
+              "home": "juventus-fc",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2006-03-29",
+              "home": "olympique-lyonnais",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-04-04",
+              "home": "ac-milan",
+              "away": "olympique-lyonnais",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "villarreal-cf"
+          ],
+          "winner": "villarreal-cf",
+          "note": "Villarreal won on away goals",
+          "matches": [
+            {
+              "date": "2006-03-29",
+              "home": "inter-milan",
+              "away": "villarreal-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-04-04",
+              "home": "villarreal-cf",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2006-03-28",
+              "home": "sl-benfica",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-04-05",
+              "home": "fc-barcelona",
+              "away": "sl-benfica",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2006-04-19",
+              "home": "arsenal-fc",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-04-25",
+              "home": "villarreal-cf",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2006-04-18",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-04-26",
+              "home": "fc-barcelona",
+              "away": "ac-milan",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-05-17",
+              "home": "fc-barcelona",
+              "away": "arsenal-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Stade de France, Saint-Denis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

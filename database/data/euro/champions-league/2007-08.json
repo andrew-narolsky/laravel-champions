@@ -1,0 +1,1937 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2007-08",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "khazar-lankaran-fk",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "khazar-lankaran-fk",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "gnk-dinamo-zagreb",
+              "away": "khazar-lankaran-fk",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "apoel-fc",
+              "away": "fc-bate-borisov",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "fc-bate-borisov",
+              "away": "apoel-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fc-rangers"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-rangers",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "fc-rangers",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "fh-hafnarfjardar",
+              "away": "hb-torshavn",
+              "score": "4:1"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "hb-torshavn",
+              "away": "fh-hafnarfjardar",
+              "score": "0:0",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fk-ventspils"
+          ],
+          "winner": "fk-ventspils",
+          "note": "Ventspils won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "the-new-saints-fc",
+              "away": "fk-ventspils",
+              "score": "3:2",
+              "note": "Played at Latham Park, Newtown"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "fk-ventspils",
+              "away": "the-new-saints-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-pobeda",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "fk-pobeda",
+              "away": "fci-levadia-tallinn",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "fci-levadia-tallinn",
+              "away": "fk-pobeda",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurgi-rustavi",
+            "fc-zhenis"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "fc-metalurgi-rustavi",
+              "away": "fc-zhenis",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "fc-zhenis",
+              "away": "fc-metalurgi-rustavi",
+              "score": "3:0",
+              "note": "Played at Central Stadium, Kostanay"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeta",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "fk-zeta",
+              "away": "fbk-kaunas",
+              "score": "3:1",
+              "note": "Played at City Stadium, Podgorica"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "fbk-kaunas",
+              "away": "fk-zeta",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-murata",
+            "tampere-united"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "ss-murata",
+              "away": "tampere-united",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "tampere-united",
+              "away": "ss-murata",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "f91-dudelange",
+              "away": "msk-zilina",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "msk-zilina",
+              "away": "f91-dudelange",
+              "score": "5:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-17",
+              "home": "linfield-fc",
+              "away": "if-elfsborg",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "if-elfsborg",
+              "away": "linfield-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "derry-city-fc",
+              "away": "fc-pyunik",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "fc-pyunik",
+              "away": "derry-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "marsaxlokk-fc",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "marsaxlokk-fc",
+              "away": "fk-sarajevo",
+              "score": "0:6"
+            },
+            {
+              "date": "2007-07-24",
+              "home": "fk-sarajevo",
+              "away": "marsaxlokk-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-18",
+              "home": "nk-domzale",
+              "away": "kf-tirana",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-07-25",
+              "home": "kf-tirana",
+              "away": "nk-domzale",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "fc-pyunik",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-pyunik",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fci-levadia-tallinn"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "red-star-belgrade",
+              "away": "fci-levadia-tallinn",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fci-levadia-tallinn",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fk-zeta"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "rangers-fc",
+              "away": "fk-zeta",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-08-07",
+              "home": "fk-zeta",
+              "away": "rangers-fc",
+              "score": "0:1",
+              "note": "Played at City Stadium, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "debreceni-vsc",
+              "away": "if-elfsborg",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "if-elfsborg",
+              "away": "debreceni-vsc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zaglebie-lubin",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "zaglebie-lubin",
+              "away": "fcsb",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fcsb",
+              "away": "zaglebie-lubin",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "fk-sarajevo"
+          ],
+          "winner": "fk-sarajevo",
+          "note": "Sarajevo won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "krc-genk",
+              "away": "fk-sarajevo",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fk-sarajevo",
+              "away": "krc-genk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "fk-ventspils",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:3",
+              "note": "Played at Skonto Stadium, Riga"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fc-red-bull-salzburg",
+              "away": "fk-ventspils",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zhenis",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "fc-zhenis",
+              "away": "rosenborg-bk",
+              "score": "1:3",
+              "note": "Played at Central Stadium, Kostanay"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "rosenborg-bk",
+              "away": "fc-zhenis",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "fh-hafnarfjardar",
+              "away": "fc-bate-borisov",
+              "score": "1:3"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fc-bate-borisov",
+              "away": "fh-hafnarfjardar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "fc-copenhagen",
+              "away": "beitar-jerusalem-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-07",
+              "home": "beitar-jerusalem-fc",
+              "away": "fc-copenhagen",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "msk-zilina",
+              "away": "sk-slavia-prague",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "sk-slavia-prague",
+              "away": "msk-zilina",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "SK Slavia Prague won 4:3 on penalties"
+            }
+          ],
+          "winner": "sk-slavia-prague"
+        },
+        {
+          "clubs": [
+            "tampere-united",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-31",
+              "home": "tampere-united",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-07",
+              "home": "pfc-levski-sofia",
+              "away": "tampere-united",
+              "score": "0:1",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "nk-domzale",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-08-07",
+              "home": "gnk-dinamo-zagreb",
+              "away": "nk-domzale",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-01",
+              "home": "besiktas-jk",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-08",
+              "home": "fc-sheriff-tiraspol",
+              "away": "besiktas-jk",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fc-bate-borisov",
+              "away": "fcsb",
+              "score": "2:2"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "fcsb",
+              "away": "fc-bate-borisov",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tampere-united",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "tampere-united",
+              "away": "rosenborg-bk",
+              "score": "0:3"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "rosenborg-bk",
+              "away": "tampere-united",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fc-spartak-moscow",
+              "away": "celtic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "celtic-fc",
+              "away": "fc-spartak-moscow",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Celtic FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "celtic-fc"
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "sv-werder-bremen",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sv-werder-bremen",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "afc-ajax",
+              "away": "sk-slavia-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "sk-slavia-prague",
+              "away": "afc-ajax",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-14",
+              "home": "valencia-cf",
+              "away": "if-elfsborg",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "if-elfsborg",
+              "away": "valencia-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fk-sarajevo",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "fk-sarajevo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fenerbahce-sk",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "rsc-anderlecht",
+              "away": "fenerbahce-sk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-14",
+              "home": "rangers-fc",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-28",
+              "home": "red-star-belgrade",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "toulouse-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "toulouse-fc",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-28",
+              "home": "liverpool-fc",
+              "away": "toulouse-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-14",
+              "home": "sl-benfica",
+              "away": "fc-copenhagen",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "fc-copenhagen",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-14",
+              "home": "ss-lazio",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-28",
+              "home": "fc-dinamo-bucuresti",
+              "away": "ss-lazio",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "ac-sparta-prague",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "arsenal-fc",
+              "away": "ac-sparta-prague",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "fc-zurich",
+              "away": "besiktas-jk",
+              "score": "1:1",
+              "note": "Played at Hardturm, Zürich"
+            },
+            {
+              "date": "2007-08-29",
+              "home": "besiktas-jk",
+              "away": "fc-zurich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-15",
+              "home": "sevilla-fc",
+              "away": "aek-athens-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-09-03",
+              "home": "aek-athens-fc",
+              "away": "sevilla-fc",
+              "score": "1:4",
+              "note": "Postponed from 29 August after the death of Sevilla player Antonio Puerta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2007-09-18",
+          "home": "olympique-de-marseille",
+          "away": "besiktas-jk",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "fc-porto",
+          "away": "liverpool-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "liverpool-fc",
+          "away": "olympique-de-marseille",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "besiktas-jk",
+          "away": "fc-porto",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "besiktas-jk",
+          "away": "liverpool-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "olympique-de-marseille",
+          "away": "fc-porto",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "liverpool-fc",
+          "away": "besiktas-jk",
+          "score": "8:0",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "fc-porto",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "besiktas-jk",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "liverpool-fc",
+          "away": "fc-porto",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "olympique-de-marseille",
+          "away": "liverpool-fc",
+          "score": "0:4",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "fc-porto",
+          "away": "besiktas-jk",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "chelsea-fc",
+          "away": "rosenborg-bk",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "fc-schalke-04",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "valencia-cf",
+          "away": "chelsea-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "rosenborg-bk",
+          "away": "fc-schalke-04",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "rosenborg-bk",
+          "away": "valencia-cf",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "chelsea-fc",
+          "away": "fc-schalke-04",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "valencia-cf",
+          "away": "rosenborg-bk",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "fc-schalke-04",
+          "away": "chelsea-fc",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "rosenborg-bk",
+          "away": "chelsea-fc",
+          "score": "0:4",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "valencia-cf",
+          "away": "fc-schalke-04",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "chelsea-fc",
+          "away": "valencia-cf",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "fc-schalke-04",
+          "away": "rosenborg-bk",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "real-madrid-cf",
+          "away": "sv-werder-bremen",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "olympiacos-fc",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "C",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble against Shakhtar Donetsk in December 2006)"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "sv-werder-bremen",
+          "away": "olympiacos-fc",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "ss-lazio",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "sv-werder-bremen",
+          "away": "ss-lazio",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "real-madrid-cf",
+          "away": "olympiacos-fc",
+          "score": "4:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "ss-lazio",
+          "away": "sv-werder-bremen",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "olympiacos-fc",
+          "away": "real-madrid-cf",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "sv-werder-bremen",
+          "away": "real-madrid-cf",
+          "score": "3:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "ss-lazio",
+          "away": "olympiacos-fc",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "real-madrid-cf",
+          "away": "ss-lazio",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-11",
+          "home": "olympiacos-fc",
+          "away": "sv-werder-bremen",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "ac-milan",
+          "away": "sl-benfica",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-09-18",
+          "home": "fc-shakhtar-donetsk",
+          "away": "celtic-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "celtic-fc",
+          "away": "ac-milan",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-03",
+          "home": "sl-benfica",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "ac-milan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-24",
+          "home": "sl-benfica",
+          "away": "celtic-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "fc-shakhtar-donetsk",
+          "away": "ac-milan",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-06",
+          "home": "celtic-fc",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "sl-benfica",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-28",
+          "home": "celtic-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-04",
+          "home": "ac-milan",
+          "away": "celtic-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-04",
+          "home": "fc-shakhtar-donetsk",
+          "away": "sl-benfica",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "rangers-fc",
+          "away": "vfb-stuttgart",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "fc-barcelona",
+          "away": "olympique-lyonnais",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "vfb-stuttgart",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "olympique-lyonnais",
+          "away": "rangers-fc",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "rangers-fc",
+          "away": "fc-barcelona",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "vfb-stuttgart",
+          "away": "olympique-lyonnais",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "olympique-lyonnais",
+          "away": "vfb-stuttgart",
+          "score": "4:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "fc-barcelona",
+          "away": "rangers-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "vfb-stuttgart",
+          "away": "rangers-fc",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "olympique-lyonnais",
+          "away": "fc-barcelona",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "rangers-fc",
+          "away": "olympique-lyonnais",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "fc-barcelona",
+          "away": "vfb-stuttgart",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "sporting-cp",
+          "away": "manchester-united-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "as-roma",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "manchester-united-fc",
+          "away": "as-roma",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "fc-dynamo-kyiv",
+          "away": "sporting-cp",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "as-roma",
+          "away": "sporting-cp",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "fc-dynamo-kyiv",
+          "away": "manchester-united-fc",
+          "score": "2:4",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "sporting-cp",
+          "away": "as-roma",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "manchester-united-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "4:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "fc-dynamo-kyiv",
+          "away": "as-roma",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "manchester-united-fc",
+          "away": "sporting-cp",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "as-roma",
+          "away": "manchester-united-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "sporting-cp",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "fenerbahce-sk",
+          "away": "inter-milan",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "psv-eindhoven",
+          "away": "pfc-cska-moscow",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "pfc-cska-moscow",
+          "away": "fenerbahce-sk",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "inter-milan",
+          "away": "psv-eindhoven",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "psv-eindhoven",
+          "away": "fenerbahce-sk",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "pfc-cska-moscow",
+          "away": "inter-milan",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "fenerbahce-sk",
+          "away": "psv-eindhoven",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "inter-milan",
+          "away": "pfc-cska-moscow",
+          "score": "4:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "pfc-cska-moscow",
+          "away": "psv-eindhoven",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "inter-milan",
+          "away": "fenerbahce-sk",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "psv-eindhoven",
+          "away": "inter-milan",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "fenerbahce-sk",
+          "away": "pfc-cska-moscow",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "arsenal-fc",
+          "away": "sevilla-fc",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2007-09-19",
+          "home": "sk-slavia-prague",
+          "away": "fcsb",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "fcsb",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-10-02",
+          "home": "sevilla-fc",
+          "away": "sk-slavia-prague",
+          "score": "4:2",
+          "group": "H"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "sevilla-fc",
+          "away": "fcsb",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-10-23",
+          "home": "arsenal-fc",
+          "away": "sk-slavia-prague",
+          "score": "7:0",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "fcsb",
+          "away": "sevilla-fc",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-07",
+          "home": "sk-slavia-prague",
+          "away": "arsenal-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "sevilla-fc",
+          "away": "arsenal-fc",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-27",
+          "home": "fcsb",
+          "away": "sk-slavia-prague",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "arsenal-fc",
+          "away": "fcsb",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-12",
+          "home": "sk-slavia-prague",
+          "away": "sevilla-fc",
+          "score": "0:3",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-20",
+              "home": "celtic-fc",
+              "away": "fc-barcelona",
+              "score": "2:3"
+            },
+            {
+              "date": "2008-03-04",
+              "home": "fc-barcelona",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-20",
+              "home": "olympique-lyonnais",
+              "away": "manchester-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-03-04",
+              "home": "manchester-united-fc",
+              "away": "olympique-lyonnais",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-19",
+              "home": "fc-schalke-04",
+              "away": "fc-porto",
+              "score": "1:0"
+            },
+            {
+              "date": "2008-03-05",
+              "home": "fc-porto",
+              "away": "fc-schalke-04",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Schalke 04 won 4:1 on penalties"
+            }
+          ],
+          "winner": "fc-schalke-04"
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-19",
+              "home": "liverpool-fc",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "2008-03-11",
+              "home": "inter-milan",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-19",
+              "home": "as-roma",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "2008-03-05",
+              "home": "real-madrid-cf",
+              "away": "as-roma",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-20",
+              "home": "arsenal-fc",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-03-04",
+              "home": "ac-milan",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-19",
+              "home": "olympiacos-fc",
+              "away": "chelsea-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-03-05",
+              "home": "chelsea-fc",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-20",
+              "home": "fenerbahce-sk",
+              "away": "sevilla-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2008-03-04",
+              "home": "sevilla-fc",
+              "away": "fenerbahce-sk",
+              "score": "3:2",
+              "extra_time": true,
+              "note": "Fenerbahçe SK won 3:2 on penalties"
+            }
+          ],
+          "winner": "fenerbahce-sk"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-02",
+              "home": "arsenal-fc",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-04-08",
+              "home": "liverpool-fc",
+              "away": "arsenal-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-01",
+              "home": "as-roma",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2008-04-09",
+              "home": "manchester-united-fc",
+              "away": "as-roma",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-01",
+              "home": "fc-schalke-04",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "2008-04-09",
+              "home": "fc-barcelona",
+              "away": "fc-schalke-04",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-02",
+              "home": "fenerbahce-sk",
+              "away": "chelsea-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2008-04-08",
+              "home": "chelsea-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-22",
+              "home": "liverpool-fc",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-04-30",
+              "home": "chelsea-fc",
+              "away": "liverpool-fc",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-23",
+              "home": "fc-barcelona",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-04-29",
+              "home": "manchester-united-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-05-21",
+              "home": "manchester-united-fc",
+              "away": "chelsea-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Luzhniki Stadium, Moscow; Manchester United FC won 6:5 on penalties"
+            }
+          ],
+          "winner": "manchester-united-fc"
+        }
+      ]
+    }
+  ]
+}

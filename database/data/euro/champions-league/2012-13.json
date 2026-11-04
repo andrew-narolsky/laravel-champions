@@ -1,0 +1,1939 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2012-13",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2012%E2%80%9313_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "f91-dudelange",
+            "sp-tre-penne"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-03",
+              "home": "f91-dudelange",
+              "away": "sp-tre-penne",
+              "score": "7:0"
+            },
+            {
+              "date": "2012-07-10",
+              "home": "sp-tre-penne",
+              "away": "f91-dudelange",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fc-lusitanos"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-03",
+              "home": "valletta-fc",
+              "away": "fc-lusitanos",
+              "score": "8:0"
+            },
+            {
+              "date": "2012-07-10",
+              "home": "fc-lusitanos",
+              "away": "valletta-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-03",
+              "home": "linfield-fc",
+              "away": "b36-torshavn",
+              "score": "0:0"
+            },
+            {
+              "date": "2012-07-10",
+              "home": "b36-torshavn",
+              "away": "linfield-fc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Linfield FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "linfield-fc"
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "kf-skenderbeu",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "kf-skenderbeu",
+              "away": "debreceni-vsc",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "debreceni-vsc",
+              "away": "kf-skenderbeu",
+              "score": "3:0",
+              "note": "Played at Városi Stadion, Nyíregyháza"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "nk-maribor",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "4:1"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "nk-maribor",
+              "score": "1:2",
+              "note": "Played at Asim Ferhatović Hase Stadium, Sarajevo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "hapoel-ironi-kiryat-shmona-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "msk-zilina",
+              "away": "hapoel-ironi-kiryat-shmona-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "hapoel-ironi-kiryat-shmona-fc",
+              "away": "msk-zilina",
+              "score": "2:0",
+              "note": "Played at Kiryat Eliezer Stadium, Haifa"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "fc-bate-borisov",
+              "away": "fk-vardar",
+              "score": "3:2"
+            },
+            {
+              "date": "2012-07-25",
+              "home": "fk-vardar",
+              "away": "fc-bate-borisov",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "ael-limassol",
+              "away": "linfield-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2012-07-25",
+              "home": "linfield-fc",
+              "away": "ael-limassol",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "fk-ekranas"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "shamrock-rovers-fc",
+              "away": "fk-ekranas",
+              "score": "0:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fk-ekranas",
+              "away": "shamrock-rovers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "fc-flora",
+              "away": "fc-basel",
+              "score": "0:2"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fc-basel",
+              "away": "fc-flora",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "the-new-saints-fc",
+              "away": "helsingborgs-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2012-07-25",
+              "home": "helsingborgs-if",
+              "away": "the-new-saints-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "hjk-helsinki",
+              "away": "kr-reykjavik",
+              "score": "7:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "kr-reykjavik",
+              "away": "hjk-helsinki",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "fk-ventspils"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "molde-fk",
+              "away": "fk-ventspils",
+              "score": "3:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fk-ventspils",
+              "away": "molde-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "fc-red-bull-salzburg"
+          ],
+          "winner": "f91-dudelange",
+          "note": "Dudelange won on away goals",
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "f91-dudelange",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fc-red-bull-salzburg",
+              "away": "f91-dudelange",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "fc-slovan-liberec",
+              "away": "fc-shakhter-karagandy",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fc-shakhter-karagandy",
+              "away": "fc-slovan-liberec",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            },
+            {
+              "date": "2012-07-25",
+              "home": "gnk-dinamo-zagreb",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "fc-zestaponi"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "neftci-pfk",
+              "away": "fc-zestaponi",
+              "score": "3:0",
+              "note": "Played at Dalga Arena, Baku"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fc-zestaponi",
+              "away": "neftci-pfk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ulisses-fc",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "ulisses-fc",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:1"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fc-sheriff-tiraspol",
+              "away": "ulisses-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-17",
+              "home": "valletta-fc",
+              "away": "fk-partizan",
+              "score": "1:4"
+            },
+            {
+              "date": "2012-07-24",
+              "home": "fk-partizan",
+              "away": "valletta-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-18",
+              "home": "fk-buducnost-podgorica",
+              "away": "slask-wroclaw",
+              "score": "0:2"
+            },
+            {
+              "date": "2012-07-25",
+              "home": "slask-wroclaw",
+              "away": "fk-buducnost-podgorica",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "nk-maribor",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "nk-maribor",
+              "away": "f91-dudelange",
+              "score": "4:1"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "f91-dudelange",
+              "away": "nk-maribor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "fc-bate-borisov",
+              "away": "debreceni-vsc",
+              "score": "1:1"
+            },
+            {
+              "date": "2012-08-07",
+              "home": "debreceni-vsc",
+              "away": "fc-bate-borisov",
+              "score": "0:2",
+              "note": "Played at Városi Stadion, Nyíregyháza"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "cfr-cluj",
+              "away": "fc-slovan-liberec",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "fc-slovan-liberec",
+              "away": "cfr-cluj",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fk-ekranas"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "rsc-anderlecht",
+              "away": "fk-ekranas",
+              "score": "5:0"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "fk-ekranas",
+              "away": "rsc-anderlecht",
+              "score": "0:6",
+              "note": "Played at LFF Stadium, Vilnius"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "slask-wroclaw",
+              "away": "helsingborgs-if",
+              "score": "0:3"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "helsingborgs-if",
+              "away": "slask-wroclaw",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "fc-sheriff-tiraspol",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-sheriff-tiraspol",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "molde-fk",
+              "away": "fc-basel",
+              "score": "0:1"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "fc-basel",
+              "away": "molde-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "celtic-fc",
+              "away": "hjk-helsinki",
+              "score": "2:1"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "hjk-helsinki",
+              "away": "celtic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-ironi-kiryat-shmona-fc",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "hapoel-ironi-kiryat-shmona-fc",
+              "away": "neftci-pfk",
+              "score": "4:0",
+              "note": "Played at Kiryat Eliezer Stadium, Haifa"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "neftci-pfk",
+              "away": "hapoel-ironi-kiryat-shmona-fc",
+              "score": "2:2",
+              "note": "Played at Dalga Arena, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "ael-limassol",
+              "away": "fk-partizan",
+              "score": "1:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "fk-partizan",
+              "away": "ael-limassol",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "fc-vaslui"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "fenerbahce-sk",
+              "away": "fc-vaslui",
+              "score": "1:1"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "fc-vaslui",
+              "away": "fenerbahce-sk",
+              "score": "1:4",
+              "note": "Played at Stadionul Ceahlăul, Piatra Neamț"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "motherwell-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-31",
+              "home": "motherwell-fc",
+              "away": "panathinaikos-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "panathinaikos-fc",
+              "away": "motherwell-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-01",
+              "home": "fc-copenhagen",
+              "away": "club-brugge-kv",
+              "score": "0:0"
+            },
+            {
+              "date": "2012-08-08",
+              "home": "club-brugge-kv",
+              "away": "fc-copenhagen",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2012-07-31",
+              "home": "fc-dynamo-kyiv",
+              "away": "feyenoord",
+              "score": "2:1"
+            },
+            {
+              "date": "2012-08-07",
+              "home": "feyenoord",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fc-basel",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-21",
+              "home": "fc-basel",
+              "away": "cfr-cluj",
+              "score": "1:2"
+            },
+            {
+              "date": "2012-08-29",
+              "home": "cfr-cluj",
+              "away": "fc-basel",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-21",
+              "home": "helsingborgs-if",
+              "away": "celtic-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2012-08-29",
+              "home": "celtic-fc",
+              "away": "helsingborgs-if",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "hapoel-ironi-kiryat-shmona-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-22",
+              "home": "fc-bate-borisov",
+              "away": "hapoel-ironi-kiryat-shmona-fc",
+              "score": "2:0",
+              "note": "Played at Dinamo Stadium, Minsk"
+            },
+            {
+              "date": "2012-08-28",
+              "home": "hapoel-ironi-kiryat-shmona-fc",
+              "away": "fc-bate-borisov",
+              "score": "1:1",
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-22",
+              "home": "ael-limassol",
+              "away": "rsc-anderlecht",
+              "score": "2:1",
+              "note": "Played at GSP Stadium, Nicosia"
+            },
+            {
+              "date": "2012-08-28",
+              "home": "rsc-anderlecht",
+              "away": "ael-limassol",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-22",
+              "home": "gnk-dinamo-zagreb",
+              "away": "nk-maribor",
+              "score": "2:1"
+            },
+            {
+              "date": "2012-08-28",
+              "home": "nk-maribor",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "udinese-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-22",
+              "home": "sc-braga",
+              "away": "udinese-calcio",
+              "score": "1:1"
+            },
+            {
+              "date": "2012-08-28",
+              "home": "udinese-calcio",
+              "away": "sc-braga",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "SC Braga won 5:4 on penalties"
+            }
+          ],
+          "winner": "sc-braga"
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-21",
+              "home": "fc-spartak-moscow",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "2012-08-29",
+              "home": "fenerbahce-sk",
+              "away": "fc-spartak-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malaga-cf",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-22",
+              "home": "malaga-cf",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2012-08-28",
+              "home": "panathinaikos-fc",
+              "away": "malaga-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-21",
+              "home": "borussia-monchengladbach",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:3"
+            },
+            {
+              "date": "2012-08-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "borussia-monchengladbach",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-21",
+              "home": "fc-copenhagen",
+              "away": "lille-osc",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-08-29",
+              "home": "lille-osc",
+              "away": "fc-copenhagen",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2012-09-18",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "fc-dynamo-kyiv",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "fc-porto",
+          "away": "paris-saint-germain-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "fc-porto",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "gnk-dinamo-zagreb",
+          "away": "paris-saint-germain-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "paris-saint-germain-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "fc-porto",
+          "away": "gnk-dinamo-zagreb",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "fc-dynamo-kyiv",
+          "away": "paris-saint-germain-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "montpellier-hsc",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "olympiacos-fc",
+          "away": "fc-schalke-04",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "fc-schalke-04",
+          "away": "montpellier-hsc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "arsenal-fc",
+          "away": "olympiacos-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "arsenal-fc",
+          "away": "fc-schalke-04",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "montpellier-hsc",
+          "away": "olympiacos-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "fc-schalke-04",
+          "away": "arsenal-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "olympiacos-fc",
+          "away": "montpellier-hsc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "arsenal-fc",
+          "away": "montpellier-hsc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "fc-schalke-04",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "montpellier-hsc",
+          "away": "fc-schalke-04",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "olympiacos-fc",
+          "away": "arsenal-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "malaga-cf",
+          "away": "fc-zenit",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "ac-milan",
+          "away": "rsc-anderlecht",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "fc-zenit",
+          "away": "ac-milan",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "rsc-anderlecht",
+          "away": "malaga-cf",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "fc-zenit",
+          "away": "rsc-anderlecht",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "malaga-cf",
+          "away": "ac-milan",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "rsc-anderlecht",
+          "away": "fc-zenit",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "ac-milan",
+          "away": "malaga-cf",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "fc-zenit",
+          "away": "malaga-cf",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "rsc-anderlecht",
+          "away": "ac-milan",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "malaga-cf",
+          "away": "rsc-anderlecht",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "ac-milan",
+          "away": "fc-zenit",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "borussia-dortmund",
+          "away": "afc-ajax",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2012-09-18",
+          "home": "real-madrid-cf",
+          "away": "manchester-city-fc",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "manchester-city-fc",
+          "away": "borussia-dortmund",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2012-10-03",
+          "home": "afc-ajax",
+          "away": "real-madrid-cf",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "afc-ajax",
+          "away": "manchester-city-fc",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2012-10-24",
+          "home": "borussia-dortmund",
+          "away": "real-madrid-cf",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "manchester-city-fc",
+          "away": "afc-ajax",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2012-11-06",
+          "home": "real-madrid-cf",
+          "away": "borussia-dortmund",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "afc-ajax",
+          "away": "borussia-dortmund",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2012-11-21",
+          "home": "manchester-city-fc",
+          "away": "real-madrid-cf",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "borussia-dortmund",
+          "away": "manchester-city-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2012-12-04",
+          "home": "real-madrid-cf",
+          "away": "afc-ajax",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-nordsjaelland",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "chelsea-fc",
+          "away": "juventus-fc",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "juventus-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "fc-nordsjaelland",
+          "away": "chelsea-fc",
+          "score": "0:4",
+          "group": "E",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "fc-nordsjaelland",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "fc-shakhtar-donetsk",
+          "away": "chelsea-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "juventus-fc",
+          "away": "fc-nordsjaelland",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "chelsea-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "fc-nordsjaelland",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:5",
+          "group": "E",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "juventus-fc",
+          "away": "chelsea-fc",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "fc-shakhtar-donetsk",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "chelsea-fc",
+          "away": "fc-nordsjaelland",
+          "score": "6:1",
+          "group": "E"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "lille-osc",
+          "away": "fc-bate-borisov",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "fc-bayern-munich",
+          "away": "valencia-cf",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "valencia-cf",
+          "away": "lille-osc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "fc-bate-borisov",
+          "away": "fc-bayern-munich",
+          "score": "3:1",
+          "group": "F",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "fc-bate-borisov",
+          "away": "valencia-cf",
+          "score": "0:3",
+          "group": "F",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "lille-osc",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "valencia-cf",
+          "away": "fc-bate-borisov",
+          "score": "4:2",
+          "group": "F"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "fc-bayern-munich",
+          "away": "lille-osc",
+          "score": "6:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "fc-bate-borisov",
+          "away": "lille-osc",
+          "score": "0:2",
+          "group": "F",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "valencia-cf",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "lille-osc",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "fc-bayern-munich",
+          "away": "fc-bate-borisov",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "fc-barcelona",
+          "away": "fc-spartak-moscow",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "celtic-fc",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "fc-spartak-moscow",
+          "away": "celtic-fc",
+          "score": "2:3",
+          "group": "G"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "sl-benfica",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "fc-spartak-moscow",
+          "away": "sl-benfica",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "fc-barcelona",
+          "away": "celtic-fc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "sl-benfica",
+          "away": "fc-spartak-moscow",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "celtic-fc",
+          "away": "fc-barcelona",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "fc-spartak-moscow",
+          "away": "fc-barcelona",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "sl-benfica",
+          "away": "celtic-fc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "fc-barcelona",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "celtic-fc",
+          "away": "fc-spartak-moscow",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "manchester-united-fc",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2012-09-19",
+          "home": "sc-braga",
+          "away": "cfr-cluj",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "cfr-cluj",
+          "away": "manchester-united-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2012-10-02",
+          "home": "galatasaray-sk",
+          "away": "sc-braga",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "galatasaray-sk",
+          "away": "cfr-cluj",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2012-10-23",
+          "home": "manchester-united-fc",
+          "away": "sc-braga",
+          "score": "3:2",
+          "group": "H"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "cfr-cluj",
+          "away": "galatasaray-sk",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2012-11-07",
+          "home": "sc-braga",
+          "away": "manchester-united-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "galatasaray-sk",
+          "away": "manchester-united-fc",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2012-11-20",
+          "home": "cfr-cluj",
+          "away": "sc-braga",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "manchester-united-fc",
+          "away": "cfr-cluj",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2012-12-05",
+          "home": "sc-braga",
+          "away": "galatasaray-sk",
+          "score": "1:2",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-20",
+              "home": "galatasaray-sk",
+              "away": "fc-schalke-04",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-03-12",
+              "home": "fc-schalke-04",
+              "away": "galatasaray-sk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-12",
+              "home": "celtic-fc",
+              "away": "juventus-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2013-03-06",
+              "home": "juventus-fc",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "fc-bayern-munich"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "2013-02-19",
+              "home": "arsenal-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:3"
+            },
+            {
+              "date": "2013-03-13",
+              "home": "fc-bayern-munich",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-13",
+              "home": "fc-shakhtar-donetsk",
+              "away": "borussia-dortmund",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-03-05",
+              "home": "borussia-dortmund",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-20",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-03-12",
+              "home": "fc-barcelona",
+              "away": "ac-milan",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-13",
+              "home": "real-madrid-cf",
+              "away": "manchester-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-03-05",
+              "home": "manchester-united-fc",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-12",
+              "home": "valencia-cf",
+              "away": "paris-saint-germain-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-03-06",
+              "home": "paris-saint-germain-fc",
+              "away": "valencia-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "malaga-cf"
+          ],
+          "matches": [
+            {
+              "date": "2013-02-19",
+              "home": "fc-porto",
+              "away": "malaga-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-03-13",
+              "home": "malaga-cf",
+              "away": "fc-porto",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "malaga-cf",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2013-04-03",
+              "home": "malaga-cf",
+              "away": "borussia-dortmund",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-04-09",
+              "home": "borussia-dortmund",
+              "away": "malaga-cf",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2013-04-03",
+              "home": "real-madrid-cf",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-04-09",
+              "home": "galatasaray-sk",
+              "away": "real-madrid-cf",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-barcelona"
+          ],
+          "winner": "fc-barcelona",
+          "note": "Barcelona won on away goals",
+          "matches": [
+            {
+              "date": "2013-04-02",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-04-10",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-04-02",
+              "home": "fc-bayern-munich",
+              "away": "juventus-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-04-10",
+              "home": "juventus-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2013-04-23",
+              "home": "fc-bayern-munich",
+              "away": "fc-barcelona",
+              "score": "4:0"
+            },
+            {
+              "date": "2013-05-01",
+              "home": "fc-barcelona",
+              "away": "fc-bayern-munich",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2013-04-24",
+              "home": "borussia-dortmund",
+              "away": "real-madrid-cf",
+              "score": "4:1"
+            },
+            {
+              "date": "2013-04-30",
+              "home": "real-madrid-cf",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2013-05-25",
+              "home": "borussia-dortmund",
+              "away": "fc-bayern-munich",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

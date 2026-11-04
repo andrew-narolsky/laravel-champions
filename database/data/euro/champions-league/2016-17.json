@@ -1,0 +1,1989 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2016-17",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-flora",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-06-28",
+              "home": "fc-flora",
+              "away": "lincoln-red-imps-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-07-06",
+              "home": "lincoln-red-imps-fc",
+              "away": "fc-flora",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "sp-tre-penne"
+          ],
+          "matches": [
+            {
+              "date": "2016-06-28",
+              "home": "the-new-saints-fc",
+              "away": "sp-tre-penne",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-07-05",
+              "home": "sp-tre-penne",
+              "away": "the-new-saints-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "b36-torshavn"
+          ],
+          "winner": "b36-torshavn",
+          "note": "B36 Tórshavn won on away goals",
+          "matches": [
+            {
+              "date": "2016-06-28",
+              "home": "valletta-fc",
+              "away": "b36-torshavn",
+              "score": "1:0",
+              "note": "Played at Hibernians Stadium, Paola"
+            },
+            {
+              "date": "2016-07-05",
+              "home": "b36-torshavn",
+              "away": "valletta-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2016-06-28",
+              "home": "fc-santa-coloma",
+              "away": "fc-alashkert",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-07-05",
+              "home": "fc-alashkert",
+              "away": "fc-santa-coloma",
+              "score": "3:0",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "qarabag-fk",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "qarabag-fk",
+              "away": "f91-dudelange",
+              "score": "2:0",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "f91-dudelange",
+              "away": "qarabag-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "fc-sheriff-tiraspol",
+              "score": "3:2"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "fc-sheriff-tiraspol",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "as-trencin"
+          ],
+          "winner": "as-trencin",
+          "note": "Trenčín won on away goals",
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "nk-olimpija-ljubljana",
+              "away": "as-trencin",
+              "score": "3:4"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "as-trencin",
+              "away": "nk-olimpija-ljubljana",
+              "score": "2:3",
+              "note": "Played at Štadión pod Dubňom, Žilina"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fk-liepaja"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "fc-red-bull-salzburg",
+              "away": "fk-liepaja",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "fk-liepaja",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "fk-vardar",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fk-vardar",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "the-new-saints-fc",
+              "away": "apoel-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "apoel-fc",
+              "away": "the-new-saints-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "hsk-zrinjski-mostar",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "legia-warsaw",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "ofk-titograd"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ofk-titograd",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "ofk-titograd",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:3",
+              "note": "Played at City Stadium, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-alashkert",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "fc-alashkert",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "fk-zalgiris",
+              "away": "fc-astana",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "fc-astana",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "fk-partizani",
+              "away": "ferencvarosi-tc",
+              "score": "1:1",
+              "note": "Played at Elbasan Arena, Elbasan"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "ferencvarosi-tc",
+              "away": "fk-partizani",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FK Partizani won 3:1 on penalties"
+            }
+          ],
+          "winner": "fk-partizani"
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "sjk-seinajoki"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "fc-bate-borisov",
+              "away": "sjk-seinajoki",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "sjk-seinajoki",
+              "away": "fc-bate-borisov",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "valletta-fc",
+              "away": "red-star-belgrade",
+              "score": "1:2",
+              "note": "Played at Hibernians Stadium, Paola"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "red-star-belgrade",
+              "away": "valletta-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "rosenborg-bk",
+              "away": "ifk-norrkoping",
+              "score": "3:1"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "ifk-norrkoping",
+              "away": "rosenborg-bk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "fh-hafnarfjardar"
+          ],
+          "winner": "dundalk-fc",
+          "note": "Dundalk won on away goals",
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "dundalk-fc",
+              "away": "fh-hafnarfjardar",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "fh-hafnarfjardar",
+              "away": "dundalk-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-12",
+              "home": "lincoln-red-imps-fc",
+              "away": "celtic-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-07-20",
+              "home": "celtic-fc",
+              "away": "lincoln-red-imps-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-13",
+              "home": "crusaders-fc",
+              "away": "fc-copenhagen",
+              "score": "0:3"
+            },
+            {
+              "date": "2016-07-19",
+              "home": "fc-copenhagen",
+              "away": "crusaders-fc",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "rosenborg-bk",
+              "away": "apoel-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-08-02",
+              "home": "apoel-fc",
+              "away": "rosenborg-bk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-08-02",
+              "home": "fc-dinamo-tbilisi",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "olympiacos-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "fc-astana",
+              "away": "celtic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "celtic-fc",
+              "away": "fc-astana",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "as-trencin",
+              "away": "legia-warsaw",
+              "score": "0:1",
+              "note": "Played at Štadión pod Dubňom, Žilina"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "legia-warsaw",
+              "away": "as-trencin",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "qarabag-fk"
+          ],
+          "winner": "fc-viktoria-plzen",
+          "note": "Viktoria Plzeň won on away goals",
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "fc-viktoria-plzen",
+              "away": "qarabag-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-08-02",
+              "home": "qarabag-fk",
+              "away": "fc-viktoria-plzen",
+              "score": "1:1",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "fc-astra-giurgiu",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "fc-copenhagen",
+              "away": "fc-astra-giurgiu",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "fc-bate-borisov",
+              "away": "dundalk-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-08-02",
+              "home": "dundalk-fc",
+              "away": "fc-bate-borisov",
+              "score": "3:0",
+              "note": "Played at Tallaght Stadium, Tallaght"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "red-star-belgrade",
+              "score": "2:2"
+            },
+            {
+              "date": "2016-08-02",
+              "home": "red-star-belgrade",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "fk-partizani",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:1",
+              "note": "Played at Elbasan Arena, Elbasan"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "fc-red-bull-salzburg",
+              "away": "fk-partizani",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "afc-ajax",
+              "away": "paok-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "paok-fc",
+              "away": "afc-ajax",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "ac-sparta-prague",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "fcsb",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "fc-shakhtar-donetsk",
+              "away": "bsc-young-boys",
+              "score": "2:0",
+              "note": "Played at Arena Lviv, Lviv (war in Donbas)"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "bsc-young-boys",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "BSC Young Boys won 4:2 on penalties"
+            }
+          ],
+          "winner": "bsc-young-boys"
+        },
+        {
+          "clubs": [
+            "fc-rostov",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-26",
+              "home": "fc-rostov",
+              "away": "rsc-anderlecht",
+              "score": "2:2"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "rsc-anderlecht",
+              "away": "fc-rostov",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-07-27",
+              "home": "fenerbahce-sk",
+              "away": "as-monaco-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-08-03",
+              "home": "as-monaco-fc",
+              "away": "fenerbahce-sk",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-17",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-viktoria-plzen",
+              "score": "2:0",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            },
+            {
+              "date": "2016-08-23",
+              "home": "fc-viktoria-plzen",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-17",
+              "home": "celtic-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "2016-08-23",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-16",
+              "home": "fc-copenhagen",
+              "away": "apoel-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-08-24",
+              "home": "apoel-fc",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-17",
+              "home": "dundalk-fc",
+              "away": "legia-warsaw",
+              "score": "0:2",
+              "note": "Played at Aviva Stadium, Dublin"
+            },
+            {
+              "date": "2016-08-23",
+              "home": "legia-warsaw",
+              "away": "dundalk-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-16",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-24",
+              "home": "fc-red-bull-salzburg",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-16",
+              "home": "fcsb",
+              "away": "manchester-city-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "2016-08-24",
+              "home": "manchester-city-fc",
+              "away": "fcsb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-17",
+              "home": "fc-porto",
+              "away": "as-roma",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-23",
+              "home": "as-roma",
+              "away": "fc-porto",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-rostov"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-16",
+              "home": "afc-ajax",
+              "away": "fc-rostov",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-08-24",
+              "home": "fc-rostov",
+              "away": "afc-ajax",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-16",
+              "home": "bsc-young-boys",
+              "away": "borussia-monchengladbach",
+              "score": "1:3"
+            },
+            {
+              "date": "2016-08-24",
+              "home": "borussia-monchengladbach",
+              "away": "bsc-young-boys",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-08-17",
+              "home": "villarreal-cf",
+              "away": "as-monaco-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2016-08-23",
+              "home": "as-monaco-fc",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2016-09-13",
+          "home": "paris-saint-germain-fc",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "fc-basel",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "paris-saint-germain-fc",
+          "score": "1:3",
+          "group": "A",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "arsenal-fc",
+          "away": "fc-basel",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "arsenal-fc",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "6:0",
+          "group": "A"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-basel",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "arsenal-fc",
+          "score": "2:3",
+          "group": "A",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "fc-basel",
+          "away": "paris-saint-germain-fc",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "arsenal-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "fc-basel",
+          "score": "0:0",
+          "group": "A",
+          "note": "Played at Vasil Levski National Stadium, Sofia"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "paris-saint-germain-fc",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "fc-basel",
+          "away": "arsenal-fc",
+          "score": "1:4",
+          "group": "A"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "fc-dynamo-kyiv",
+          "away": "ssc-napoli",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "sl-benfica",
+          "away": "besiktas-jk",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "besiktas-jk",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "ssc-napoli",
+          "away": "sl-benfica",
+          "score": "4:2",
+          "group": "B"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "ssc-napoli",
+          "away": "besiktas-jk",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "fc-dynamo-kyiv",
+          "away": "sl-benfica",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "besiktas-jk",
+          "away": "ssc-napoli",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "sl-benfica",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "besiktas-jk",
+          "away": "sl-benfica",
+          "score": "3:3",
+          "group": "B"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "ssc-napoli",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "fc-dynamo-kyiv",
+          "away": "besiktas-jk",
+          "score": "6:0",
+          "group": "B"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "sl-benfica",
+          "away": "ssc-napoli",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "fc-barcelona",
+          "away": "celtic-fc",
+          "score": "7:0",
+          "group": "C"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "manchester-city-fc",
+          "away": "borussia-monchengladbach",
+          "score": "4:0",
+          "group": "C",
+          "note": "Postponed from 13 September because of heavy rain"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "borussia-monchengladbach",
+          "away": "fc-barcelona",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "celtic-fc",
+          "away": "manchester-city-fc",
+          "score": "3:3",
+          "group": "C"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "celtic-fc",
+          "away": "borussia-monchengladbach",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "fc-barcelona",
+          "away": "manchester-city-fc",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "borussia-monchengladbach",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "manchester-city-fc",
+          "away": "fc-barcelona",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "celtic-fc",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "borussia-monchengladbach",
+          "away": "manchester-city-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "fc-barcelona",
+          "away": "borussia-monchengladbach",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "manchester-city-fc",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "fc-bayern-munich",
+          "away": "fc-rostov",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2016-09-13",
+          "home": "psv-eindhoven",
+          "away": "atletico-madrid",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "atletico-madrid",
+          "away": "fc-bayern-munich",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2016-09-28",
+          "home": "fc-rostov",
+          "away": "psv-eindhoven",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "fc-rostov",
+          "away": "atletico-madrid",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2016-10-19",
+          "home": "fc-bayern-munich",
+          "away": "psv-eindhoven",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "atletico-madrid",
+          "away": "fc-rostov",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2016-11-01",
+          "home": "psv-eindhoven",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "fc-rostov",
+          "away": "fc-bayern-munich",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2016-11-23",
+          "home": "atletico-madrid",
+          "away": "psv-eindhoven",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "fc-bayern-munich",
+          "away": "atletico-madrid",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2016-12-06",
+          "home": "psv-eindhoven",
+          "away": "fc-rostov",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "bayer-04-leverkusen",
+          "away": "pfc-cska-moscow",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "tottenham-hotspur-fc",
+          "away": "as-monaco-fc",
+          "score": "1:2",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "as-monaco-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "pfc-cska-moscow",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "pfc-cska-moscow",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "bayer-04-leverkusen",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "as-monaco-fc",
+          "away": "pfc-cska-moscow",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "tottenham-hotspur-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "0:1",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "pfc-cska-moscow",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "as-monaco-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "bayer-04-leverkusen",
+          "away": "as-monaco-fc",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "tottenham-hotspur-fc",
+          "away": "pfc-cska-moscow",
+          "score": "3:1",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "real-madrid-cf",
+          "away": "sporting-cp",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "legia-warsaw",
+          "away": "borussia-dortmund",
+          "score": "0:6",
+          "group": "F"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "borussia-dortmund",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "sporting-cp",
+          "away": "legia-warsaw",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "sporting-cp",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "real-madrid-cf",
+          "away": "legia-warsaw",
+          "score": "5:1",
+          "group": "F"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "borussia-dortmund",
+          "away": "sporting-cp",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "legia-warsaw",
+          "away": "real-madrid-cf",
+          "score": "3:3",
+          "group": "F",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "sporting-cp",
+          "away": "real-madrid-cf",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "borussia-dortmund",
+          "away": "legia-warsaw",
+          "score": "8:4",
+          "group": "F"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "real-madrid-cf",
+          "away": "borussia-dortmund",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "legia-warsaw",
+          "away": "sporting-cp",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "club-brugge-kv",
+          "away": "leicester-city-fc",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "fc-porto",
+          "away": "fc-copenhagen",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "fc-copenhagen",
+          "away": "club-brugge-kv",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "leicester-city-fc",
+          "away": "fc-porto",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "leicester-city-fc",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "club-brugge-kv",
+          "away": "fc-porto",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "fc-copenhagen",
+          "away": "leicester-city-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "fc-porto",
+          "away": "club-brugge-kv",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "leicester-city-fc",
+          "away": "club-brugge-kv",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "fc-copenhagen",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "club-brugge-kv",
+          "away": "fc-copenhagen",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "fc-porto",
+          "away": "leicester-city-fc",
+          "score": "5:0",
+          "group": "G"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "olympique-lyonnais",
+          "away": "gnk-dinamo-zagreb",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2016-09-14",
+          "home": "juventus-fc",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "sevilla-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2016-09-27",
+          "home": "gnk-dinamo-zagreb",
+          "away": "juventus-fc",
+          "score": "0:4",
+          "group": "H"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "gnk-dinamo-zagreb",
+          "away": "sevilla-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2016-10-18",
+          "home": "olympique-lyonnais",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "sevilla-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2016-11-02",
+          "home": "juventus-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "gnk-dinamo-zagreb",
+          "away": "olympique-lyonnais",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2016-11-22",
+          "home": "sevilla-fc",
+          "away": "juventus-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "olympique-lyonnais",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2016-12-07",
+          "home": "juventus-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "as-monaco-fc"
+          ],
+          "winner": "as-monaco-fc",
+          "note": "Monaco won on away goals",
+          "matches": [
+            {
+              "date": "2017-02-21",
+              "home": "manchester-city-fc",
+              "away": "as-monaco-fc",
+              "score": "5:3"
+            },
+            {
+              "date": "2017-03-15",
+              "home": "as-monaco-fc",
+              "away": "manchester-city-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-15",
+              "home": "real-madrid-cf",
+              "away": "ssc-napoli",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-03-07",
+              "home": "ssc-napoli",
+              "away": "real-madrid-cf",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-14",
+              "home": "sl-benfica",
+              "away": "borussia-dortmund",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-03-08",
+              "home": "borussia-dortmund",
+              "away": "sl-benfica",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-15",
+              "home": "fc-bayern-munich",
+              "away": "arsenal-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "2017-03-07",
+              "home": "arsenal-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-22",
+              "home": "fc-porto",
+              "away": "juventus-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2017-03-14",
+              "home": "juventus-fc",
+              "away": "fc-porto",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-21",
+              "home": "bayer-04-leverkusen",
+              "away": "atletico-madrid",
+              "score": "2:4"
+            },
+            {
+              "date": "2017-03-15",
+              "home": "atletico-madrid",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-14",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "4:0"
+            },
+            {
+              "date": "2017-03-08",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "leicester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-02-22",
+              "home": "sevilla-fc",
+              "away": "leicester-city-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-03-14",
+              "home": "leicester-city-fc",
+              "away": "sevilla-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "leicester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-04-12",
+              "home": "atletico-madrid",
+              "away": "leicester-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-04-18",
+              "home": "leicester-city-fc",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-04-12",
+              "home": "borussia-dortmund",
+              "away": "as-monaco-fc",
+              "score": "2:3",
+              "note": "Postponed from 11 April after the attack on the Borussia Dortmund team bus"
+            },
+            {
+              "date": "2017-04-19",
+              "home": "as-monaco-fc",
+              "away": "borussia-dortmund",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2017-04-12",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-04-18",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "4:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2017-04-11",
+              "home": "juventus-fc",
+              "away": "fc-barcelona",
+              "score": "3:0"
+            },
+            {
+              "date": "2017-04-19",
+              "home": "fc-barcelona",
+              "away": "juventus-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2017-05-02",
+              "home": "real-madrid-cf",
+              "away": "atletico-madrid",
+              "score": "3:0"
+            },
+            {
+              "date": "2017-05-10",
+              "home": "atletico-madrid",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-05-03",
+              "home": "as-monaco-fc",
+              "away": "juventus-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2017-05-09",
+              "home": "juventus-fc",
+              "away": "as-monaco-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-03",
+              "home": "juventus-fc",
+              "away": "real-madrid-cf",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Millennium Stadium, Cardiff"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

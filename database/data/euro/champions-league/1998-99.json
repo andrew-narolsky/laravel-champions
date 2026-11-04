@@ -1,0 +1,1350 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1998-99",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-sileks",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fk-sileks",
+              "away": "club-brugge-kv",
+              "score": "0:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "club-brugge-kv",
+              "away": "fk-sileks",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lks-lodz",
+            "kapaz-pfk"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "lks-lodz",
+              "away": "kapaz-pfk",
+              "score": "4:1"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "kapaz-pfk",
+              "away": "lks-lodz",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "halmstads-bk"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fc-lovech",
+              "away": "halmstads-bk",
+              "score": "2:0",
+              "note": "Played at Neftochimik Stadium, Burgas: the stadium in Lovech did not meet UEFA standards"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "halmstads-bk",
+              "away": "fc-lovech",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "grasshopper-club",
+              "away": "jeunesse-esch",
+              "score": "6:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "jeunesse-esch",
+              "away": "grasshopper-club",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "celtic-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "st-patricks-athletic-fc",
+              "away": "celtic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kareda-kaunas",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fk-kareda-kaunas",
+              "away": "nk-maribor",
+              "score": "0:3",
+              "note": "Played at Savivaldybė Stadium, Šiauliai"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "nk-maribor",
+              "away": "fk-kareda-kaunas",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "barry-town-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fc-dynamo-kyiv",
+              "away": "barry-town-united-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "barry-town-united-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "fc-vss-kosice"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "cliftonville-fc",
+              "away": "fc-vss-kosice",
+              "score": "1:5"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "fc-vss-kosice",
+              "away": "cliftonville-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "skonto-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "0:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "fc-dinamo-minsk",
+              "away": "skonto-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "valletta-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "anorthosis-famagusta-fc",
+              "away": "valletta-fc",
+              "score": "6:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "beitar-jerusalem-fc",
+              "away": "b36-torshavn",
+              "score": "4:1"
+            },
+            {
+              "date": "1998-07-27",
+              "home": "b36-torshavn",
+              "away": "beitar-jerusalem-fc",
+              "score": "0:1",
+              "note": "Played at Svangaskarð, Toftir"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fc-dinamo-tbilisi",
+              "away": "kf-vllaznia",
+              "score": "3:0",
+              "note": "Finished 1:0; awarded 3:0 to Dinamo Tbilisi because Vllaznia fielded an ineligible player"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "kf-vllaznia",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:1",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "hjk-helsinki",
+              "away": "fc-yerevan",
+              "score": "2:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "fc-yerevan",
+              "away": "hjk-helsinki",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-obilic",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fk-obilic",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "ibv-vestmannaeyjar",
+              "away": "fk-obilic",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fc-zimbru-chisinau",
+              "away": "ujpest-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "ujpest-fc",
+              "away": "fc-zimbru-chisinau",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "1998-07-22",
+              "home": "fcsb",
+              "away": "fc-flora",
+              "score": "4:1"
+            },
+            {
+              "date": "1998-07-29",
+              "home": "fc-flora",
+              "away": "fcsb",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "club-brugge-kv"
+          ],
+          "winner": "rosenborg-bk",
+          "note": "Rosenborg won on away goals",
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "rosenborg-bk",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "club-brugge-kv",
+              "away": "rosenborg-bk",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "lks-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "manchester-united-fc",
+              "away": "lks-lodz",
+              "score": "2:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "lks-lodz",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fc-lovech",
+              "away": "fc-spartak-moscow",
+              "score": "0:5",
+              "note": "Played at Neftochimik Stadium, Burgas: the stadium in Lovech did not meet UEFA standards"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "fc-spartak-moscow",
+              "away": "fc-lovech",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "galatasaray-sk",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "grasshopper-club",
+              "away": "galatasaray-sk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "celtic-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "gnk-dinamo-zagreb",
+              "away": "celtic-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "nk-maribor",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "psv-eindhoven",
+              "away": "nk-maribor",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "ac-sparta-prague"
+          ],
+          "winner": "fc-dynamo-kyiv",
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fc-dynamo-kyiv",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "ac-sparta-prague",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Dynamo Kyiv won 3:1 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fc-vss-kosice",
+              "away": "brondby-if",
+              "score": "0:2"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "brondby-if",
+              "away": "fc-vss-kosice",
+              "score": "0:1",
+              "note": "Played at Parken Stadium, Copenhagen"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "inter-milan",
+              "away": "skonto-fc",
+              "score": "4:0",
+              "note": "Played at Arena Garibaldi, Pisa: Inter were banned from San Siro"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "skonto-fc",
+              "away": "inter-milan",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "olympiacos-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "anorthosis-famagusta-fc",
+              "away": "olympiacos-fc",
+              "score": "2:4",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "sl-benfica",
+              "away": "beitar-jerusalem-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "beitar-jerusalem-fc",
+              "away": "sl-benfica",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "athletic-bilbao"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fc-dinamo-tbilisi",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "athletic-bilbao",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-metz"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "hjk-helsinki",
+              "away": "fc-metz",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "fc-metz",
+              "away": "hjk-helsinki",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fk-obilic"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fc-bayern-munich",
+              "away": "fk-obilic",
+              "score": "4:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "fk-obilic",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "sk-sturm-graz",
+              "away": "ujpest-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "ujpest-fc",
+              "away": "sk-sturm-graz",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-08-12",
+              "home": "fcsb",
+              "away": "panathinaikos-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1998-08-26",
+              "home": "panathinaikos-fc",
+              "away": "fcsb",
+              "score": "6:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1998-09-16",
+          "home": "fc-porto",
+          "away": "olympiacos-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "gnk-dinamo-zagreb",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "afc-ajax",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "olympiacos-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "olympiacos-fc",
+          "away": "afc-ajax",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "fc-porto",
+          "away": "gnk-dinamo-zagreb",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "afc-ajax",
+          "away": "olympiacos-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-porto",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "afc-ajax",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "olympiacos-fc",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "fc-porto",
+          "away": "afc-ajax",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "gnk-dinamo-zagreb",
+          "away": "olympiacos-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "juventus-fc",
+          "away": "galatasaray-sk",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "athletic-bilbao",
+          "away": "rosenborg-bk",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "rosenborg-bk",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "galatasaray-sk",
+          "away": "athletic-bilbao",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "rosenborg-bk",
+          "away": "galatasaray-sk",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "athletic-bilbao",
+          "away": "juventus-fc",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "juventus-fc",
+          "away": "athletic-bilbao",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "galatasaray-sk",
+          "away": "rosenborg-bk",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "rosenborg-bk",
+          "away": "athletic-bilbao",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1998-12-02",
+          "home": "galatasaray-sk",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "B",
+          "note": "Postponed from 25 November due to political tensions between Turkey and Italy (Öcalan affair)"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "juventus-fc",
+          "away": "rosenborg-bk",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "athletic-bilbao",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "real-madrid-cf",
+          "away": "inter-milan",
+          "score": "2:0",
+          "group": "C",
+          "note": "Played at Ramón Sánchez Pizjuán, Seville: Real Madrid had to play one match away from home after crowd trouble against Borussia Dortmund"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "sk-sturm-graz",
+          "away": "fc-spartak-moscow",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "inter-milan",
+          "away": "sk-sturm-graz",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "fc-spartak-moscow",
+          "away": "real-madrid-cf",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "real-madrid-cf",
+          "away": "sk-sturm-graz",
+          "score": "6:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "inter-milan",
+          "away": "fc-spartak-moscow",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "fc-spartak-moscow",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-11-05",
+          "home": "sk-sturm-graz",
+          "away": "real-madrid-cf",
+          "score": "1:5",
+          "group": "C"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "inter-milan",
+          "away": "real-madrid-cf",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "fc-spartak-moscow",
+          "away": "sk-sturm-graz",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "real-madrid-cf",
+          "away": "fc-spartak-moscow",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "sk-sturm-graz",
+          "away": "inter-milan",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "manchester-united-fc",
+          "away": "fc-barcelona",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "brondby-if",
+          "away": "fc-bayern-munich",
+          "score": "2:1",
+          "group": "D",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "fc-bayern-munich",
+          "away": "manchester-united-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "fc-barcelona",
+          "away": "brondby-if",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "brondby-if",
+          "away": "manchester-united-fc",
+          "score": "2:6",
+          "group": "D",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "fc-bayern-munich",
+          "away": "fc-barcelona",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "fc-barcelona",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "manchester-united-fc",
+          "away": "brondby-if",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "fc-barcelona",
+          "away": "manchester-united-fc",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "fc-bayern-munich",
+          "away": "brondby-if",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "manchester-united-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "brondby-if",
+          "away": "fc-barcelona",
+          "score": "0:2",
+          "group": "D",
+          "note": "Played at Parken Stadium, Copenhagen"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "panathinaikos-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": "E",
+          "note": "Played at Nikos Goumas Stadium, Nea Filadelfeia: the Olympic Stadium hosted a Rolling Stones concert"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "rc-lens",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "arsenal-fc",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "fc-dynamo-kyiv",
+          "away": "rc-lens",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "arsenal-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "rc-lens",
+          "away": "panathinaikos-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "fc-dynamo-kyiv",
+          "away": "arsenal-fc",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "panathinaikos-fc",
+          "away": "rc-lens",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "arsenal-fc",
+          "away": "rc-lens",
+          "score": "0:1",
+          "group": "E",
+          "note": "Played at Wembley Stadium, London"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "fc-dynamo-kyiv",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "panathinaikos-fc",
+          "away": "arsenal-fc",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "rc-lens",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "psv-eindhoven",
+          "away": "hjk-helsinki",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "1998-09-16",
+          "home": "1-fc-kaiserslautern",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "sl-benfica",
+          "away": "psv-eindhoven",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "1998-09-30",
+          "home": "hjk-helsinki",
+          "away": "1-fc-kaiserslautern",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "psv-eindhoven",
+          "away": "1-fc-kaiserslautern",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "1998-10-21",
+          "home": "hjk-helsinki",
+          "away": "sl-benfica",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "1-fc-kaiserslautern",
+          "away": "psv-eindhoven",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "1998-11-04",
+          "home": "sl-benfica",
+          "away": "hjk-helsinki",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "hjk-helsinki",
+          "away": "psv-eindhoven",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "1998-11-25",
+          "home": "sl-benfica",
+          "away": "1-fc-kaiserslautern",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "psv-eindhoven",
+          "away": "sl-benfica",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "1998-12-09",
+          "home": "1-fc-kaiserslautern",
+          "away": "hjk-helsinki",
+          "score": "5:2",
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1999-03-03",
+              "home": "real-madrid-cf",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            },
+            {
+              "date": "1999-03-17",
+              "home": "fc-dynamo-kyiv",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1999-03-03",
+              "home": "manchester-united-fc",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1999-03-17",
+              "home": "inter-milan",
+              "away": "manchester-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1999-03-03",
+              "home": "juventus-fc",
+              "away": "olympiacos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1999-03-17",
+              "home": "olympiacos-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1999-03-03",
+              "home": "fc-bayern-munich",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:0"
+            },
+            {
+              "date": "1999-03-17",
+              "home": "1-fc-kaiserslautern",
+              "away": "fc-bayern-munich",
+              "score": "0:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1999-04-07",
+              "home": "manchester-united-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1999-04-21",
+              "home": "juventus-fc",
+              "away": "manchester-united-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1999-04-07",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-bayern-munich",
+              "score": "3:3"
+            },
+            {
+              "date": "1999-04-21",
+              "home": "fc-bayern-munich",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1999-05-26",
+              "home": "manchester-united-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Camp Nou, Barcelona"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

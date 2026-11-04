@@ -1,0 +1,1987 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2022-23",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "vikingur-reykjavik"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2022-06-21",
+              "home": "fci-levadia-tallinn",
+              "away": "vikingur-reykjavik",
+              "score": "1:6",
+              "neutral": true,
+              "note": "Played at Víkingsvöllur, Reykjavík (Iceland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-la-fiorita",
+            "inter-club-descaldes"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2022-06-21",
+              "home": "sp-la-fiorita",
+              "away": "inter-club-descaldes",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Víkingsvöllur, Reykjavík (Iceland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-club-descaldes",
+            "vikingur-reykjavik"
+          ],
+          "note": "Final round",
+          "matches": [
+            {
+              "date": "2022-06-24",
+              "home": "inter-club-descaldes",
+              "away": "vikingur-reykjavik",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Víkingsvöllur, Reykjavík (Iceland)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-pyunik",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "fc-pyunik",
+              "away": "cfr-cluj",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "cfr-cluj",
+              "away": "fc-pyunik",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "FC Pyunik won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-pyunik"
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "nk-maribor",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "nk-maribor",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at New Sakarya Stadium, Adapazarı (Turkey), behind closed doors: Belarusian clubs had to play at neutral venues"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fk-sutjeska-niksic",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "fk-sutjeska-niksic",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1",
+              "note": "Played at DG Arena, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "f91-dudelange",
+              "away": "kf-tirana",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "kf-tirana",
+              "away": "f91-dudelange",
+              "score": "1:2",
+              "note": "Played at Arena Kombëtare, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tobol",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "fc-tobol",
+              "away": "ferencvarosi-tc",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "ferencvarosi-tc",
+              "away": "fc-tobol",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "vikingur-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "malmo-ff",
+              "away": "vikingur-reykjavik",
+              "score": "3:2"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "vikingur-reykjavik",
+              "away": "malmo-ff",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "fc-ballkani",
+              "away": "fk-zalgiris",
+              "score": "1:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "fk-zalgiris",
+              "away": "fc-ballkani",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fk-rfs"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "hjk-helsinki",
+              "away": "fk-rfs",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "fk-rfs",
+              "away": "hjk-helsinki",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at Slokas Stadium, Jūrmala"
+            }
+          ],
+          "winner": "hjk-helsinki"
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "fk-bodoglimt",
+              "away": "ki-klaksvik",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "ki-klaksvik",
+              "away": "fk-bodoglimt",
+              "score": "3:1",
+              "note": "Postponed from 12 July"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "the-new-saints-fc",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "linfield-fc",
+              "away": "the-new-saints-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "shamrock-rovers-fc",
+              "away": "hibernians-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "hibernians-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "0:0",
+              "note": "Played at Centenary Stadium, Ta' Qali"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "lech-poznan",
+              "away": "qarabag-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "qarabag-fk",
+              "away": "lech-poznan",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkupi",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-05",
+              "home": "kf-shkupi",
+              "away": "lincoln-red-imps-fc",
+              "score": "3:0",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "lincoln-red-imps-fc",
+              "away": "kf-shkupi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "hsk-zrinjski-mostar",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-12",
+              "home": "fc-sheriff-tiraspol",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:0",
+              "note": "Played at Zimbru Stadium, Chișinău"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-dinamo-batumi"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-06",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-dinamo-batumi",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-13",
+              "home": "fc-dinamo-batumi",
+              "away": "sk-slovan-bratislava",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-20",
+              "home": "ferencvarosi-tc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:2"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "sk-slovan-bratislava",
+              "away": "ferencvarosi-tc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "kf-shkupi"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "gnk-dinamo-zagreb",
+              "away": "kf-shkupi",
+              "score": "2:2"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "kf-shkupi",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "qarabag-fk",
+              "away": "fc-zurich",
+              "score": "3:2"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "fc-zurich",
+              "away": "qarabag-fk",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-20",
+              "home": "hjk-helsinki",
+              "away": "fc-viktoria-plzen",
+              "score": "1:2"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "fc-viktoria-plzen",
+              "away": "hjk-helsinki",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "linfield-fc",
+              "away": "fk-bodoglimt",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "fk-bodoglimt",
+              "away": "linfield-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "fk-zalgiris",
+              "away": "malmo-ff",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "malmo-ff",
+              "away": "fk-zalgiris",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "shamrock-rovers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "shamrock-rovers-fc",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-20",
+              "home": "nk-maribor",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "fc-sheriff-tiraspol",
+              "away": "nk-maribor",
+              "score": "1:0",
+              "note": "Played at Zimbru Stadium, Chișinău"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-20",
+              "home": "maccabi-haifa-fc",
+              "away": "olympiacos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "olympiacos-fc",
+              "away": "maccabi-haifa-fc",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "fc-pyunik",
+              "away": "f91-dudelange",
+              "score": "0:1"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "f91-dudelange",
+              "away": "fc-pyunik",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-19",
+              "home": "fc-midtjylland",
+              "away": "aek-larnaca-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-07-26",
+              "home": "aek-larnaca-fc",
+              "away": "fc-midtjylland",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Midtjylland won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-midtjylland"
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2022-07-20",
+              "home": "fc-dynamo-kyiv",
+              "away": "fenerbahce-sk",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Played at Stadion Miejski im. Władysława Króla, Łódź (Poland) (Russian invasion of Ukraine)"
+            },
+            {
+              "date": "2022-07-27",
+              "home": "fenerbahce-sk",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-03",
+              "home": "maccabi-haifa-fc",
+              "away": "apollon-limassol-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "apollon-limassol-fc",
+              "away": "maccabi-haifa-fc",
+              "score": "2:0",
+              "note": "Played at GSP Stadium, Nicosia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-03",
+              "home": "qarabag-fk",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "ferencvarosi-tc",
+              "away": "qarabag-fk",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-02",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "gnk-dinamo-zagreb",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-02",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-viktoria-plzen",
+              "score": "1:2",
+              "note": "Played at Zimbru Stadium, Chișinău"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-03",
+              "home": "fk-bodoglimt",
+              "away": "fk-zalgiris",
+              "score": "5:0"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "fk-zalgiris",
+              "away": "fk-bodoglimt",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-03",
+              "home": "red-star-belgrade",
+              "away": "fc-pyunik",
+              "score": "5:0"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "fc-pyunik",
+              "away": "red-star-belgrade",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-02",
+              "home": "as-monaco-fc",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "psv-eindhoven",
+              "away": "as-monaco-fc",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-03",
+              "home": "fc-dynamo-kyiv",
+              "away": "sk-sturm-graz",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Stadion Miejski im. Władysława Króla, Łódź (Poland) (Russian invasion of Ukraine)"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "sk-sturm-graz",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-02",
+              "home": "r-union-saint-gilloise",
+              "away": "rangers-fc",
+              "score": "2:0",
+              "note": "Played at Den Dreef, Leuven"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "rangers-fc",
+              "away": "r-union-saint-gilloise",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-02",
+              "home": "sl-benfica",
+              "away": "fc-midtjylland",
+              "score": "4:1"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "fc-midtjylland",
+              "away": "sl-benfica",
+              "score": "1:3",
+              "note": "Played at Cepheus Park, Randers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-17",
+              "home": "qarabag-fk",
+              "away": "fc-viktoria-plzen",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-08-23",
+              "home": "fc-viktoria-plzen",
+              "away": "qarabag-fk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-16",
+              "home": "fk-bodoglimt",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-08-24",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fk-bodoglimt",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-17",
+              "home": "maccabi-haifa-fc",
+              "away": "red-star-belgrade",
+              "score": "3:2"
+            },
+            {
+              "date": "2022-08-23",
+              "home": "red-star-belgrade",
+              "away": "maccabi-haifa-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-16",
+              "home": "fc-copenhagen",
+              "away": "trabzonspor",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-08-24",
+              "home": "trabzonspor",
+              "away": "fc-copenhagen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-17",
+              "home": "fc-dynamo-kyiv",
+              "away": "sl-benfica",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Stadion Miejski im. Władysława Króla, Łódź (Poland) (Russian invasion of Ukraine)"
+            },
+            {
+              "date": "2022-08-23",
+              "home": "sl-benfica",
+              "away": "fc-dynamo-kyiv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-16",
+              "home": "rangers-fc",
+              "away": "psv-eindhoven",
+              "score": "2:2"
+            },
+            {
+              "date": "2022-08-24",
+              "home": "psv-eindhoven",
+              "away": "rangers-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2022-09-07",
+          "home": "afc-ajax",
+          "away": "rangers-fc",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "ssc-napoli",
+          "away": "liverpool-fc",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "liverpool-fc",
+          "away": "afc-ajax",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "rangers-fc",
+          "away": "ssc-napoli",
+          "score": "0:3",
+          "group": "A",
+          "note": "Postponed from 13 September after the death of Queen Elizabeth II"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "liverpool-fc",
+          "away": "rangers-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "afc-ajax",
+          "away": "ssc-napoli",
+          "score": "1:6",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "ssc-napoli",
+          "away": "afc-ajax",
+          "score": "4:2",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "rangers-fc",
+          "away": "liverpool-fc",
+          "score": "1:7",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "ssc-napoli",
+          "away": "rangers-fc",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "afc-ajax",
+          "away": "liverpool-fc",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "liverpool-fc",
+          "away": "ssc-napoli",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "rangers-fc",
+          "away": "afc-ajax",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "atletico-madrid",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "club-brugge-kv",
+          "away": "bayer-04-leverkusen",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "fc-porto",
+          "away": "club-brugge-kv",
+          "score": "0:4",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "bayer-04-leverkusen",
+          "away": "atletico-madrid",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "fc-porto",
+          "away": "bayer-04-leverkusen",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "club-brugge-kv",
+          "away": "atletico-madrid",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "atletico-madrid",
+          "away": "club-brugge-kv",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-porto",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "club-brugge-kv",
+          "away": "fc-porto",
+          "score": "0:4",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "atletico-madrid",
+          "away": "bayer-04-leverkusen",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "fc-porto",
+          "away": "atletico-madrid",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "bayer-04-leverkusen",
+          "away": "club-brugge-kv",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "fc-barcelona",
+          "away": "fc-viktoria-plzen",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "inter-milan",
+          "away": "fc-bayern-munich",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "fc-viktoria-plzen",
+          "away": "inter-milan",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "fc-bayern-munich",
+          "away": "fc-barcelona",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "fc-bayern-munich",
+          "away": "fc-viktoria-plzen",
+          "score": "5:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "inter-milan",
+          "away": "fc-barcelona",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "fc-barcelona",
+          "away": "inter-milan",
+          "score": "3:3",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-bayern-munich",
+          "score": "2:4",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "inter-milan",
+          "away": "fc-viktoria-plzen",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "fc-barcelona",
+          "away": "fc-bayern-munich",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "fc-bayern-munich",
+          "away": "inter-milan",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-barcelona",
+          "score": "2:4",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "eintracht-frankfurt",
+          "away": "sporting-cp",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-07",
+          "home": "tottenham-hotspur-fc",
+          "away": "olympique-de-marseille",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "sporting-cp",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-13",
+          "home": "olympique-de-marseille",
+          "away": "eintracht-frankfurt",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "olympique-de-marseille",
+          "away": "sporting-cp",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-04",
+          "home": "eintracht-frankfurt",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "tottenham-hotspur-fc",
+          "away": "eintracht-frankfurt",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-12",
+          "home": "sporting-cp",
+          "away": "olympique-de-marseille",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "tottenham-hotspur-fc",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-26",
+          "home": "eintracht-frankfurt",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "sporting-cp",
+          "away": "eintracht-frankfurt",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-11-01",
+          "home": "olympique-de-marseille",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "gnk-dinamo-zagreb",
+          "away": "chelsea-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "fc-red-bull-salzburg",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "ac-milan",
+          "away": "gnk-dinamo-zagreb",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "chelsea-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "fc-red-bull-salzburg",
+          "away": "gnk-dinamo-zagreb",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "chelsea-fc",
+          "away": "ac-milan",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "ac-milan",
+          "away": "chelsea-fc",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "fc-red-bull-salzburg",
+          "away": "chelsea-fc",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "gnk-dinamo-zagreb",
+          "away": "ac-milan",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "chelsea-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "ac-milan",
+          "away": "fc-red-bull-salzburg",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "celtic-fc",
+          "away": "real-madrid-cf",
+          "score": "0:3",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "rb-leipzig",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "fc-shakhtar-donetsk",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "F",
+          "neutral": true,
+          "note": "Played at Stadion Wojska Polskiego, Warsaw (Poland) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "real-madrid-cf",
+          "away": "rb-leipzig",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "rb-leipzig",
+          "away": "celtic-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "real-madrid-cf",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "fc-shakhtar-donetsk",
+          "away": "real-madrid-cf",
+          "score": "1:1",
+          "group": "F",
+          "neutral": true,
+          "note": "Played at Stadion Wojska Polskiego, Warsaw (Poland) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "celtic-fc",
+          "away": "rb-leipzig",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "celtic-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "rb-leipzig",
+          "away": "real-madrid-cf",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "real-madrid-cf",
+          "away": "celtic-fc",
+          "score": "5:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "fc-shakhtar-donetsk",
+          "away": "rb-leipzig",
+          "score": "0:4",
+          "group": "F",
+          "neutral": true,
+          "note": "Played at Stadion Wojska Polskiego, Warsaw (Poland) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "borussia-dortmund",
+          "away": "fc-copenhagen",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "sevilla-fc",
+          "away": "manchester-city-fc",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "manchester-city-fc",
+          "away": "borussia-dortmund",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "fc-copenhagen",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "manchester-city-fc",
+          "away": "fc-copenhagen",
+          "score": "5:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "sevilla-fc",
+          "away": "borussia-dortmund",
+          "score": "1:4",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "fc-copenhagen",
+          "away": "manchester-city-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "borussia-dortmund",
+          "away": "sevilla-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "sevilla-fc",
+          "away": "fc-copenhagen",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "borussia-dortmund",
+          "away": "manchester-city-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "manchester-city-fc",
+          "away": "sevilla-fc",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "fc-copenhagen",
+          "away": "borussia-dortmund",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "paris-saint-germain-fc",
+          "away": "juventus-fc",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-06",
+          "home": "sl-benfica",
+          "away": "maccabi-haifa-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "juventus-fc",
+          "away": "sl-benfica",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-14",
+          "home": "maccabi-haifa-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "juventus-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-05",
+          "home": "sl-benfica",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "maccabi-haifa-fc",
+          "away": "juventus-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-11",
+          "home": "paris-saint-germain-fc",
+          "away": "sl-benfica",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "paris-saint-germain-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "7:2",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-25",
+          "home": "sl-benfica",
+          "away": "juventus-fc",
+          "score": "4:3",
+          "group": "H"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "juventus-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2022-11-02",
+          "home": "maccabi-haifa-fc",
+          "away": "sl-benfica",
+          "score": "1:6",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "rb-leipzig",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-22",
+              "home": "rb-leipzig",
+              "away": "manchester-city-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-03-14",
+              "home": "manchester-city-fc",
+              "away": "rb-leipzig",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-15",
+              "home": "club-brugge-kv",
+              "away": "sl-benfica",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-03-07",
+              "home": "sl-benfica",
+              "away": "club-brugge-kv",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-21",
+              "home": "liverpool-fc",
+              "away": "real-madrid-cf",
+              "score": "2:5"
+            },
+            {
+              "date": "2023-03-15",
+              "home": "real-madrid-cf",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-14",
+              "home": "ac-milan",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-03-08",
+              "home": "tottenham-hotspur-fc",
+              "away": "ac-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-21",
+              "home": "eintracht-frankfurt",
+              "away": "ssc-napoli",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-03-15",
+              "home": "ssc-napoli",
+              "away": "eintracht-frankfurt",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-15",
+              "home": "borussia-dortmund",
+              "away": "chelsea-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-03-07",
+              "home": "chelsea-fc",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-22",
+              "home": "inter-milan",
+              "away": "fc-porto",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-03-14",
+              "home": "fc-porto",
+              "away": "inter-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-14",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "2023-03-08",
+              "home": "fc-bayern-munich",
+              "away": "paris-saint-germain-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-12",
+              "home": "real-madrid-cf",
+              "away": "chelsea-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-04-18",
+              "home": "chelsea-fc",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-11",
+              "home": "sl-benfica",
+              "away": "inter-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-04-19",
+              "home": "inter-milan",
+              "away": "sl-benfica",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-11",
+              "home": "manchester-city-fc",
+              "away": "fc-bayern-munich",
+              "score": "3:0"
+            },
+            {
+              "date": "2023-04-19",
+              "home": "fc-bayern-munich",
+              "away": "manchester-city-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-12",
+              "home": "ac-milan",
+              "away": "ssc-napoli",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-04-18",
+              "home": "ssc-napoli",
+              "away": "ac-milan",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2023-05-10",
+              "home": "ac-milan",
+              "away": "inter-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-05-16",
+              "home": "inter-milan",
+              "away": "ac-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-05-09",
+              "home": "real-madrid-cf",
+              "away": "manchester-city-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-05-17",
+              "home": "manchester-city-fc",
+              "away": "real-madrid-cf",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2023-06-10",
+              "home": "manchester-city-fc",
+              "away": "inter-milan",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Atatürk Olympic Stadium, Istanbul"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

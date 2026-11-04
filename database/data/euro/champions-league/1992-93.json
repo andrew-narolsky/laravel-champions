@@ -1,0 +1,804 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1992-93",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "sc-tavriya"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "shelbourne-fc",
+              "away": "sc-tavriya",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "sc-tavriya",
+              "away": "shelbourne-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "valletta-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "valletta-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "ki-klaksvik",
+              "away": "skonto-fc",
+              "score": "1:3",
+              "note": "Played at Svangaskarð, Toftir"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "skonto-fc",
+              "away": "ki-klaksvik",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "fc-norma-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "nk-olimpija",
+              "away": "fc-norma-tallinn",
+              "score": "3:0"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "fc-norma-tallinn",
+              "away": "nk-olimpija",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "ifk-goteborg",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "besiktas-jk",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "lech-poznan",
+              "away": "skonto-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "skonto-fc",
+              "away": "lech-poznan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "rangers-fc",
+              "away": "lyngby-boldklub",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "lyngby-boldklub",
+              "away": "rangers-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "vfb-stuttgart",
+              "away": "leeds-united-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "leeds-united-fc",
+              "away": "vfb-stuttgart",
+              "score": "3:0",
+              "note": "Finished 4:1; awarded 3:0 to Leeds United because Stuttgart fielded more than three foreign players"
+            },
+            {
+              "date": "1992-10-09",
+              "home": "vfb-stuttgart",
+              "away": "leeds-united-fc",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Play-off, Estadi del Futbol Club Barcelona, Barcelona"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "sk-slovan-bratislava",
+              "away": "ferencvarosi-tc",
+              "score": "4:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "ferencvarosi-tc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "nk-olimpija"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "ac-milan",
+              "away": "nk-olimpija",
+              "score": "4:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "nk-olimpija",
+              "away": "ac-milan",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kuusysi",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "fc-kuusysi",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-kuusysi",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "glentoran-fc",
+              "away": "olympique-de-marseille",
+              "score": "0:5"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "olympique-de-marseille",
+              "away": "glentoran-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "club-brugge-kv",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:0",
+              "note": "Played at Stade Vélodrome de Rocourt, Liège"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "fk-austria-wien",
+              "away": "pfc-cska-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "pfc-cska-sofia",
+              "away": "fk-austria-wien",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "sc-tavriya"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "fc-sion",
+              "away": "sc-tavriya",
+              "score": "4:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "sc-tavriya",
+              "away": "fc-sion",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "union-luxembourg",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "union-luxembourg",
+              "away": "fc-porto",
+              "score": "1:4"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fc-porto",
+              "away": "union-luxembourg",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "apoel-fc"
+          ],
+          "winner": "aek-athens-fc",
+          "note": "AEK Athens won on away goals",
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "aek-athens-fc",
+              "away": "apoel-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "apoel-fc",
+              "away": "aek-athens-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "psv-eindhoven",
+              "away": "fk-zalgiris",
+              "score": "6:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fk-zalgiris",
+              "away": "psv-eindhoven",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "vikingur-reykjavik",
+              "away": "pfc-cska-moscow",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "pfc-cska-moscow",
+              "away": "vikingur-reykjavik",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "fc-barcelona",
+              "away": "viking-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "viking-fk",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "ifk-goteborg",
+              "away": "lech-poznan",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "lech-poznan",
+              "away": "ifk-goteborg",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "rangers-fc",
+              "away": "leeds-united-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "leeds-united-fc",
+              "away": "rangers-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "sk-slovan-bratislava",
+              "away": "ac-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "ac-milan",
+              "away": "sk-slovan-bratislava",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "fc-dinamo-bucuresti",
+              "away": "olympique-de-marseille",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "olympique-de-marseille",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fk-austria-wien"
+          ],
+          "winner": "club-brugge-kv",
+          "note": "Club Brugge won on away goals",
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "club-brugge-kv",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "fk-austria-wien",
+              "away": "club-brugge-kv",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "fc-sion",
+              "away": "fc-porto",
+              "score": "2:2"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "fc-porto",
+              "away": "fc-sion",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "aek-athens-fc",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "psv-eindhoven",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "pfc-cska-moscow",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "fc-barcelona",
+              "away": "pfc-cska-moscow",
+              "score": "2:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1992-11-25",
+          "home": "rangers-fc",
+          "away": "olympique-de-marseille",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1992-11-25",
+          "home": "club-brugge-kv",
+          "away": "pfc-cska-moscow",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "1992-12-09",
+          "home": "olympique-de-marseille",
+          "away": "club-brugge-kv",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1992-12-09",
+          "home": "pfc-cska-moscow",
+          "away": "rangers-fc",
+          "score": "0:1",
+          "group": "A",
+          "neutral": true,
+          "note": "Played at Ruhrstadion, Bochum (Germany): Luzhniki did not meet UEFA requirements"
+        },
+        {
+          "date": "1993-03-03",
+          "home": "pfc-cska-moscow",
+          "away": "olympique-de-marseille",
+          "score": "1:1",
+          "group": "A",
+          "neutral": true,
+          "note": "Played at Olympiastadion, Berlin (Germany): Luzhniki did not meet UEFA requirements"
+        },
+        {
+          "date": "1993-03-03",
+          "home": "club-brugge-kv",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "1993-03-17",
+          "home": "olympique-de-marseille",
+          "away": "pfc-cska-moscow",
+          "score": "6:0",
+          "group": "A"
+        },
+        {
+          "date": "1993-03-17",
+          "home": "rangers-fc",
+          "away": "club-brugge-kv",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1993-04-07",
+          "home": "olympique-de-marseille",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "1993-04-07",
+          "home": "pfc-cska-moscow",
+          "away": "club-brugge-kv",
+          "score": "1:2",
+          "group": "A",
+          "neutral": true,
+          "note": "Played at Olympiastadion, Berlin (Germany): Luzhniki did not meet UEFA requirements"
+        },
+        {
+          "date": "1993-04-21",
+          "home": "club-brugge-kv",
+          "away": "olympique-de-marseille",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1993-04-21",
+          "home": "rangers-fc",
+          "away": "pfc-cska-moscow",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1992-11-25",
+          "home": "ac-milan",
+          "away": "ifk-goteborg",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "1992-11-25",
+          "home": "fc-porto",
+          "away": "psv-eindhoven",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "1992-12-09",
+          "home": "ifk-goteborg",
+          "away": "fc-porto",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1992-12-09",
+          "home": "psv-eindhoven",
+          "away": "ac-milan",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "1993-03-03",
+          "home": "psv-eindhoven",
+          "away": "ifk-goteborg",
+          "score": "1:3",
+          "group": "B"
+        },
+        {
+          "date": "1993-03-03",
+          "home": "fc-porto",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1993-03-17",
+          "home": "ifk-goteborg",
+          "away": "psv-eindhoven",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "1993-03-17",
+          "home": "ac-milan",
+          "away": "fc-porto",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1993-04-07",
+          "home": "ifk-goteborg",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1993-04-07",
+          "home": "psv-eindhoven",
+          "away": "fc-porto",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1993-04-21",
+          "home": "ac-milan",
+          "away": "psv-eindhoven",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "1993-04-21",
+          "home": "fc-porto",
+          "away": "ifk-goteborg",
+          "score": "2:0",
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1993-05-26",
+              "home": "olympique-de-marseille",
+              "away": "ac-milan",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Olympiastadion, Munich"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

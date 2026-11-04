@@ -1,0 +1,2010 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2021-22",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "ss-folgore-falciano",
+            "fc-prishtina"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2021-06-22",
+              "home": "ss-folgore-falciano",
+              "away": "fc-prishtina",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Elbasan Arena, Elbasan (Albania), behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hb-torshavn",
+            "inter-club-descaldes"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2021-06-22",
+              "home": "hb-torshavn",
+              "away": "inter-club-descaldes",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Niko Dovana Stadium, Durrës (Albania), behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-prishtina",
+            "inter-club-descaldes"
+          ],
+          "note": "Final round",
+          "matches": [
+            {
+              "date": "2021-06-25",
+              "home": "fc-prishtina",
+              "away": "inter-club-descaldes",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Elbasan Arena, Elbasan (Albania), behind closed doors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "cs-fola-esch",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "cs-fola-esch",
+              "away": "lincoln-red-imps-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "lincoln-red-imps-fc",
+              "away": "cs-fola-esch",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "sk-slovan-bratislava",
+              "away": "shamrock-rovers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "shamrock-rovers-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "riga-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "malmo-ff",
+              "away": "riga-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "riga-fc",
+              "away": "malmo-ff",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "fk-bodoglimt",
+              "away": "legia-warsaw",
+              "score": "2:3"
+            },
+            {
+              "date": "2021-07-14",
+              "home": "legia-warsaw",
+              "away": "fk-bodoglimt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "connahs-quay-nomads-fc",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "connahs-quay-nomads-fc",
+              "away": "fc-alashkert",
+              "score": "2:2",
+              "note": "Played at Park Avenue, Aberystwyth"
+            },
+            {
+              "date": "2021-07-14",
+              "home": "fc-alashkert",
+              "away": "connahs-quay-nomads-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "hjk-helsinki",
+              "away": "fk-buducnost-podgorica",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "fk-buducnost-podgorica",
+              "away": "hjk-helsinki",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "fk-borac-banja-luka"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "cfr-cluj",
+              "away": "fk-borac-banja-luka",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "fk-borac-banja-luka",
+              "away": "cfr-cluj",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "ns-mura"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "kf-shkendija",
+              "away": "ns-mura",
+              "score": "0:1",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "ns-mura",
+              "away": "kf-shkendija",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-teuta",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "kf-teuta",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:4"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "fc-sheriff-tiraspol",
+              "away": "kf-teuta",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "fc-dinamo-tbilisi",
+              "away": "neftci-pfk",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-07-14",
+              "home": "neftci-pfk",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-kairat",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-14",
+              "home": "fc-kairat",
+              "away": "maccabi-haifa-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Čukarički Stadium, Belgrade (Serbia), behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-prishtina"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "ferencvarosi-tc",
+              "away": "fc-prishtina",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "fc-prishtina",
+              "away": "ferencvarosi-tc",
+              "score": "1:3",
+              "note": "Played behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "fk-zalgiris",
+              "away": "linfield-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "linfield-fc",
+              "away": "fk-zalgiris",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "fc-flora",
+              "away": "hibernians-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "hibernians-fc",
+              "away": "fc-flora",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-07",
+              "home": "gnk-dinamo-zagreb",
+              "away": "valur",
+              "score": "3:2"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "valur",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ac-omonia",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "ac-omonia",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "sk-slovan-bratislava",
+              "away": "bsc-young-boys",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "bsc-young-boys",
+              "away": "sk-slovan-bratislava",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "legia-warsaw",
+              "away": "fc-flora",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "fc-flora",
+              "away": "legia-warsaw",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-alashkert",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "fc-alashkert",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:1",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-alashkert",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "olympiacos-fc",
+              "away": "neftci-pfk",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "neftci-pfk",
+              "away": "olympiacos-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "fc-kairat",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "red-star-belgrade",
+              "away": "fc-kairat",
+              "score": "5:0",
+              "note": "Played behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "lincoln-red-imps-fc",
+              "away": "cfr-cluj",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "cfr-cluj",
+              "away": "lincoln-red-imps-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "malmo-ff",
+              "away": "hjk-helsinki",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "hjk-helsinki",
+              "away": "malmo-ff",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "ferencvarosi-tc",
+              "away": "fk-zalgiris",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "fk-zalgiris",
+              "away": "ferencvarosi-tc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ns-mura",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "ns-mura",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ns-mura",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "sk-rapid-wien",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "ac-sparta-prague",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "celtic-fc",
+              "away": "fc-midtjylland",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "fc-midtjylland",
+              "away": "celtic-fc",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "psv-eindhoven",
+              "away": "galatasaray-sk",
+              "score": "5:1"
+            },
+            {
+              "date": "2021-07-28",
+              "home": "galatasaray-sk",
+              "away": "psv-eindhoven",
+              "score": "1:2",
+              "note": "Played at Başakşehir Fatih Terim Stadium, Istanbul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-04",
+              "home": "gnk-dinamo-zagreb",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "legia-warsaw",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "cfr-cluj",
+              "away": "bsc-young-boys",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "bsc-young-boys",
+              "away": "cfr-cluj",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "olympiacos-fc",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "olympiacos-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "PFC Ludogorets Razgrad won 4:1 on penalties"
+            }
+          ],
+          "winner": "pfc-ludogorets-razgrad"
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "red-star-belgrade",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "fc-sheriff-tiraspol",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "malmo-ff",
+              "away": "rangers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "rangers-fc",
+              "away": "malmo-ff",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-04",
+              "home": "ferencvarosi-tc",
+              "away": "sk-slavia-prague",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "sk-slavia-prague",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "psv-eindhoven",
+              "away": "fc-midtjylland",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "fc-midtjylland",
+              "away": "psv-eindhoven",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-04",
+              "home": "fc-spartak-moscow",
+              "away": "sl-benfica",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "sl-benfica",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "krc-genk",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "fc-shakhtar-donetsk",
+              "away": "krc-genk",
+              "score": "2:1",
+              "note": "Played at NSC Olimpiyskiy, Kyiv (war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "ac-sparta-prague",
+              "away": "as-monaco-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "as-monaco-fc",
+              "away": "ac-sparta-prague",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-17",
+              "home": "fc-red-bull-salzburg",
+              "away": "brondby-if",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-25",
+              "home": "brondby-if",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-18",
+              "home": "bsc-young-boys",
+              "away": "ferencvarosi-tc",
+              "score": "3:2"
+            },
+            {
+              "date": "2021-08-24",
+              "home": "ferencvarosi-tc",
+              "away": "bsc-young-boys",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-18",
+              "home": "malmo-ff",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-24",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "malmo-ff",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-17",
+              "home": "fc-sheriff-tiraspol",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-08-25",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-17",
+              "home": "as-monaco-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-08-25",
+              "home": "fc-shakhtar-donetsk",
+              "away": "as-monaco-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at Metalist OSC, Kharkiv (war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-18",
+              "home": "sl-benfica",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-24",
+              "home": "psv-eindhoven",
+              "away": "sl-benfica",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2021-09-15",
+          "home": "manchester-city-fc",
+          "away": "rb-leipzig",
+          "score": "6:3",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "club-brugge-kv",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "rb-leipzig",
+          "away": "club-brugge-kv",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "paris-saint-germain-fc",
+          "away": "manchester-city-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "club-brugge-kv",
+          "away": "manchester-city-fc",
+          "score": "1:5",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "paris-saint-germain-fc",
+          "away": "rb-leipzig",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "rb-leipzig",
+          "away": "paris-saint-germain-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "manchester-city-fc",
+          "away": "club-brugge-kv",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "manchester-city-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "club-brugge-kv",
+          "away": "rb-leipzig",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "rb-leipzig",
+          "away": "manchester-city-fc",
+          "score": "2:1",
+          "group": "A",
+          "note": "Played behind closed doors because of COVID-19 restrictions"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "paris-saint-germain-fc",
+          "away": "club-brugge-kv",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "liverpool-fc",
+          "away": "ac-milan",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "atletico-madrid",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "ac-milan",
+          "away": "atletico-madrid",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "fc-porto",
+          "away": "liverpool-fc",
+          "score": "1:5",
+          "group": "B"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "atletico-madrid",
+          "away": "liverpool-fc",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "fc-porto",
+          "away": "ac-milan",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "ac-milan",
+          "away": "fc-porto",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "liverpool-fc",
+          "away": "atletico-madrid",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "liverpool-fc",
+          "away": "fc-porto",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "atletico-madrid",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "fc-porto",
+          "away": "atletico-madrid",
+          "score": "1:3",
+          "group": "B"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "ac-milan",
+          "away": "liverpool-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "besiktas-jk",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "sporting-cp",
+          "away": "afc-ajax",
+          "score": "1:5",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "afc-ajax",
+          "away": "besiktas-jk",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "borussia-dortmund",
+          "away": "sporting-cp",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "besiktas-jk",
+          "away": "sporting-cp",
+          "score": "1:4",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "afc-ajax",
+          "away": "borussia-dortmund",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "borussia-dortmund",
+          "away": "afc-ajax",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "sporting-cp",
+          "away": "besiktas-jk",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "besiktas-jk",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "sporting-cp",
+          "away": "borussia-dortmund",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "afc-ajax",
+          "away": "sporting-cp",
+          "score": "4:2",
+          "group": "C",
+          "note": "Played behind closed doors because of COVID-19 restrictions"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "borussia-dortmund",
+          "away": "besiktas-jk",
+          "score": "5:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "inter-milan",
+          "away": "real-madrid-cf",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "fc-shakhtar-donetsk",
+          "away": "inter-milan",
+          "score": "0:0",
+          "group": "D",
+          "note": "Played at NSC Olimpiyskiy, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2021-09-28",
+          "home": "real-madrid-cf",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "fc-shakhtar-donetsk",
+          "away": "real-madrid-cf",
+          "score": "0:5",
+          "group": "D",
+          "note": "Played at NSC Olimpiyskiy, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "inter-milan",
+          "away": "fc-sheriff-tiraspol",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "real-madrid-cf",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-03",
+          "home": "fc-sheriff-tiraspol",
+          "away": "inter-milan",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "inter-milan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "fc-sheriff-tiraspol",
+          "away": "real-madrid-cf",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:1",
+          "group": "D",
+          "note": "Played at NSC Olimpiyskiy, Kyiv (war in Donbas)"
+        },
+        {
+          "date": "2021-12-07",
+          "home": "real-madrid-cf",
+          "away": "inter-milan",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "fc-barcelona",
+          "away": "fc-bayern-munich",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "fc-dynamo-kyiv",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "sl-benfica",
+          "away": "fc-barcelona",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "fc-bayern-munich",
+          "away": "fc-dynamo-kyiv",
+          "score": "5:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "fc-barcelona",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "sl-benfica",
+          "away": "fc-bayern-munich",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "fc-bayern-munich",
+          "away": "sl-benfica",
+          "score": "5:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-barcelona",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "fc-barcelona",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "fc-bayern-munich",
+          "away": "fc-barcelona",
+          "score": "3:0",
+          "group": "E",
+          "note": "Played behind closed doors because of COVID-19 restrictions"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "sl-benfica",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "bsc-young-boys",
+          "away": "manchester-united-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "villarreal-cf",
+          "away": "atalanta-bc",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "atalanta-bc",
+          "away": "bsc-young-boys",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "manchester-united-fc",
+          "away": "villarreal-cf",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "manchester-united-fc",
+          "away": "atalanta-bc",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "bsc-young-boys",
+          "away": "villarreal-cf",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "atalanta-bc",
+          "away": "manchester-united-fc",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "villarreal-cf",
+          "away": "bsc-young-boys",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "villarreal-cf",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "bsc-young-boys",
+          "away": "atalanta-bc",
+          "score": "3:3",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "manchester-united-fc",
+          "away": "bsc-young-boys",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "atalanta-bc",
+          "away": "villarreal-cf",
+          "score": "2:3",
+          "group": "F",
+          "note": "Postponed from 8 December because of heavy snow"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "sevilla-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "lille-osc",
+          "away": "vfl-wolfsburg",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "fc-red-bull-salzburg",
+          "away": "lille-osc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "vfl-wolfsburg",
+          "away": "sevilla-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "fc-red-bull-salzburg",
+          "away": "vfl-wolfsburg",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "lille-osc",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "vfl-wolfsburg",
+          "away": "fc-red-bull-salzburg",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "sevilla-fc",
+          "away": "lille-osc",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "sevilla-fc",
+          "away": "vfl-wolfsburg",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "lille-osc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "vfl-wolfsburg",
+          "away": "lille-osc",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "fc-red-bull-salzburg",
+          "away": "sevilla-fc",
+          "score": "1:0",
+          "group": "G",
+          "note": "Played behind closed doors because of COVID-19 restrictions"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "chelsea-fc",
+          "away": "fc-zenit",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "malmo-ff",
+          "away": "juventus-fc",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "fc-zenit",
+          "away": "malmo-ff",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-29",
+          "home": "juventus-fc",
+          "away": "chelsea-fc",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "fc-zenit",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "chelsea-fc",
+          "away": "malmo-ff",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "malmo-ff",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-02",
+          "home": "juventus-fc",
+          "away": "fc-zenit",
+          "score": "4:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "chelsea-fc",
+          "away": "juventus-fc",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-23",
+          "home": "malmo-ff",
+          "away": "fc-zenit",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "fc-zenit",
+          "away": "chelsea-fc",
+          "score": "3:3",
+          "group": "H"
+        },
+        {
+          "date": "2021-12-08",
+          "home": "juventus-fc",
+          "away": "malmo-ff",
+          "score": "1:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-16",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-03-08",
+              "home": "fc-bayern-munich",
+              "away": "fc-red-bull-salzburg",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-15",
+              "home": "sporting-cp",
+              "away": "manchester-city-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "2022-03-09",
+              "home": "manchester-city-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-23",
+              "home": "sl-benfica",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "2022-03-15",
+              "home": "afc-ajax",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-22",
+              "home": "chelsea-fc",
+              "away": "lille-osc",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-03-16",
+              "home": "lille-osc",
+              "away": "chelsea-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-23",
+              "home": "atletico-madrid",
+              "away": "manchester-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-03-15",
+              "home": "manchester-united-fc",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-22",
+              "home": "villarreal-cf",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-03-16",
+              "home": "juventus-fc",
+              "away": "villarreal-cf",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-16",
+              "home": "inter-milan",
+              "away": "liverpool-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2022-03-08",
+              "home": "liverpool-fc",
+              "away": "inter-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-15",
+              "home": "paris-saint-germain-fc",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-03-09",
+              "home": "real-madrid-cf",
+              "away": "paris-saint-germain-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-06",
+              "home": "chelsea-fc",
+              "away": "real-madrid-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "2022-04-12",
+              "home": "real-madrid-cf",
+              "away": "chelsea-fc",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-05",
+              "home": "manchester-city-fc",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-04-13",
+              "home": "atletico-madrid",
+              "away": "manchester-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-06",
+              "home": "villarreal-cf",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-04-12",
+              "home": "fc-bayern-munich",
+              "away": "villarreal-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-05",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2022-04-13",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-26",
+              "home": "manchester-city-fc",
+              "away": "real-madrid-cf",
+              "score": "4:3"
+            },
+            {
+              "date": "2022-05-04",
+              "home": "real-madrid-cf",
+              "away": "manchester-city-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-27",
+              "home": "liverpool-fc",
+              "away": "villarreal-cf",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-05-03",
+              "home": "villarreal-cf",
+              "away": "liverpool-fc",
+              "score": "2:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2022-05-28",
+              "home": "liverpool-fc",
+              "away": "real-madrid-cf",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Stade de France, Saint-Denis (moved from Saint Petersburg after the Russian invasion of Ukraine; kick-off delayed by 36 minutes)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

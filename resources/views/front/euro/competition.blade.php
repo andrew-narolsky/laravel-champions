@@ -42,7 +42,7 @@
                     <img src="{{ $latest->winner->attachment?->getFileUrl() ?? asset('/build/images/shield.svg') }}" class="lc-logo" alt="{{ $latest->winner->name }}" loading="lazy">
                     <div class="lc-info">
                         <div class="lc-season">Last Winner</div>
-                        <div class="lc-name">{{ $latest->winner->name }}</div>
+                        <div class="lc-name">{{ $latest->winner->nameAt($latest->startYear()) }}</div>
                         <div class="lc-detail">Season {{ $latest->name }}</div>
                     </div>
                 </div>
@@ -106,8 +106,8 @@
                         @php $final = $season->ties->first(); @endphp
                         <tr>
                             <td><a href="{{ route('euro.season', [$competition, $season->name]) }}">{{ $season->name }}</a></td>
-                            <td class="place-1">{{ $season->winner?->name ?? '—' }}</td>
-                            <td>{{ $season->runnerUp?->name ?? '—' }}</td>
+                            <td class="place-1">{{ $season->winner?->nameAt($season->startYear()) ?? '—' }}</td>
+                            <td>{{ $season->runnerUp?->nameAt($season->startYear()) ?? '—' }}</td>
                             <td>
                                 @if($final)
                                     {{ $final->matches->map(function ($m) use ($season) {

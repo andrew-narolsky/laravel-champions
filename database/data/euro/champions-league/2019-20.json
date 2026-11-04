@@ -1,0 +1,1984 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2019-20",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "sp-tre-penne",
+            "fc-santa-coloma"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2019-06-25",
+              "home": "sp-tre-penne",
+              "away": "fc-santa-coloma",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-feronikeli-74",
+            "lincoln-red-imps-fc"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2019-06-25",
+              "home": "fc-feronikeli-74",
+              "away": "lincoln-red-imps-fc",
+              "score": "1:0",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-feronikeli-74",
+            "fc-santa-coloma"
+          ],
+          "note": "Final round",
+          "matches": [
+            {
+              "date": "2019-06-28",
+              "home": "fc-feronikeli-74",
+              "away": "fc-santa-coloma",
+              "score": "2:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "kf-shkendija"
+          ],
+          "winner": "nomme-kalju-fc",
+          "note": "Nõmme Kalju won on away goals",
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "nomme-kalju-fc",
+              "away": "kf-shkendija",
+              "score": "0:1",
+              "note": "Played at Kadriorg Stadium, Tallinn"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "kf-shkendija",
+              "away": "nomme-kalju-fc",
+              "score": "1:2",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "fk-suduva",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "red-star-belgrade",
+              "away": "fk-suduva",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-armenia",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "fc-ararat-armenia",
+              "away": "aik-fotboll",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "aik-fotboll",
+              "away": "fc-ararat-armenia",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "fc-astana",
+              "away": "cfr-cluj",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "cfr-cluj",
+              "away": "fc-astana",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "ferencvarosi-tc",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ferencvarosi-tc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "fk-partizani",
+              "away": "qarabag-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "qarabag-fk",
+              "away": "fk-partizani",
+              "score": "2:0",
+              "note": "Played at Dalga Arena, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "sk-slovan-bratislava",
+              "away": "fk-sutjeska-niksic",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "fk-sutjeska-niksic",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FK Sutjeska Nikšić won 3:2 on penalties"
+            }
+          ],
+          "winner": "fk-sutjeska-niksic"
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "fk-sarajevo",
+              "away": "celtic-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "celtic-fc",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fc-iberia-1999"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-iberia-1999",
+              "score": "0:3"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "fc-iberia-1999",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "valletta-fc"
+          ],
+          "winner": "valletta-fc",
+          "note": "Valletta won on away goals",
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "f91-dudelange",
+              "away": "valletta-fc",
+              "score": "2:2",
+              "note": "Played at Stade Josy Barthel, Luxembourg City"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "valletta-fc",
+              "away": "f91-dudelange",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "linfield-fc",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "rosenborg-bk",
+              "away": "linfield-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "valur",
+              "away": "nk-maribor",
+              "score": "0:3"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "nk-maribor",
+              "away": "valur",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "riga-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "dundalk-fc",
+              "away": "riga-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "riga-fc",
+              "away": "dundalk-fc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Dundalk FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "dundalk-fc"
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fc-feronikeli-74"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "the-new-saints-fc",
+              "away": "fc-feronikeli-74",
+              "score": "2:2"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "fc-feronikeli-74",
+              "away": "the-new-saints-fc",
+              "score": "0:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-09",
+              "home": "hjk-helsinki",
+              "away": "hb-torshavn",
+              "score": "3:0"
+            },
+            {
+              "date": "2019-07-16",
+              "home": "hb-torshavn",
+              "away": "hjk-helsinki",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "piast-gliwice"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-10",
+              "home": "fc-bate-borisov",
+              "away": "piast-gliwice",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-07-17",
+              "home": "piast-gliwice",
+              "away": "fc-bate-borisov",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "cfr-cluj",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "cfr-cluj",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "cfr-cluj",
+              "score": "2:2",
+              "note": "Played at Netanya Stadium, Netanya"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "fc-bate-borisov",
+              "away": "rosenborg-bk",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-07-31",
+              "home": "rosenborg-bk",
+              "away": "fc-bate-borisov",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-23",
+              "home": "the-new-saints-fc",
+              "away": "fc-copenhagen",
+              "score": "0:2"
+            },
+            {
+              "date": "2019-07-31",
+              "home": "fc-copenhagen",
+              "away": "the-new-saints-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "ferencvarosi-tc",
+              "away": "valletta-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "valletta-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "dundalk-fc",
+              "away": "qarabag-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-07-31",
+              "home": "qarabag-fk",
+              "away": "dundalk-fc",
+              "score": "3:0",
+              "note": "Played at Dalga Arena, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-iberia-1999",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-23",
+              "home": "fc-iberia-1999",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:2"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-iberia-1999",
+              "score": "3:0",
+              "note": "Played behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "celtic-fc",
+              "away": "nomme-kalju-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "nomme-kalju-fc",
+              "away": "celtic-fc",
+              "score": "0:2",
+              "note": "Played at Lilleküla Stadium, Tallinn"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "red-star-belgrade",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            },
+            {
+              "date": "2019-07-31",
+              "home": "hjk-helsinki",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-23",
+              "home": "fk-sutjeska-niksic",
+              "away": "apoel-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "apoel-fc",
+              "away": "fk-sutjeska-niksic",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "aik-fotboll"
+          ],
+          "winner": "nk-maribor",
+          "note": "Maribor won on away goals",
+          "matches": [
+            {
+              "date": "2019-07-24",
+              "home": "nk-maribor",
+              "away": "aik-fotboll",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-07-31",
+              "home": "aik-fotboll",
+              "away": "nk-maribor",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-07-23",
+              "home": "fc-viktoria-plzen",
+              "away": "olympiacos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "olympiacos-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-basel"
+          ],
+          "winner": "fc-basel",
+          "note": "Basel won on away goals",
+          "matches": [
+            {
+              "date": "2019-07-23",
+              "home": "psv-eindhoven",
+              "away": "fc-basel",
+              "score": "3:2"
+            },
+            {
+              "date": "2019-07-30",
+              "home": "fc-basel",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "cfr-cluj",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-07",
+              "home": "cfr-cluj",
+              "away": "celtic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "celtic-fc",
+              "away": "cfr-cluj",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-06",
+              "home": "apoel-fc",
+              "away": "qarabag-fk",
+              "score": "1:2"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "qarabag-fk",
+              "away": "apoel-fc",
+              "score": "0:2",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-06",
+              "home": "paok-fc",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "afc-ajax",
+              "away": "paok-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-06",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "ferencvarosi-tc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-06",
+              "home": "red-star-belgrade",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "fc-copenhagen",
+              "away": "red-star-belgrade",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Red Star Belgrade won 7:6 on penalties"
+            }
+          ],
+          "winner": "red-star-belgrade"
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-07",
+              "home": "nk-maribor",
+              "away": "rosenborg-bk",
+              "score": "1:3"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "rosenborg-bk",
+              "away": "nk-maribor",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "istanbul-basaksehir-fk",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-07",
+              "home": "istanbul-basaksehir-fk",
+              "away": "olympiacos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "olympiacos-fc",
+              "away": "istanbul-basaksehir-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "fc-porto"
+          ],
+          "winner": "fc-krasnodar",
+          "note": "Krasnodar won on away goals",
+          "matches": [
+            {
+              "date": "2019-08-07",
+              "home": "fc-krasnodar",
+              "away": "fc-porto",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "fc-porto",
+              "away": "fc-krasnodar",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-06",
+              "home": "club-brugge-kv",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "fc-dynamo-kyiv",
+              "away": "club-brugge-kv",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "linzer-ask"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-07",
+              "home": "fc-basel",
+              "away": "linzer-ask",
+              "score": "1:2"
+            },
+            {
+              "date": "2019-08-13",
+              "home": "linzer-ask",
+              "away": "fc-basel",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-21",
+              "home": "gnk-dinamo-zagreb",
+              "away": "rosenborg-bk",
+              "score": "2:0"
+            },
+            {
+              "date": "2019-08-27",
+              "home": "rosenborg-bk",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-20",
+              "home": "cfr-cluj",
+              "away": "sk-slavia-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-08-28",
+              "home": "sk-slavia-prague",
+              "away": "cfr-cluj",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "red-star-belgrade"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "2019-08-21",
+              "home": "bsc-young-boys",
+              "away": "red-star-belgrade",
+              "score": "2:2"
+            },
+            {
+              "date": "2019-08-27",
+              "home": "red-star-belgrade",
+              "away": "bsc-young-boys",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-20",
+              "home": "apoel-fc",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-08-28",
+              "home": "afc-ajax",
+              "away": "apoel-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-20",
+              "home": "linzer-ask",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-08-28",
+              "home": "club-brugge-kv",
+              "away": "linzer-ask",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2019-08-21",
+              "home": "olympiacos-fc",
+              "away": "fc-krasnodar",
+              "score": "4:0"
+            },
+            {
+              "date": "2019-08-27",
+              "home": "fc-krasnodar",
+              "away": "olympiacos-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2019-09-18",
+          "home": "club-brugge-kv",
+          "away": "galatasaray-sk",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "paris-saint-germain-fc",
+          "away": "real-madrid-cf",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "real-madrid-cf",
+          "away": "club-brugge-kv",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "galatasaray-sk",
+          "away": "paris-saint-germain-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "galatasaray-sk",
+          "away": "real-madrid-cf",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "club-brugge-kv",
+          "away": "paris-saint-germain-fc",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "real-madrid-cf",
+          "away": "galatasaray-sk",
+          "score": "6:0",
+          "group": "A"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "paris-saint-germain-fc",
+          "away": "club-brugge-kv",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "galatasaray-sk",
+          "away": "club-brugge-kv",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "real-madrid-cf",
+          "away": "paris-saint-germain-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "club-brugge-kv",
+          "away": "real-madrid-cf",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "paris-saint-germain-fc",
+          "away": "galatasaray-sk",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "olympiacos-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "fc-bayern-munich",
+          "away": "red-star-belgrade",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "red-star-belgrade",
+          "away": "olympiacos-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:7",
+          "group": "B"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "tottenham-hotspur-fc",
+          "away": "red-star-belgrade",
+          "score": "5:0",
+          "group": "B"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "olympiacos-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "fc-bayern-munich",
+          "away": "olympiacos-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "red-star-belgrade",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:4",
+          "group": "B"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "tottenham-hotspur-fc",
+          "away": "olympiacos-fc",
+          "score": "4:2",
+          "group": "B"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "red-star-belgrade",
+          "away": "fc-bayern-munich",
+          "score": "0:6",
+          "group": "B"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "olympiacos-fc",
+          "away": "red-star-belgrade",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "fc-bayern-munich",
+          "away": "tottenham-hotspur-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "fc-shakhtar-donetsk",
+          "away": "manchester-city-fc",
+          "score": "0:3",
+          "group": "C",
+          "note": "Played at Metalist Stadium, Kharkiv (war in Donbas)"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "gnk-dinamo-zagreb",
+          "away": "atalanta-bc",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "atalanta-bc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:2",
+          "group": "C",
+          "note": "Played at San Siro, Milan"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "manchester-city-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "fc-shakhtar-donetsk",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:2",
+          "group": "C",
+          "note": "Played at Metalist Stadium, Kharkiv (war in Donbas)"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "manchester-city-fc",
+          "away": "atalanta-bc",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "atalanta-bc",
+          "away": "manchester-city-fc",
+          "score": "1:1",
+          "group": "C",
+          "note": "Played at San Siro, Milan"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-shakhtar-donetsk",
+          "score": "3:3",
+          "group": "C"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "manchester-city-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "atalanta-bc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "C",
+          "note": "Played at San Siro, Milan"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "fc-shakhtar-donetsk",
+          "away": "atalanta-bc",
+          "score": "0:3",
+          "group": "C",
+          "note": "Played at Metalist Stadium, Kharkiv (war in Donbas)"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "gnk-dinamo-zagreb",
+          "away": "manchester-city-fc",
+          "score": "1:4",
+          "group": "C"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "atletico-madrid",
+          "away": "juventus-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-09-18",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "fc-lokomotiv-moscow",
+          "away": "atletico-madrid",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-10-01",
+          "home": "juventus-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "atletico-madrid",
+          "away": "bayer-04-leverkusen",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2019-10-22",
+          "home": "juventus-fc",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "fc-lokomotiv-moscow",
+          "away": "juventus-fc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-11-06",
+          "home": "bayer-04-leverkusen",
+          "away": "atletico-madrid",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "fc-lokomotiv-moscow",
+          "away": "bayer-04-leverkusen",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-11-26",
+          "home": "juventus-fc",
+          "away": "atletico-madrid",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "atletico-madrid",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2019-12-11",
+          "home": "bayer-04-leverkusen",
+          "away": "juventus-fc",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "fc-red-bull-salzburg",
+          "away": "krc-genk",
+          "score": "6:2",
+          "group": "E"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "ssc-napoli",
+          "away": "liverpool-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "krc-genk",
+          "away": "ssc-napoli",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "liverpool-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "4:3",
+          "group": "E"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "krc-genk",
+          "away": "liverpool-fc",
+          "score": "1:4",
+          "group": "E"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "fc-red-bull-salzburg",
+          "away": "ssc-napoli",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "liverpool-fc",
+          "away": "krc-genk",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "ssc-napoli",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "krc-genk",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:4",
+          "group": "E"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "liverpool-fc",
+          "away": "ssc-napoli",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "fc-red-bull-salzburg",
+          "away": "liverpool-fc",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "ssc-napoli",
+          "away": "krc-genk",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "inter-milan",
+          "away": "sk-slavia-prague",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "borussia-dortmund",
+          "away": "fc-barcelona",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "sk-slavia-prague",
+          "away": "borussia-dortmund",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "fc-barcelona",
+          "away": "inter-milan",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "sk-slavia-prague",
+          "away": "fc-barcelona",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "inter-milan",
+          "away": "borussia-dortmund",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "fc-barcelona",
+          "away": "sk-slavia-prague",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "borussia-dortmund",
+          "away": "inter-milan",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "sk-slavia-prague",
+          "away": "inter-milan",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "fc-barcelona",
+          "away": "borussia-dortmund",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "inter-milan",
+          "away": "fc-barcelona",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "borussia-dortmund",
+          "away": "sk-slavia-prague",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "olympique-lyonnais",
+          "away": "fc-zenit",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "sl-benfica",
+          "away": "rb-leipzig",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "fc-zenit",
+          "away": "sl-benfica",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "rb-leipzig",
+          "away": "olympique-lyonnais",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "rb-leipzig",
+          "away": "fc-zenit",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "sl-benfica",
+          "away": "olympique-lyonnais",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "fc-zenit",
+          "away": "rb-leipzig",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "olympique-lyonnais",
+          "away": "sl-benfica",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "fc-zenit",
+          "away": "olympique-lyonnais",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "rb-leipzig",
+          "away": "sl-benfica",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "sl-benfica",
+          "away": "fc-zenit",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "olympique-lyonnais",
+          "away": "rb-leipzig",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "afc-ajax",
+          "away": "lille-osc",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2019-09-17",
+          "home": "chelsea-fc",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "valencia-cf",
+          "away": "afc-ajax",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2019-10-02",
+          "home": "lille-osc",
+          "away": "chelsea-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "afc-ajax",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2019-10-23",
+          "home": "lille-osc",
+          "away": "valencia-cf",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "valencia-cf",
+          "away": "lille-osc",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2019-11-05",
+          "home": "chelsea-fc",
+          "away": "afc-ajax",
+          "score": "4:4",
+          "group": "H"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "valencia-cf",
+          "away": "chelsea-fc",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2019-11-27",
+          "home": "lille-osc",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "afc-ajax",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2019-12-10",
+          "home": "chelsea-fc",
+          "away": "lille-osc",
+          "score": "2:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-18",
+              "home": "borussia-dortmund",
+              "away": "paris-saint-germain-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2020-03-11",
+              "home": "paris-saint-germain-fc",
+              "away": "borussia-dortmund",
+              "score": "2:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-26",
+              "home": "real-madrid-cf",
+              "away": "manchester-city-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2020-08-07",
+              "home": "manchester-city-fc",
+              "away": "real-madrid-cf",
+              "score": "2:1",
+              "note": "Postponed from March and played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-19",
+              "home": "atalanta-bc",
+              "away": "valencia-cf",
+              "score": "4:1",
+              "note": "Played at San Siro, Milan"
+            },
+            {
+              "date": "2020-03-10",
+              "home": "valencia-cf",
+              "away": "atalanta-bc",
+              "score": "3:4",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-18",
+              "home": "atletico-madrid",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2020-03-11",
+              "home": "liverpool-fc",
+              "away": "atletico-madrid",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-25",
+              "home": "chelsea-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:3"
+            },
+            {
+              "date": "2020-08-08",
+              "home": "fc-bayern-munich",
+              "away": "chelsea-fc",
+              "score": "4:1",
+              "note": "Postponed from March and played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "juventus-fc"
+          ],
+          "winner": "olympique-lyonnais",
+          "note": "Lyon won on away goals",
+          "matches": [
+            {
+              "date": "2020-02-26",
+              "home": "olympique-lyonnais",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2020-08-07",
+              "home": "juventus-fc",
+              "away": "olympique-lyonnais",
+              "score": "2:1",
+              "note": "Postponed from March and played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "rb-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-19",
+              "home": "tottenham-hotspur-fc",
+              "away": "rb-leipzig",
+              "score": "0:1"
+            },
+            {
+              "date": "2020-03-10",
+              "home": "rb-leipzig",
+              "away": "tottenham-hotspur-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2020-02-25",
+              "home": "ssc-napoli",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "2020-08-08",
+              "home": "fc-barcelona",
+              "away": "ssc-napoli",
+              "score": "3:1",
+              "note": "Postponed from March and played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-15",
+              "home": "manchester-city-fc",
+              "away": "olympique-lyonnais",
+              "score": "1:3",
+              "neutral": true,
+              "note": "Played at Estádio José Alvalade, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-13",
+              "home": "rb-leipzig",
+              "away": "atletico-madrid",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Estádio José Alvalade, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-14",
+              "home": "fc-barcelona",
+              "away": "fc-bayern-munich",
+              "score": "2:8",
+              "neutral": true,
+              "note": "Played at Estádio da Luz, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-12",
+              "home": "atalanta-bc",
+              "away": "paris-saint-germain-fc",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Estádio da Luz, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-19",
+              "home": "olympique-lyonnais",
+              "away": "fc-bayern-munich",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Estádio José Alvalade, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-18",
+              "home": "rb-leipzig",
+              "away": "paris-saint-germain-fc",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Estádio da Luz, Lisbon, behind closed doors: single match in the final tournament (COVID-19 pandemic)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2020-08-23",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Estádio da Luz, Lisbon; played behind closed doors (COVID-19 pandemic)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1995-96",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "grasshopper-club",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "grasshopper-club",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "grasshopper-club",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "rangers-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "anorthosis-famagusta-fc",
+              "away": "rangers-fc",
+              "score": "0:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "legia-warsaw",
+              "away": "ifk-goteborg",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "ifk-goteborg",
+              "away": "legia-warsaw",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "fc-red-bull-salzburg",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "fcsb",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "aab-fodbold"
+          ],
+          "winner": "fc-dynamo-kyiv",
+          "note": "Dynamo Kyiv were expelled after their first group match (attempt to bribe the referee) and replaced by AaB",
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "fc-dynamo-kyiv",
+              "away": "aab-fodbold",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "aab-fodbold",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "rosenborg-bk",
+              "away": "besiktas-jk",
+              "score": "3:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "besiktas-jk",
+              "away": "rosenborg-bk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "rsc-anderlecht",
+              "away": "ferencvarosi-tc",
+              "score": "0:1"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "ferencvarosi-tc",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "hnk-hajduk-split"
+          ],
+          "winner": "panathinaikos-fc",
+          "note": "Panathinaikos won on away goals",
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "panathinaikos-fc",
+              "away": "hnk-hajduk-split",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "hnk-hajduk-split",
+              "away": "panathinaikos-fc",
+              "score": "1:1",
+              "note": "Played at Stadion Kantrida, Rijeka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1995-09-13",
+          "home": "fc-nantes",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "panathinaikos-fc",
+          "away": "fc-nantes",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "fc-porto",
+          "away": "aab-fodbold",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "fc-nantes",
+          "away": "aab-fodbold",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "fc-porto",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1995-10-25",
+          "home": "aab-fodbold",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "A",
+          "note": "Replacement fixture: Dynamo Kyiv beat Panathinaikos 1:0 on matchday 1, but the result was annulled when Dynamo were expelled for an attempt to bribe the referee"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "aab-fodbold",
+          "away": "fc-nantes",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "panathinaikos-fc",
+          "away": "fc-porto",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "fc-porto",
+          "away": "fc-nantes",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "panathinaikos-fc",
+          "away": "aab-fodbold",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "fc-nantes",
+          "away": "panathinaikos-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "aab-fodbold",
+          "away": "fc-porto",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "legia-warsaw",
+          "away": "rosenborg-bk",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "blackburn-rovers-fc",
+          "away": "fc-spartak-moscow",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "fc-spartak-moscow",
+          "away": "legia-warsaw",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "rosenborg-bk",
+          "away": "blackburn-rovers-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "legia-warsaw",
+          "away": "blackburn-rovers-fc",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "rosenborg-bk",
+          "away": "fc-spartak-moscow",
+          "score": "2:4",
+          "group": "B"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "blackburn-rovers-fc",
+          "away": "legia-warsaw",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "fc-spartak-moscow",
+          "away": "rosenborg-bk",
+          "score": "4:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "rosenborg-bk",
+          "away": "legia-warsaw",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "fc-spartak-moscow",
+          "away": "blackburn-rovers-fc",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "legia-warsaw",
+          "away": "fc-spartak-moscow",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "blackburn-rovers-fc",
+          "away": "rosenborg-bk",
+          "score": "4:1",
+          "group": "B"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "fcsb",
+          "away": "rangers-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "borussia-dortmund",
+          "away": "juventus-fc",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "juventus-fc",
+          "away": "fcsb",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "rangers-fc",
+          "away": "borussia-dortmund",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "borussia-dortmund",
+          "away": "fcsb",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "juventus-fc",
+          "away": "rangers-fc",
+          "score": "4:1",
+          "group": "C"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "fcsb",
+          "away": "borussia-dortmund",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "rangers-fc",
+          "away": "juventus-fc",
+          "score": "0:4",
+          "group": "C"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "rangers-fc",
+          "away": "fcsb",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "juventus-fc",
+          "away": "borussia-dortmund",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "fcsb",
+          "away": "juventus-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "borussia-dortmund",
+          "away": "rangers-fc",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "grasshopper-club",
+          "away": "ferencvarosi-tc",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "1995-09-13",
+          "home": "afc-ajax",
+          "away": "real-madrid-cf",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "ferencvarosi-tc",
+          "away": "afc-ajax",
+          "score": "1:5",
+          "group": "D"
+        },
+        {
+          "date": "1995-09-27",
+          "home": "real-madrid-cf",
+          "away": "grasshopper-club",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "real-madrid-cf",
+          "away": "ferencvarosi-tc",
+          "score": "6:1",
+          "group": "D"
+        },
+        {
+          "date": "1995-10-18",
+          "home": "afc-ajax",
+          "away": "grasshopper-club",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "ferencvarosi-tc",
+          "away": "real-madrid-cf",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "1995-11-01",
+          "home": "grasshopper-club",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "ferencvarosi-tc",
+          "away": "grasshopper-club",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "1995-11-22",
+          "home": "real-madrid-cf",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "afc-ajax",
+          "away": "ferencvarosi-tc",
+          "score": "4:0",
+          "group": "D"
+        },
+        {
+          "date": "1995-12-06",
+          "home": "grasshopper-club",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-06",
+              "home": "real-madrid-cf",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-03-20",
+              "home": "juventus-fc",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-06",
+              "home": "fc-nantes",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-03-20",
+              "home": "fc-spartak-moscow",
+              "away": "fc-nantes",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-06",
+              "home": "borussia-dortmund",
+              "away": "afc-ajax",
+              "score": "0:2"
+            },
+            {
+              "date": "1996-03-20",
+              "home": "afc-ajax",
+              "away": "borussia-dortmund",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-06",
+              "home": "legia-warsaw",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-03-20",
+              "home": "panathinaikos-fc",
+              "away": "legia-warsaw",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1996-04-03",
+              "home": "juventus-fc",
+              "away": "fc-nantes",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-04-17",
+              "home": "fc-nantes",
+              "away": "juventus-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-04-03",
+              "home": "afc-ajax",
+              "away": "panathinaikos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-04-17",
+              "home": "panathinaikos-fc",
+              "away": "afc-ajax",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "juventus-fc"
+          ],
+          "winner": "juventus-fc",
+          "matches": [
+            {
+              "date": "1996-05-22",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Stadio Olimpico, Rome; Juventus won 4:2 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

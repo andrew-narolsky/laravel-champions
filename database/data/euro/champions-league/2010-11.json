@@ -1,0 +1,1934 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2010-11",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2010%E2%80%9311_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "tre-fiori-fc",
+            "fk-rudar-pljevlja"
+          ],
+          "matches": [
+            {
+              "date": "2010-06-30",
+              "home": "tre-fiori-fc",
+              "away": "fk-rudar-pljevlja",
+              "score": "0:3"
+            },
+            {
+              "date": "2010-07-07",
+              "home": "fk-rudar-pljevlja",
+              "away": "tre-fiori-fc",
+              "score": "4:1",
+              "note": "Played at Stadion Pod Goricom, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-06-29",
+              "home": "fc-santa-coloma",
+              "away": "birkirkara-fc",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Birkirkara: the match was not played (postponed because of a waterlogged pitch)"
+            },
+            {
+              "date": "2010-07-06",
+              "home": "birkirkara-fc",
+              "away": "fc-santa-coloma",
+              "score": "4:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "fk-liepajas-metalurgs",
+              "away": "ac-sparta-prague",
+              "score": "0:3"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "ac-sparta-prague",
+              "away": "fk-liepajas-metalurgs",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "fc-metalurgi-rustavi"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "fc-aktobe",
+              "away": "fc-metalurgi-rustavi",
+              "score": "2:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "fc-metalurgi-rustavi",
+              "away": "fc-aktobe",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "fci-levadia-tallinn",
+              "away": "debreceni-vsc",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "debreceni-vsc",
+              "away": "fci-levadia-tallinn",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "fk-partizan",
+              "away": "fc-pyunik",
+              "score": "3:1"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "fc-pyunik",
+              "away": "fk-partizan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "samaxi-fk",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "samaxi-fk",
+              "away": "lech-poznan",
+              "score": "0:1",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "lech-poznan",
+              "away": "samaxi-fk",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Lech Poznań won 9:8 on penalties"
+            }
+          ],
+          "winner": "lech-poznan"
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-koper",
+              "score": "5:1"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "fc-koper",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0",
+              "note": "Played at Stadion Športni Park, Nova Gorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "fk-rudar-pljevlja"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "fc-lovech",
+              "away": "fk-rudar-pljevlja",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "fk-rudar-pljevlja",
+              "away": "fc-lovech",
+              "score": "0:4",
+              "note": "Played at Stadion Pod Goricom, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "birkirkara-fc",
+              "away": "msk-zilina",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "msk-zilina",
+              "away": "birkirkara-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-dinamo-city",
+              "score": "3:1"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "fc-dinamo-city",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "5:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:1",
+              "note": "Played at Asim Ferhatović Hase Stadium, Sarajevo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "kf-renova"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "ac-omonia",
+              "away": "kf-renova",
+              "score": "3:0"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "kf-renova",
+              "away": "ac-omonia",
+              "score": "0:2",
+              "note": "Played at Philip II Arena, Skopje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "fc-red-bull-salzburg",
+              "away": "hb-torshavn",
+              "score": "5:0"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "hb-torshavn",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "bohemian-fc",
+              "away": "the-new-saints-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-07-20",
+              "home": "the-new-saints-fc",
+              "away": "bohemian-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "fc-bate-borisov",
+              "away": "fh-hafnarfjardar",
+              "score": "5:1"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "fh-hafnarfjardar",
+              "away": "fc-bate-borisov",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-13",
+              "home": "aik-fotboll",
+              "away": "jeunesse-esch",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "jeunesse-esch",
+              "away": "aik-fotboll",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "linfield-fc",
+              "away": "rosenborg-bk",
+              "score": "0:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "rosenborg-bk",
+              "away": "linfield-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-14",
+              "home": "fk-ekranas",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-07-21",
+              "home": "hjk-helsinki",
+              "away": "fk-ekranas",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "ac-sparta-prague",
+              "away": "lech-poznan",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "lech-poznan",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "fc-aktobe",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-08-03",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-aktobe",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "fc-sheriff-tiraspol",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Sheriff Tiraspol won 6:5 on penalties"
+            }
+          ],
+          "winner": "fc-sheriff-tiraspol"
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "fc-lovech",
+              "away": "msk-zilina",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "msk-zilina",
+              "away": "fc-lovech",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "debreceni-vsc",
+              "away": "fc-basel",
+              "score": "0:2",
+              "note": "Played at Szusza Ferenc Stadion, Budapest"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "fc-basel",
+              "away": "debreceni-vsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "aik-fotboll",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "rosenborg-bk",
+              "away": "aik-fotboll",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "fk-partizan",
+              "away": "hjk-helsinki",
+              "score": "3:0"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "hjk-helsinki",
+              "away": "fk-partizan",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "fc-bate-borisov",
+              "away": "fc-copenhagen",
+              "score": "0:0"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "fc-copenhagen",
+              "away": "fc-bate-borisov",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "the-new-saints-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:3",
+              "note": "Played at Racecourse Ground, Wrexham"
+            },
+            {
+              "date": "2010-08-03",
+              "home": "rsc-anderlecht",
+              "away": "the-new-saints-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "ac-omonia",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "fc-red-bull-salzburg",
+              "away": "ac-omonia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "paok-fc"
+          ],
+          "winner": "afc-ajax",
+          "note": "Ajax won on away goals",
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "afc-ajax",
+              "away": "paok-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "paok-fc",
+              "away": "afc-ajax",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "fc-dynamo-kyiv",
+              "away": "kaa-gent",
+              "score": "3:0"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "kaa-gent",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "bsc-young-boys",
+              "away": "fenerbahce-sk",
+              "score": "2:2"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "fenerbahce-sk",
+              "away": "bsc-young-boys",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-28",
+              "home": "sc-braga",
+              "away": "celtic-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "celtic-fc",
+              "away": "sc-braga",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-unirea-urziceni",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2010-07-27",
+              "home": "fc-unirea-urziceni",
+              "away": "fc-zenit",
+              "score": "0:0",
+              "note": "Played at Stadionul Steaua, Bucharest"
+            },
+            {
+              "date": "2010-08-04",
+              "home": "fc-zenit",
+              "away": "fc-unirea-urziceni",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-18",
+              "home": "fc-red-bull-salzburg",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2010-08-24",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fc-copenhagen"
+          ],
+          "winner": "fc-copenhagen",
+          "note": "Copenhagen won on away goals",
+          "matches": [
+            {
+              "date": "2010-08-17",
+              "home": "rosenborg-bk",
+              "away": "fc-copenhagen",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-08-25",
+              "home": "fc-copenhagen",
+              "away": "rosenborg-bk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-18",
+              "home": "fc-basel",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-08-24",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-basel",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-17",
+              "home": "ac-sparta-prague",
+              "away": "msk-zilina",
+              "score": "0:2"
+            },
+            {
+              "date": "2010-08-25",
+              "home": "msk-zilina",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-18",
+              "home": "fk-partizan",
+              "away": "rsc-anderlecht",
+              "score": "2:2"
+            },
+            {
+              "date": "2010-08-24",
+              "home": "rsc-anderlecht",
+              "away": "fk-partizan",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "FK Partizan won 3:2 on penalties"
+            }
+          ],
+          "winner": "fk-partizan"
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-17",
+              "home": "bsc-young-boys",
+              "away": "tottenham-hotspur-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2010-08-25",
+              "home": "tottenham-hotspur-fc",
+              "away": "bsc-young-boys",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-18",
+              "home": "sc-braga",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-08-24",
+              "home": "sevilla-fc",
+              "away": "sc-braga",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-18",
+              "home": "sv-werder-bremen",
+              "away": "uc-sampdoria",
+              "score": "3:1"
+            },
+            {
+              "date": "2010-08-24",
+              "home": "uc-sampdoria",
+              "away": "sv-werder-bremen",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-17",
+              "home": "fc-zenit",
+              "away": "aj-auxerre",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-08-25",
+              "home": "aj-auxerre",
+              "away": "fc-zenit",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2010-08-17",
+              "home": "fc-dynamo-kyiv",
+              "away": "afc-ajax",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-08-25",
+              "home": "afc-ajax",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2010-09-14",
+          "home": "fc-twente",
+          "away": "inter-milan",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "sv-werder-bremen",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-twente",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "inter-milan",
+          "away": "sv-werder-bremen",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "inter-milan",
+          "away": "tottenham-hotspur-fc",
+          "score": "4:3",
+          "group": "A"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "fc-twente",
+          "away": "sv-werder-bremen",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "tottenham-hotspur-fc",
+          "away": "inter-milan",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "sv-werder-bremen",
+          "away": "fc-twente",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "inter-milan",
+          "away": "fc-twente",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "tottenham-hotspur-fc",
+          "away": "sv-werder-bremen",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "fc-twente",
+          "away": "tottenham-hotspur-fc",
+          "score": "3:3",
+          "group": "A"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "sv-werder-bremen",
+          "away": "inter-milan",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "olympique-lyonnais",
+          "away": "fc-schalke-04",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "sl-benfica",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:3",
+          "group": "B"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "fc-schalke-04",
+          "away": "sl-benfica",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "fc-schalke-04",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "olympique-lyonnais",
+          "away": "sl-benfica",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "fc-schalke-04",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "sl-benfica",
+          "away": "olympique-lyonnais",
+          "score": "4:3",
+          "group": "B"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "fc-schalke-04",
+          "away": "olympique-lyonnais",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "sl-benfica",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "olympique-lyonnais",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "sl-benfica",
+          "away": "fc-schalke-04",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "manchester-united-fc",
+          "away": "rangers-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "bursaspor",
+          "away": "valencia-cf",
+          "score": "0:4",
+          "group": "C"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "valencia-cf",
+          "away": "manchester-united-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "rangers-fc",
+          "away": "bursaspor",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "rangers-fc",
+          "away": "valencia-cf",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "manchester-united-fc",
+          "away": "bursaspor",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "valencia-cf",
+          "away": "rangers-fc",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "bursaspor",
+          "away": "manchester-united-fc",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "rangers-fc",
+          "away": "manchester-united-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "valencia-cf",
+          "away": "bursaspor",
+          "score": "6:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "manchester-united-fc",
+          "away": "valencia-cf",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "bursaspor",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "fc-barcelona",
+          "away": "panathinaikos-fc",
+          "score": "5:1",
+          "group": "D"
+        },
+        {
+          "date": "2010-09-14",
+          "home": "fc-copenhagen",
+          "away": "fc-rubin-kazan",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "fc-rubin-kazan",
+          "away": "fc-barcelona",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2010-09-29",
+          "home": "panathinaikos-fc",
+          "away": "fc-copenhagen",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "panathinaikos-fc",
+          "away": "fc-rubin-kazan",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-10-20",
+          "home": "fc-barcelona",
+          "away": "fc-copenhagen",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "fc-rubin-kazan",
+          "away": "panathinaikos-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-11-02",
+          "home": "fc-copenhagen",
+          "away": "fc-barcelona",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "fc-rubin-kazan",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-11-24",
+          "home": "panathinaikos-fc",
+          "away": "fc-barcelona",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "fc-barcelona",
+          "away": "fc-rubin-kazan",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2010-12-07",
+          "home": "fc-copenhagen",
+          "away": "panathinaikos-fc",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "fc-bayern-munich",
+          "away": "as-roma",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "cfr-cluj",
+          "away": "fc-basel",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "fc-basel",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "as-roma",
+          "away": "cfr-cluj",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "as-roma",
+          "away": "fc-basel",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "fc-bayern-munich",
+          "away": "cfr-cluj",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "fc-basel",
+          "away": "as-roma",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "cfr-cluj",
+          "away": "fc-bayern-munich",
+          "score": "0:4",
+          "group": "E"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "as-roma",
+          "away": "fc-bayern-munich",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "fc-basel",
+          "away": "cfr-cluj",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "fc-bayern-munich",
+          "away": "fc-basel",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "cfr-cluj",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "olympique-de-marseille",
+          "away": "fc-spartak-moscow",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "msk-zilina",
+          "away": "chelsea-fc",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "fc-spartak-moscow",
+          "away": "msk-zilina",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "chelsea-fc",
+          "away": "olympique-de-marseille",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "fc-spartak-moscow",
+          "away": "chelsea-fc",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "olympique-de-marseille",
+          "away": "msk-zilina",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "chelsea-fc",
+          "away": "fc-spartak-moscow",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "msk-zilina",
+          "away": "olympique-de-marseille",
+          "score": "0:7",
+          "group": "F"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "fc-spartak-moscow",
+          "away": "olympique-de-marseille",
+          "score": "0:3",
+          "group": "F"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "chelsea-fc",
+          "away": "msk-zilina",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "olympique-de-marseille",
+          "away": "chelsea-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "msk-zilina",
+          "away": "fc-spartak-moscow",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "real-madrid-cf",
+          "away": "afc-ajax",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "ac-milan",
+          "away": "aj-auxerre",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "aj-auxerre",
+          "away": "real-madrid-cf",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "afc-ajax",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "afc-ajax",
+          "away": "aj-auxerre",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "real-madrid-cf",
+          "away": "ac-milan",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "aj-auxerre",
+          "away": "afc-ajax",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "ac-milan",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "afc-ajax",
+          "away": "real-madrid-cf",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "aj-auxerre",
+          "away": "ac-milan",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "real-madrid-cf",
+          "away": "aj-auxerre",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "ac-milan",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "arsenal-fc",
+          "away": "sc-braga",
+          "score": "6:0",
+          "group": "H"
+        },
+        {
+          "date": "2010-09-15",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "fk-partizan",
+          "away": "arsenal-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2010-09-28",
+          "home": "sc-braga",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "sc-braga",
+          "away": "fk-partizan",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2010-10-19",
+          "home": "arsenal-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "fk-partizan",
+          "away": "sc-braga",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2010-11-03",
+          "home": "fc-shakhtar-donetsk",
+          "away": "arsenal-fc",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "sc-braga",
+          "away": "arsenal-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2010-11-23",
+          "home": "fk-partizan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "arsenal-fc",
+          "away": "fk-partizan",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2010-12-08",
+          "home": "fc-shakhtar-donetsk",
+          "away": "sc-braga",
+          "score": "2:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "as-roma",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-16",
+              "home": "as-roma",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:3"
+            },
+            {
+              "date": "2011-03-08",
+              "home": "fc-shakhtar-donetsk",
+              "away": "as-roma",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-15",
+              "home": "ac-milan",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-03-09",
+              "home": "tottenham-hotspur-fc",
+              "away": "ac-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-15",
+              "home": "valencia-cf",
+              "away": "fc-schalke-04",
+              "score": "1:1"
+            },
+            {
+              "date": "2011-03-09",
+              "home": "fc-schalke-04",
+              "away": "valencia-cf",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-bayern-munich"
+          ],
+          "winner": "inter-milan",
+          "note": "Inter Milan won on away goals",
+          "matches": [
+            {
+              "date": "2011-02-23",
+              "home": "inter-milan",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-03-15",
+              "home": "fc-bayern-munich",
+              "away": "inter-milan",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-22",
+              "home": "olympique-lyonnais",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2011-03-16",
+              "home": "real-madrid-cf",
+              "away": "olympique-lyonnais",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-16",
+              "home": "arsenal-fc",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            },
+            {
+              "date": "2011-03-08",
+              "home": "fc-barcelona",
+              "away": "arsenal-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-23",
+              "home": "olympique-de-marseille",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2011-03-15",
+              "home": "manchester-united-fc",
+              "away": "olympique-de-marseille",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-02-22",
+              "home": "fc-copenhagen",
+              "away": "chelsea-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-03-16",
+              "home": "chelsea-fc",
+              "away": "fc-copenhagen",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-05",
+              "home": "real-madrid-cf",
+              "away": "tottenham-hotspur-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2011-04-13",
+              "home": "tottenham-hotspur-fc",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-06",
+              "home": "chelsea-fc",
+              "away": "manchester-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-04-12",
+              "home": "manchester-united-fc",
+              "away": "chelsea-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-06",
+              "home": "fc-barcelona",
+              "away": "fc-shakhtar-donetsk",
+              "score": "5:1"
+            },
+            {
+              "date": "2011-04-12",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-05",
+              "home": "inter-milan",
+              "away": "fc-schalke-04",
+              "score": "2:5"
+            },
+            {
+              "date": "2011-04-13",
+              "home": "fc-schalke-04",
+              "away": "inter-milan",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-26",
+              "home": "fc-schalke-04",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-05-04",
+              "home": "manchester-united-fc",
+              "away": "fc-schalke-04",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2011-04-27",
+              "home": "real-madrid-cf",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-05-03",
+              "home": "fc-barcelona",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-05-28",
+              "home": "fc-barcelona",
+              "away": "manchester-united-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

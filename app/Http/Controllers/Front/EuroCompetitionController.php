@@ -20,8 +20,10 @@ class EuroCompetitionController extends Controller
             ->with([
                 'winner:id,name,slug',
                 'winner.attachment',
+                'winner.names:id,club_id,name,from_year,to_year',
                 'runnerUp:id,name,slug',
                 'runnerUp.attachment',
+                'runnerUp.names:id,club_id,name,from_year,to_year',
                 'ties' => fn ($q) => $q->where('stage', EuroStage::FINAL->value),
                 'ties.matches',
             ])
@@ -52,11 +54,16 @@ class EuroCompetitionController extends Controller
                 'winner.attachment',
                 'runnerUp:id,name,slug',
                 'runnerUp.attachment',
+                'winner.names:id,club_id,name,from_year,to_year',
                 'ties.matches',
                 'ties.homeClub:id,name,slug',
+                'ties.homeClub.names:id,club_id,name,from_year,to_year',
                 'ties.awayClub:id,name,slug',
+                'ties.awayClub.names:id,club_id,name,from_year,to_year',
                 'matches.homeClub:id,name,slug',
+                'matches.homeClub.names:id,club_id,name,from_year,to_year',
                 'matches.awayClub:id,name,slug',
+                'matches.awayClub.names:id,club_id,name,from_year,to_year',
             ])
             ->firstOrFail()
             ->setRelation('competition', $competition);

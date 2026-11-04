@@ -96,7 +96,7 @@ class EuroStatsService
     /**
      * Totals of a competition over all seasons (SQL aggregates).
      *
-     * @return array{seasons: int, clubs: int, matches: int, goals: int, goals_per_match: float, biggest_win: ?EuroMatch}
+     * @return array{seasons: int, clubs: int, matches: int, goals: int}
      */
     public function competitionSummary(EuroCompetition $competition): array
     {
@@ -116,19 +116,11 @@ class EuroStatsService
             )
             ->count();
 
-        $biggestWin = (clone $matches)
-            ->with(['homeClub:id,name,slug', 'awayClub:id,name,slug', 'season:id,name'])
-            // goals are unsigned: cast before subtracting, or MariaDB fails on negative results
-            ->orderByRaw('ABS(CAST(home_goals AS SIGNED) - CAST(away_goals AS SIGNED)) DESC, (home_goals + away_goals) DESC, played_at ASC')
-            ->first();
-
         return [
             'seasons' => (int) $totals->seasons,
             'clubs' => $clubs,
             'matches' => (int) $totals->matches,
             'goals' => (int) $totals->goals,
-            'goals_per_match' => $totals->matches ? round($totals->goals / $totals->matches, 2) : 0,
-            'biggest_win' => $biggestWin,
         ];
     }
 
@@ -175,7 +167,145 @@ class EuroStatsService
             ->groupBy([fn (EuroMatch $m) => $m->stage->value, fn (EuroMatch $m) => $m->group ?? ''])
             ->map(fn (Collection $groups) => $groups
                 ->sortKeys()
-                ->map(fn (Collection $matches) => $this->buildTable($matches, $season->points_for_win)));
+                ->map(function (Collection $matches) use ($season) {
+                    $table = $this->applyAdjustments(
+                        $this->buildTable($matches, $season->points_for_win),
+                        $season->point_adjustments ?? [],
+                        $matches->first()->stage->value,
+                    );
+
+                    return $matches->first()->stage === EuroStage::LEAGUE_PHASE
+                        ? $this->rankLeague($table, $matches, $season->points_for_win)
+                        : $this->rankGroup(
+                            $table,
+                            $matches,
+                            $season->points_for_win,
+                            // away goals stopped counting in head-to-head from 2021-22
+                            $season->startYear() < 2021,
+                        );
+                }));
+    }
+
+    /**
+     * League phase order (from 2024-25), no head-to-head: points, goal difference, goals scored,
+     * away goals, wins, away wins, then points, goal difference and goals of the opponents played.
+     *
+     * @param  Collection<int, EuroMatch>  $matches
+     */
+    protected function rankLeague(Collection $rows, Collection $matches, int $pointsForWin): Collection
+    {
+        $byId = $rows->keyBy(fn ($r) => $r['club']->id);
+        $extra = [];
+
+        foreach ($matches as $m) {
+            $extra[$m->away_club_id]['away_goals'] = ($extra[$m->away_club_id]['away_goals'] ?? 0) + $m->away_goals;
+            $extra[$m->away_club_id]['away_wins'] = ($extra[$m->away_club_id]['away_wins'] ?? 0) + (int) ($m->away_goals > $m->home_goals);
+            $extra[$m->home_club_id]['opponents'][] = $m->away_club_id;
+            $extra[$m->away_club_id]['opponents'][] = $m->home_club_id;
+        }
+
+        $opp = fn (int $id, string $key) => collect($extra[$id]['opponents'] ?? [])->sum(fn ($o) => $byId[$o][$key] ?? 0);
+        $val = fn (array $r, string $key) => $extra[$r['club']->id][$key] ?? 0;
+
+        return $rows->sortBy([
+            fn ($a, $b) => $b['points'] <=> $a['points'],
+            fn ($a, $b) => $b['goal_difference'] <=> $a['goal_difference'],
+            fn ($a, $b) => $b['goals_for'] <=> $a['goals_for'],
+            fn ($a, $b) => $val($b, 'away_goals') <=> $val($a, 'away_goals'),
+            fn ($a, $b) => $b['won'] <=> $a['won'],
+            fn ($a, $b) => $val($b, 'away_wins') <=> $val($a, 'away_wins'),
+            fn ($a, $b) => $opp($b['club']->id, 'points') <=> $opp($a['club']->id, 'points'),
+            fn ($a, $b) => $opp($b['club']->id, 'goal_difference') <=> $opp($a['club']->id, 'goal_difference'),
+            fn ($a, $b) => $opp($b['club']->id, 'goals_for') <=> $opp($a['club']->id, 'goals_for'),
+        ])->values();
+    }
+
+    /**
+     * Group order: points, then head-to-head among the clubs level on points
+     * (points, goal difference, goals, and until 2020-21 away goals in their mutual matches),
+     * then overall goal difference, goals scored and away goals scored.
+     *
+     * @param  Collection<int, EuroMatch>  $matches
+     */
+    protected function rankGroup(Collection $rows, Collection $matches, int $pointsForWin, bool $h2hAwayGoals = true): Collection
+    {
+        // goals scored away in all group matches: the last tie-breaker
+        $awayGoals = [];
+        foreach ($matches as $m) {
+            $awayGoals[$m->away_club_id] = ($awayGoals[$m->away_club_id] ?? 0) + $m->away_goals;
+        }
+
+        return $rows
+            ->groupBy('points')
+            ->sortKeysDesc()
+            ->flatMap(function (Collection $level) use ($matches, $pointsForWin, $h2hAwayGoals, $awayGoals) {
+                if ($level->count() === 1) {
+                    return $level;
+                }
+
+                $ids = $level->map(fn ($r) => $r['club']->id)->all();
+                $h2h = $this->headToHead(
+                    $matches->filter(fn (EuroMatch $m) => in_array($m->home_club_id, $ids, true) && in_array($m->away_club_id, $ids, true)),
+                    $pointsForWin,
+                );
+
+                return $level->sortBy([
+                    fn ($a, $b) => ($h2h[$b['club']->id]['pts'] ?? 0) <=> ($h2h[$a['club']->id]['pts'] ?? 0),
+                    fn ($a, $b) => ($h2h[$b['club']->id]['gd'] ?? 0) <=> ($h2h[$a['club']->id]['gd'] ?? 0),
+                    fn ($a, $b) => ($h2h[$b['club']->id]['gf'] ?? 0) <=> ($h2h[$a['club']->id]['gf'] ?? 0),
+                    fn ($a, $b) => $h2hAwayGoals ? ($h2h[$b['club']->id]['away'] ?? 0) <=> ($h2h[$a['club']->id]['away'] ?? 0) : 0,
+                    fn ($a, $b) => $b['goal_difference'] <=> $a['goal_difference'],
+                    fn ($a, $b) => $b['goals_for'] <=> $a['goals_for'],
+                    fn ($a, $b) => ($awayGoals[$b['club']->id] ?? 0) <=> ($awayGoals[$a['club']->id] ?? 0),
+                ]);
+            })
+            ->values();
+    }
+
+    /**
+     * Mini-table of mutual matches: [club_id => [pts, gd, gf, away]].
+     *
+     * @param  Collection<int, EuroMatch>  $matches
+     */
+    protected function headToHead(Collection $matches, int $pointsForWin): array
+    {
+        $t = [];
+
+        foreach ($matches as $m) {
+            foreach ([[$m->home_club_id, $m->home_goals, $m->away_goals, false], [$m->away_club_id, $m->away_goals, $m->home_goals, true]] as [$id, $for, $against, $away]) {
+                $t[$id] ??= ['pts' => 0, 'gd' => 0, 'gf' => 0, 'away' => 0];
+                $t[$id]['pts'] += $for > $against ? $pointsForWin : ($for === $against ? 1 : 0);
+                $t[$id]['gd'] += $for - $against;
+                $t[$id]['gf'] += $for;
+                $t[$id]['away'] += $away ? $for : 0;
+            }
+        }
+
+        return $t;
+    }
+
+    /**
+     * Point deductions / bonuses of a season (e.g. Milan −2 in 1994-95):
+     * added to the club's points, with the reason kept for a footnote.
+     */
+    protected function applyAdjustments(Collection $rows, array $adjustments, string $stage): Collection
+    {
+        $adjustments = collect($adjustments)->where('stage', $stage)->keyBy('club_id');
+
+        if ($adjustments->isEmpty()) {
+            return $rows;
+        }
+
+        return $rows
+            ->map(function (array $row) use ($adjustments) {
+                if ($a = $adjustments->get($row['club']->id)) {
+                    $row['points'] += $a['points'];
+                    $row['adjustment'] = $a['points'];
+                    $row['adjustment_note'] = $a['note'];
+                }
+
+                return $row;
+            });
     }
 
     /**

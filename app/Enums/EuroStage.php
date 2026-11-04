@@ -8,6 +8,7 @@ namespace App\Enums;
 enum EuroStage: string
 {
     case PRELIMINARY = 'preliminary';
+    case QUALIFYING = 'qualifying';
     case QUALIFYING_1 = 'qualifying_1';
     case QUALIFYING_2 = 'qualifying_2';
     case QUALIFYING_3 = 'qualifying_3';
@@ -29,6 +30,7 @@ enum EuroStage: string
     {
         return match ($this) {
             self::PRELIMINARY => 'Preliminary round',
+            self::QUALIFYING => 'Qualifying round',
             self::QUALIFYING_1 => '1st qualifying round',
             self::QUALIFYING_2 => '2nd qualifying round',
             self::QUALIFYING_3 => '3rd qualifying round',
@@ -55,7 +57,7 @@ enum EuroStage: string
 
     public function isQualifying(): bool
     {
-        return in_array($this, [self::PRELIMINARY, self::QUALIFYING_1, self::QUALIFYING_2, self::QUALIFYING_3, self::PLAYOFF], true);
+        return in_array($this, [self::PRELIMINARY, self::QUALIFYING, self::QUALIFYING_1, self::QUALIFYING_2, self::QUALIFYING_3, self::PLAYOFF], true);
     }
 
     public function sortOrder(): int

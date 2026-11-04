@@ -1,0 +1,1855 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2004-05",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "shelbourne-fc"
+          ],
+          "winner": "shelbourne-fc",
+          "note": "Shelbourne won on away goals",
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "kr-reykjavik",
+              "away": "shelbourne-fc",
+              "score": "2:2",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "shelbourne-fc",
+              "away": "kr-reykjavik",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "rhyl-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "skonto-fc",
+              "away": "rhyl-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "rhyl-fc",
+              "away": "skonto-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "fc-flora",
+              "away": "nd-gorica",
+              "score": "2:4"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "nd-gorica",
+              "away": "fc-flora",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "linfield-fc",
+              "away": "hjk-helsinki",
+              "score": "0:1"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "hjk-helsinki",
+              "away": "linfield-fc",
+              "score": "1:0",
+              "note": "Played at ISS Stadion, Vantaa"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-pobeda",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-13",
+              "home": "fk-pobeda",
+              "away": "fc-pyunik",
+              "score": "1:3",
+              "note": "Played at Philip II Arena, Skopje"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "fc-pyunik",
+              "away": "fk-pobeda",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "fc-sheriff-tiraspol",
+              "away": "jeunesse-esch",
+              "score": "2:0"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "jeunesse-esch",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wit-georgia",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "fc-wit-georgia",
+              "away": "hb-torshavn",
+              "score": "5:0",
+              "note": "Played at Boris Paichadze National Stadium, Tbilisi"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "hb-torshavn",
+              "away": "fc-wit-georgia",
+              "score": "3:0",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-13",
+              "home": "sliema-wanderers-fc",
+              "away": "fbk-kaunas",
+              "score": "0:2"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "fbk-kaunas",
+              "away": "sliema-wanderers-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "neftci-pfk"
+          ],
+          "winner": "neftci-pfk",
+          "note": "Neftçi won on away goals",
+          "matches": [
+            {
+              "date": "2004-07-13",
+              "home": "nk-siroki-brijeg",
+              "away": "neftci-pfk",
+              "score": "2:1"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "neftci-pfk",
+              "away": "nk-siroki-brijeg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-gomel",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-14",
+              "home": "fc-gomel",
+              "away": "kf-tirana",
+              "score": "0:2"
+            },
+            {
+              "date": "2004-07-21",
+              "home": "kf-tirana",
+              "away": "fc-gomel",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "fc-pyunik",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:3"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-pyunik",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "apoel-fc",
+              "away": "ac-sparta-prague",
+              "score": "2:2"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "ac-sparta-prague",
+              "away": "apoel-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "rosenborg-bk",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:1"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "fc-sheriff-tiraspol",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "bsc-young-boys",
+              "away": "red-star-belgrade",
+              "score": "2:2",
+              "note": "Played at Hardturm, Zürich"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "red-star-belgrade",
+              "away": "bsc-young-boys",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "nd-gorica",
+              "away": "fc-copenhagen",
+              "score": "1:2"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "fc-copenhagen",
+              "away": "nd-gorica",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "neftci-pfk",
+              "away": "pfc-cska-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "pfc-cska-moscow",
+              "away": "neftci-pfk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "msk-zilina",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "fc-dinamo-bucuresti",
+              "away": "msk-zilina",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "hjk-helsinki",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:0",
+              "note": "Played at ISS Stadion, Vantaa"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "skonto-fc",
+              "away": "trabzonspor",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "trabzonspor",
+              "away": "skonto-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "pfc-lokomotiv-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "club-brugge-kv",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "2:0"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "club-brugge-kv",
+              "score": "0:4",
+              "note": "Played at Naftex Stadium, Burgas"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "ferencvarosi-tc"
+          ],
+          "winner": "kf-tirana",
+          "note": "Tirana won on away goals",
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "kf-tirana",
+              "away": "ferencvarosi-tc",
+              "score": "2:3"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "ferencvarosi-tc",
+              "away": "kf-tirana",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "hnk-hajduk-split",
+              "away": "shelbourne-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "shelbourne-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-28",
+              "home": "djurgardens-if",
+              "away": "fbk-kaunas",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "fbk-kaunas",
+              "away": "djurgardens-if",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wit-georgia",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2004-07-27",
+              "home": "fc-wit-georgia",
+              "away": "wisla-krakow",
+              "score": "2:8",
+              "note": "Played at Boris Paichadze National Stadium, Tbilisi"
+            },
+            {
+              "date": "2004-08-04",
+              "home": "wisla-krakow",
+              "away": "fc-wit-georgia",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "grazer-ak",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "grazer-ak",
+              "away": "liverpool-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "liverpool-fc",
+              "away": "grazer-ak",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "juventus-fc",
+              "away": "djurgardens-if",
+              "score": "2:2"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "djurgardens-if",
+              "away": "juventus-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "ferencvarosi-tc",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "ac-sparta-prague",
+              "away": "ferencvarosi-tc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "rosenborg-bk",
+              "away": "maccabi-haifa-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "maccabi-haifa-fc",
+              "away": "rosenborg-bk",
+              "score": "2:3",
+              "extra_time": true,
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-banik-ostrava",
+              "score": "5:0"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "fc-banik-ostrava",
+              "away": "bayer-04-leverkusen",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "pfc-cska-moscow",
+              "away": "rangers-fc",
+              "score": "2:1",
+              "note": "Played at Lokomotiv Stadium, Moscow"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "rangers-fc",
+              "away": "pfc-cska-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "fc-shakhtar-donetsk",
+              "away": "club-brugge-kv",
+              "score": "4:1"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "club-brugge-kv",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "fc-dynamo-kyiv",
+              "away": "trabzonspor",
+              "score": "1:2"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "trabzonspor",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "red-star-belgrade",
+              "away": "psv-eindhoven",
+              "score": "3:2"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "psv-eindhoven",
+              "away": "red-star-belgrade",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "fc-dinamo-bucuresti",
+              "away": "manchester-united-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "manchester-united-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "fc-basel",
+              "away": "inter-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "inter-milan",
+              "away": "fc-basel",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "sl-benfica",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "rsc-anderlecht",
+              "away": "sl-benfica",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "shelbourne-fc",
+              "away": "deportivo-de-la-coruna",
+              "score": "0:0",
+              "note": "Played at Lansdowne Road, Dublin"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "deportivo-de-la-coruna",
+              "away": "shelbourne-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-10",
+              "home": "paok-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Maccabi Tel Aviv: PAOK fielded a suspended player (the match finished 1:2)"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "paok-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "nd-gorica",
+              "away": "as-monaco-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2004-08-24",
+              "home": "as-monaco-fc",
+              "away": "nd-gorica",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-08-11",
+              "home": "wisla-krakow",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            },
+            {
+              "date": "2004-08-25",
+              "home": "real-madrid-cf",
+              "away": "wisla-krakow",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2004-09-15",
+          "home": "liverpool-fc",
+          "away": "as-monaco-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "deportivo-de-la-coruna",
+          "away": "olympiacos-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "olympiacos-fc",
+          "away": "liverpool-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "as-monaco-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "as-monaco-fc",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "liverpool-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "olympiacos-fc",
+          "away": "as-monaco-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "deportivo-de-la-coruna",
+          "away": "liverpool-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "olympiacos-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "as-monaco-fc",
+          "away": "liverpool-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "liverpool-fc",
+          "away": "olympiacos-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "deportivo-de-la-coruna",
+          "away": "as-monaco-fc",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "as-roma",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:3",
+          "group": "B",
+          "note": "Awarded 3:0 to Dynamo Kyiv: abandoned at half-time at 0:1 after referee Anders Frisk was hit by an object thrown from the crowd"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "bayer-04-leverkusen",
+          "away": "real-madrid-cf",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "real-madrid-cf",
+          "away": "as-roma",
+          "score": "4:2",
+          "group": "B"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "fc-dynamo-kyiv",
+          "away": "bayer-04-leverkusen",
+          "score": "4:2",
+          "group": "B"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "real-madrid-cf",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "bayer-04-leverkusen",
+          "away": "as-roma",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "fc-dynamo-kyiv",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "as-roma",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "real-madrid-cf",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "fc-dynamo-kyiv",
+          "away": "as-roma",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "as-roma",
+          "away": "real-madrid-cf",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "C",
+          "note": "Played at Ramat Gan Stadium, Ramat Gan"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "afc-ajax",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "fc-bayern-munich",
+          "away": "afc-ajax",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "juventus-fc",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "juventus-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "afc-ajax",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "afc-ajax",
+          "score": "2:1",
+          "group": "C",
+          "note": "Played at Ramat Gan Stadium, Ramat Gan"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "fc-bayern-munich",
+          "away": "juventus-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "fc-bayern-munich",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "juventus-fc",
+          "away": "afc-ajax",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "C",
+          "note": "Played at Ramat Gan Stadium, Ramat Gan"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "afc-ajax",
+          "away": "fc-bayern-munich",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "fenerbahce-sk",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2004-09-15",
+          "home": "olympique-lyonnais",
+          "away": "manchester-united-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "manchester-united-fc",
+          "away": "fenerbahce-sk",
+          "score": "6:2",
+          "group": "D"
+        },
+        {
+          "date": "2004-09-28",
+          "home": "ac-sparta-prague",
+          "away": "olympique-lyonnais",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "ac-sparta-prague",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2004-10-19",
+          "home": "fenerbahce-sk",
+          "away": "olympique-lyonnais",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "manchester-united-fc",
+          "away": "ac-sparta-prague",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2004-11-03",
+          "home": "olympique-lyonnais",
+          "away": "fenerbahce-sk",
+          "score": "4:2",
+          "group": "D"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "ac-sparta-prague",
+          "away": "fenerbahce-sk",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2004-11-23",
+          "home": "manchester-united-fc",
+          "away": "olympique-lyonnais",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "fenerbahce-sk",
+          "away": "manchester-united-fc",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2004-12-08",
+          "home": "olympique-lyonnais",
+          "away": "ac-sparta-prague",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "panathinaikos-fc",
+          "away": "rosenborg-bk",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "arsenal-fc",
+          "away": "psv-eindhoven",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "psv-eindhoven",
+          "away": "panathinaikos-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "rosenborg-bk",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "rosenborg-bk",
+          "away": "psv-eindhoven",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "panathinaikos-fc",
+          "away": "arsenal-fc",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "arsenal-fc",
+          "away": "panathinaikos-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "psv-eindhoven",
+          "away": "rosenborg-bk",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "rosenborg-bk",
+          "away": "panathinaikos-fc",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "psv-eindhoven",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "panathinaikos-fc",
+          "away": "psv-eindhoven",
+          "score": "4:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "arsenal-fc",
+          "away": "rosenborg-bk",
+          "score": "5:1",
+          "group": "E"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "fc-shakhtar-donetsk",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "celtic-fc",
+          "away": "fc-barcelona",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "fc-barcelona",
+          "away": "fc-shakhtar-donetsk",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "ac-milan",
+          "away": "celtic-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "ac-milan",
+          "away": "fc-barcelona",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "fc-shakhtar-donetsk",
+          "away": "celtic-fc",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "fc-barcelona",
+          "away": "ac-milan",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "celtic-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "ac-milan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "4:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "fc-barcelona",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-barcelona",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "celtic-fc",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "inter-milan",
+          "away": "sv-werder-bremen",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "valencia-cf",
+          "away": "rsc-anderlecht",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "sv-werder-bremen",
+          "away": "valencia-cf",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "rsc-anderlecht",
+          "away": "inter-milan",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "rsc-anderlecht",
+          "away": "sv-werder-bremen",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "valencia-cf",
+          "away": "inter-milan",
+          "score": "1:5",
+          "group": "G"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "sv-werder-bremen",
+          "away": "rsc-anderlecht",
+          "score": "5:1",
+          "group": "G"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "inter-milan",
+          "away": "valencia-cf",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "rsc-anderlecht",
+          "away": "valencia-cf",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "sv-werder-bremen",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "valencia-cf",
+          "away": "sv-werder-bremen",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "inter-milan",
+          "away": "rsc-anderlecht",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "paris-saint-germain-fc",
+          "away": "chelsea-fc",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2004-09-14",
+          "home": "fc-porto",
+          "away": "pfc-cska-moscow",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "pfc-cska-moscow",
+          "away": "paris-saint-germain-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-09-29",
+          "home": "chelsea-fc",
+          "away": "fc-porto",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "chelsea-fc",
+          "away": "pfc-cska-moscow",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-10-20",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-porto",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "pfc-cska-moscow",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2004-11-02",
+          "home": "fc-porto",
+          "away": "paris-saint-germain-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "pfc-cska-moscow",
+          "away": "fc-porto",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2004-11-24",
+          "home": "chelsea-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "paris-saint-germain-fc",
+          "away": "pfc-cska-moscow",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2004-12-07",
+          "home": "fc-porto",
+          "away": "chelsea-fc",
+          "score": "2:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-22",
+              "home": "real-madrid-cf",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-03-09",
+              "home": "juventus-fc",
+              "away": "real-madrid-cf",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-22",
+              "home": "liverpool-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "3:1"
+            },
+            {
+              "date": "2005-03-09",
+              "home": "bayer-04-leverkusen",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-22",
+              "home": "psv-eindhoven",
+              "away": "as-monaco-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2005-03-09",
+              "home": "as-monaco-fc",
+              "away": "psv-eindhoven",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-22",
+              "home": "fc-bayern-munich",
+              "away": "arsenal-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2005-03-09",
+              "home": "arsenal-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-23",
+              "home": "fc-barcelona",
+              "away": "chelsea-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2005-03-08",
+              "home": "chelsea-fc",
+              "away": "fc-barcelona",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-23",
+              "home": "manchester-united-fc",
+              "away": "ac-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "2005-03-08",
+              "home": "ac-milan",
+              "away": "manchester-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-23",
+              "home": "sv-werder-bremen",
+              "away": "olympique-lyonnais",
+              "score": "0:3"
+            },
+            {
+              "date": "2005-03-08",
+              "home": "olympique-lyonnais",
+              "away": "sv-werder-bremen",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2005-02-23",
+              "home": "fc-porto",
+              "away": "inter-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-03-15",
+              "home": "inter-milan",
+              "away": "fc-porto",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-04-05",
+              "home": "liverpool-fc",
+              "away": "juventus-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2005-04-13",
+              "home": "juventus-fc",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2005-04-05",
+              "home": "olympique-lyonnais",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "2005-04-13",
+              "home": "psv-eindhoven",
+              "away": "olympique-lyonnais",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "PSV Eindhoven won 4:2 on penalties"
+            }
+          ],
+          "winner": "psv-eindhoven"
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2005-04-06",
+              "home": "chelsea-fc",
+              "away": "fc-bayern-munich",
+              "score": "4:2"
+            },
+            {
+              "date": "2005-04-12",
+              "home": "fc-bayern-munich",
+              "away": "chelsea-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2005-04-06",
+              "home": "ac-milan",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "2005-04-12",
+              "home": "inter-milan",
+              "away": "ac-milan",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Milan: abandoned after 72 minutes at 0:1 due to flares thrown by Inter fans, one of which struck goalkeeper Dida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-04-27",
+              "home": "chelsea-fc",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2005-05-03",
+              "home": "liverpool-fc",
+              "away": "chelsea-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "psv-eindhoven"
+          ],
+          "winner": "ac-milan",
+          "note": "Milan won on away goals",
+          "matches": [
+            {
+              "date": "2005-04-26",
+              "home": "ac-milan",
+              "away": "psv-eindhoven",
+              "score": "2:0"
+            },
+            {
+              "date": "2005-05-04",
+              "home": "psv-eindhoven",
+              "away": "ac-milan",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2005-05-25",
+              "home": "ac-milan",
+              "away": "liverpool-fc",
+              "score": "3:3",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Atatürk Olympic Stadium, Istanbul; Liverpool FC won 3:2 on penalties"
+            }
+          ],
+          "winner": "liverpool-fc"
+        }
+      ]
+    }
+  ]
+}

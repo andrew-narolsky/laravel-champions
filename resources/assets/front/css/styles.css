@@ -1253,26 +1253,6 @@ a.trophy-name:hover {
     margin-right: 8px;
 }
 
-/* ─── Euro: season / competition records under stats ──────────────────── */
-
-.euro-records {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px 32px;
-    margin-top: 16px;
-    font-size: 15px;
-}
-
-.euro-records .v3-label {
-    font-size: 11px;
-    margin-right: 8px;
-}
-
-.euro-records small {
-    color: var(--text-muted);
-    margin-left: 4px;
-}
-
 /* ─── Home: European cups ───────────────────────────────────────────────── */
 
 .euro-cups-grid {
@@ -1318,8 +1298,13 @@ a.trophy-name:hover {
     width: auto;
 }
 
-.euro-group-matches {
+.euro-stage .table-title {
+    margin-bottom: 16px;
+}
+
+.euro-group-standings {
     margin-top: 24px;
+    margin-bottom: 40px;
 }
 
 .euro-ties-table td div + div {

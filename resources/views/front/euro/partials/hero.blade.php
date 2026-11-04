@@ -1,5 +1,5 @@
 <section class="hero-section hero-section--inner hero-section--inner-competition">
-    <div class="hero-bg" style="background-image: url({{ asset('build/images/default-banner-1.webp') }});"></div>
+    <div class="hero-bg" style="background-image: url({{ asset('build/images/' . ($banner ?? 'champions-league-banner.webp')) }});"></div>
     <div class="hero-overlay"></div>
 
     <nav class="country-breadcrumb">

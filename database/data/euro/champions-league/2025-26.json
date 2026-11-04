@@ -1,0 +1,2497 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2025-26",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-09",
+              "home": "fk-zalgiris",
+              "away": "hamrun-spartans-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "hamrun-spartans-fc",
+              "away": "fk-zalgiris",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Played at Centenary Stadium, Ta' Qali"
+            }
+          ],
+          "winner": "hamrun-spartans-fc"
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "kups-kuopio",
+              "away": "fc-milsami-orhei",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "fc-milsami-orhei",
+              "away": "kups-kuopio",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "the-new-saints-fc",
+              "away": "kf-shkendija",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "kf-shkendija",
+              "away": "the-new-saints-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at Toše Proeski Arena, Skopje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-iberia-1999",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "fc-iberia-1999",
+              "away": "malmo-ff",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "malmo-ff",
+              "away": "fc-iberia-1999",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "fk-rfs"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "fci-levadia-tallinn",
+              "away": "fk-rfs",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "fk-rfs",
+              "away": "fci-levadia-tallinn",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "fc-drita",
+              "away": "fc-differdange-03",
+              "score": "1:0",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "fc-differdange-03",
+              "away": "fc-drita",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "vikingur-gota",
+              "away": "lincoln-red-imps-fc",
+              "score": "2:3",
+              "note": "Played at Við Djúpumýrar, Klaksvík"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "lincoln-red-imps-fc",
+              "away": "vikingur-gota",
+              "score": "1:0",
+              "note": "Played at Europa Sports Park, Gibraltar (Victoria Stadium under renovation)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-egnatia",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "kf-egnatia",
+              "away": "breidablik",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "breidablik",
+              "away": "kf-egnatia",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-09",
+              "home": "shelbourne-fc",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-16",
+              "home": "linfield-fc",
+              "away": "shelbourne-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "inter-club-descaldes"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-09",
+              "home": "fcsb",
+              "away": "inter-club-descaldes",
+              "score": "3:1",
+              "note": "Played at Steaua Stadium, Bucharest"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "inter-club-descaldes",
+              "away": "fcsb",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-virtus",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "ac-virtus",
+              "away": "hsk-zrinjski-mostar",
+              "score": "0:2"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "hsk-zrinjski-mostar",
+              "away": "ac-virtus",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fc-kairat",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "fc-kairat",
+              "away": "nk-olimpija-ljubljana",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "fc-noah",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-15",
+              "home": "fk-buducnost-podgorica",
+              "away": "fc-noah",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-09",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-16",
+              "home": "fc-dinamo-minsk",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary), behind closed doors: Belarusian clubs had to play at neutral venues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-rfs",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "fk-rfs",
+              "away": "malmo-ff",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "malmo-ff",
+              "away": "fk-rfs",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamrun-spartans-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "hamrun-spartans-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:3",
+              "note": "Played at Tony Bezzina Stadium, Paola"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "hamrun-spartans-fc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Arena Lublin, Lublin (Poland) (Russian invasion of Ukraine)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pafos-fc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "pafos-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:1",
+              "note": "Played at Alphamega Stadium, Limassol"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "pafos-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at TSC Arena, Bačka Topola (Serbia): Israeli clubs had to play at neutral venues during the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "lincoln-red-imps-fc",
+              "away": "red-star-belgrade",
+              "score": "0:1",
+              "note": "Played at Europa Sports Park, Gibraltar (Victoria Stadium under renovation)"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "red-star-belgrade",
+              "away": "lincoln-red-imps-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "fc-noah",
+              "away": "ferencvarosi-tc",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "ferencvarosi-tc",
+              "away": "fc-noah",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "lech-poznan",
+              "away": "breidablik",
+              "score": "7:1"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "breidablik",
+              "away": "lech-poznan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-drita"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "fc-copenhagen",
+              "away": "fc-drita",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "fc-drita",
+              "away": "fc-copenhagen",
+              "score": "0:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "hnk-rijeka",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "hnk-rijeka",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "kf-shkendija",
+              "away": "fcsb",
+              "score": "1:0",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "fcsb",
+              "away": "kf-shkendija",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "sk-slovan-bratislava",
+              "away": "hsk-zrinjski-mostar",
+              "score": "4:0"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "hsk-zrinjski-mostar",
+              "away": "sk-slovan-bratislava",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "shelbourne-fc",
+              "away": "qarabag-fk",
+              "score": "0:3"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "qarabag-fk",
+              "away": "shelbourne-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "kups-kuopio",
+              "away": "fc-kairat",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "fc-kairat",
+              "away": "kups-kuopio",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "sk-brann",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "fc-red-bull-salzburg",
+              "away": "sk-brann",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "fc-viktoria-plzen",
+              "away": "servette-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "servette-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "rangers-fc",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-30",
+              "home": "panathinaikos-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "malmo-ff",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-05",
+              "home": "malmo-ff",
+              "away": "fc-copenhagen",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "fc-copenhagen",
+              "away": "malmo-ff",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "fc-kairat",
+              "away": "sk-slovan-bratislava",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-kairat",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Kairat won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-kairat"
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "lech-poznan",
+              "away": "red-star-belgrade",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "red-star-belgrade",
+              "away": "lech-poznan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ferencvarosi-tc",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "ferencvarosi-tc",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-05",
+              "home": "fc-dynamo-kyiv",
+              "away": "pafos-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Arena Lublin, Lublin (Poland) (Russian invasion of Ukraine)"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "pafos-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0",
+              "note": "Played at Alphamega Stadium, Limassol"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-05",
+              "home": "kf-shkendija",
+              "away": "qarabag-fk",
+              "score": "0:1",
+              "note": "Played at Toše Proeski Arena, Skopje"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "qarabag-fk",
+              "away": "kf-shkendija",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "fc-red-bull-salzburg",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "club-brugge-kv",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-05",
+              "home": "rangers-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "fc-viktoria-plzen",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ogc-nice",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "ogc-nice",
+              "away": "sl-benfica",
+              "score": "0:2"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "sl-benfica",
+              "away": "ogc-nice",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-06",
+              "home": "feyenoord",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-12",
+              "home": "fenerbahce-sk",
+              "away": "feyenoord",
+              "score": "5:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-19",
+              "home": "ferencvarosi-tc",
+              "away": "qarabag-fk",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-08-27",
+              "home": "qarabag-fk",
+              "away": "ferencvarosi-tc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-19",
+              "home": "red-star-belgrade",
+              "away": "pafos-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-08-26",
+              "home": "pafos-fc",
+              "away": "red-star-belgrade",
+              "score": "1:1",
+              "note": "Played at Alphamega Stadium, Limassol"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-20",
+              "home": "fk-bodoglimt",
+              "away": "sk-sturm-graz",
+              "score": "5:0"
+            },
+            {
+              "date": "2025-08-26",
+              "home": "sk-sturm-graz",
+              "away": "fk-bodoglimt",
+              "score": "2:1",
+              "note": "Played at Wörthersee Stadion, Klagenfurt"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-20",
+              "home": "celtic-fc",
+              "away": "fc-kairat",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-26",
+              "home": "fc-kairat",
+              "away": "celtic-fc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "FC Kairat won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-kairat"
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-20",
+              "home": "fc-basel",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-08-27",
+              "home": "fc-copenhagen",
+              "away": "fc-basel",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-20",
+              "home": "fenerbahce-sk",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-27",
+              "home": "sl-benfica",
+              "away": "fenerbahce-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-19",
+              "home": "rangers-fc",
+              "away": "club-brugge-kv",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-08-27",
+              "home": "club-brugge-kv",
+              "away": "rangers-fc",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "league_phase",
+      "matches": [
+        {
+          "date": "2025-09-16",
+          "home": "athletic-bilbao",
+          "away": "arsenal-fc",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-16",
+          "home": "psv-eindhoven",
+          "away": "r-union-saint-gilloise",
+          "score": "1:3",
+          "group": null
+        },
+        {
+          "date": "2025-09-16",
+          "home": "juventus-fc",
+          "away": "borussia-dortmund",
+          "score": "4:4",
+          "group": null
+        },
+        {
+          "date": "2025-09-16",
+          "home": "real-madrid-cf",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-16",
+          "home": "sl-benfica",
+          "away": "qarabag-fk",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2025-09-16",
+          "home": "tottenham-hotspur-fc",
+          "away": "villarreal-cf",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "olympiacos-fc",
+          "away": "pafos-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "sk-slavia-prague",
+          "away": "fk-bodoglimt",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "afc-ajax",
+          "away": "inter-milan",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "fc-bayern-munich",
+          "away": "chelsea-fc",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "liverpool-fc",
+          "away": "atletico-madrid",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-17",
+          "home": "paris-saint-germain-fc",
+          "away": "atalanta-bc",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "club-brugge-kv",
+          "away": "as-monaco-fc",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "fc-copenhagen",
+          "away": "bayer-04-leverkusen",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "eintracht-frankfurt",
+          "away": "galatasaray-sk",
+          "score": "5:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "manchester-city-fc",
+          "away": "ssc-napoli",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "newcastle-united-fc",
+          "away": "fc-barcelona",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-18",
+          "home": "sporting-cp",
+          "away": "fc-kairat",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "atalanta-bc",
+          "away": "club-brugge-kv",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "fc-kairat",
+          "away": "real-madrid-cf",
+          "score": "0:5",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "atletico-madrid",
+          "away": "eintracht-frankfurt",
+          "score": "5:1",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "chelsea-fc",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "inter-milan",
+          "away": "sk-slavia-prague",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "fk-bodoglimt",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "galatasaray-sk",
+          "away": "liverpool-fc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "olympique-de-marseille",
+          "away": "afc-ajax",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-09-30",
+          "home": "pafos-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:5",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol"
+        },
+        {
+          "date": "2025-10-01",
+          "home": "qarabag-fk",
+          "away": "fc-copenhagen",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "r-union-saint-gilloise",
+          "away": "newcastle-united-fc",
+          "score": "0:4",
+          "group": null,
+          "note": "Played at Constant Vanden Stock Stadium, Brussels"
+        },
+        {
+          "date": "2025-10-01",
+          "home": "arsenal-fc",
+          "away": "olympiacos-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "as-monaco-fc",
+          "away": "manchester-city-fc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "bayer-04-leverkusen",
+          "away": "psv-eindhoven",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "borussia-dortmund",
+          "away": "athletic-bilbao",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "fc-barcelona",
+          "away": "paris-saint-germain-fc",
+          "score": "1:2",
+          "group": null,
+          "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+        },
+        {
+          "date": "2025-10-01",
+          "home": "ssc-napoli",
+          "away": "sporting-cp",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-01",
+          "home": "villarreal-cf",
+          "away": "juventus-fc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "fc-barcelona",
+          "away": "olympiacos-fc",
+          "score": "6:1",
+          "group": null,
+          "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+        },
+        {
+          "date": "2025-10-21",
+          "home": "fc-kairat",
+          "away": "pafos-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "arsenal-fc",
+          "away": "atletico-madrid",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "bayer-04-leverkusen",
+          "away": "paris-saint-germain-fc",
+          "score": "2:7",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "fc-copenhagen",
+          "away": "borussia-dortmund",
+          "score": "2:4",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "newcastle-united-fc",
+          "away": "sl-benfica",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "psv-eindhoven",
+          "away": "ssc-napoli",
+          "score": "6:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-21",
+          "home": "r-union-saint-gilloise",
+          "away": "inter-milan",
+          "score": "0:4",
+          "group": null,
+          "note": "Played at Constant Vanden Stock Stadium, Brussels"
+        },
+        {
+          "date": "2025-10-21",
+          "home": "villarreal-cf",
+          "away": "manchester-city-fc",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "athletic-bilbao",
+          "away": "qarabag-fk",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "galatasaray-sk",
+          "away": "fk-bodoglimt",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "as-monaco-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "atalanta-bc",
+          "away": "sk-slavia-prague",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "chelsea-fc",
+          "away": "afc-ajax",
+          "score": "5:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "eintracht-frankfurt",
+          "away": "liverpool-fc",
+          "score": "1:5",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "fc-bayern-munich",
+          "away": "club-brugge-kv",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "real-madrid-cf",
+          "away": "juventus-fc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-22",
+          "home": "sporting-cp",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "sk-slavia-prague",
+          "away": "arsenal-fc",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "ssc-napoli",
+          "away": "eintracht-frankfurt",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "atletico-madrid",
+          "away": "r-union-saint-gilloise",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "fk-bodoglimt",
+          "away": "as-monaco-fc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "juventus-fc",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "liverpool-fc",
+          "away": "real-madrid-cf",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "olympiacos-fc",
+          "away": "psv-eindhoven",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-04",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-copenhagen",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "pafos-fc",
+          "away": "villarreal-cf",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol"
+        },
+        {
+          "date": "2025-11-05",
+          "home": "qarabag-fk",
+          "away": "chelsea-fc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "afc-ajax",
+          "away": "galatasaray-sk",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "club-brugge-kv",
+          "away": "fc-barcelona",
+          "score": "3:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "inter-milan",
+          "away": "fc-kairat",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "manchester-city-fc",
+          "away": "borussia-dortmund",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "newcastle-united-fc",
+          "away": "athletic-bilbao",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "olympique-de-marseille",
+          "away": "atalanta-bc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-05",
+          "home": "sl-benfica",
+          "away": "bayer-04-leverkusen",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "afc-ajax",
+          "away": "sl-benfica",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "galatasaray-sk",
+          "away": "r-union-saint-gilloise",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "borussia-dortmund",
+          "away": "villarreal-cf",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "chelsea-fc",
+          "away": "fc-barcelona",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "fk-bodoglimt",
+          "away": "juventus-fc",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "manchester-city-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "olympique-de-marseille",
+          "away": "newcastle-united-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "sk-slavia-prague",
+          "away": "athletic-bilbao",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-25",
+          "home": "ssc-napoli",
+          "away": "qarabag-fk",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "fc-copenhagen",
+          "away": "fc-kairat",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "pafos-fc",
+          "away": "as-monaco-fc",
+          "score": "2:2",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol"
+        },
+        {
+          "date": "2025-11-26",
+          "home": "arsenal-fc",
+          "away": "fc-bayern-munich",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "atletico-madrid",
+          "away": "inter-milan",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "eintracht-frankfurt",
+          "away": "atalanta-bc",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "liverpool-fc",
+          "away": "psv-eindhoven",
+          "score": "1:4",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "olympiacos-fc",
+          "away": "real-madrid-cf",
+          "score": "3:4",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "paris-saint-germain-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "5:3",
+          "group": null
+        },
+        {
+          "date": "2025-11-26",
+          "home": "sporting-cp",
+          "away": "club-brugge-kv",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "fc-kairat",
+          "away": "olympiacos-fc",
+          "score": "0:1",
+          "group": null,
+          "note": "Played at Astana Arena, Astana"
+        },
+        {
+          "date": "2025-12-09",
+          "home": "fc-bayern-munich",
+          "away": "sporting-cp",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "as-monaco-fc",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "atalanta-bc",
+          "away": "chelsea-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "fc-barcelona",
+          "away": "eintracht-frankfurt",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "inter-milan",
+          "away": "liverpool-fc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "psv-eindhoven",
+          "away": "atletico-madrid",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2025-12-09",
+          "home": "r-union-saint-gilloise",
+          "away": "olympique-de-marseille",
+          "score": "2:3",
+          "group": null,
+          "note": "Played at Constant Vanden Stock Stadium, Brussels"
+        },
+        {
+          "date": "2025-12-09",
+          "home": "tottenham-hotspur-fc",
+          "away": "sk-slavia-prague",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "qarabag-fk",
+          "away": "afc-ajax",
+          "score": "2:4",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "villarreal-cf",
+          "away": "fc-copenhagen",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "athletic-bilbao",
+          "away": "paris-saint-germain-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "bayer-04-leverkusen",
+          "away": "newcastle-united-fc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "borussia-dortmund",
+          "away": "fk-bodoglimt",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "club-brugge-kv",
+          "away": "arsenal-fc",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "juventus-fc",
+          "away": "pafos-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "real-madrid-cf",
+          "away": "manchester-city-fc",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-10",
+          "home": "sl-benfica",
+          "away": "ssc-napoli",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "fc-kairat",
+          "away": "club-brugge-kv",
+          "score": "1:4",
+          "group": null,
+          "note": "Played at Astana Arena, Astana"
+        },
+        {
+          "date": "2026-01-20",
+          "home": "fk-bodoglimt",
+          "away": "manchester-city-fc",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "fc-copenhagen",
+          "away": "ssc-napoli",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "inter-milan",
+          "away": "arsenal-fc",
+          "score": "1:3",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "olympiacos-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "real-madrid-cf",
+          "away": "as-monaco-fc",
+          "score": "6:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "sporting-cp",
+          "away": "paris-saint-germain-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "tottenham-hotspur-fc",
+          "away": "borussia-dortmund",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-20",
+          "home": "villarreal-cf",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "galatasaray-sk",
+          "away": "atletico-madrid",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "qarabag-fk",
+          "away": "eintracht-frankfurt",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "atalanta-bc",
+          "away": "athletic-bilbao",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "chelsea-fc",
+          "away": "pafos-fc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "fc-bayern-munich",
+          "away": "r-union-saint-gilloise",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "juventus-fc",
+          "away": "sl-benfica",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "newcastle-united-fc",
+          "away": "psv-eindhoven",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "olympique-de-marseille",
+          "away": "liverpool-fc",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2026-01-21",
+          "home": "sk-slavia-prague",
+          "away": "fc-barcelona",
+          "score": "2:4",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "afc-ajax",
+          "away": "olympiacos-fc",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "arsenal-fc",
+          "away": "fc-kairat",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "as-monaco-fc",
+          "away": "juventus-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "athletic-bilbao",
+          "away": "sporting-cp",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "atletico-madrid",
+          "away": "fk-bodoglimt",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "bayer-04-leverkusen",
+          "away": "villarreal-cf",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "borussia-dortmund",
+          "away": "inter-milan",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "club-brugge-kv",
+          "away": "olympique-de-marseille",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "eintracht-frankfurt",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "fc-barcelona",
+          "away": "fc-copenhagen",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "liverpool-fc",
+          "away": "qarabag-fk",
+          "score": "6:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "manchester-city-fc",
+          "away": "galatasaray-sk",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "pafos-fc",
+          "away": "sk-slavia-prague",
+          "score": "4:1",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol"
+        },
+        {
+          "date": "2026-01-28",
+          "home": "paris-saint-germain-fc",
+          "away": "newcastle-united-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "psv-eindhoven",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "r-union-saint-gilloise",
+          "away": "atalanta-bc",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Constant Vanden Stock Stadium, Brussels"
+        },
+        {
+          "date": "2026-01-28",
+          "home": "sl-benfica",
+          "away": "real-madrid-cf",
+          "score": "4:2",
+          "group": null
+        },
+        {
+          "date": "2026-01-28",
+          "home": "ssc-napoli",
+          "away": "chelsea-fc",
+          "score": "2:3",
+          "group": null
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-17",
+              "home": "as-monaco-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2026-02-25",
+              "home": "paris-saint-germain-fc",
+              "away": "as-monaco-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-17",
+              "home": "galatasaray-sk",
+              "away": "juventus-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "2026-02-25",
+              "home": "juventus-fc",
+              "away": "galatasaray-sk",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-17",
+              "home": "sl-benfica",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2026-02-25",
+              "home": "real-madrid-cf",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-17",
+              "home": "borussia-dortmund",
+              "away": "atalanta-bc",
+              "score": "2:0"
+            },
+            {
+              "date": "2026-02-25",
+              "home": "atalanta-bc",
+              "away": "borussia-dortmund",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-18",
+              "home": "qarabag-fk",
+              "away": "newcastle-united-fc",
+              "score": "1:6"
+            },
+            {
+              "date": "2026-02-24",
+              "home": "newcastle-united-fc",
+              "away": "qarabag-fk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-18",
+              "home": "club-brugge-kv",
+              "away": "atletico-madrid",
+              "score": "3:3"
+            },
+            {
+              "date": "2026-02-24",
+              "home": "atletico-madrid",
+              "away": "club-brugge-kv",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-18",
+              "home": "fk-bodoglimt",
+              "away": "inter-milan",
+              "score": "3:1"
+            },
+            {
+              "date": "2026-02-24",
+              "home": "inter-milan",
+              "away": "fk-bodoglimt",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-18",
+              "home": "olympiacos-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "0:2"
+            },
+            {
+              "date": "2026-02-24",
+              "home": "bayer-04-leverkusen",
+              "away": "olympiacos-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-11",
+              "home": "paris-saint-germain-fc",
+              "away": "chelsea-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "2026-03-17",
+              "home": "chelsea-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-10",
+              "home": "galatasaray-sk",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2026-03-18",
+              "home": "liverpool-fc",
+              "away": "galatasaray-sk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-11",
+              "home": "real-madrid-cf",
+              "away": "manchester-city-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2026-03-17",
+              "home": "manchester-city-fc",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-10",
+              "home": "atalanta-bc",
+              "away": "fc-bayern-munich",
+              "score": "1:6"
+            },
+            {
+              "date": "2026-03-18",
+              "home": "fc-bayern-munich",
+              "away": "atalanta-bc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-10",
+              "home": "newcastle-united-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "2026-03-18",
+              "home": "fc-barcelona",
+              "away": "newcastle-united-fc",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-10",
+              "home": "atletico-madrid",
+              "away": "tottenham-hotspur-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "2026-03-18",
+              "home": "tottenham-hotspur-fc",
+              "away": "atletico-madrid",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-11",
+              "home": "fk-bodoglimt",
+              "away": "sporting-cp",
+              "score": "3:0"
+            },
+            {
+              "date": "2026-03-17",
+              "home": "sporting-cp",
+              "away": "fk-bodoglimt",
+              "score": "5:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-11",
+              "home": "bayer-04-leverkusen",
+              "away": "arsenal-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2026-03-17",
+              "home": "arsenal-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-08",
+              "home": "paris-saint-germain-fc",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2026-04-14",
+              "home": "liverpool-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-07",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "1:2"
+            },
+            {
+              "date": "2026-04-15",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-08",
+              "home": "fc-barcelona",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "2026-04-14",
+              "home": "atletico-madrid",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-07",
+              "home": "sporting-cp",
+              "away": "arsenal-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2026-04-15",
+              "home": "arsenal-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-28",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-bayern-munich",
+              "score": "5:4"
+            },
+            {
+              "date": "2026-05-06",
+              "home": "fc-bayern-munich",
+              "away": "paris-saint-germain-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-29",
+              "home": "atletico-madrid",
+              "away": "arsenal-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2026-05-05",
+              "home": "arsenal-fc",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-05-30",
+              "home": "paris-saint-germain-fc",
+              "away": "arsenal-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Puskás Aréna, Budapest; Paris Saint-Germain FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "paris-saint-germain-fc"
+        }
+      ]
+    }
+  ]
+}

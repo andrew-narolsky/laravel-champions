@@ -1,6 +1,13 @@
 # European competitions — season JSON
 
-Import: `php artisan euro:import database/data/euro/<file>.json [--force]`
+Files: one folder per competition, one file per season — `database/data/euro/<competition-slug>/<season>.json`
+(e.g. `champions-league/1955-56.json`).
+
+Import: `php artisan euro:import database/data/euro/champions-league/1955-56.json [--force]`
+
+Logo: `database/data/images/euro/<competition-slug>.webp` — attached to the competition on import.
+
+All seasons of a competition: `for f in database/data/euro/champions-league/*.json; do php artisan euro:import "$f" --force; done`
 
 `--force` replaces an existing season (its ties and matches are deleted and re-created).
 Nothing is written if any club is unknown — the command lists them.
@@ -13,6 +20,9 @@ Club reference = club `slug` (preferred), exact `name`, or a historical name fro
   "season": "1955-56",          // same format as domestic seasons
   "competition_name": "European Cup", // optional: historical name in this season
   "points_for_win": 2,          // for group tables of this season (default 3)
+  "point_adjustments": [        // optional: deductions in group tables, shown as a footnote
+    { "club": "ac-milan", "stage": "group", "points": -2, "note": "Milan were docked two points ..." }
+  ],
   "stages": [
     {
       "stage": "round_1",       // App\Enums\EuroStage value

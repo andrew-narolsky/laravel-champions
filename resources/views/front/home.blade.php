@@ -124,9 +124,6 @@
                             <div class="tc-body">
                                 <span class="tc-type">{{ $competition->seasons_count }} {{ Str::plural('season', $competition->seasons_count) }}</span>
                                 <span class="tc-name">{{ $competition->name }}</span>
-                                @if($competition->description)
-                                    <span class="tc-meta">{{ $competition->description }}</span>
-                                @endif
                             </div>
                         </a>
                     @endforeach

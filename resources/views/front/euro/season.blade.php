@@ -6,6 +6,8 @@
     $metaDescription = "{$title}: all rounds, match results"
         . ($season->winner ? ", winner {$season->winner->name}" : '') . '.';
     $ogImage = $competition->attachment?->getFileUrl() ?? asset('build/images/champions.webp');
+    // clubs are shown under the name they had in this season
+    $year = $season->startYear();
 @endphp
 
 @section('meta')
@@ -43,10 +45,10 @@
         <div class="container">
             <div class="last-champ-grid">
                 <div class="last-champ-card">
-                    <img src="{{ $season->winner->attachment?->getFileUrl() ?? asset('/build/images/shield.svg') }}" class="lc-logo" alt="{{ $season->winner->name }}" loading="lazy">
+                    <img src="{{ $season->winner->attachment?->getFileUrl() ?? asset('/build/images/shield.svg') }}" class="lc-logo" alt="{{ $season->winner->nameAt($year) }}" loading="lazy">
                     <div class="lc-info">
                         <div class="lc-season">Winner</div>
-                        <div class="lc-name"><a href="{{ route('club.show', $season->winner) }}">{{ $season->winner->name }}</a></div>
+                        <div class="lc-name"><a href="{{ route('club.show', $season->winner) }}">{{ $season->winner->nameAt($year) }}</a></div>
                         <div class="lc-detail">Season {{ $season->name }}</div>
                     </div>
                 </div>
@@ -111,9 +113,7 @@
             @if($stage->isGroup())
                 @foreach($groupTables[$stage->value] ?? [] as $group => $rows)
                     @if($group !== '')<h3 class="table-title">Group {{ $group }}</h3>@endif
-                    @include('front.euro.partials.table', ['rows' => $rows, 'logo' => false])
-
-                    <div class="table-scroll euro-group-matches">
+                    <div class="table-scroll">
                         <table class="seasons-table euro-ties-table">
                             <colgroup>
                                 <col class="col-date">
@@ -133,13 +133,18 @@
                             @foreach($groupMatches[$stage->value][$group] ?? [] as $match)
                                 <tr>
                                     <td>{{ $match->played_at?->format('d.m.Y') ?? '—' }}</td>
-                                    <td @class(['place-1' => $match->home_goals > $match->away_goals])>@include('front.euro.partials.club', ['club' => $match->homeClub, 'logo' => false])</td>
-                                    <td @class(['place-1' => $match->away_goals > $match->home_goals])>@include('front.euro.partials.club', ['club' => $match->awayClub, 'logo' => false])</td>
+                                    <td @class(['place-1' => $match->home_goals > $match->away_goals])>@include('front.euro.partials.club', ['club' => $match->homeClub, 'logo' => false, 'year' => $year])</td>
+                                    <td @class(['place-1' => $match->away_goals > $match->home_goals])>@include('front.euro.partials.club', ['club' => $match->awayClub, 'logo' => false, 'year' => $year])</td>
                                     <td>{{ $match->score() }}{{ $mark($match->note) }}</td>
                                 </tr>
                             @endforeach
                             </tbody>
                         </table>
+                    </div>
+
+                    {{-- standings under the matches --}}
+                    <div class="euro-group-standings">
+                        @include('front.euro.partials.table', ['rows' => $rows, 'logo' => false, 'mark' => $mark, 'year' => $year])
                     </div>
                 @endforeach
             @else
@@ -170,10 +175,10 @@
                                     @endforeach
                                 </td>
                                 <td @class(['place-1' => $tie->winner_club_id === $tie->home_club_id])>
-                                    @include('front.euro.partials.club', ['club' => $tie->homeClub, 'logo' => false])
+                                    @include('front.euro.partials.club', ['club' => $tie->homeClub, 'logo' => false, 'year' => $year])
                                 </td>
                                 <td @class(['place-1' => $tie->away_club_id && $tie->winner_club_id === $tie->away_club_id])>
-                                    @include('front.euro.partials.club', ['club' => $tie->awayClub, 'logo' => false])
+                                    @include('front.euro.partials.club', ['club' => $tie->awayClub, 'logo' => false, 'year' => $year])
                                 </td>
                                 <td>
                                     @foreach($tie->matches as $match)

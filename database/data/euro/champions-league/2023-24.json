@@ -1,0 +1,1999 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2023-24",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "atletic-club-descaldes",
+            "fk-buducnost-podgorica"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2023-06-27",
+              "home": "atletic-club-descaldes",
+              "away": "fk-buducnost-podgorica",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Kópavogsvöllur, Kópavogur (Iceland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-tre-penne",
+            "breidablik"
+          ],
+          "note": "Semi-final round",
+          "matches": [
+            {
+              "date": "2023-06-27",
+              "home": "sp-tre-penne",
+              "away": "breidablik",
+              "score": "1:7",
+              "neutral": true,
+              "note": "Played at Kópavogsvöllur, Kópavogur (Iceland)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "breidablik"
+          ],
+          "note": "Final round",
+          "matches": [
+            {
+              "date": "2023-06-30",
+              "home": "fk-buducnost-podgorica",
+              "away": "breidablik",
+              "score": "0:5",
+              "neutral": true,
+              "note": "Played at Kópavogsvöllur, Kópavogur (Iceland)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "bk-hacken",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-12",
+              "home": "bk-hacken",
+              "away": "the-new-saints-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "the-new-saints-fc",
+              "away": "bk-hacken",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "fc-ballkani",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:0",
+              "note": "Played at Fadil Vokrri Stadium, Pristina"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-ballkani",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "shamrock-rovers-fc",
+              "away": "breidablik",
+              "score": "0:1"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "breidablik",
+              "away": "shamrock-rovers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fc-struga"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "fk-zalgiris",
+              "away": "fc-struga",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "fc-struga",
+              "away": "fk-zalgiris",
+              "score": "1:2",
+              "note": "Played at SRC Biljanini Izvori, Ohrid"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "ki-klaksvik",
+              "away": "ferencvarosi-tc",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "ferencvarosi-tc",
+              "away": "ki-klaksvik",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "valmiera-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "nk-olimpija-ljubljana",
+              "away": "valmiera-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "valmiera-fc",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "larne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-12",
+              "home": "hjk-helsinki",
+              "away": "larne-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "larne-fc",
+              "away": "hjk-helsinki",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at Solitude, Belfast"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "lincoln-red-imps-fc",
+              "away": "qarabag-fk",
+              "score": "1:2"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "qarabag-fk",
+              "away": "lincoln-red-imps-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "rakow-czestochowa",
+              "away": "fc-flora",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "fc-flora",
+              "away": "rakow-czestochowa",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-swift-hesperange"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-12",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-swift-hesperange",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "fc-swift-hesperange",
+              "away": "sk-slovan-bratislava",
+              "score": "0:2",
+              "note": "Played at Stade de Luxembourg, Luxembourg City"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcv-farul-constanta",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-12",
+              "home": "fcv-farul-constanta",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fcv-farul-constanta",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamrun-spartans-fc",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "hamrun-spartans-fc",
+              "away": "maccabi-haifa-fc",
+              "score": "0:4",
+              "note": "Played at Centenary Stadium, Ta' Qali"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "maccabi-haifa-fc",
+              "away": "hamrun-spartans-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-urartu",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "fc-urartu",
+              "away": "hsk-zrinjski-mostar",
+              "score": "0:1"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "hsk-zrinjski-mostar",
+              "away": "fc-urartu",
+              "score": "2:3",
+              "extra_time": true,
+              "note": "HŠK Zrinjski Mostar won 4:3 on penalties"
+            }
+          ],
+          "winner": "hsk-zrinjski-mostar"
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-11",
+              "home": "fk-partizani",
+              "away": "fc-bate-borisov",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-07-18",
+              "home": "fc-bate-borisov",
+              "away": "fk-partizani",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary), behind closed doors: Belarusian clubs had to play at neutral venues"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-12",
+              "home": "fc-astana",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-07-19",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-astana",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "fk-zalgiris",
+              "away": "galatasaray-sk",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "galatasaray-sk",
+              "away": "fk-zalgiris",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "nk-olimpija-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-26",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-08-01",
+              "home": "nk-olimpija-ljubljana",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-26",
+              "home": "rakow-czestochowa",
+              "away": "qarabag-fk",
+              "score": "3:2"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "qarabag-fk",
+              "away": "rakow-czestochowa",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-26",
+              "home": "ki-klaksvik",
+              "away": "bk-hacken",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "bk-hacken",
+              "away": "ki-klaksvik",
+              "score": "3:3",
+              "extra_time": true,
+              "note": "KÍ Klaksvík won 4:3 on penalties"
+            }
+          ],
+          "winner": "ki-klaksvik"
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "hjk-helsinki",
+              "away": "molde-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "molde-fk",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "breidablik",
+              "away": "fc-copenhagen",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "fc-copenhagen",
+              "away": "breidablik",
+              "score": "6:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-26",
+              "home": "fc-sheriff-tiraspol",
+              "away": "maccabi-haifa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-sheriff-tiraspol",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-limassol-fc",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-26",
+              "home": "aris-limassol-fc",
+              "away": "fc-bate-borisov",
+              "score": "6:2"
+            },
+            {
+              "date": "2023-08-01",
+              "home": "fc-bate-borisov",
+              "away": "aris-limassol-fc",
+              "score": "3:5",
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary), behind closed doors: Belarusian clubs had to play at neutral venues"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "hsk-zrinjski-mostar",
+              "away": "sk-slovan-bratislava",
+              "score": "0:1"
+            },
+            {
+              "date": "2023-08-01",
+              "home": "sk-slovan-bratislava",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-astana",
+              "score": "4:0"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "fc-astana",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-dnipro-1",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "sc-dnipro-1",
+              "away": "panathinaikos-fc",
+              "score": "1:3",
+              "neutral": true,
+              "note": "Played at Košická futbalová aréna, Košice (Slovakia) (Russian invasion of Ukraine)"
+            },
+            {
+              "date": "2023-08-01",
+              "home": "panathinaikos-fc",
+              "away": "sc-dnipro-1",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2023-07-25",
+              "home": "servette-fc",
+              "away": "krc-genk",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-08-02",
+              "home": "krc-genk",
+              "away": "servette-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Servette FC won 4:1 on penalties"
+            }
+          ],
+          "winner": "servette-fc"
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "aris-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "rakow-czestochowa",
+              "away": "aris-limassol-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "aris-limassol-fc",
+              "away": "rakow-czestochowa",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-09",
+              "home": "sk-slovan-bratislava",
+              "away": "maccabi-haifa-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "maccabi-haifa-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-15",
+              "home": "gnk-dinamo-zagreb",
+              "away": "aek-athens-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2023-08-19",
+              "home": "aek-athens-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:2",
+              "note": "Postponed from 8 August after supporter riots in Athens in which a fan died"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "nk-olimpija-ljubljana",
+              "away": "galatasaray-sk",
+              "score": "0:3"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "galatasaray-sk",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "fc-copenhagen",
+              "away": "ac-sparta-prague",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "ac-sparta-prague",
+              "away": "fc-copenhagen",
+              "score": "3:3",
+              "extra_time": true,
+              "note": "FC Copenhagen won 4:2 on penalties"
+            }
+          ],
+          "winner": "fc-copenhagen"
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "ki-klaksvik",
+              "away": "molde-fk",
+              "score": "2:1",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "molde-fk",
+              "away": "ki-klaksvik",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "fk-tsc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "sc-braga",
+              "away": "fk-tsc",
+              "score": "3:0"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "fk-tsc",
+              "away": "sc-braga",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-09",
+              "home": "rangers-fc",
+              "away": "servette-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "servette-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-09",
+              "home": "panathinaikos-fc",
+              "away": "olympique-de-marseille",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "olympique-de-marseille",
+              "away": "panathinaikos-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Panathinaikos FC won 5:3 on penalties"
+            }
+          ],
+          "winner": "panathinaikos-fc"
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "psv-eindhoven",
+              "away": "sk-sturm-graz",
+              "score": "4:1"
+            },
+            {
+              "date": "2023-08-15",
+              "home": "sk-sturm-graz",
+              "away": "psv-eindhoven",
+              "score": "1:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-23",
+              "home": "maccabi-haifa-fc",
+              "away": "bsc-young-boys",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-08-29",
+              "home": "bsc-young-boys",
+              "away": "maccabi-haifa-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-22",
+              "home": "r-antwerp-fc",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-08-30",
+              "home": "aek-athens-fc",
+              "away": "r-antwerp-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-22",
+              "home": "rakow-czestochowa",
+              "away": "fc-copenhagen",
+              "score": "0:1",
+              "note": "Played at Zagłębiowski Park Sportowy, Sosnowiec"
+            },
+            {
+              "date": "2023-08-30",
+              "home": "fc-copenhagen",
+              "away": "rakow-czestochowa",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-23",
+              "home": "molde-fk",
+              "away": "galatasaray-sk",
+              "score": "2:3"
+            },
+            {
+              "date": "2023-08-29",
+              "home": "galatasaray-sk",
+              "away": "molde-fk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-22",
+              "home": "rangers-fc",
+              "away": "psv-eindhoven",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-08-30",
+              "home": "psv-eindhoven",
+              "away": "rangers-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-23",
+              "home": "sc-braga",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-29",
+              "home": "panathinaikos-fc",
+              "away": "sc-braga",
+              "score": "0:1",
+              "note": "Played at Olympic Stadium, Athens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2023-09-20",
+          "home": "galatasaray-sk",
+          "away": "fc-copenhagen",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "fc-bayern-munich",
+          "away": "manchester-united-fc",
+          "score": "4:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "manchester-united-fc",
+          "away": "galatasaray-sk",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "fc-copenhagen",
+          "away": "fc-bayern-munich",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "galatasaray-sk",
+          "away": "fc-bayern-munich",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "manchester-united-fc",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "fc-bayern-munich",
+          "away": "galatasaray-sk",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "fc-copenhagen",
+          "away": "manchester-united-fc",
+          "score": "4:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "galatasaray-sk",
+          "away": "manchester-united-fc",
+          "score": "3:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "fc-bayern-munich",
+          "away": "fc-copenhagen",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "manchester-united-fc",
+          "away": "fc-bayern-munich",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "fc-copenhagen",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "sevilla-fc",
+          "away": "rc-lens",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "arsenal-fc",
+          "away": "psv-eindhoven",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "rc-lens",
+          "away": "arsenal-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "psv-eindhoven",
+          "away": "sevilla-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "sevilla-fc",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "rc-lens",
+          "away": "psv-eindhoven",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "arsenal-fc",
+          "away": "sevilla-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "psv-eindhoven",
+          "away": "rc-lens",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "sevilla-fc",
+          "away": "psv-eindhoven",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "arsenal-fc",
+          "away": "rc-lens",
+          "score": "6:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "rc-lens",
+          "away": "sevilla-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "psv-eindhoven",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "real-madrid-cf",
+          "away": "1-fc-union-berlin",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "sc-braga",
+          "away": "ssc-napoli",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "1-fc-union-berlin",
+          "away": "sc-braga",
+          "score": "2:3",
+          "group": "C",
+          "note": "Played at Olympiastadion, Berlin"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "ssc-napoli",
+          "away": "real-madrid-cf",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "sc-braga",
+          "away": "real-madrid-cf",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "1-fc-union-berlin",
+          "away": "ssc-napoli",
+          "score": "0:1",
+          "group": "C",
+          "note": "Played at Olympiastadion, Berlin"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "ssc-napoli",
+          "away": "1-fc-union-berlin",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "real-madrid-cf",
+          "away": "sc-braga",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "real-madrid-cf",
+          "away": "ssc-napoli",
+          "score": "4:2",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "sc-braga",
+          "away": "1-fc-union-berlin",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "ssc-napoli",
+          "away": "sc-braga",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "1-fc-union-berlin",
+          "away": "real-madrid-cf",
+          "score": "2:3",
+          "group": "C",
+          "note": "Played at Olympiastadion, Berlin"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "real-sociedad",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-09-20",
+          "home": "sl-benfica",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "fc-red-bull-salzburg",
+          "away": "real-sociedad",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-03",
+          "home": "inter-milan",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "inter-milan",
+          "away": "fc-red-bull-salzburg",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-24",
+          "home": "sl-benfica",
+          "away": "real-sociedad",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "real-sociedad",
+          "away": "sl-benfica",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-08",
+          "home": "fc-red-bull-salzburg",
+          "away": "inter-milan",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "sl-benfica",
+          "away": "inter-milan",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-29",
+          "home": "real-sociedad",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "inter-milan",
+          "away": "real-sociedad",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-12-12",
+          "home": "fc-red-bull-salzburg",
+          "away": "sl-benfica",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "feyenoord",
+          "away": "celtic-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "ss-lazio",
+          "away": "atletico-madrid",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "atletico-madrid",
+          "away": "feyenoord",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "celtic-fc",
+          "away": "ss-lazio",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "feyenoord",
+          "away": "ss-lazio",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "celtic-fc",
+          "away": "atletico-madrid",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "atletico-madrid",
+          "away": "celtic-fc",
+          "score": "6:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "ss-lazio",
+          "away": "feyenoord",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "ss-lazio",
+          "away": "celtic-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "feyenoord",
+          "away": "atletico-madrid",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "atletico-madrid",
+          "away": "ss-lazio",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "celtic-fc",
+          "away": "feyenoord",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "ac-milan",
+          "away": "newcastle-united-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "paris-saint-germain-fc",
+          "away": "borussia-dortmund",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "borussia-dortmund",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "newcastle-united-fc",
+          "away": "paris-saint-germain-fc",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "paris-saint-germain-fc",
+          "away": "ac-milan",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "newcastle-united-fc",
+          "away": "borussia-dortmund",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "borussia-dortmund",
+          "away": "newcastle-united-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "ac-milan",
+          "away": "paris-saint-germain-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "paris-saint-germain-fc",
+          "away": "newcastle-united-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "ac-milan",
+          "away": "borussia-dortmund",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "borussia-dortmund",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "newcastle-united-fc",
+          "away": "ac-milan",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "bsc-young-boys",
+          "away": "rb-leipzig",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "manchester-city-fc",
+          "away": "red-star-belgrade",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "rb-leipzig",
+          "away": "manchester-city-fc",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "red-star-belgrade",
+          "away": "bsc-young-boys",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "rb-leipzig",
+          "away": "red-star-belgrade",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "bsc-young-boys",
+          "away": "manchester-city-fc",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "manchester-city-fc",
+          "away": "bsc-young-boys",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "red-star-belgrade",
+          "away": "rb-leipzig",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "manchester-city-fc",
+          "away": "rb-leipzig",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "bsc-young-boys",
+          "away": "red-star-belgrade",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "rb-leipzig",
+          "away": "bsc-young-boys",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "red-star-belgrade",
+          "away": "manchester-city-fc",
+          "score": "2:3",
+          "group": "G"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "fc-barcelona",
+          "away": "r-antwerp-fc",
+          "score": "5:0",
+          "group": "H",
+          "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+        },
+        {
+          "date": "2023-09-19",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-porto",
+          "score": "1:3",
+          "group": "H",
+          "neutral": true,
+          "note": "Played at Volksparkstadion, Hamburg (Germany) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "r-antwerp-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-04",
+          "home": "fc-porto",
+          "away": "fc-barcelona",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "fc-barcelona",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:1",
+          "group": "H",
+          "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+        },
+        {
+          "date": "2023-10-25",
+          "home": "r-antwerp-fc",
+          "away": "fc-porto",
+          "score": "1:4",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-barcelona",
+          "score": "1:0",
+          "group": "H",
+          "neutral": true,
+          "note": "Played at Volksparkstadion, Hamburg (Germany) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2023-11-07",
+          "home": "fc-porto",
+          "away": "r-antwerp-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "fc-shakhtar-donetsk",
+          "away": "r-antwerp-fc",
+          "score": "1:0",
+          "group": "H",
+          "neutral": true,
+          "note": "Played at Volksparkstadion, Hamburg (Germany) (Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2023-11-28",
+          "home": "fc-barcelona",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "H",
+          "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "fc-porto",
+          "away": "fc-shakhtar-donetsk",
+          "score": "5:3",
+          "group": "H"
+        },
+        {
+          "date": "2023-12-13",
+          "home": "r-antwerp-fc",
+          "away": "fc-barcelona",
+          "score": "3:2",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-21",
+              "home": "fc-porto",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-03-12",
+              "home": "arsenal-fc",
+              "away": "fc-porto",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Arsenal FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "arsenal-fc"
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-21",
+              "home": "ssc-napoli",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-03-12",
+              "home": "fc-barcelona",
+              "away": "ssc-napoli",
+              "score": "3:1",
+              "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-14",
+              "home": "paris-saint-germain-fc",
+              "away": "real-sociedad",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-03-05",
+              "home": "real-sociedad",
+              "away": "paris-saint-germain-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-20",
+              "home": "inter-milan",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-03-13",
+              "home": "atletico-madrid",
+              "away": "inter-milan",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Atlético Madrid won 3:2 on penalties"
+            }
+          ],
+          "winner": "atletico-madrid"
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-20",
+              "home": "psv-eindhoven",
+              "away": "borussia-dortmund",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-03-13",
+              "home": "borussia-dortmund",
+              "away": "psv-eindhoven",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-14",
+              "home": "ss-lazio",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-03-05",
+              "home": "fc-bayern-munich",
+              "away": "ss-lazio",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-13",
+              "home": "fc-copenhagen",
+              "away": "manchester-city-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2024-03-06",
+              "home": "manchester-city-fc",
+              "away": "fc-copenhagen",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-13",
+              "home": "rb-leipzig",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-03-06",
+              "home": "real-madrid-cf",
+              "away": "rb-leipzig",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-09",
+              "home": "arsenal-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-04-17",
+              "home": "fc-bayern-munich",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-10",
+              "home": "atletico-madrid",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-04-16",
+              "home": "borussia-dortmund",
+              "away": "atletico-madrid",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-09",
+              "home": "real-madrid-cf",
+              "away": "manchester-city-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "2024-04-17",
+              "home": "manchester-city-fc",
+              "away": "real-madrid-cf",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Real Madrid CF won 4:3 on penalties"
+            }
+          ],
+          "winner": "real-madrid-cf"
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-10",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "2:3"
+            },
+            {
+              "date": "2024-04-16",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "1:4",
+              "note": "Played at Estadi Olímpic Lluís Companys, Barcelona (Camp Nou under reconstruction)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-05-01",
+              "home": "borussia-dortmund",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-05-07",
+              "home": "paris-saint-germain-fc",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-30",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-05-08",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2024-06-01",
+              "home": "borussia-dortmund",
+              "away": "real-madrid-cf",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

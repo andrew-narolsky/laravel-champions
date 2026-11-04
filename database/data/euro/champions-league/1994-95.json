@@ -1,0 +1,689 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1994-95",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
+  "point_adjustments": [
+    {
+      "club": "ac-milan",
+      "stage": "group",
+      "points": -2,
+      "note": "Milan were docked two points for crowd trouble against Casino Salzburg"
+    }
+  ],
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "fc-avenir-beggen",
+              "away": "galatasaray-sk",
+              "score": "1:5"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "galatasaray-sk",
+              "away": "fc-avenir-beggen",
+              "score": "4:0",
+              "note": "Played at İzmir Atatürk Stadium, İzmir"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "ac-sparta-prague",
+              "away": "ifk-goteborg",
+              "score": "1:0",
+              "note": "Played at Stadion Střelnice, Jablonec nad Nisou"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "ifk-goteborg",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "silkeborg-if",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "silkeborg-if",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "fc-dynamo-kyiv",
+              "away": "silkeborg-if",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "vac-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "paris-saint-germain-fc",
+              "away": "vac-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "vac-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "legia-warsaw",
+              "away": "hnk-hajduk-split",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "hnk-hajduk-split",
+              "away": "legia-warsaw",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "fcsb",
+              "away": "servette-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "servette-fc",
+              "away": "fcsb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "aek-athens-fc",
+              "away": "rangers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "rangers-fc",
+              "away": "aek-athens-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-10",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "fc-red-bull-salzburg",
+              "away": "maccabi-haifa-fc",
+              "score": "3:1",
+              "note": "Played at Ernst-Happel-Stadion, Vienna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1994-09-14",
+          "home": "fc-barcelona",
+          "away": "galatasaray-sk",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "manchester-united-fc",
+          "away": "ifk-goteborg",
+          "score": "4:2",
+          "group": "A"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "galatasaray-sk",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "ifk-goteborg",
+          "away": "fc-barcelona",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "ifk-goteborg",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "manchester-united-fc",
+          "away": "fc-barcelona",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "fc-barcelona",
+          "away": "manchester-united-fc",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "galatasaray-sk",
+          "away": "ifk-goteborg",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "galatasaray-sk",
+          "away": "fc-barcelona",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "ifk-goteborg",
+          "away": "manchester-united-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "fc-barcelona",
+          "away": "ifk-goteborg",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "manchester-united-fc",
+          "away": "galatasaray-sk",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-spartak-moscow",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "fc-bayern-munich",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "fc-spartak-moscow",
+          "away": "paris-saint-germain-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "fc-dynamo-kyiv",
+          "away": "paris-saint-germain-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "fc-spartak-moscow",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "fc-bayern-munich",
+          "away": "fc-spartak-moscow",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "fc-bayern-munich",
+          "away": "paris-saint-germain-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "fc-spartak-moscow",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-bayern-munich",
+          "score": "1:4",
+          "group": "B"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-spartak-moscow",
+          "score": "4:1",
+          "group": "B"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "rsc-anderlecht",
+          "away": "fcsb",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "hnk-hajduk-split",
+          "away": "sl-benfica",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "sl-benfica",
+          "away": "rsc-anderlecht",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "fcsb",
+          "away": "hnk-hajduk-split",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "sl-benfica",
+          "away": "fcsb",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "hnk-hajduk-split",
+          "away": "rsc-anderlecht",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "fcsb",
+          "away": "sl-benfica",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "rsc-anderlecht",
+          "away": "hnk-hajduk-split",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "sl-benfica",
+          "away": "hnk-hajduk-split",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "fcsb",
+          "away": "rsc-anderlecht",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "rsc-anderlecht",
+          "away": "sl-benfica",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "hnk-hajduk-split",
+          "away": "fcsb",
+          "score": "1:4",
+          "group": "C"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "afc-ajax",
+          "away": "ac-milan",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "1994-09-14",
+          "home": "fc-red-bull-salzburg",
+          "away": "aek-athens-fc",
+          "score": "0:0",
+          "group": "D",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "aek-athens-fc",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "1994-09-28",
+          "home": "ac-milan",
+          "away": "fc-red-bull-salzburg",
+          "score": "3:0",
+          "group": "D",
+          "note": "Casino Salzburg goalkeeper Otto Konrad was hit by a bottle thrown from the stands"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "aek-athens-fc",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "1994-10-19",
+          "home": "fc-red-bull-salzburg",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "D",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "afc-ajax",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "1994-11-02",
+          "home": "ac-milan",
+          "away": "aek-athens-fc",
+          "score": "2:1",
+          "group": "D",
+          "note": "Played at Stadio Nereo Rocco, Trieste: Milan were banned from San Siro for two matches after crowd trouble against Casino Salzburg"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "aek-athens-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "1994-11-23",
+          "home": "ac-milan",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "D",
+          "note": "Played at Stadio Nereo Rocco, Trieste: Milan were banned from San Siro for two matches after crowd trouble against Casino Salzburg"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "afc-ajax",
+          "away": "aek-athens-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "1994-12-07",
+          "home": "fc-red-bull-salzburg",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "D",
+          "note": "Played at Ernst-Happel-Stadion, Vienna"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "ifk-goteborg"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "1995-03-01",
+              "home": "fc-bayern-munich",
+              "away": "ifk-goteborg",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-03-15",
+              "home": "ifk-goteborg",
+              "away": "fc-bayern-munich",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-01",
+              "home": "hnk-hajduk-split",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-03-15",
+              "home": "afc-ajax",
+              "away": "hnk-hajduk-split",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-01",
+              "home": "fc-barcelona",
+              "away": "paris-saint-germain-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-03-15",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-01",
+              "home": "ac-milan",
+              "away": "sl-benfica",
+              "score": "2:0"
+            },
+            {
+              "date": "1995-03-15",
+              "home": "sl-benfica",
+              "away": "ac-milan",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-05",
+              "home": "fc-bayern-munich",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-04-19",
+              "home": "afc-ajax",
+              "away": "fc-bayern-munich",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-05",
+              "home": "paris-saint-germain-fc",
+              "away": "ac-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1995-04-19",
+              "home": "ac-milan",
+              "away": "paris-saint-germain-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1995-05-24",
+              "home": "afc-ajax",
+              "away": "ac-milan",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Ernst-Happel-Stadion, Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

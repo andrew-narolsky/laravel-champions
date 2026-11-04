@@ -3,6 +3,7 @@
 namespace App\Console\Commands;
 
 use App\Enums\EuroStage;
+use App\Models\Attachment;
 use App\Models\Club;
 use App\Models\ClubName;
 use App\Models\EuroCompetition;
@@ -11,6 +12,7 @@ use App\Models\EuroTie;
 use App\Services\StatsService;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
 use RuntimeException;
 
@@ -83,6 +85,8 @@ class ImportEuroSeason extends Command
             ]
         );
 
+        $this->attachLogo($competition);
+
         $season = $competition->seasons()->where('name', $data['season'])->first();
 
         if ($season && !$this->option('force')) {
@@ -98,6 +102,12 @@ class ImportEuroSeason extends Command
         $season->fill([
             'competition_name' => $data['competition_name'] ?? null,
             'points_for_win' => $data['points_for_win'] ?? 3,
+            'point_adjustments' => array_map(fn (array $a) => [
+                'club_id' => $this->club($a['club']),
+                'stage' => $a['stage'] ?? EuroStage::GROUP->value,
+                'points' => (int) $a['points'],
+                'note' => $a['note'] ?? null,
+            ], $data['point_adjustments'] ?? []) ?: null,
             'winner_club_id' => null,
             'runner_up_club_id' => null,
         ])->save();
@@ -126,6 +136,28 @@ class ImportEuroSeason extends Command
         }
 
         return $season->load('competition', 'winner');
+    }
+
+    /**
+     * Logo from database/data/images/euro/<slug>.webp (same convention as CompetitionSeeder).
+     */
+    private function attachLogo(EuroCompetition $competition): void
+    {
+        $src = database_path("data/images/euro/{$competition->slug}.webp");
+
+        if (!file_exists($src)) {
+            return;
+        }
+
+        $path = 'uploads/' . EuroCompetition::MODULE_NAME;
+        $filename = "{$competition->slug}.webp";
+
+        Storage::disk('public')->put("{$path}/{$filename}", file_get_contents($src));
+
+        Attachment::updateOrCreate(
+            ['module' => EuroCompetition::MODULE_NAME, 'module_id' => $competition->id],
+            ['filename' => $filename, 'path' => $path, 'ext' => 'webp', 'type' => 'image', 'size' => filesize($src)],
+        );
     }
 
     private function importTie(EuroSeason $season, EuroStage $stage, array $tieData, int $order): void
@@ -236,6 +268,10 @@ class ImportEuroSeason extends Command
 
         if (isset($data['winner'])) {
             $refs[] = $data['winner'];
+        }
+
+        foreach ($data['point_adjustments'] ?? [] as $a) {
+            $refs[] = $a['club'];
         }
 
         foreach ($data['stages'] ?? [] as $stage) {

@@ -15,8 +15,13 @@ class EuroSeason extends Model
         'name',
         'competition_name',
         'points_for_win',
+        'point_adjustments',
         'winner_club_id',
         'runner_up_club_id',
+    ];
+
+    protected $casts = [
+        'point_adjustments' => 'array',
     ];
 
     /**
@@ -25,6 +30,14 @@ class EuroSeason extends Model
     public function competitionTitle(): string
     {
         return $this->competition_name ?: $this->competition->name;
+    }
+
+    /**
+     * First calendar year of the season ("2008-09" → 2008), used for historical club names.
+     */
+    public function startYear(): int
+    {
+        return (int) substr($this->name, 0, 4);
     }
 
     public function competition(): BelongsTo

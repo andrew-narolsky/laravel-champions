@@ -1,0 +1,956 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "1993-94",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-norma-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "hjk-helsinki",
+              "away": "fc-norma-tallinn",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "fc-norma-tallinn",
+              "away": "hjk-helsinki",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fk-ekranas",
+              "away": "floriana-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "floriana-fc",
+              "away": "fk-ekranas",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b68-toftir",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "b68-toftir",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:5"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "gnk-dinamo-zagreb",
+              "away": "b68-toftir",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "nk-olimpija"
+          ],
+          "winner": "skonto-fc",
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "skonto-fc",
+              "away": "nk-olimpija",
+              "score": "0:1",
+              "note": "Played at Daugava Stadium, Liepāja"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "nk-olimpija",
+              "away": "skonto-fc",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Skonto won 11:10 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cwmbran-town-afc",
+            "cork-city-fc"
+          ],
+          "winner": "cork-city-fc",
+          "note": "Cork City won on away goals",
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "cwmbran-town-afc",
+              "away": "cork-city-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "cork-city-fc",
+              "away": "cwmbran-town-afc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "linfield-fc"
+          ],
+          "winner": "linfield-fc",
+          "note": "Dinamo Tbilisi won 3:2 on aggregate but were disqualified for an attempt to bribe the referee of the first leg; Linfield advanced",
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-dinamo-tbilisi",
+              "away": "linfield-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "linfield-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-avenir-beggen",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "rosenborg-bk",
+              "away": "fc-avenir-beggen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "ia-akranes"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-22",
+              "home": "fk-partizani",
+              "away": "ia-akranes",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "ia-akranes",
+              "away": "fk-partizani",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-aarau"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "ac-omonia",
+              "away": "fc-aarau",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "fc-aarau",
+              "away": "ac-omonia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-zimbru-chisinau",
+              "away": "beitar-jerusalem-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "beitar-jerusalem-fc",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-porto",
+              "away": "floriana-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "floriana-fc",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "ia-akranes",
+              "away": "feyenoord",
+              "score": "1:0",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "feyenoord",
+              "away": "ia-akranes",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "as-monaco-fc",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "aek-athens-fc",
+              "away": "as-monaco-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "gnk-dinamo-zagreb"
+          ],
+          "winner": "fcsb",
+          "note": "Steaua București won on away goals",
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fcsb",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fcsb",
+              "score": "2:3",
+              "neutral": true,
+              "note": "Played at Bežigrad Stadium, Ljubljana (Slovenia): Croatian clubs had to play at neutral venues for security reasons"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "pfc-levski-sofia"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski Sofia won on away goals",
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "rangers-fc",
+              "away": "pfc-levski-sofia",
+              "score": "3:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "pfc-levski-sofia",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-16",
+              "home": "sv-werder-bremen",
+              "away": "fc-dinamo-minsk",
+              "score": "5:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-dinamo-minsk",
+              "away": "sv-werder-bremen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-16",
+              "home": "linfield-fc",
+              "away": "fc-copenhagen",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-copenhagen",
+              "away": "linfield-fc",
+              "score": "4:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aarau",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-aarau",
+              "away": "ac-milan",
+              "score": "0:1",
+              "note": "Played at Hardturm, Zürich"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "ac-milan",
+              "away": "fc-aarau",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "aik-fotboll",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "ac-sparta-prague",
+              "away": "aik-fotboll",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "hjk-helsinki",
+              "away": "rsc-anderlecht",
+              "score": "0:3",
+              "note": "Played at Tammelan Stadion, Tampere"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "rsc-anderlecht",
+              "away": "hjk-helsinki",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "budapest-honved-fc",
+              "away": "manchester-united-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "manchester-united-fc",
+              "away": "budapest-honved-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "cork-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "galatasaray-sk",
+              "away": "cork-city-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "cork-city-fc",
+              "away": "galatasaray-sk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "lech-poznan",
+              "away": "beitar-jerusalem-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "beitar-jerusalem-fc",
+              "away": "lech-poznan",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "skonto-fc",
+              "away": "fc-spartak-moscow",
+              "score": "0:5"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-spartak-moscow",
+              "away": "skonto-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-barcelona",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-barcelona",
+              "away": "fc-dynamo-kyiv",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "rosenborg-bk",
+              "away": "fk-austria-wien",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fk-austria-wien",
+              "away": "rosenborg-bk",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "fc-porto",
+              "away": "feyenoord",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "feyenoord",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "as-monaco-fc",
+              "away": "fcsb",
+              "score": "4:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "fcsb",
+              "away": "as-monaco-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "pfc-levski-sofia",
+              "away": "sv-werder-bremen",
+              "score": "2:2"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "sv-werder-bremen",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "fc-copenhagen",
+              "away": "ac-milan",
+              "score": "0:6"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "ac-milan",
+              "away": "fc-copenhagen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "ac-sparta-prague",
+              "away": "rsc-anderlecht",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "rsc-anderlecht",
+              "away": "ac-sparta-prague",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "galatasaray-sk"
+          ],
+          "winner": "galatasaray-sk",
+          "note": "Galatasaray won on away goals",
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "manchester-united-fc",
+              "away": "galatasaray-sk",
+              "score": "3:3"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "galatasaray-sk",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "lech-poznan",
+              "away": "fc-spartak-moscow",
+              "score": "1:5"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "fc-spartak-moscow",
+              "away": "lech-poznan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "fc-barcelona",
+              "away": "fk-austria-wien",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "fk-austria-wien",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "1993-11-24",
+          "home": "as-monaco-fc",
+          "away": "fc-spartak-moscow",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "1993-11-24",
+          "home": "galatasaray-sk",
+          "away": "fc-barcelona",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1993-12-08",
+          "home": "fc-barcelona",
+          "away": "as-monaco-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "1993-12-08",
+          "home": "fc-spartak-moscow",
+          "away": "galatasaray-sk",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-02",
+          "home": "as-monaco-fc",
+          "away": "galatasaray-sk",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-02",
+          "home": "fc-spartak-moscow",
+          "away": "fc-barcelona",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-16",
+          "home": "galatasaray-sk",
+          "away": "as-monaco-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-16",
+          "home": "fc-barcelona",
+          "away": "fc-spartak-moscow",
+          "score": "5:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-30",
+          "home": "fc-spartak-moscow",
+          "away": "as-monaco-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-03-30",
+          "home": "fc-barcelona",
+          "away": "galatasaray-sk",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "1994-04-13",
+          "home": "as-monaco-fc",
+          "away": "fc-barcelona",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "1994-04-13",
+          "home": "galatasaray-sk",
+          "away": "fc-spartak-moscow",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "1993-11-24",
+          "home": "rsc-anderlecht",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "1993-11-24",
+          "home": "fc-porto",
+          "away": "sv-werder-bremen",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "1993-12-01",
+          "home": "ac-milan",
+          "away": "fc-porto",
+          "score": "3:0",
+          "group": "B",
+          "note": "Brought forward from 8 December to give Milan time to prepare for the Intercontinental Cup"
+        },
+        {
+          "date": "1993-12-08",
+          "home": "sv-werder-bremen",
+          "away": "rsc-anderlecht",
+          "score": "5:3",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-02",
+          "home": "ac-milan",
+          "away": "sv-werder-bremen",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-02",
+          "home": "rsc-anderlecht",
+          "away": "fc-porto",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-16",
+          "home": "sv-werder-bremen",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-16",
+          "home": "fc-porto",
+          "away": "rsc-anderlecht",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-30",
+          "home": "ac-milan",
+          "away": "rsc-anderlecht",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-03-30",
+          "home": "sv-werder-bremen",
+          "away": "fc-porto",
+          "score": "0:5",
+          "group": "B"
+        },
+        {
+          "date": "1994-04-13",
+          "home": "fc-porto",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "1994-04-13",
+          "home": "rsc-anderlecht",
+          "away": "sv-werder-bremen",
+          "score": "1:2",
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-04-27",
+              "home": "ac-milan",
+              "away": "as-monaco-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1994-04-27",
+              "home": "fc-barcelona",
+              "away": "fc-porto",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1994-05-18",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "4:0",
+              "neutral": true,
+              "note": "Olympic Stadium, Athens"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2023 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2000-01",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "birkirkara-fc",
+              "away": "kr-reykjavik",
+              "score": "1:2"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "kr-reykjavik",
+              "away": "birkirkara-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "f91-dudelange",
+              "away": "pfc-levski-sofia",
+              "score": "0:4"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "pfc-levski-sofia",
+              "away": "f91-dudelange",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "linfield-fc"
+          ],
+          "winner": "fc-haka",
+          "note": "Haka won on away goals",
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "fc-haka",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "linfield-fc",
+              "away": "fc-haka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "ki-klaksvik",
+              "away": "red-star-belgrade",
+              "score": "0:3",
+              "note": "Played at Svangaskarð, Toftir"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "red-star-belgrade",
+              "away": "ki-klaksvik",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "the-new-saints-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "2:2",
+              "note": "Played at Racecourse Ground, Wrexham"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "fci-levadia-tallinn",
+              "away": "the-new-saints-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shirak",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "fc-shirak",
+              "away": "fc-bate-borisov",
+              "score": "1:1"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "fc-bate-borisov",
+              "away": "fc-shirak",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "shamkir-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "skonto-fc",
+              "away": "shamkir-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "shamkir-fc",
+              "away": "skonto-fc",
+              "score": "4:1",
+              "extra_time": true,
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sloga-jugomagnat",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "fk-sloga-jugomagnat",
+              "away": "shelbourne-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "shelbourne-fc",
+              "away": "fk-sloga-jugomagnat",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "fc-zimbru-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "kf-tirana",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:3"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "fc-zimbru-chisinau",
+              "away": "kf-tirana",
+              "score": "3:2",
+              "note": "Played at Stadionul Moldova, Speia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fbk-kaunas",
+            "hnk-brotnjo"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-12",
+              "home": "fbk-kaunas",
+              "away": "hnk-brotnjo",
+              "score": "4:0"
+            },
+            {
+              "date": "2000-07-19",
+              "home": "hnk-brotnjo",
+              "away": "fbk-kaunas",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "rsc-anderlecht",
+              "away": "anorthosis-famagusta-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "anorthosis-famagusta-fc",
+              "away": "rsc-anderlecht",
+              "score": "0:0",
+              "note": "Played at GSP Stadium, Nicosia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "besiktas-jk",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "pfc-levski-sofia",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "brondby-if",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "kr-reykjavik",
+              "away": "brondby-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "polonia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "fc-dinamo-bucuresti",
+              "away": "polonia-warsaw",
+              "score": "3:4"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "polonia-warsaw",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:1",
+              "note": "Played at Stadion Wisły, Płock"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "rangers-fc",
+              "away": "fbk-kaunas",
+              "score": "4:1"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "fbk-kaunas",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fk-inter-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "fc-haka",
+              "away": "fk-inter-bratislava",
+              "score": "0:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "fk-inter-bratislava",
+              "away": "fc-haka",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "helsingborgs-if",
+              "away": "fc-bate-borisov",
+              "score": "0:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "fc-bate-borisov",
+              "away": "helsingborgs-if",
+              "score": "0:3",
+              "note": "Played at Dinamo Stadium, Minsk"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-torpedo-kutaisi"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "red-star-belgrade",
+              "away": "fc-torpedo-kutaisi",
+              "score": "4:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "fc-torpedo-kutaisi",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fci-levadia-tallinn",
+              "score": "4:1"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "shamkir-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "sk-slavia-prague",
+              "away": "shamkir-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "shamkir-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:4",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "shelbourne-fc",
+              "away": "rosenborg-bk",
+              "score": "1:3"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "rosenborg-bk",
+              "away": "shelbourne-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "sk-sturm-graz",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "sk-sturm-graz",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "fc-zimbru-chisinau",
+              "away": "nk-maribor",
+              "score": "2:0",
+              "note": "Played at Stadionul Moldova, Speia"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "nk-maribor",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "dunaujvaros-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-07-26",
+              "home": "hnk-hajduk-split",
+              "away": "dunaujvaros-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2000-08-02",
+              "home": "dunaujvaros-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:2",
+              "note": "Played at Stadion ETO, Győr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "fc-tirol-innsbruck",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "valencia-cf",
+              "away": "fc-tirol-innsbruck",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-08",
+              "home": "fc-zimbru-chisinau",
+              "away": "ac-sparta-prague",
+              "score": "0:1",
+              "note": "Played at Stadionul Moldova, Speia"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "ac-sparta-prague",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-08",
+              "home": "brondby-if",
+              "away": "hamburger-sv",
+              "score": "0:2"
+            },
+            {
+              "date": "2000-08-22",
+              "home": "hamburger-sv",
+              "away": "brondby-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "helsingborgs-if",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "inter-milan",
+              "away": "helsingborgs-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-08",
+              "home": "besiktas-jk",
+              "away": "fc-lokomotiv-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "fc-lokomotiv-moscow",
+              "away": "besiktas-jk",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-07",
+              "home": "fk-inter-bratislava",
+              "away": "olympique-lyonnais",
+              "score": "1:2"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "olympique-lyonnais",
+              "away": "fk-inter-bratislava",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "rsc-anderlecht",
+              "away": "fc-porto",
+              "score": "1:0"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "fc-porto",
+              "away": "rsc-anderlecht",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "herfolge-boldklub",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "herfolge-boldklub",
+              "away": "rangers-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "rangers-fc",
+              "away": "herfolge-boldklub",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "red-star-belgrade"
+          ],
+          "winner": "fc-dynamo-kyiv",
+          "note": "Dynamo Kyiv won on away goals",
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "fc-dynamo-kyiv",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "red-star-belgrade",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "polonia-warsaw",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "polonia-warsaw",
+              "away": "panathinaikos-fc",
+              "score": "2:2",
+              "note": "Played at Stadion Wisły, Płock"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "panathinaikos-fc",
+              "away": "polonia-warsaw",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "tsv-1860-munich"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "leeds-united-fc",
+              "away": "tsv-1860-munich",
+              "score": "2:1"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "tsv-1860-munich",
+              "away": "leeds-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-08",
+              "home": "sk-sturm-graz",
+              "away": "feyenoord",
+              "score": "2:1"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "feyenoord",
+              "away": "sk-sturm-graz",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dunaujvaros-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "dunaujvaros-fc",
+              "away": "rosenborg-bk",
+              "score": "2:2",
+              "note": "Played at Stadion ETO, Győr"
+            },
+            {
+              "date": "2000-08-23",
+              "home": "rosenborg-bk",
+              "away": "dunaujvaros-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "fc-st-gallen",
+              "away": "galatasaray-sk",
+              "score": "1:2",
+              "note": "Played at Hardturm, Zürich"
+            },
+            {
+              "date": "2000-08-22",
+              "home": "galatasaray-sk",
+              "away": "fc-st-gallen",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "ac-milan",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            },
+            {
+              "date": "2000-08-22",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ac-milan",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2000-08-09",
+              "home": "fc-shakhtar-donetsk",
+              "away": "sk-slavia-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "2000-08-22",
+              "home": "sk-slavia-prague",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2000-09-12",
+          "home": "fc-spartak-moscow",
+          "away": "bayer-04-leverkusen",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "sporting-cp",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "bayer-04-leverkusen",
+          "away": "sporting-cp",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "real-madrid-cf",
+          "away": "fc-spartak-moscow",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "fc-spartak-moscow",
+          "away": "sporting-cp",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "bayer-04-leverkusen",
+          "away": "real-madrid-cf",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "sporting-cp",
+          "away": "fc-spartak-moscow",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "real-madrid-cf",
+          "away": "bayer-04-leverkusen",
+          "score": "5:3",
+          "group": "A"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-spartak-moscow",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "real-madrid-cf",
+          "away": "sporting-cp",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "fc-spartak-moscow",
+          "away": "real-madrid-cf",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "sporting-cp",
+          "away": "bayer-04-leverkusen",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "ac-sparta-prague",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "fc-shakhtar-donetsk",
+          "away": "ss-lazio",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "arsenal-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "ss-lazio",
+          "away": "ac-sparta-prague",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "arsenal-fc",
+          "away": "ss-lazio",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "ac-sparta-prague",
+          "away": "fc-shakhtar-donetsk",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "ss-lazio",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "fc-shakhtar-donetsk",
+          "away": "ac-sparta-prague",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "ss-lazio",
+          "away": "fc-shakhtar-donetsk",
+          "score": "5:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "arsenal-fc",
+          "away": "ac-sparta-prague",
+          "score": "4:2",
+          "group": "B"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "ac-sparta-prague",
+          "away": "ss-lazio",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "fc-shakhtar-donetsk",
+          "away": "arsenal-fc",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "valencia-cf",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "olympique-lyonnais",
+          "away": "sc-heerenveen",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "olympiacos-fc",
+          "away": "olympique-lyonnais",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "sc-heerenveen",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "valencia-cf",
+          "away": "olympique-lyonnais",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "olympiacos-fc",
+          "away": "sc-heerenveen",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "olympique-lyonnais",
+          "away": "valencia-cf",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "sc-heerenveen",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "olympiacos-fc",
+          "away": "valencia-cf",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "sc-heerenveen",
+          "away": "olympique-lyonnais",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "olympique-lyonnais",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "valencia-cf",
+          "away": "sc-heerenveen",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "galatasaray-sk",
+          "away": "as-monaco-fc",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-12",
+          "home": "rangers-fc",
+          "away": "sk-sturm-graz",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "sk-sturm-graz",
+          "away": "galatasaray-sk",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-20",
+          "home": "as-monaco-fc",
+          "away": "rangers-fc",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "galatasaray-sk",
+          "away": "rangers-fc",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-27",
+          "home": "as-monaco-fc",
+          "away": "sk-sturm-graz",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "rangers-fc",
+          "away": "galatasaray-sk",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-10-17",
+          "home": "sk-sturm-graz",
+          "away": "as-monaco-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "sk-sturm-graz",
+          "away": "rangers-fc",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-10-25",
+          "home": "as-monaco-fc",
+          "away": "galatasaray-sk",
+          "score": "4:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "galatasaray-sk",
+          "away": "sk-sturm-graz",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-11-07",
+          "home": "rangers-fc",
+          "away": "as-monaco-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "hamburger-sv",
+          "away": "juventus-fc",
+          "score": "4:4",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "panathinaikos-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "juventus-fc",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "deportivo-de-la-coruna",
+          "away": "hamburger-sv",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "juventus-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "hamburger-sv",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "deportivo-de-la-coruna",
+          "away": "juventus-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "panathinaikos-fc",
+          "away": "hamburger-sv",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "juventus-fc",
+          "away": "hamburger-sv",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "deportivo-de-la-coruna",
+          "away": "panathinaikos-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "panathinaikos-fc",
+          "away": "juventus-fc",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "hamburger-sv",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "rosenborg-bk",
+          "away": "paris-saint-germain-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "helsingborgs-if",
+          "away": "fc-bayern-munich",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "paris-saint-germain-fc",
+          "away": "helsingborgs-if",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "fc-bayern-munich",
+          "away": "rosenborg-bk",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "paris-saint-germain-fc",
+          "away": "fc-bayern-munich",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "rosenborg-bk",
+          "away": "helsingborgs-if",
+          "score": "6:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "fc-bayern-munich",
+          "away": "paris-saint-germain-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "helsingborgs-if",
+          "away": "rosenborg-bk",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "paris-saint-germain-fc",
+          "away": "rosenborg-bk",
+          "score": "7:2",
+          "group": "F"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "fc-bayern-munich",
+          "away": "helsingborgs-if",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "helsingborgs-if",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "rosenborg-bk",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "manchester-united-fc",
+          "away": "rsc-anderlecht",
+          "score": "5:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "psv-eindhoven",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "fc-dynamo-kyiv",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "rsc-anderlecht",
+          "away": "psv-eindhoven",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "psv-eindhoven",
+          "away": "manchester-united-fc",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "fc-dynamo-kyiv",
+          "away": "rsc-anderlecht",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "manchester-united-fc",
+          "away": "psv-eindhoven",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "rsc-anderlecht",
+          "away": "fc-dynamo-kyiv",
+          "score": "4:2",
+          "group": "G"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "rsc-anderlecht",
+          "away": "manchester-united-fc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "fc-dynamo-kyiv",
+          "away": "psv-eindhoven",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "manchester-united-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "psv-eindhoven",
+          "away": "rsc-anderlecht",
+          "score": "2:3",
+          "group": "G"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "ac-milan",
+          "away": "besiktas-jk",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2000-09-13",
+          "home": "fc-barcelona",
+          "away": "leeds-united-fc",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "leeds-united-fc",
+          "away": "ac-milan",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2000-09-19",
+          "home": "besiktas-jk",
+          "away": "fc-barcelona",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "fc-barcelona",
+          "away": "ac-milan",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2000-09-26",
+          "home": "leeds-united-fc",
+          "away": "besiktas-jk",
+          "score": "6:0",
+          "group": "H"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "ac-milan",
+          "away": "fc-barcelona",
+          "score": "3:3",
+          "group": "H"
+        },
+        {
+          "date": "2000-10-18",
+          "home": "besiktas-jk",
+          "away": "leeds-united-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "besiktas-jk",
+          "away": "ac-milan",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2000-10-24",
+          "home": "leeds-united-fc",
+          "away": "fc-barcelona",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "ac-milan",
+          "away": "leeds-united-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2000-11-08",
+          "home": "fc-barcelona",
+          "away": "besiktas-jk",
+          "score": "5:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "group_2",
+      "matches": [
+        {
+          "date": "2000-11-21",
+          "home": "manchester-united-fc",
+          "away": "panathinaikos-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2000-11-21",
+          "home": "valencia-cf",
+          "away": "sk-sturm-graz",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2000-12-06",
+          "home": "sk-sturm-graz",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2000-12-06",
+          "home": "panathinaikos-fc",
+          "away": "valencia-cf",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2001-02-14",
+          "home": "valencia-cf",
+          "away": "manchester-united-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2001-02-14",
+          "home": "sk-sturm-graz",
+          "away": "panathinaikos-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2001-02-20",
+          "home": "manchester-united-fc",
+          "away": "valencia-cf",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2001-02-20",
+          "home": "panathinaikos-fc",
+          "away": "sk-sturm-graz",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2001-03-07",
+          "home": "panathinaikos-fc",
+          "away": "manchester-united-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2001-03-07",
+          "home": "sk-sturm-graz",
+          "away": "valencia-cf",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2001-03-13",
+          "home": "manchester-united-fc",
+          "away": "sk-sturm-graz",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2001-03-13",
+          "home": "valencia-cf",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2000-11-21",
+          "home": "ac-milan",
+          "away": "galatasaray-sk",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2000-11-21",
+          "home": "paris-saint-germain-fc",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:3",
+          "group": "B"
+        },
+        {
+          "date": "2000-12-06",
+          "home": "deportivo-de-la-coruna",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2000-12-06",
+          "home": "galatasaray-sk",
+          "away": "paris-saint-germain-fc",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2001-02-14",
+          "home": "ac-milan",
+          "away": "paris-saint-germain-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2001-02-14",
+          "home": "galatasaray-sk",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2001-02-20",
+          "home": "paris-saint-germain-fc",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2001-02-20",
+          "home": "deportivo-de-la-coruna",
+          "away": "galatasaray-sk",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2001-03-07",
+          "home": "galatasaray-sk",
+          "away": "ac-milan",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2001-03-07",
+          "home": "deportivo-de-la-coruna",
+          "away": "paris-saint-germain-fc",
+          "score": "4:3",
+          "group": "B"
+        },
+        {
+          "date": "2001-03-13",
+          "home": "ac-milan",
+          "away": "deportivo-de-la-coruna",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2001-03-13",
+          "home": "paris-saint-germain-fc",
+          "away": "galatasaray-sk",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2000-11-22",
+          "home": "fc-spartak-moscow",
+          "away": "arsenal-fc",
+          "score": "4:1",
+          "group": "C"
+        },
+        {
+          "date": "2000-11-22",
+          "home": "fc-bayern-munich",
+          "away": "olympique-lyonnais",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-12-05",
+          "home": "olympique-lyonnais",
+          "away": "fc-spartak-moscow",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-12-05",
+          "home": "arsenal-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2001-02-13",
+          "home": "olympique-lyonnais",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2001-02-13",
+          "home": "fc-bayern-munich",
+          "away": "fc-spartak-moscow",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2001-02-21",
+          "home": "fc-spartak-moscow",
+          "away": "fc-bayern-munich",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2001-02-21",
+          "home": "arsenal-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2001-03-06",
+          "home": "olympique-lyonnais",
+          "away": "fc-bayern-munich",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2001-03-06",
+          "home": "arsenal-fc",
+          "away": "fc-spartak-moscow",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2001-03-14",
+          "home": "fc-spartak-moscow",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2001-03-14",
+          "home": "fc-bayern-munich",
+          "away": "arsenal-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2000-11-22",
+          "home": "rsc-anderlecht",
+          "away": "ss-lazio",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2000-11-22",
+          "home": "leeds-united-fc",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2000-12-05",
+          "home": "ss-lazio",
+          "away": "leeds-united-fc",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2000-12-05",
+          "home": "real-madrid-cf",
+          "away": "rsc-anderlecht",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2001-02-13",
+          "home": "real-madrid-cf",
+          "away": "ss-lazio",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2001-02-13",
+          "home": "leeds-united-fc",
+          "away": "rsc-anderlecht",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2001-02-21",
+          "home": "ss-lazio",
+          "away": "real-madrid-cf",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2001-02-21",
+          "home": "rsc-anderlecht",
+          "away": "leeds-united-fc",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2001-03-06",
+          "home": "ss-lazio",
+          "away": "rsc-anderlecht",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2001-03-06",
+          "home": "real-madrid-cf",
+          "away": "leeds-united-fc",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2001-03-14",
+          "home": "leeds-united-fc",
+          "away": "ss-lazio",
+          "score": "3:3",
+          "group": "D"
+        },
+        {
+          "date": "2001-03-14",
+          "home": "rsc-anderlecht",
+          "away": "real-madrid-cf",
+          "score": "2:0",
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "2001-04-04",
+              "home": "leeds-united-fc",
+              "away": "deportivo-de-la-coruna",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-04-17",
+              "home": "deportivo-de-la-coruna",
+              "away": "leeds-united-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "valencia-cf"
+          ],
+          "winner": "valencia-cf",
+          "note": "Valencia won on away goals",
+          "matches": [
+            {
+              "date": "2001-04-04",
+              "home": "arsenal-fc",
+              "away": "valencia-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-04-17",
+              "home": "valencia-cf",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2001-04-03",
+              "home": "galatasaray-sk",
+              "away": "real-madrid-cf",
+              "score": "3:2",
+              "note": "Interrupted for three minutes after Galatasaray's third goal (floodlight failure)"
+            },
+            {
+              "date": "2001-04-18",
+              "home": "real-madrid-cf",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2001-04-03",
+              "home": "manchester-united-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-04-18",
+              "home": "fc-bayern-munich",
+              "away": "manchester-united-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2001-05-02",
+              "home": "leeds-united-fc",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-05-08",
+              "home": "valencia-cf",
+              "away": "leeds-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2001-05-01",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-05-09",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "valencia-cf"
+          ],
+          "winner": "fc-bayern-munich",
+          "matches": [
+            {
+              "date": "2001-05-23",
+              "home": "fc-bayern-munich",
+              "away": "valencia-cf",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "San Siro, Milan; Bayern Munich won 5:4 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

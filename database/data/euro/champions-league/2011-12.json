@@ -1,0 +1,1940 @@
+{
+  "competition": {
+    "name": "UEFA Champions League",
+    "slug": "champions-league",
+    "description": "Formerly the European Champion Clubs' Cup"
+  },
+  "season": "2011-12",
+  "competition_name": "UEFA Champions League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2011%E2%80%9312_UEFA_Champions_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "tre-fiori-fc",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-06-28",
+              "home": "tre-fiori-fc",
+              "away": "valletta-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2011-07-06",
+              "home": "valletta-fc",
+              "away": "tre-fiori-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2011-06-28",
+              "home": "fc-santa-coloma",
+              "away": "f91-dudelange",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-07-05",
+              "home": "f91-dudelange",
+              "away": "fc-santa-coloma",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fk-borac-banja-luka"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "maccabi-haifa-fc",
+              "away": "fk-borac-banja-luka",
+              "score": "5:1"
+            },
+            {
+              "date": "2011-07-20",
+              "home": "fk-borac-banja-luka",
+              "away": "maccabi-haifa-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mogren",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "fk-mogren",
+              "away": "fc-lovech",
+              "score": "1:2",
+              "note": "Played at Podgorica City Stadium, Podgorica"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fc-lovech",
+              "away": "fk-mogren",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "nk-maribor",
+              "away": "f91-dudelange",
+              "score": "2:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "f91-dudelange",
+              "away": "nk-maribor",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-skenderbeu",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "kf-skenderbeu",
+              "away": "apoel-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-07-20",
+              "home": "apoel-fc",
+              "away": "kf-skenderbeu",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-tobol"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-tobol",
+              "score": "2:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fc-tobol",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "sk-sturm-graz",
+              "away": "videoton-fc-fehervar",
+              "score": "2:0",
+              "note": "Played at Hypo-Arena, Klagenfurt"
+            },
+            {
+              "date": "2011-07-20",
+              "home": "videoton-fc-fehervar",
+              "away": "sk-sturm-graz",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zestaponi",
+            "fc-dacia-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "fc-zestaponi",
+              "away": "fc-dacia-chisinau",
+              "score": "3:0"
+            },
+            {
+              "date": "2011-07-20",
+              "home": "fc-dacia-chisinau",
+              "away": "fc-zestaponi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "gnk-dinamo-zagreb",
+              "away": "neftci-pfk",
+              "score": "3:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "neftci-pfk",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "fc-pyunik",
+              "away": "fc-viktoria-plzen",
+              "score": "0:4"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-pyunik",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "fk-partizan",
+              "away": "kf-shkendija",
+              "score": "4:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "kf-shkendija",
+              "away": "fk-partizan",
+              "score": "0:1",
+              "note": "Played at Philip II Arena, Skopje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fk-ekranas"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "valletta-fc",
+              "away": "fk-ekranas",
+              "score": "2:3"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fk-ekranas",
+              "away": "valletta-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "malmo-ff",
+              "away": "hb-torshavn",
+              "score": "2:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "hb-torshavn",
+              "away": "malmo-ff",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-12",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-flora",
+              "score": "1:0"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fc-flora",
+              "away": "shamrock-rovers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "rosenborg-bk",
+              "away": "breidablik",
+              "score": "5:0"
+            },
+            {
+              "date": "2011-07-20",
+              "home": "breidablik",
+              "away": "rosenborg-bk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-city-fc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "bangor-city-fc",
+              "away": "hjk-helsinki",
+              "score": "0:3",
+              "note": "Played at Belle Vue, Rhyl"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "hjk-helsinki",
+              "away": "bangor-city-fc",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "skonto-fc",
+              "away": "wisla-krakow",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "wisla-krakow",
+              "away": "skonto-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-13",
+              "home": "linfield-fc",
+              "away": "fc-bate-borisov",
+              "score": "1:1"
+            },
+            {
+              "date": "2011-07-19",
+              "home": "fc-bate-borisov",
+              "away": "linfield-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lovech",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "fc-lovech",
+              "away": "wisla-krakow",
+              "score": "1:2"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "wisla-krakow",
+              "away": "fc-lovech",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "maccabi-haifa-fc",
+              "away": "nk-maribor",
+              "score": "2:1"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "nk-maribor",
+              "away": "maccabi-haifa-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "hjk-helsinki",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "gnk-dinamo-zagreb",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "apoel-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:0"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "sk-slovan-bratislava",
+              "away": "apoel-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "fc-copenhagen",
+              "away": "shamrock-rovers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2011-08-02",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-copenhagen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "krc-genk",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "fk-partizan",
+              "away": "krc-genk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "rosenborg-bk",
+              "away": "fc-viktoria-plzen",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "fc-viktoria-plzen",
+              "away": "rosenborg-bk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zestaponi",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "fc-zestaponi",
+              "away": "sk-sturm-graz",
+              "score": "1:1",
+              "note": "Played at Boris Paichadze National Stadium, Tbilisi"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "sk-sturm-graz",
+              "away": "fc-zestaponi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "fk-ekranas",
+              "away": "fc-bate-borisov",
+              "score": "0:0"
+            },
+            {
+              "date": "2011-08-02",
+              "home": "fc-bate-borisov",
+              "away": "fk-ekranas",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "rangers-fc",
+              "away": "malmo-ff",
+              "score": "0:1"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "malmo-ff",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "r-standard-liege",
+              "away": "fc-zurich",
+              "score": "1:1"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "fc-zurich",
+              "away": "r-standard-liege",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "fc-vaslui"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "fc-twente",
+              "away": "fc-vaslui",
+              "score": "2:0",
+              "note": "Played at GelreDome, Arnhem (roof collapse at De Grolsch Veste)"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "fc-vaslui",
+              "away": "fc-twente",
+              "score": "0:0",
+              "note": "Played at Stadionul Ceahlăul, Piatra Neamț"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "sl-benfica",
+              "away": "trabzonspor",
+              "score": "2:0"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "trabzonspor",
+              "away": "sl-benfica",
+              "score": "1:1",
+              "note": "Played at Atatürk Olympic Stadium, Istanbul"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-26",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-rubin-kazan",
+              "score": "0:2"
+            },
+            {
+              "date": "2011-08-03",
+              "home": "fc-rubin-kazan",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-07-27",
+              "home": "odense-boldklub",
+              "away": "panathinaikos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2011-08-02",
+              "home": "panathinaikos-fc",
+              "away": "odense-boldklub",
+              "score": "3:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "wisla-krakow",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-17",
+              "home": "wisla-krakow",
+              "away": "apoel-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2011-08-23",
+              "home": "apoel-fc",
+              "away": "wisla-krakow",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-17",
+              "home": "maccabi-haifa-fc",
+              "away": "krc-genk",
+              "score": "2:1",
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            },
+            {
+              "date": "2011-08-23",
+              "home": "krc-genk",
+              "away": "maccabi-haifa-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "KRC Genk won 4:1 on penalties"
+            }
+          ],
+          "winner": "krc-genk"
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "malmo-ff",
+              "score": "4:1"
+            },
+            {
+              "date": "2011-08-23",
+              "home": "malmo-ff",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-16",
+              "home": "fc-copenhagen",
+              "away": "fc-viktoria-plzen",
+              "score": "1:3"
+            },
+            {
+              "date": "2011-08-24",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-copenhagen",
+              "score": "2:1",
+              "note": "Played at Synot Tip Arena, Prague"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-16",
+              "home": "fc-bate-borisov",
+              "away": "sk-sturm-graz",
+              "score": "1:1",
+              "note": "Played at Dinamo Stadium, Minsk"
+            },
+            {
+              "date": "2011-08-24",
+              "home": "sk-sturm-graz",
+              "away": "fc-bate-borisov",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-17",
+              "home": "odense-boldklub",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2011-08-23",
+              "home": "villarreal-cf",
+              "away": "odense-boldklub",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-16",
+              "home": "fc-twente",
+              "away": "sl-benfica",
+              "score": "2:2"
+            },
+            {
+              "date": "2011-08-24",
+              "home": "sl-benfica",
+              "away": "fc-twente",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "udinese-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-16",
+              "home": "arsenal-fc",
+              "away": "udinese-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "2011-08-24",
+              "home": "udinese-calcio",
+              "away": "arsenal-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-17",
+              "home": "fc-bayern-munich",
+              "away": "fc-zurich",
+              "score": "2:0"
+            },
+            {
+              "date": "2011-08-23",
+              "home": "fc-zurich",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-16",
+              "home": "olympique-lyonnais",
+              "away": "fc-rubin-kazan",
+              "score": "3:1"
+            },
+            {
+              "date": "2011-08-24",
+              "home": "fc-rubin-kazan",
+              "away": "olympique-lyonnais",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2011-09-14",
+          "home": "manchester-city-fc",
+          "away": "ssc-napoli",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "villarreal-cf",
+          "away": "fc-bayern-munich",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "fc-bayern-munich",
+          "away": "manchester-city-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "ssc-napoli",
+          "away": "villarreal-cf",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "ssc-napoli",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "manchester-city-fc",
+          "away": "villarreal-cf",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "fc-bayern-munich",
+          "away": "ssc-napoli",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "villarreal-cf",
+          "away": "manchester-city-fc",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "ssc-napoli",
+          "away": "manchester-city-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "fc-bayern-munich",
+          "away": "villarreal-cf",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "manchester-city-fc",
+          "away": "fc-bayern-munich",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "villarreal-cf",
+          "away": "ssc-napoli",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "lille-osc",
+          "away": "pfc-cska-moscow",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "inter-milan",
+          "away": "trabzonspor",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "pfc-cska-moscow",
+          "away": "inter-milan",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "trabzonspor",
+          "away": "lille-osc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "pfc-cska-moscow",
+          "away": "trabzonspor",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "lille-osc",
+          "away": "inter-milan",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "trabzonspor",
+          "away": "pfc-cska-moscow",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "inter-milan",
+          "away": "lille-osc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "pfc-cska-moscow",
+          "away": "lille-osc",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "trabzonspor",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "lille-osc",
+          "away": "trabzonspor",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "inter-milan",
+          "away": "pfc-cska-moscow",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "fc-basel",
+          "away": "asc-otelul-galati",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "sl-benfica",
+          "away": "manchester-united-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "manchester-united-fc",
+          "away": "fc-basel",
+          "score": "3:3",
+          "group": "C"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "asc-otelul-galati",
+          "away": "sl-benfica",
+          "score": "0:1",
+          "group": "C",
+          "note": "Played at Arena Națională, Bucharest"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "asc-otelul-galati",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "C",
+          "note": "Played at Arena Națională, Bucharest"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "fc-basel",
+          "away": "sl-benfica",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "manchester-united-fc",
+          "away": "asc-otelul-galati",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "sl-benfica",
+          "away": "fc-basel",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "asc-otelul-galati",
+          "away": "fc-basel",
+          "score": "2:3",
+          "group": "C",
+          "note": "Played at Arena Națională, Bucharest"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "manchester-united-fc",
+          "away": "sl-benfica",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "fc-basel",
+          "away": "manchester-united-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "sl-benfica",
+          "away": "asc-otelul-galati",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "gnk-dinamo-zagreb",
+          "away": "real-madrid-cf",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2011-09-14",
+          "home": "afc-ajax",
+          "away": "olympique-lyonnais",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "olympique-lyonnais",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-09-27",
+          "home": "real-madrid-cf",
+          "away": "afc-ajax",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "real-madrid-cf",
+          "away": "olympique-lyonnais",
+          "score": "4:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-10-18",
+          "home": "gnk-dinamo-zagreb",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "olympique-lyonnais",
+          "away": "real-madrid-cf",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2011-11-02",
+          "home": "afc-ajax",
+          "away": "gnk-dinamo-zagreb",
+          "score": "4:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "real-madrid-cf",
+          "away": "gnk-dinamo-zagreb",
+          "score": "6:2",
+          "group": "D"
+        },
+        {
+          "date": "2011-11-22",
+          "home": "olympique-lyonnais",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "gnk-dinamo-zagreb",
+          "away": "olympique-lyonnais",
+          "score": "1:7",
+          "group": "D"
+        },
+        {
+          "date": "2011-12-07",
+          "home": "afc-ajax",
+          "away": "real-madrid-cf",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "chelsea-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "krc-genk",
+          "away": "valencia-cf",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "valencia-cf",
+          "away": "chelsea-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "bayer-04-leverkusen",
+          "away": "krc-genk",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "bayer-04-leverkusen",
+          "away": "valencia-cf",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "chelsea-fc",
+          "away": "krc-genk",
+          "score": "5:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "valencia-cf",
+          "away": "bayer-04-leverkusen",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "krc-genk",
+          "away": "chelsea-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "bayer-04-leverkusen",
+          "away": "chelsea-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "valencia-cf",
+          "away": "krc-genk",
+          "score": "7:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "chelsea-fc",
+          "away": "valencia-cf",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "krc-genk",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "olympiacos-fc",
+          "away": "olympique-de-marseille",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "borussia-dortmund",
+          "away": "arsenal-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "arsenal-fc",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "olympique-de-marseille",
+          "away": "borussia-dortmund",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "olympique-de-marseille",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "olympiacos-fc",
+          "away": "borussia-dortmund",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "arsenal-fc",
+          "away": "olympique-de-marseille",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "borussia-dortmund",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "olympique-de-marseille",
+          "away": "olympiacos-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "arsenal-fc",
+          "away": "borussia-dortmund",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "olympiacos-fc",
+          "away": "arsenal-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "borussia-dortmund",
+          "away": "olympique-de-marseille",
+          "score": "2:3",
+          "group": "F"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "fc-porto",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "apoel-fc",
+          "away": "fc-zenit",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "fc-zenit",
+          "away": "fc-porto",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "fc-shakhtar-donetsk",
+          "away": "apoel-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-zenit",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "fc-porto",
+          "away": "apoel-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "fc-zenit",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "apoel-fc",
+          "away": "fc-porto",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "fc-zenit",
+          "away": "apoel-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fc-porto",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "fc-porto",
+          "away": "fc-zenit",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "apoel-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "fc-barcelona",
+          "away": "ac-milan",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2011-09-13",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-bate-borisov",
+          "score": "1:1",
+          "group": "H",
+          "note": "Played at Synot Tip Arena, Prague"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "fc-bate-borisov",
+          "away": "fc-barcelona",
+          "score": "0:5",
+          "group": "H",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2011-09-28",
+          "home": "ac-milan",
+          "away": "fc-viktoria-plzen",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "ac-milan",
+          "away": "fc-bate-borisov",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2011-10-19",
+          "home": "fc-barcelona",
+          "away": "fc-viktoria-plzen",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "fc-bate-borisov",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "H",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2011-11-01",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-barcelona",
+          "score": "0:4",
+          "group": "H",
+          "note": "Played at Synot Tip Arena, Prague"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "fc-bate-borisov",
+          "away": "fc-viktoria-plzen",
+          "score": "0:1",
+          "group": "H",
+          "note": "Played at Dinamo Stadium, Minsk"
+        },
+        {
+          "date": "2011-11-23",
+          "home": "ac-milan",
+          "away": "fc-barcelona",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "fc-barcelona",
+          "away": "fc-bate-borisov",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2011-12-06",
+          "home": "fc-viktoria-plzen",
+          "away": "ac-milan",
+          "score": "2:2",
+          "group": "H",
+          "note": "Played at Synot Tip Arena, Prague"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-14",
+              "home": "olympique-lyonnais",
+              "away": "apoel-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-03-07",
+              "home": "apoel-fc",
+              "away": "olympique-lyonnais",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "APOEL FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "apoel-fc"
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-21",
+              "home": "ssc-napoli",
+              "away": "chelsea-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2012-03-14",
+              "home": "chelsea-fc",
+              "away": "ssc-napoli",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-15",
+              "home": "ac-milan",
+              "away": "arsenal-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2012-03-06",
+              "home": "arsenal-fc",
+              "away": "ac-milan",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-22",
+              "home": "fc-basel",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-03-13",
+              "home": "fc-bayern-munich",
+              "away": "fc-basel",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-14",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-barcelona",
+              "score": "1:3"
+            },
+            {
+              "date": "2012-03-07",
+              "home": "fc-barcelona",
+              "away": "bayer-04-leverkusen",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-21",
+              "home": "pfc-cska-moscow",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2012-03-14",
+              "home": "real-madrid-cf",
+              "away": "pfc-cska-moscow",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2012-02-15",
+              "home": "fc-zenit",
+              "away": "sl-benfica",
+              "score": "3:2"
+            },
+            {
+              "date": "2012-03-06",
+              "home": "sl-benfica",
+              "away": "fc-zenit",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "inter-milan"
+          ],
+          "winner": "olympique-de-marseille",
+          "note": "Marseille won on away goals",
+          "matches": [
+            {
+              "date": "2012-02-22",
+              "home": "olympique-de-marseille",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-03-13",
+              "home": "inter-milan",
+              "away": "olympique-de-marseille",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "apoel-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2012-03-27",
+              "home": "apoel-fc",
+              "away": "real-madrid-cf",
+              "score": "0:3"
+            },
+            {
+              "date": "2012-04-04",
+              "home": "real-madrid-cf",
+              "away": "apoel-fc",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2012-03-28",
+              "home": "olympique-de-marseille",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            },
+            {
+              "date": "2012-04-03",
+              "home": "fc-bayern-munich",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-03-27",
+              "home": "sl-benfica",
+              "away": "chelsea-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2012-04-04",
+              "home": "chelsea-fc",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2012-03-28",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "2012-04-03",
+              "home": "fc-barcelona",
+              "away": "ac-milan",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "2012-04-17",
+              "home": "fc-bayern-munich",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "2012-04-25",
+              "home": "real-madrid-cf",
+              "away": "fc-bayern-munich",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FC Bayern Munich won 3:1 on penalties"
+            }
+          ],
+          "winner": "fc-bayern-munich"
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2012-04-18",
+              "home": "chelsea-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "2012-04-24",
+              "home": "fc-barcelona",
+              "away": "chelsea-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2012-05-19",
+              "home": "fc-bayern-munich",
+              "away": "chelsea-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Allianz Arena, Munich; Chelsea FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "chelsea-fc"
+        }
+      ]
+    }
+  ]
+}
