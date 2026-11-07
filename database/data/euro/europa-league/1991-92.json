@@ -1,0 +1,1328 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1991-92",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fcsb",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "fcsb",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "trabzonspor",
+              "score": "2:3",
+              "neutral": true,
+              "note": "Played at Wörtherseestadion, Klagenfurt (Austria) because of the Croatian War of Independence"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "trabzonspor",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ikast-fs",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "ikast-fs",
+              "away": "aj-auxerre",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "aj-auxerre",
+              "away": "ikast-fs",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "hamburger-sv",
+              "away": "gornik-zabrze",
+              "score": "1:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "gornik-zabrze",
+              "away": "hamburger-sv",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "kaa-gent",
+              "away": "fc-lausanne-sport",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-lausanne-sport",
+              "away": "kaa-gent",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "KAA Gent won 4:1 on penalties"
+            }
+          ],
+          "winner": "kaa-gent"
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "neuchatel-xamax-fcs",
+              "away": "floriana-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "floriana-fc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "pfc-slavia-sofia",
+              "away": "ca-osasuna",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "ca-osasuna",
+              "away": "pfc-slavia-sofia",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "aberdeen-fc",
+              "away": "boldklubben-1903",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "boldklubben-1903",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "orebro-sk"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "afc-ajax",
+              "away": "orebro-sk",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Rheinstadion, Düsseldorf (Germany): Ajax had to play at least 200 km from Amsterdam after crowd trouble (iron rod incident)"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "orebro-sk",
+              "away": "afc-ajax",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-fc",
+            "sk-sigma-olomouc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "bangor-fc",
+              "away": "sk-sigma-olomouc",
+              "score": "0:3"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "sk-sigma-olomouc",
+              "away": "bangor-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "boavista-fc",
+              "away": "inter-milan",
+              "score": "2:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "inter-milan",
+              "away": "boavista-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "k-beerschot-vac"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "celtic-fc",
+              "away": "k-beerschot-vac",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "k-beerschot-vac",
+              "away": "celtic-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-city-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "cork-city-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "fc-bayern-munich",
+              "away": "cork-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "ca-spora-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "eintracht-frankfurt",
+              "away": "ca-spora-luxembourg",
+              "score": "6:1"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "ca-spora-luxembourg",
+              "away": "eintracht-frankfurt",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "fc-rot-weiss-erfurt"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "fc-groningen",
+              "away": "fc-rot-weiss-erfurt",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-rot-weiss-erfurt",
+              "away": "fc-groningen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-swarovski-tirol",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "fc-swarovski-tirol",
+              "away": "tromso-il",
+              "score": "2:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "tromso-il",
+              "away": "fc-swarovski-tirol",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hallescher-fc",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "hallescher-fc",
+              "away": "fc-torpedo-moscow",
+              "score": "2:1"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "fc-torpedo-moscow",
+              "away": "hallescher-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "kf-vllaznia",
+              "away": "aek-athens-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "aek-athens-fc",
+              "away": "kf-vllaznia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-kuusysi"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "liverpool-fc",
+              "away": "fc-kuusysi",
+              "score": "6:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-kuusysi",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mp-mikkeli",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "mp-mikkeli",
+              "away": "fc-spartak-moscow",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "fc-spartak-moscow",
+              "away": "mp-mikkeli",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "olympique-lyonnais",
+              "away": "osters-if",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "osters-if",
+              "away": "olympique-lyonnais",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "kv-mechelen"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "paok-fc",
+              "away": "kv-mechelen",
+              "score": "1:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "kv-mechelen",
+              "away": "paok-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "sk-slovan-bratislava",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "real-madrid-cf",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "sk-sturm-graz",
+              "away": "fc-utrecht",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-utrecht",
+              "away": "sk-sturm-graz",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "sporting-cp",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-dinamo-bucuresti",
+              "away": "sporting-cp",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "sporting-de-gijon",
+              "away": "fk-partizan",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "fk-partizan",
+              "away": "sporting-de-gijon",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Played at İnönü Stadium, Istanbul (Turkey) because of the security situation in Yugoslavia; Sporting Gijón won 3:2 on penalties",
+              "neutral": true
+            }
+          ],
+          "winner": "sporting-de-gijon"
+        },
+        {
+          "clubs": [
+            "vac-fc",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "vac-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-dynamo-moscow",
+              "away": "vac-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "pecsi-mfc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "vfb-stuttgart",
+              "away": "pecsi-mfc",
+              "score": "4:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "pecsi-mfc",
+              "away": "vfb-stuttgart",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-19",
+              "home": "kr-reykjavik",
+              "away": "torino-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "torino-fc",
+              "away": "kr-reykjavik",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "parma-calcio"
+          ],
+          "winner": "pfc-cska-sofia",
+          "note": "CSKA Sofia won on away goals",
+          "matches": [
+            {
+              "date": "1991-09-19",
+              "home": "pfc-cska-sofia",
+              "away": "parma-calcio",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "parma-calcio",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-oviedo",
+            "genoa-cfc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-19",
+              "home": "real-oviedo",
+              "away": "genoa-cfc",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "genoa-cfc",
+              "away": "real-oviedo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-salgueiros",
+            "as-cannes"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-19",
+              "home": "sc-salgueiros",
+              "away": "as-cannes",
+              "score": "1:0",
+              "note": "Played at Estádio do Bessa, Porto"
+            },
+            {
+              "date": "1991-10-03",
+              "home": "as-cannes",
+              "away": "sc-salgueiros",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "AS Cannes won 4:2 on penalties"
+            }
+          ],
+          "winner": "as-cannes"
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "as-cannes",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "as-cannes",
+              "away": "fc-dynamo-moscow",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "fc-dynamo-moscow",
+              "away": "as-cannes",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "boldklubben-1903",
+              "away": "fc-bayern-munich",
+              "score": "6:2"
+            },
+            {
+              "date": "1991-11-05",
+              "home": "fc-bayern-munich",
+              "away": "boldklubben-1903",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ca-osasuna",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "ca-osasuna",
+              "away": "vfb-stuttgart",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-11-05",
+              "home": "vfb-stuttgart",
+              "away": "ca-osasuna",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "hamburger-sv",
+              "away": "pfc-cska-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "pfc-cska-sofia",
+              "away": "hamburger-sv",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "kaa-gent",
+              "away": "eintracht-frankfurt",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "eintracht-frankfurt",
+              "away": "kaa-gent",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "neuchatel-xamax-fcs",
+              "away": "celtic-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "celtic-fc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "aj-auxerre",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "liverpool-fc",
+              "away": "aj-auxerre",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "fc-utrecht",
+              "away": "real-madrid-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "real-madrid-cf",
+              "away": "fc-utrecht",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rot-weiss-erfurt",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "fc-rot-weiss-erfurt",
+              "away": "afc-ajax",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "afc-ajax",
+              "away": "fc-rot-weiss-erfurt",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Rheinstadion, Düsseldorf (Germany): Ajax had to play at least 200 km from Amsterdam after crowd trouble (iron rod incident)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "fc-spartak-moscow",
+              "away": "aek-athens-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "aek-athens-fc",
+              "away": "fc-spartak-moscow",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genoa-cfc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "genoa-cfc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "fc-dinamo-bucuresti",
+              "away": "genoa-cfc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "olympique-lyonnais",
+              "away": "trabzonspor",
+              "score": "3:4"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "trabzonspor",
+              "away": "olympique-lyonnais",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-swarovski-tirol"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "paok-fc",
+              "away": "fc-swarovski-tirol",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "fc-swarovski-tirol",
+              "away": "paok-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "sk-sigma-olomouc",
+              "away": "fc-torpedo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-11-07",
+              "home": "fc-torpedo-moscow",
+              "away": "sk-sigma-olomouc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-24",
+              "home": "sporting-de-gijon",
+              "away": "fcsb",
+              "score": "2:2"
+            },
+            {
+              "date": "1991-11-07",
+              "home": "fcsb",
+              "away": "sporting-de-gijon",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-24",
+              "home": "torino-fc",
+              "away": "boavista-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "boavista-fc",
+              "away": "torino-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "aek-athens-fc",
+              "away": "torino-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "torino-fc",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "boldklubben-1903",
+              "away": "trabzonspor",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "trabzonspor",
+              "away": "boldklubben-1903",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ca-osasuna",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "ca-osasuna",
+              "away": "afc-ajax",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "afc-ajax",
+              "away": "ca-osasuna",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Rheinstadion, Düsseldorf (Germany): Ajax had to play at least 200 km from Amsterdam after crowd trouble (iron rod incident)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-swarovski-tirol",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "fc-swarovski-tirol",
+              "away": "liverpool-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "liverpool-fc",
+              "away": "fc-swarovski-tirol",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "sk-sigma-olomouc"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "hamburger-sv",
+              "away": "sk-sigma-olomouc",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-12-10",
+              "home": "sk-sigma-olomouc",
+              "away": "hamburger-sv",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "kaa-gent",
+              "away": "fc-dynamo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "fc-dynamo-moscow",
+              "away": "kaa-gent",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "neuchatel-xamax-fcs",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-12-12",
+              "home": "real-madrid-cf",
+              "away": "neuchatel-xamax-fcs",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "genoa-cfc"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-27",
+              "home": "fcsb",
+              "away": "genoa-cfc",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-12-11",
+              "home": "genoa-cfc",
+              "away": "fcsb",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "boldklubben-1903",
+              "away": "torino-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1992-03-19",
+              "home": "torino-fc",
+              "away": "boldklubben-1903",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genoa-cfc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "genoa-cfc",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "liverpool-fc",
+              "away": "genoa-cfc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "kaa-gent",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "afc-ajax",
+              "away": "kaa-gent",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "sk-sigma-olomouc",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "real-madrid-cf",
+              "away": "sk-sigma-olomouc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "genoa-cfc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1992-04-01",
+              "home": "genoa-cfc",
+              "away": "afc-ajax",
+              "score": "2:3"
+            },
+            {
+              "date": "1992-04-15",
+              "home": "afc-ajax",
+              "away": "genoa-cfc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-04-01",
+              "home": "real-madrid-cf",
+              "away": "torino-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1992-04-15",
+              "home": "torino-fc",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "torino-fc",
+            "afc-ajax"
+          ],
+          "winner": "afc-ajax",
+          "note": "Ajax won on away goals",
+          "matches": [
+            {
+              "date": "1992-04-29",
+              "home": "torino-fc",
+              "away": "afc-ajax",
+              "score": "2:2"
+            },
+            {
+              "date": "1992-05-13",
+              "home": "afc-ajax",
+              "away": "torino-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

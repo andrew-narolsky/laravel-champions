@@ -1,0 +1,1547 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2023-24",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "fk-zalgiris",
+              "away": "bk-hacken",
+              "score": "1:3"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "bk-hacken",
+              "away": "fk-zalgiris",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "qarabag-fk",
+              "away": "hjk-helsinki",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "hjk-helsinki",
+              "away": "qarabag-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "hsk-zrinjski-mostar",
+              "away": "breidablik",
+              "score": "6:2"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "breidablik",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-bate-borisov",
+              "score": "5:1"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "fc-bate-borisov",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:2",
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-08",
+              "home": "fc-astana",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-astana",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "olympiacos-fc",
+              "away": "krc-genk",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "krc-genk",
+              "away": "olympiacos-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "sc-dnipro-1"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-10",
+              "home": "sk-slavia-prague",
+              "away": "sc-dnipro-1",
+              "score": "3:0"
+            },
+            {
+              "date": "2023-08-17",
+              "home": "sc-dnipro-1",
+              "away": "sk-slavia-prague",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Košická futbalová aréna, Košice (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "fc-zorya-luhansk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "sk-slavia-prague",
+              "away": "fc-zorya-luhansk",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "fc-zorya-luhansk",
+              "away": "sk-slavia-prague",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Arena Lublin, Lublin (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fk-cukaricki"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "olympiacos-fc",
+              "away": "fk-cukaricki",
+              "score": "3:1"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "fk-cukaricki",
+              "away": "olympiacos-fc",
+              "score": "0:3",
+              "note": "Played at Dubočica Stadium, Leskovac (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "fc-lugano"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "r-union-saint-gilloise",
+              "away": "fc-lugano",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "fc-lugano",
+              "away": "r-union-saint-gilloise",
+              "score": "0:1",
+              "note": "Played at Stade de Genève, Geneva (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "afc-ajax",
+              "score": "1:4"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "afc-ajax",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "bk-hacken",
+              "away": "aberdeen-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "aberdeen-fc",
+              "away": "bk-hacken",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "linzer-ask",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "hsk-zrinjski-mostar",
+              "away": "linzer-ask",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "ki-klaksvik",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:1",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "fc-sheriff-tiraspol",
+              "away": "ki-klaksvik",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "nk-olimpija-ljubljana",
+              "away": "qarabag-fk",
+              "score": "0:2"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "qarabag-fk",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "aris-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "sk-slovan-bratislava",
+              "away": "aris-limassol-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "aris-limassol-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "6:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2023-08-24",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ac-sparta-prague",
+              "score": "3:1"
+            },
+            {
+              "date": "2023-08-31",
+              "home": "ac-sparta-prague",
+              "away": "gnk-dinamo-zagreb",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2023-09-21",
+          "home": "west-ham-united-fc",
+          "away": "fk-tsc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "olympiacos-fc",
+          "away": "sc-freiburg",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "sc-freiburg",
+          "away": "west-ham-united-fc",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "fk-tsc",
+          "away": "olympiacos-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "olympiacos-fc",
+          "away": "west-ham-united-fc",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "fk-tsc",
+          "away": "sc-freiburg",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "sc-freiburg",
+          "away": "fk-tsc",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "west-ham-united-fc",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "sc-freiburg",
+          "away": "olympiacos-fc",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "fk-tsc",
+          "away": "west-ham-united-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "west-ham-united-fc",
+          "away": "sc-freiburg",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "olympiacos-fc",
+          "away": "fk-tsc",
+          "score": "5:2",
+          "group": "A"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "afc-ajax",
+          "away": "olympique-de-marseille",
+          "score": "3:3",
+          "group": "B"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "brighton-hove-albion-fc",
+          "away": "aek-athens-fc",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "olympique-de-marseille",
+          "away": "brighton-hove-albion-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "aek-athens-fc",
+          "away": "afc-ajax",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "olympique-de-marseille",
+          "away": "aek-athens-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "brighton-hove-albion-fc",
+          "away": "afc-ajax",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "afc-ajax",
+          "away": "brighton-hove-albion-fc",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "aek-athens-fc",
+          "away": "olympique-de-marseille",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "aek-athens-fc",
+          "away": "brighton-hove-albion-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "olympique-de-marseille",
+          "away": "afc-ajax",
+          "score": "4:3",
+          "group": "B"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "afc-ajax",
+          "away": "aek-athens-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "brighton-hove-albion-fc",
+          "away": "olympique-de-marseille",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "ac-sparta-prague",
+          "away": "aris-limassol-fc",
+          "score": "3:2",
+          "group": "C"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "rangers-fc",
+          "away": "real-betis",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "real-betis",
+          "away": "ac-sparta-prague",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "aris-limassol-fc",
+          "away": "rangers-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "ac-sparta-prague",
+          "away": "rangers-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "aris-limassol-fc",
+          "away": "real-betis",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "real-betis",
+          "away": "aris-limassol-fc",
+          "score": "4:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "rangers-fc",
+          "away": "ac-sparta-prague",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "ac-sparta-prague",
+          "away": "real-betis",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "rangers-fc",
+          "away": "aris-limassol-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "real-betis",
+          "away": "rangers-fc",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "aris-limassol-fc",
+          "away": "ac-sparta-prague",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "atalanta-bc",
+          "away": "rakow-czestochowa",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "sk-sturm-graz",
+          "away": "sporting-cp",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "sporting-cp",
+          "away": "atalanta-bc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "rakow-czestochowa",
+          "away": "sk-sturm-graz",
+          "score": "0:1",
+          "group": "D",
+          "note": "Played at Zagłębiowski Park Sportowy, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "sk-sturm-graz",
+          "away": "atalanta-bc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "rakow-czestochowa",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": "D",
+          "note": "Played at Zagłębiowski Park Sportowy, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "atalanta-bc",
+          "away": "sk-sturm-graz",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "sporting-cp",
+          "away": "rakow-czestochowa",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "atalanta-bc",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "sk-sturm-graz",
+          "away": "rakow-czestochowa",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "sporting-cp",
+          "away": "sk-sturm-graz",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "rakow-czestochowa",
+          "away": "atalanta-bc",
+          "score": "0:4",
+          "group": "D",
+          "note": "Played at Zagłębiowski Park Sportowy, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "linzer-ask",
+          "away": "liverpool-fc",
+          "score": "1:3",
+          "group": "E"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "r-union-saint-gilloise",
+          "away": "toulouse-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "liverpool-fc",
+          "away": "r-union-saint-gilloise",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "toulouse-fc",
+          "away": "linzer-ask",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "r-union-saint-gilloise",
+          "away": "linzer-ask",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "liverpool-fc",
+          "away": "toulouse-fc",
+          "score": "5:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "linzer-ask",
+          "away": "r-union-saint-gilloise",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "toulouse-fc",
+          "away": "liverpool-fc",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "liverpool-fc",
+          "away": "linzer-ask",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "toulouse-fc",
+          "away": "r-union-saint-gilloise",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "r-union-saint-gilloise",
+          "away": "liverpool-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "linzer-ask",
+          "away": "toulouse-fc",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "stade-rennais-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "panathinaikos-fc",
+          "away": "villarreal-cf",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "villarreal-cf",
+          "away": "stade-rennais-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "maccabi-haifa-fc",
+          "away": "panathinaikos-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "panathinaikos-fc",
+          "away": "stade-rennais-fc",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "stade-rennais-fc",
+          "away": "panathinaikos-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "maccabi-haifa-fc",
+          "away": "villarreal-cf",
+          "score": "1:2",
+          "group": "F",
+          "neutral": true,
+          "note": "Played at AEK Arena, Larnaca (Cyprus): moved because of the Gaza war; played behind closed doors"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "maccabi-haifa-fc",
+          "away": "stade-rennais-fc",
+          "score": "0:3",
+          "group": "F",
+          "neutral": true,
+          "note": "Played at Puskás Aréna, Budapest (Hungary): moved because of the Gaza war; played behind closed doors"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "villarreal-cf",
+          "away": "panathinaikos-fc",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2023-12-06",
+          "home": "villarreal-cf",
+          "away": "maccabi-haifa-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "stade-rennais-fc",
+          "away": "villarreal-cf",
+          "score": "2:3",
+          "group": "F"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "panathinaikos-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "servette-fc",
+          "away": "sk-slavia-prague",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "fc-sheriff-tiraspol",
+          "away": "as-roma",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "as-roma",
+          "away": "servette-fc",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "sk-slavia-prague",
+          "away": "fc-sheriff-tiraspol",
+          "score": "6:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "as-roma",
+          "away": "sk-slavia-prague",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "fc-sheriff-tiraspol",
+          "away": "servette-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "servette-fc",
+          "away": "fc-sheriff-tiraspol",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "sk-slavia-prague",
+          "away": "as-roma",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "servette-fc",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "fc-sheriff-tiraspol",
+          "away": "sk-slavia-prague",
+          "score": "2:3",
+          "group": "G"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "as-roma",
+          "away": "fc-sheriff-tiraspol",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "sk-slavia-prague",
+          "away": "servette-fc",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "bayer-04-leverkusen",
+          "away": "bk-hacken",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2023-09-21",
+          "home": "qarabag-fk",
+          "away": "molde-fk",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "molde-fk",
+          "away": "bayer-04-leverkusen",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-05",
+          "home": "bk-hacken",
+          "away": "qarabag-fk",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "molde-fk",
+          "away": "bk-hacken",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-10-26",
+          "home": "bayer-04-leverkusen",
+          "away": "qarabag-fk",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "qarabag-fk",
+          "away": "bayer-04-leverkusen",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-09",
+          "home": "bk-hacken",
+          "away": "molde-fk",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "molde-fk",
+          "away": "qarabag-fk",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2023-11-30",
+          "home": "bk-hacken",
+          "away": "bayer-04-leverkusen",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "bayer-04-leverkusen",
+          "away": "molde-fk",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2023-12-14",
+          "home": "qarabag-fk",
+          "away": "bk-hacken",
+          "score": "2:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "feyenoord",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "feyenoord",
+              "away": "as-roma",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "as-roma",
+              "away": "feyenoord",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "AS Roma won 4:2 on penalties"
+            }
+          ],
+          "winner": "as-roma"
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "stade-rennais-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "ac-milan",
+              "away": "stade-rennais-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "stade-rennais-fc",
+              "away": "ac-milan",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "sc-freiburg"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "rc-lens",
+              "away": "sc-freiburg",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "sc-freiburg",
+              "away": "rc-lens",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "bsc-young-boys",
+              "away": "sporting-cp",
+              "score": "1:3"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "sporting-cp",
+              "away": "bsc-young-boys",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "toulouse-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "sl-benfica",
+              "away": "toulouse-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "toulouse-fc",
+              "away": "sl-benfica",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "sc-braga",
+              "away": "qarabag-fk",
+              "score": "2:4"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "qarabag-fk",
+              "away": "sc-braga",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "galatasaray-sk",
+              "away": "ac-sparta-prague",
+              "score": "3:2"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "ac-sparta-prague",
+              "away": "galatasaray-sk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2024-02-15",
+              "home": "fc-shakhtar-donetsk",
+              "away": "olympique-de-marseille",
+              "score": "2:2",
+              "neutral": true,
+              "note": "Played at Volksparkstadion, Hamburg (Germany): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2024-02-22",
+              "home": "olympique-de-marseille",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "ac-sparta-prague",
+              "away": "liverpool-fc",
+              "score": "1:5"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "liverpool-fc",
+              "away": "ac-sparta-prague",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "olympique-de-marseille",
+              "away": "villarreal-cf",
+              "score": "4:0"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "villarreal-cf",
+              "away": "olympique-de-marseille",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "brighton-hove-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "as-roma",
+              "away": "brighton-hove-albion-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "brighton-hove-albion-fc",
+              "away": "as-roma",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "sl-benfica",
+              "away": "rangers-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "rangers-fc",
+              "away": "sl-benfica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-freiburg",
+            "west-ham-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "sc-freiburg",
+              "away": "west-ham-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "west-ham-united-fc",
+              "away": "sc-freiburg",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-06",
+              "home": "sporting-cp",
+              "away": "atalanta-bc",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "atalanta-bc",
+              "away": "sporting-cp",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "ac-milan",
+              "away": "sk-slavia-prague",
+              "score": "4:2"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "sk-slavia-prague",
+              "away": "ac-milan",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2024-03-07",
+              "home": "qarabag-fk",
+              "away": "bayer-04-leverkusen",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-03-14",
+              "home": "bayer-04-leverkusen",
+              "away": "qarabag-fk",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-11",
+              "home": "ac-milan",
+              "away": "as-roma",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-04-18",
+              "home": "as-roma",
+              "away": "ac-milan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-11",
+              "home": "liverpool-fc",
+              "away": "atalanta-bc",
+              "score": "0:3"
+            },
+            {
+              "date": "2024-04-18",
+              "home": "atalanta-bc",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "west-ham-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-11",
+              "home": "bayer-04-leverkusen",
+              "away": "west-ham-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-04-18",
+              "home": "west-ham-united-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2024-04-11",
+              "home": "sl-benfica",
+              "away": "olympique-de-marseille",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-04-18",
+              "home": "olympique-de-marseille",
+              "away": "sl-benfica",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Olympique de Marseille won 4:2 on penalties"
+            }
+          ],
+          "winner": "olympique-de-marseille"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2024-05-02",
+              "home": "olympique-de-marseille",
+              "away": "atalanta-bc",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-05-09",
+              "home": "atalanta-bc",
+              "away": "olympique-de-marseille",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2024-05-02",
+              "home": "as-roma",
+              "away": "bayer-04-leverkusen",
+              "score": "0:2"
+            },
+            {
+              "date": "2024-05-09",
+              "home": "bayer-04-leverkusen",
+              "away": "as-roma",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "atalanta-bc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2024-05-22",
+              "home": "atalanta-bc",
+              "away": "bayer-04-leverkusen",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Aviva Stadium, Dublin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

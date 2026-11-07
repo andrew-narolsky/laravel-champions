@@ -1,0 +1,1320 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1974-75",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "red-boys-differdange"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-17",
+              "home": "olympique-lyonnais",
+              "away": "red-boys-differdange",
+              "score": "7:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "red-boys-differdange",
+              "away": "olympique-lyonnais",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "portadown-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-17",
+              "home": "valur",
+              "away": "portadown-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-10-01",
+              "home": "portadown-fc",
+              "away": "valur",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derby-county-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "derby-county-fc",
+              "away": "servette-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "servette-fc",
+              "away": "derby-county-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "fc-twente"
+          ],
+          "winner": "fc-twente",
+          "note": "Twente won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "ipswich-town-fc",
+              "away": "fc-twente",
+              "score": "2:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-twente",
+              "away": "ipswich-town-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stoke-city-fc",
+            "afc-ajax"
+          ],
+          "winner": "afc-ajax",
+          "note": "Ajax won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "stoke-city-fc",
+              "away": "afc-ajax",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "afc-ajax",
+              "away": "stoke-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "dundee-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "rwd-molenbeek",
+              "away": "dundee-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "dundee-fc",
+              "away": "rwd-molenbeek",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "rosenborg-bk",
+              "away": "hibernian-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "hibernian-fc",
+              "away": "rosenborg-bk",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-porto",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "fc-porto",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sfc-etar-veliko-tarnovo",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sfc-etar-veliko-tarnovo",
+              "away": "inter-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "inter-milan",
+              "away": "sfc-etar-veliko-tarnovo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "gornik-zabrze",
+              "away": "fk-partizan",
+              "score": "2:2"
+            },
+            {
+              "date": "1974-10-01",
+              "home": "fk-partizan",
+              "away": "gornik-zabrze",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "ik-start",
+              "away": "djurgardens-if",
+              "score": "1:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "djurgardens-if",
+              "away": "ik-start",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boluspor",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "boluspor",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-dinamo-bucuresti",
+              "away": "boluspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fk-velez-mostar"
+          ],
+          "winner": "fk-velez-mostar",
+          "note": "Velež Mostar won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-spartak-moscow",
+              "away": "fk-velez-mostar",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fk-velez-mostar",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-brasov"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "besiktas-jk",
+              "away": "fc-brasov",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-brasov",
+              "away": "besiktas-jk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-wacker-innsbruck",
+              "away": "borussia-monchengladbach",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "borussia-monchengladbach",
+              "away": "fc-wacker-innsbruck",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "r-antwerp-fc"
+          ],
+          "winner": "r-antwerp-fc",
+          "note": "Antwerp won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sk-sturm-graz",
+              "away": "r-antwerp-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "r-antwerp-fc",
+              "away": "sk-sturm-graz",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-sportsklub-freja",
+            "sg-dynamo-dresden"
+          ],
+          "winner": "sg-dynamo-dresden",
+          "note": "Dynamo Dresden won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "randers-sportsklub-freja",
+              "away": "sg-dynamo-dresden",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "sg-dynamo-dresden",
+              "away": "randers-sportsklub-freja",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "hamburger-sv",
+              "away": "bohemian-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "bohemian-fc",
+              "away": "hamburger-sv",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sk-rapid-wien",
+              "away": "aris-thessaloniki-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "aris-thessaloniki-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "real-sociedad",
+              "away": "fc-banik-ostrava",
+              "score": "0:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-banik-ostrava",
+              "away": "real-sociedad",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-lokomotiv-plovdiv",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "gyori-eto-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "gyori-eto-fc",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Győri ETO FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "gyori-eto-fc"
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "fc-dynamo-moscow"
+          ],
+          "winner": "fc-dynamo-moscow",
+          "note": "Dynamo Moscow won on away goals",
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "osters-if",
+              "away": "fc-dynamo-moscow",
+              "score": "3:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-dynamo-moscow",
+              "away": "osters-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-nantes",
+              "away": "legia-warsaw",
+              "score": "2:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "legia-warsaw",
+              "away": "fc-nantes",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "ssc-napoli",
+              "away": "videoton-fc-fehervar",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "videoton-fc-fehervar",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "1-fc-frankfurt",
+              "away": "juventus-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "juventus-fc",
+              "away": "1-fc-frankfurt",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "grasshopper-club",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-03",
+              "home": "panathinaikos-fc",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "fortuna-dusseldorf"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "torino-fc",
+              "away": "fortuna-dusseldorf",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-09-25",
+              "home": "fortuna-dusseldorf",
+              "away": "torino-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "kpv-kokkola"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "1-fc-koln",
+              "away": "kpv-kokkola",
+              "score": "5:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "kpv-kokkola",
+              "away": "1-fc-koln",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-amsterdam",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "afc-amsterdam",
+              "away": "hibernians-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1974-09-22",
+              "home": "hibernians-fc",
+              "away": "afc-amsterdam",
+              "score": "0:7",
+              "note": "Played at Olympic Stadium, Amsterdam (both legs in Amsterdam)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-19",
+              "home": "kjobenhavns-boldklub",
+              "away": "atletico-madrid",
+              "score": "3:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "atletico-madrid",
+              "away": "kjobenhavns-boldklub",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-11",
+              "home": "vitoria-fc",
+              "away": "real-zaragoza",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "real-zaragoza",
+              "away": "vitoria-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "pezoporikos-larnaca-fc"
+          ],
+          "winner": "fk-dukla-prague",
+          "note": "Walkover: Pezoporikos withdrew, like all Cypriot clubs, after the Turkish invasion of Cyprus",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "derby-county-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "derby-county-fc",
+              "away": "atletico-madrid",
+              "score": "2:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "atletico-madrid",
+              "away": "derby-county-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Derby County FC won 7:6 on penalties"
+            }
+          ],
+          "winner": "derby-county-fc"
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "hibernian-fc",
+              "away": "juventus-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "juventus-fc",
+              "away": "hibernian-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "portadown-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fk-partizan",
+              "away": "portadown-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "portadown-fc",
+              "away": "fk-partizan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-nantes",
+              "away": "fc-banik-ostrava",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fc-banik-ostrava",
+              "away": "fc-nantes",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-dinamo-bucuresti",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "1-fc-koln",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "fortuna-dusseldorf"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "gyori-eto-fc",
+              "away": "fortuna-dusseldorf",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "fortuna-dusseldorf",
+              "away": "gyori-eto-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "sk-rapid-wien",
+              "away": "fk-velez-mostar",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fk-velez-mostar",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-dynamo-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fc-dynamo-moscow",
+              "away": "sg-dynamo-dresden",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "SG Dynamo Dresden won 4:3 on penalties"
+            }
+          ],
+          "winner": "sg-dynamo-dresden"
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "grasshopper-club",
+              "away": "real-zaragoza",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "real-zaragoza",
+              "away": "grasshopper-club",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-22",
+              "home": "borussia-monchengladbach",
+              "away": "olympique-lyonnais",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "olympique-lyonnais",
+              "away": "borussia-monchengladbach",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-brasov"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "hamburger-sv",
+              "away": "fc-brasov",
+              "score": "8:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fc-brasov",
+              "away": "hamburger-sv",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "rwd-molenbeek"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-twente",
+              "away": "rwd-molenbeek",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "rwd-molenbeek",
+              "away": "fc-twente",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "djurgardens-if",
+              "away": "fk-dukla-prague",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fk-dukla-prague",
+              "away": "djurgardens-if",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "afc-amsterdam"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "inter-milan",
+              "away": "afc-amsterdam",
+              "score": "1:2"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "afc-amsterdam",
+              "away": "inter-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "ssc-napoli",
+              "away": "fc-porto",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fc-porto",
+              "away": "ssc-napoli",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "r-antwerp-fc"
+          ],
+          "winner": "afc-ajax",
+          "note": "Ajax won on away goals",
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "afc-ajax",
+              "away": "r-antwerp-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-11-13",
+              "home": "r-antwerp-fc",
+              "away": "afc-ajax",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "ssc-napoli",
+              "away": "fc-banik-ostrava",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "fc-banik-ostrava",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "hamburger-sv",
+              "away": "sg-dynamo-dresden",
+              "score": "4:1"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "sg-dynamo-dresden",
+              "away": "hamburger-sv",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "fk-dukla-prague",
+              "away": "fc-twente",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "fc-twente",
+              "away": "fk-dukla-prague",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "fk-partizan",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "1-fc-koln",
+              "away": "fk-partizan",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "borussia-monchengladbach",
+              "away": "real-zaragoza",
+              "score": "5:0"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "real-zaragoza",
+              "away": "borussia-monchengladbach",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-amsterdam",
+            "fortuna-dusseldorf"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "afc-amsterdam",
+              "away": "fortuna-dusseldorf",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "fortuna-dusseldorf",
+              "away": "afc-amsterdam",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "afc-ajax"
+          ],
+          "winner": "juventus-fc",
+          "note": "Juventus won on away goals",
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "juventus-fc",
+              "away": "afc-ajax",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derby-county-fc",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1974-11-27",
+              "home": "derby-county-fc",
+              "away": "fk-velez-mostar",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-12-11",
+              "home": "fk-velez-mostar",
+              "away": "derby-county-fc",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "juventus-fc",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "hamburger-sv",
+              "away": "juventus-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "afc-amsterdam"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "1-fc-koln",
+              "away": "afc-amsterdam",
+              "score": "5:1"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "afc-amsterdam",
+              "away": "1-fc-koln",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "fk-velez-mostar",
+              "away": "fc-twente",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "fc-twente",
+              "away": "fk-velez-mostar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "fc-banik-ostrava",
+              "away": "borussia-monchengladbach",
+              "score": "0:1"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "borussia-monchengladbach",
+              "away": "fc-banik-ostrava",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-twente",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-09",
+              "home": "fc-twente",
+              "away": "juventus-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1975-04-23",
+              "home": "juventus-fc",
+              "away": "fc-twente",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-10",
+              "home": "1-fc-koln",
+              "away": "borussia-monchengladbach",
+              "score": "1:3"
+            },
+            {
+              "date": "1975-04-22",
+              "home": "borussia-monchengladbach",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1975-05-07",
+              "home": "borussia-monchengladbach",
+              "away": "fc-twente",
+              "score": "0:0",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            },
+            {
+              "date": "1975-05-21",
+              "home": "fc-twente",
+              "away": "borussia-monchengladbach",
+              "score": "1:5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

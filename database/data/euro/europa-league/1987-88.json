@@ -1,0 +1,1328 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1987-88",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "besiktas-jk",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "besiktas-jk",
+              "away": "inter-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "inter-milan",
+              "away": "besiktas-jk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "bohemian-fc",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "aberdeen-fc",
+              "away": "bohemian-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "borussia-monchengladbach",
+              "away": "rcd-espanyol",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "rcd-espanyol",
+              "away": "borussia-monchengladbach",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "brondby-if",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ifk-goteborg",
+              "away": "brondby-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "budapest-honved-fc",
+              "away": "ksc-lokeren",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ksc-lokeren",
+              "away": "budapest-honved-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "celtic-fc",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "borussia-dortmund",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "coleraine-fc",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "coleraine-fc",
+              "away": "dundee-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "dundee-united-fc",
+              "away": "coleraine-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "epa-larnaca-fc",
+            "victoria-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "epa-larnaca-fc",
+              "away": "victoria-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "victoria-bucuresti",
+              "away": "epa-larnaca-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-barcelona",
+              "away": "cf-os-belenenses",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "cf-os-belenenses",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-erzgebirge-aue",
+            "valur"
+          ],
+          "winner": "fc-erzgebirge-aue",
+          "note": "Wismut Aue won on away goals",
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-erzgebirge-aue",
+              "away": "valur",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "valur",
+              "away": "fc-erzgebirge-aue",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-spartak-moscow",
+              "away": "sg-dynamo-dresden",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-spartak-moscow",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "gd-chaves"
+          ],
+          "winner": "gd-chaves",
+          "note": "Chaves won on away goals",
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "cs-universitatea-craiova",
+              "away": "gd-chaves",
+              "score": "3:2"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "gd-chaves",
+              "away": "cs-universitatea-craiova",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mfk-vitkovice",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "mfk-vitkovice",
+              "away": "aik-fotboll",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "aik-fotboll",
+              "away": "mfk-vitkovice",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-zenit",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "club-brugge-kv",
+              "away": "fc-zenit",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "ca-spora-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "feyenoord",
+              "away": "ca-spora-luxembourg",
+              "score": "5:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ca-spora-luxembourg",
+              "away": "feyenoord",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fk-austria-wien",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "bayer-04-leverkusen",
+              "away": "fk-austria-wien",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "grasshopper-club",
+              "away": "fc-dynamo-moscow",
+              "score": "0:4"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-dynamo-moscow",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksk-beveren",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "ksk-beveren",
+              "away": "bohemians-praha-1905",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "bohemians-praha-1905",
+              "away": "ksk-beveren",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "flamurtari-fc",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "flamurtari-fc",
+              "away": "fk-partizan",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fk-partizan",
+              "away": "flamurtari-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "linzer-ask",
+              "away": "fc-utrecht",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-utrecht",
+              "away": "linzer-ask",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mjondalen-if-fotball",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "mjondalen-if-fotball",
+              "away": "sv-werder-bremen",
+              "score": "0:5"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "sv-werder-bremen",
+              "away": "mjondalen-if-fotball",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "panathinaikos-fc",
+              "away": "aj-auxerre",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "aj-auxerre",
+              "away": "panathinaikos-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pogon-szczecin",
+            "hellas-verona-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "pogon-szczecin",
+              "away": "hellas-verona-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "hellas-verona-fc",
+              "away": "pogon-szczecin",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "red-star-belgrade",
+              "away": "botev-plovdiv",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "botev-plovdiv",
+              "away": "red-star-belgrade",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "sporting-de-gijon",
+              "away": "ac-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ac-milan",
+              "away": "sporting-de-gijon",
+              "score": "3:0",
+              "note": "Played at Stadio Via del Mare, Lecce (UEFA ban on San Siro)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sportul-studentesc",
+            "gks-katowice"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-sportul-studentesc",
+              "away": "gks-katowice",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "gks-katowice",
+              "away": "fc-sportul-studentesc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tatabanyai-sc",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "tatabanyai-sc",
+              "away": "vitoria-sc",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "vitoria-sc",
+              "away": "tatabanyai-sc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "toulouse-fc",
+            "panionios-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "toulouse-fc",
+              "away": "panionios-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "panionios-fc",
+              "away": "toulouse-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tps-turku",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "tps-turku",
+              "away": "admira-wacker",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "admira-wacker",
+              "away": "tps-turku",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "valletta-fc",
+              "away": "juventus-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "juventus-fc",
+              "away": "valletta-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fk-velez-mostar",
+              "away": "fc-sion",
+              "score": "5:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-sion",
+              "away": "fk-velez-mostar",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-17",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "ac-milan",
+              "away": "rcd-espanyol",
+              "score": "0:2",
+              "note": "Played at Stadio Via del Mare, Lecce (UEFA ban on San Siro)"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "rcd-espanyol",
+              "away": "ac-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "feyenoord"
+          ],
+          "winner": "feyenoord",
+          "note": "Feyenoord won on away goals",
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "aberdeen-fc",
+              "away": "feyenoord",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "feyenoord",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "borussia-dortmund",
+              "away": "fk-velez-mostar",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fk-velez-mostar",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "fc-sportul-studentesc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "brondby-if",
+              "away": "fc-sportul-studentesc",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-sportul-studentesc",
+              "away": "brondby-if",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "FC Sportul Studențesc won 3:0 on penalties"
+            }
+          ],
+          "winner": "fc-sportul-studentesc"
+        },
+        {
+          "clubs": [
+            "gd-chaves",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "gd-chaves",
+              "away": "budapest-honved-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "budapest-honved-fc",
+              "away": "gd-chaves",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "mfk-vitkovice"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "dundee-united-fc",
+              "away": "mfk-vitkovice",
+              "score": "1:2"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "mfk-vitkovice",
+              "away": "dundee-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "hellas-verona-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "fc-utrecht",
+              "away": "hellas-verona-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "hellas-verona-fc",
+              "away": "fc-utrecht",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "fc-barcelona",
+              "away": "fc-dynamo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-dynamo-moscow",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-erzgebirge-aue",
+            "flamurtari-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "fc-erzgebirge-aue",
+              "away": "flamurtari-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "flamurtari-fc",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "inter-milan",
+              "away": "tps-turku",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "tps-turku",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "juventus-fc"
+          ],
+          "winner": "panathinaikos-fc",
+          "note": "Panathinaikos won on away goals",
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "panathinaikos-fc",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "juventus-fc",
+              "away": "panathinaikos-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "red-star-belgrade",
+              "away": "club-brugge-kv",
+              "score": "3:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "club-brugge-kv",
+              "away": "red-star-belgrade",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "toulouse-fc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "toulouse-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "bayer-04-leverkusen",
+              "away": "toulouse-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "victoria-bucuresti",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "victoria-bucuresti",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:2"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-dinamo-tbilisi",
+              "away": "victoria-bucuresti",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "vitoria-sc",
+              "away": "ksk-beveren",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "ksk-beveren",
+              "away": "vitoria-sc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Vitória SC won 5:4 on penalties"
+            }
+          ],
+          "winner": "vitoria-sc"
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-24",
+              "home": "fc-spartak-moscow",
+              "away": "sv-werder-bremen",
+              "score": "4:1"
+            },
+            {
+              "date": "1987-11-03",
+              "home": "sv-werder-bremen",
+              "away": "fc-spartak-moscow",
+              "score": "6:2",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "borussia-dortmund",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "club-brugge-kv",
+              "away": "borussia-dortmund",
+              "score": "5:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "budapest-honved-fc",
+              "away": "panathinaikos-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "panathinaikos-fc",
+              "away": "budapest-honved-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "flamurtari-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "fc-barcelona",
+              "away": "flamurtari-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "flamurtari-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "feyenoord",
+              "away": "bayer-04-leverkusen",
+              "score": "2:2"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "bayer-04-leverkusen",
+              "away": "feyenoord",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hellas-verona-fc",
+            "fc-sportul-studentesc"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "hellas-verona-fc",
+              "away": "fc-sportul-studentesc",
+              "score": "3:1"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "fc-sportul-studentesc",
+              "away": "hellas-verona-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "inter-milan",
+              "away": "rcd-espanyol",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "rcd-espanyol",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "mfk-vitkovice"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "vitoria-sc",
+              "away": "mfk-vitkovice",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "mfk-vitkovice",
+              "away": "vitoria-sc",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "MFK Vítkovice won 5:4 on penalties"
+            }
+          ],
+          "winner": "mfk-vitkovice"
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1987-11-25",
+              "home": "sv-werder-bremen",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-12-09",
+              "home": "fc-dinamo-tbilisi",
+              "away": "sv-werder-bremen",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "fc-barcelona",
+              "away": "bayer-04-leverkusen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hellas-verona-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "hellas-verona-fc",
+              "away": "sv-werder-bremen",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "sv-werder-bremen",
+              "away": "hellas-verona-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "panathinaikos-fc",
+              "away": "club-brugge-kv",
+              "score": "2:2"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "club-brugge-kv",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "mfk-vitkovice"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "rcd-espanyol",
+              "away": "mfk-vitkovice",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "mfk-vitkovice",
+              "away": "rcd-espanyol",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "bayer-04-leverkusen",
+              "away": "sv-werder-bremen",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "sv-werder-bremen",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "club-brugge-kv",
+              "away": "rcd-espanyol",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "rcd-espanyol",
+              "away": "club-brugge-kv",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1988-05-04",
+              "home": "rcd-espanyol",
+              "away": "bayer-04-leverkusen",
+              "score": "3:0"
+            },
+            {
+              "date": "1988-05-18",
+              "home": "bayer-04-leverkusen",
+              "away": "rcd-espanyol",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "Bayer 04 Leverkusen won 3:2 on penalties"
+            }
+          ],
+          "winner": "bayer-04-leverkusen"
+        }
+      ]
+    }
+  ]
+}

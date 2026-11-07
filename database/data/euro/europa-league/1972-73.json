@@ -1,0 +1,1305 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1972-73",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-12",
+              "home": "liverpool-fc",
+              "away": "eintracht-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-09-26",
+              "home": "eintracht-frankfurt",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-uta-arad",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-uta-arad",
+              "away": "ifk-norrkoping",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ifk-norrkoping",
+              "away": "fc-uta-arad",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-universitatea-cluj",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-universitatea-cluj",
+              "away": "pfc-levski-sofia",
+              "score": "4:1"
+            },
+            {
+              "date": "1972-10-04",
+              "home": "pfc-levski-sofia",
+              "away": "fc-universitatea-cluj",
+              "score": "5:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "salgotarjani-btc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "aek-athens-fc",
+              "away": "salgotarjani-btc",
+              "score": "3:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "salgotarjani-btc",
+              "away": "aek-athens-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "fk-austria-wien",
+              "score": "7:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fk-austria-wien",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-twente",
+              "score": "3:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-twente",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "sk-slovan-bratislava",
+              "away": "fk-vojvodina",
+              "score": "6:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fk-vojvodina",
+              "away": "sk-slovan-bratislava",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "ruch-chorzow",
+              "away": "fenerbahce-sk",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fenerbahce-sk",
+              "away": "ruch-chorzow",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "fc-stahl-linz"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-stahl-linz",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-stahl-linz",
+              "away": "sg-dynamo-dresden",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "red-star-belgrade",
+              "away": "fc-lausanne-sport",
+              "score": "5:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-lausanne-sport",
+              "away": "red-star-belgrade",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "ofk-beograd"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fk-dukla-prague",
+              "away": "ofk-beograd",
+              "score": "2:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ofk-beograd",
+              "away": "fk-dukla-prague",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyn-fotball",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "lyn-fotball",
+              "away": "tottenham-hotspur-fc",
+              "score": "3:6"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "tottenham-hotspur-fc",
+              "away": "lyn-fotball",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "viking-fk",
+              "away": "ibv-vestmannaeyjar",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ibv-vestmannaeyjar",
+              "away": "viking-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "atvidabergs-ff",
+              "away": "club-brugge-kv",
+              "score": "3:5"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "club-brugge-kv",
+              "away": "atvidabergs-ff",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "boldklubben-frem"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-sochaux-montbeliard",
+              "away": "boldklubben-frem",
+              "score": "1:3"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "boldklubben-frem",
+              "away": "fc-sochaux-montbeliard",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "partick-thistle-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "budapest-honved-fc",
+              "away": "partick-thistle-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "partick-thistle-fc",
+              "away": "budapest-honved-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "1-fc-koln",
+              "away": "bohemian-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "bohemian-fc",
+              "away": "1-fc-koln",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "aberdeen-fc",
+              "away": "borussia-monchengladbach",
+              "score": "2:3"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "borussia-monchengladbach",
+              "away": "aberdeen-fc",
+              "score": "6:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "angers-sco",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "angers-sco",
+              "away": "bfc-dynamo",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "bfc-dynamo",
+              "away": "angers-sco",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "us-rumelange"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "feyenoord",
+              "away": "us-rumelange",
+              "score": "9:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "us-rumelange",
+              "away": "feyenoord",
+              "score": "0:12"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "manchester-city-fc",
+              "away": "valencia-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "valencia-cf",
+              "away": "manchester-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nimes-olympique",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "nimes-olympique",
+              "away": "grasshopper-club",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-09-26",
+              "home": "grasshopper-club",
+              "away": "nimes-olympique",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stoke-city-fc",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "stoke-city-fc",
+              "away": "1-fc-kaiserslautern",
+              "score": "3:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "1-fc-kaiserslautern",
+              "away": "stoke-city-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "ud-las-palmas"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "torino-fc",
+              "away": "ud-las-palmas",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ud-las-palmas",
+              "away": "torino-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "inter-milan",
+              "away": "valletta-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "valletta-fc",
+              "away": "inter-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "zaglebie-sosnowiec"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "vitoria-fc",
+              "away": "zaglebie-sosnowiec",
+              "score": "6:1"
+            },
+            {
+              "date": "1972-09-28",
+              "home": "zaglebie-sosnowiec",
+              "away": "vitoria-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "epa-larnaca-fc",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-14",
+              "home": "epa-larnaca-fc",
+              "away": "fc-ararat-yerevan",
+              "score": "0:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fc-ararat-yerevan",
+              "away": "epa-larnaca-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eskisehirspor",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-14",
+              "home": "eskisehirspor",
+              "away": "acf-fiorentina",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "acf-fiorentina",
+              "away": "eskisehirspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "cagliari-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-14",
+              "home": "olympiacos-fc",
+              "away": "cagliari-calcio",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "cagliari-calcio",
+              "away": "olympiacos-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "gd-fabril"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-20",
+              "home": "rwd-molenbeek",
+              "away": "gd-fabril",
+              "score": "0:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "gd-fabril",
+              "away": "rwd-molenbeek",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-20",
+              "home": "fc-porto",
+              "away": "fc-barcelona",
+              "score": "3:1"
+            },
+            {
+              "date": "1972-09-29",
+              "home": "fc-barcelona",
+              "away": "fc-porto",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hvidovre-if",
+            "hifk-fotboll"
+          ],
+          "winner": "hvidovre-if",
+          "note": "Walkover: HIFK withdrew",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "viking-fk",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-24",
+              "home": "viking-fk",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-11-07",
+              "home": "1-fc-koln",
+              "away": "viking-fk",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-24",
+              "home": "liverpool-fc",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-07",
+              "home": "aek-athens-fc",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "budapest-honved-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-07",
+              "home": "budapest-honved-fc",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "bfc-dynamo",
+              "away": "pfc-levski-sofia",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-07",
+              "home": "pfc-levski-sofia",
+              "away": "bfc-dynamo",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "red-star-belgrade",
+              "away": "valencia-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "valencia-cf",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gd-fabril",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "gd-fabril",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:3"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "1-fc-kaiserslautern",
+              "away": "gd-fabril",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "ruch-chorzow",
+              "away": "sg-dynamo-dresden",
+              "score": "0:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "sg-dynamo-dresden",
+              "away": "ruch-chorzow",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "hvidovre-if"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "borussia-monchengladbach",
+              "away": "hvidovre-if",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "hvidovre-if",
+              "away": "borussia-monchengladbach",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-frem",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "boldklubben-frem",
+              "away": "fc-twente",
+              "score": "0:5"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "fc-twente",
+              "away": "boldklubben-frem",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "grasshopper-club",
+              "away": "fc-ararat-yerevan",
+              "score": "1:3"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "fc-ararat-yerevan",
+              "away": "grasshopper-club",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "ofk-beograd"
+          ],
+          "winner": "ofk-beograd",
+          "note": "OFK Beograd won on away goals",
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "feyenoord",
+              "away": "ofk-beograd",
+              "score": "4:3"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "ofk-beograd",
+              "away": "feyenoord",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "tottenham-hotspur-fc",
+              "away": "olympiacos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "olympiacos-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "inter-milan",
+              "away": "ifk-norrkoping",
+              "score": "2:2"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "ifk-norrkoping",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ud-las-palmas",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "ud-las-palmas",
+              "away": "sk-slovan-bratislava",
+              "score": "2:2"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "sk-slovan-bratislava",
+              "away": "ud-las-palmas",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "acf-fiorentina"
+          ],
+          "winner": "vitoria-fc",
+          "note": "Vitória de Setúbal won on away goals",
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "vitoria-fc",
+              "away": "acf-fiorentina",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-11-01",
+              "home": "acf-fiorentina",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "fc-porto",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "club-brugge-kv",
+              "away": "fc-porto",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-koln",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-28",
+              "home": "1-fc-koln",
+              "away": "borussia-monchengladbach",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "borussia-monchengladbach",
+              "away": "1-fc-koln",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "bfc-dynamo",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "liverpool-fc",
+              "away": "bfc-dynamo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-beograd",
+            "pfc-beroe-stara-zagora"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "ofk-beograd",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "ofk-beograd",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-yerevan",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "fc-ararat-yerevan",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "1-fc-kaiserslautern",
+              "away": "fc-ararat-yerevan",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "1. FC Kaiserslautern won 5:4 on penalties"
+            }
+          ],
+          "winner": "1-fc-kaiserslautern"
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "ud-las-palmas"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "fc-twente",
+              "away": "ud-las-palmas",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "ud-las-palmas",
+              "away": "fc-twente",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "tottenham-hotspur-fc",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "red-star-belgrade",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "fc-porto",
+              "away": "sg-dynamo-dresden",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-porto",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1972-11-29",
+              "home": "vitoria-fc",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-12-13",
+              "home": "inter-milan",
+              "away": "vitoria-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-06",
+              "home": "1-fc-kaiserslautern",
+              "away": "borussia-monchengladbach",
+              "score": "1:2"
+            },
+            {
+              "date": "1973-03-20",
+              "home": "borussia-monchengladbach",
+              "away": "1-fc-kaiserslautern",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-beograd",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "ofk-beograd",
+              "away": "fc-twente",
+              "score": "3:2"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "fc-twente",
+              "away": "ofk-beograd",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "liverpool-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "2:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "sg-dynamo-dresden",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "vitoria-fc"
+          ],
+          "winner": "tottenham-hotspur-fc",
+          "note": "Tottenham Hotspur won on away goals",
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "tottenham-hotspur-fc",
+              "away": "vitoria-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "vitoria-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "tottenham-hotspur-fc"
+          ],
+          "winner": "liverpool-fc",
+          "note": "Liverpool won on away goals",
+          "matches": [
+            {
+              "date": "1973-04-10",
+              "home": "liverpool-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "tottenham-hotspur-fc",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1973-04-11",
+              "home": "borussia-monchengladbach",
+              "away": "fc-twente",
+              "score": "3:0"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "fc-twente",
+              "away": "borussia-monchengladbach",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1973-05-10",
+              "home": "liverpool-fc",
+              "away": "borussia-monchengladbach",
+              "score": "3:0",
+              "note": "Replay of the match abandoned on 9 May after 27 minutes at 0:0 because of a waterlogged pitch"
+            },
+            {
+              "date": "1973-05-23",
+              "home": "borussia-monchengladbach",
+              "away": "liverpool-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

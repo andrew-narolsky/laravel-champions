@@ -1,0 +1,1322 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1981-82",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-15",
+              "home": "bohemians-praha-1905",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "valencia-cf",
+              "away": "bohemians-praha-1905",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-15",
+              "home": "neuchatel-xamax-fcs",
+              "away": "ac-sparta-prague",
+              "score": "4:0"
+            },
+            {
+              "date": "1981-09-29",
+              "home": "ac-sparta-prague",
+              "away": "neuchatel-xamax-fcs",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tatabanyai-sc",
+            "real-madrid-cf"
+          ],
+          "winner": "real-madrid-cf",
+          "note": "Real Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "tatabanyai-sc",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "real-madrid-cf",
+              "away": "tatabanyai-sc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "aris-thessaloniki-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "sliema-wanderers-fc",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-dinamo-bucuresti",
+              "away": "pfc-levski-sofia",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-29",
+              "home": "pfc-levski-sofia",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-dinamo-city",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-carl-zeiss-jena",
+              "away": "fc-dinamo-city",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-spartak-moscow",
+              "away": "club-brugge-kv",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "club-brugge-kv",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-zenit",
+              "away": "sg-dynamo-dresden",
+              "score": "1:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-zenit",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bryne-fk",
+            "kfc-winterslag"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "bryne-fk",
+              "away": "kfc-winterslag",
+              "score": "0:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "kfc-winterslag",
+              "away": "bryne-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "sk-rapid-wien",
+              "away": "videoton-fc-fehervar",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "videoton-fc-fehervar",
+              "away": "sk-rapid-wien",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-haka",
+              "away": "ifk-goteborg",
+              "score": "2:3"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "ifk-goteborg",
+              "away": "fc-haka",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "boavista-fc",
+              "away": "atletico-madrid",
+              "score": "4:1"
+            },
+            {
+              "date": "1981-10-01",
+              "home": "atletico-madrid",
+              "away": "boavista-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "limerick-fc",
+            "southampton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "limerick-fc",
+              "away": "southampton-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1981-09-29",
+              "home": "southampton-fc",
+              "away": "limerick-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "hnk-hajduk-split",
+              "away": "vfb-stuttgart",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "vfb-stuttgart",
+              "away": "hnk-hajduk-split",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "malmo-ff",
+              "away": "wisla-krakow",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "wisla-krakow",
+              "away": "malmo-ff",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "adanaspor",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "adanaspor",
+              "away": "inter-milan",
+              "score": "1:3"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "inter-milan",
+              "away": "adanaspor",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "panathinaikos-fc",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "arsenal-fc",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "naestved-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "psv-eindhoven",
+              "away": "naestved-boldklub",
+              "score": "7:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "naestved-boldklub",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "pfc-cska-moscow"
+          ],
+          "winner": "sk-sturm-graz",
+          "note": "Sturm Graz won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "sk-sturm-graz",
+              "away": "pfc-cska-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "pfc-cska-moscow",
+              "away": "sk-sturm-graz",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksk-beveren",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ksk-beveren",
+              "away": "linfield-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-29",
+              "home": "linfield-fc",
+              "away": "ksk-beveren",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-17",
+              "home": "vikingur-reykjavik",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:4"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "vikingur-reykjavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "fc-arges-pitesti"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "apoel-fc",
+              "away": "fc-arges-pitesti",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-arges-pitesti",
+              "away": "apoel-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "szombierki-bytom"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "feyenoord",
+              "away": "szombierki-bytom",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "szombierki-bytom",
+              "away": "feyenoord",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "grasshopper-club",
+              "away": "west-bromwich-albion-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "west-bromwich-albion-fc",
+              "away": "grasshopper-club",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "hamburger-sv",
+              "away": "fc-utrecht",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-utrecht",
+              "away": "hamburger-sv",
+              "score": "3:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "pfc-akademik-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "1-fc-kaiserslautern",
+              "away": "pfc-akademik-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "pfc-akademik-sofia",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "borussia-monchengladbach"
+          ],
+          "winner": "borussia-monchengladbach",
+          "note": "Borussia Mönchengladbach won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "1-fc-magdeburg",
+              "away": "borussia-monchengladbach",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "borussia-monchengladbach",
+              "away": "1-fc-magdeburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-nantes",
+              "away": "ksc-lokeren",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-29",
+              "home": "ksc-lokeren",
+              "away": "fc-nantes",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ipswich-town-fc",
+              "away": "aberdeen-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "aberdeen-fc",
+              "away": "ipswich-town-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "as-monaco-fc",
+              "away": "dundee-united-fc",
+              "score": "2:5"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "dundee-united-fc",
+              "away": "as-monaco-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fk-radnicki-nis"
+          ],
+          "winner": "fk-radnicki-nis",
+          "note": "Radnički Niš won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ssc-napoli",
+              "away": "fk-radnicki-nis",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fk-radnicki-nis",
+              "away": "ssc-napoli",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "red-boys-differdange"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "sporting-cp",
+              "away": "red-boys-differdange",
+              "score": "4:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "red-boys-differdange",
+              "away": "sporting-cp",
+              "score": "0:7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-arges-pitesti"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "aberdeen-fc",
+              "away": "fc-arges-pitesti",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-arges-pitesti",
+              "away": "aberdeen-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "aris-thessaloniki-fc",
+              "away": "ksc-lokeren",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "ksc-lokeren",
+              "away": "aris-thessaloniki-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-20",
+              "home": "borussia-monchengladbach",
+              "away": "dundee-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-11-03",
+              "home": "dundee-united-fc",
+              "away": "borussia-monchengladbach",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "hamburger-sv",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "hamburger-sv",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fc-spartak-moscow",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "1-fc-kaiserslautern",
+              "away": "fc-spartak-moscow",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "feyenoord",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "sg-dynamo-dresden",
+              "away": "feyenoord",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fk-radnicki-nis"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "grasshopper-club",
+              "away": "fk-radnicki-nis",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fk-radnicki-nis",
+              "away": "grasshopper-club",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "FK Radnički Niš won 3:0 on penalties"
+            }
+          ],
+          "winner": "fk-radnicki-nis"
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "inter-milan",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-dinamo-bucuresti",
+              "away": "inter-milan",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kfc-winterslag",
+            "arsenal-fc"
+          ],
+          "winner": "kfc-winterslag",
+          "note": "Winterslag won on away goals",
+          "matches": [
+            {
+              "date": "1981-10-20",
+              "home": "kfc-winterslag",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-11-03",
+              "home": "arsenal-fc",
+              "away": "kfc-winterslag",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksk-beveren",
+            "hnk-hajduk-split"
+          ],
+          "winner": "hnk-hajduk-split",
+          "note": "Hajduk Split won on away goals",
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "ksk-beveren",
+              "away": "hnk-hajduk-split",
+              "score": "2:3"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "hnk-hajduk-split",
+              "away": "ksk-beveren",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "malmo-ff",
+              "away": "neuchatel-xamax-fcs",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-11-03",
+              "home": "neuchatel-xamax-fcs",
+              "away": "malmo-ff",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "real-madrid-cf",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:2"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-carl-zeiss-jena",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "psv-eindhoven"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "sk-rapid-wien",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "psv-eindhoven",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-20",
+              "home": "sk-sturm-graz",
+              "away": "ifk-goteborg",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "ifk-goteborg",
+              "away": "sk-sturm-graz",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "southampton-fc",
+              "away": "sporting-cp",
+              "score": "2:4"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "sporting-cp",
+              "away": "southampton-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "valencia-cf",
+              "away": "boavista-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "boavista-fc",
+              "away": "valencia-cf",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "aberdeen-fc",
+              "away": "hamburger-sv",
+              "score": "3:2"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "hamburger-sv",
+              "away": "aberdeen-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "ifk-goteborg",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:1"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "fc-dinamo-bucuresti",
+              "away": "ifk-goteborg",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kfc-winterslag",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-12-01",
+              "home": "kfc-winterslag",
+              "away": "dundee-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "dundee-united-fc",
+              "away": "kfc-winterslag",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksc-lokeren",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "ksc-lokeren",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "1-fc-kaiserslautern",
+              "away": "ksc-lokeren",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-nis",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "fk-radnicki-nis",
+              "away": "feyenoord",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "feyenoord",
+              "away": "fk-radnicki-nis",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "sk-rapid-wien",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "real-madrid-cf",
+              "away": "sk-rapid-wien",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "sporting-cp",
+              "away": "neuchatel-xamax-fcs",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "neuchatel-xamax-fcs",
+              "away": "sporting-cp",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1981-11-25",
+              "home": "valencia-cf",
+              "away": "hnk-hajduk-split",
+              "score": "5:1"
+            },
+            {
+              "date": "1981-12-09",
+              "home": "hnk-hajduk-split",
+              "away": "valencia-cf",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "fk-radnicki-nis"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "dundee-united-fc",
+              "away": "fk-radnicki-nis",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "fk-radnicki-nis",
+              "away": "dundee-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "hamburger-sv",
+              "away": "neuchatel-xamax-fcs",
+              "score": "3:2"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "neuchatel-xamax-fcs",
+              "away": "hamburger-sv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "real-madrid-cf",
+              "away": "1-fc-kaiserslautern",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "1-fc-kaiserslautern",
+              "away": "real-madrid-cf",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "valencia-cf",
+              "away": "ifk-goteborg",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "ifk-goteborg",
+              "away": "valencia-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "1-fc-kaiserslautern",
+              "away": "ifk-goteborg",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "ifk-goteborg",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-nis",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "fk-radnicki-nis",
+              "away": "hamburger-sv",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "hamburger-sv",
+              "away": "fk-radnicki-nis",
+              "score": "5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1982-05-05",
+              "home": "ifk-goteborg",
+              "away": "hamburger-sv",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-05-19",
+              "home": "hamburger-sv",
+              "away": "ifk-goteborg",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

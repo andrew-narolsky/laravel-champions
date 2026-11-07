@@ -1,0 +1,1322 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1979-80",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-zbrojovka-brno",
+              "away": "esbjerg-fb",
+              "score": "6:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "esbjerg-fb",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "agf-aarhus",
+              "away": "stal-mielec",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "stal-mielec",
+              "away": "agf-aarhus",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "aberdeen-fc",
+              "away": "eintracht-frankfurt",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "eintracht-frankfurt",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "aris-thessaloniki-fc",
+              "away": "sl-benfica",
+              "score": "3:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "sl-benfica",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "atletico-madrid",
+              "away": "sg-dynamo-dresden",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "sg-dynamo-dresden",
+              "away": "atletico-madrid",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "borussia-monchengladbach",
+              "away": "viking-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "viking-fk",
+              "away": "borussia-monchengladbach",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "alki-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-dinamo-bucuresti",
+              "away": "alki-larnaca-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1979-10-04",
+              "home": "alki-larnaca-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:9"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "rsc-anderlecht"
+          ],
+          "winner": "dundee-united-fc",
+          "note": "Dundee United won on away goals",
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "dundee-united-fc",
+              "away": "rsc-anderlecht",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-02",
+              "home": "rsc-anderlecht",
+              "away": "dundee-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "bohemians-praha-1905",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-bayern-munich",
+              "away": "bohemians-praha-1905",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-carl-zeiss-jena",
+              "away": "west-bromwich-albion-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "west-bromwich-albion-fc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-dynamo-kyiv",
+              "away": "pfc-cska-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progres-niederkorn",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-26",
+              "home": "fc-progres-niederkorn",
+              "away": "grasshopper-club",
+              "score": "0:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "grasshopper-club",
+              "away": "fc-progres-niederkorn",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-shakhtar-donetsk",
+              "away": "as-monaco-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "as-monaco-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "feyenoord",
+              "away": "everton-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "everton-fc",
+              "away": "feyenoord",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-zurich",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:3"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "1-fc-kaiserslautern",
+              "away": "fc-zurich",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "galatasaray-sk",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "red-star-belgrade",
+              "away": "galatasaray-sk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-18",
+              "home": "glenavon-fc",
+              "away": "r-standard-liege",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "r-standard-liege",
+              "away": "glenavon-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "inter-milan",
+              "away": "real-sociedad",
+              "score": "3:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "real-sociedad",
+              "away": "inter-milan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kalmar-ff",
+            "keflavik"
+          ],
+          "winner": "keflavik",
+          "note": "Keflavík won on away goals",
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "kalmar-ff",
+              "away": "keflavik",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "keflavik",
+              "away": "kalmar-ff",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "koparit",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "koparit",
+              "away": "malmo-ff",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "malmo-ff",
+              "away": "koparit",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "ssc-napoli",
+              "away": "olympiacos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-04",
+              "home": "olympiacos-fc",
+              "away": "ssc-napoli",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "orduspor",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "orduspor",
+              "away": "fc-banik-ostrava",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-banik-ostrava",
+              "away": "orduspor",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-perugia-calcio",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "ac-perugia-calcio",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ac-perugia-calcio",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-18",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ferencvarosi-tc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "diosgyori-vtk"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "sk-rapid-wien",
+              "away": "diosgyori-vtk",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "diosgyori-vtk",
+              "away": "sk-rapid-wien",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skeid-fotball",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "skeid-fotball",
+              "away": "ipswich-town-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "ipswich-town-fc",
+              "away": "skeid-fotball",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "sporting-cp",
+              "away": "bohemian-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "bohemian-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "sporting-de-gijon",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "psv-eindhoven",
+              "away": "sporting-de-gijon",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "valletta-fc",
+              "away": "leeds-united-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "leeds-united-fc",
+              "away": "valletta-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "torino-fc"
+          ],
+          "winner": "vfb-stuttgart",
+          "note": "VfB Stuttgart won on away goals",
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "vfb-stuttgart",
+              "away": "torino-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "torino-fc",
+              "away": "vfb-stuttgart",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "widzew-lodz",
+              "away": "as-saint-etienne",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "as-saint-etienne",
+              "away": "widzew-lodz",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wiener-sport-club",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "wiener-sport-club",
+              "away": "cs-universitatea-craiova",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "cs-universitatea-craiova",
+              "away": "wiener-sport-club",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-zbrojovka-brno",
+              "away": "keflavik",
+              "score": "3:1"
+            },
+            {
+              "date": "1979-11-08",
+              "home": "keflavik",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "agf-aarhus",
+              "away": "fc-bayern-munich",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-bayern-munich",
+              "away": "agf-aarhus",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "ac-perugia-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "aris-thessaloniki-fc",
+              "away": "ac-perugia-calcio",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "ac-perugia-calcio",
+              "away": "aris-thessaloniki-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "borussia-monchengladbach",
+              "away": "inter-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "inter-milan",
+              "away": "borussia-monchengladbach",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-dinamo-bucuresti",
+              "away": "eintracht-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "eintracht-frankfurt",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "diosgyori-vtk"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "dundee-united-fc",
+              "away": "diosgyori-vtk",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "diosgyori-vtk",
+              "away": "dundee-united-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "vfb-stuttgart"
+          ],
+          "winner": "vfb-stuttgart",
+          "note": "VfB Stuttgart won on away goals",
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "sg-dynamo-dresden",
+              "away": "vfb-stuttgart",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "vfb-stuttgart",
+              "away": "sg-dynamo-dresden",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-banik-ostrava",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-banik-ostrava",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "cs-universitatea-craiova",
+              "away": "leeds-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "leeds-united-fc",
+              "away": "cs-universitatea-craiova",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "feyenoord",
+              "away": "malmo-ff",
+              "score": "4:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "malmo-ff",
+              "away": "feyenoord",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "ipswich-town-fc"
+          ],
+          "winner": "grasshopper-club",
+          "note": "Grasshoppers won on away goals",
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "grasshopper-club",
+              "away": "ipswich-town-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "ipswich-town-fc",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "as-monaco-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "as-monaco-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "psv-eindhoven",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "as-saint-etienne",
+              "away": "psv-eindhoven",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "red-star-belgrade",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-carl-zeiss-jena",
+              "away": "red-star-belgrade",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "sporting-cp",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "1-fc-kaiserslautern",
+              "away": "sporting-cp",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "r-standard-liege",
+              "away": "ssc-napoli",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "ssc-napoli",
+              "away": "r-standard-liege",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "as-saint-etienne",
+              "away": "aris-thessaloniki-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "aris-thessaloniki-fc",
+              "away": "as-saint-etienne",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "fc-bayern-munich",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "red-star-belgrade",
+              "away": "fc-bayern-munich",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "borussia-monchengladbach",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "cs-universitatea-craiova",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "diosgyori-vtk",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "diosgyori-vtk",
+              "away": "1-fc-kaiserslautern",
+              "score": "0:2"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "1-fc-kaiserslautern",
+              "away": "diosgyori-vtk",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "eintracht-frankfurt",
+              "away": "feyenoord",
+              "score": "4:1"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "feyenoord",
+              "away": "eintracht-frankfurt",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "grasshopper-club",
+              "away": "vfb-stuttgart",
+              "score": "0:2"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "vfb-stuttgart",
+              "away": "grasshopper-club",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "fc-dynamo-kyiv"
+          ],
+          "winner": "fc-lokomotiv-1929-sofia",
+          "note": "Lokomotiv Sofia won on away goals",
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1979-11-28",
+              "home": "r-standard-liege",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-12-12",
+              "home": "fc-zbrojovka-brno",
+              "away": "r-standard-liege",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "1-fc-kaiserslautern",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "fc-bayern-munich",
+              "away": "1-fc-kaiserslautern",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "as-saint-etienne",
+              "away": "borussia-monchengladbach",
+              "score": "1:4"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "borussia-monchengladbach",
+              "away": "as-saint-etienne",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "eintracht-frankfurt",
+              "away": "fc-zbrojovka-brno",
+              "score": "4:1"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "fc-zbrojovka-brno",
+              "away": "eintracht-frankfurt",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "vfb-stuttgart",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "vfb-stuttgart",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "fc-bayern-munich",
+              "away": "eintracht-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-04-22",
+              "home": "eintracht-frankfurt",
+              "away": "fc-bayern-munich",
+              "score": "5:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "vfb-stuttgart",
+              "away": "borussia-monchengladbach",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-04-22",
+              "home": "borussia-monchengladbach",
+              "away": "vfb-stuttgart",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "eintracht-frankfurt"
+          ],
+          "winner": "eintracht-frankfurt",
+          "note": "Eintracht Frankfurt won on away goals",
+          "matches": [
+            {
+              "date": "1980-05-07",
+              "home": "borussia-monchengladbach",
+              "away": "eintracht-frankfurt",
+              "score": "3:2"
+            },
+            {
+              "date": "1980-05-21",
+              "home": "eintracht-frankfurt",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4589 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2013-14",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2013%E2%80%9314_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "vikingur-gota",
+            "fc-inter-turku"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "vikingur-gota",
+              "away": "fc-inter-turku",
+              "score": "1:1",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-inter-turku",
+              "away": "vikingur-gota",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-zalgiris",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "st-patricks-athletic-fc",
+              "away": "fk-zalgiris",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "airbus-uk-broughton-fc",
+            "fk-ventspils"
+          ],
+          "winner": "fk-ventspils",
+          "note": "Ventspils won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "airbus-uk-broughton-fc",
+              "away": "fk-ventspils",
+              "score": "1:1",
+              "note": "Played at Racecourse Ground, Wrexham (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fk-ventspils",
+              "away": "airbus-uk-broughton-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-narva-trans",
+            "gefle-if"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "jk-narva-trans",
+              "away": "gefle-if",
+              "score": "0:3",
+              "note": "Played at A. Le Coq Arena, Tallinn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "gefle-if",
+              "away": "jk-narva-trans",
+              "score": "5:1",
+              "note": "Played at Norrporten Arena, Sundsvall (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "kr-reykjavik",
+              "away": "glentoran-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "glentoran-fc",
+              "away": "kr-reykjavik",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chikhura-sachkhere",
+            "fc-vaduz"
+          ],
+          "winner": "fc-chikhura-sachkhere",
+          "note": "Chikhura Sachkhere won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-chikhura-sachkhere",
+              "away": "fc-vaduz",
+              "score": "0:0",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-vaduz",
+              "away": "fc-chikhura-sachkhere",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-milsami-orhei",
+              "away": "f91-dudelange",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "f91-dudelange",
+              "away": "fc-milsami-orhei",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-metalurg-skopje",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "fk-metalurg-skopje",
+              "away": "qarabag-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "qarabag-fk",
+              "away": "fk-metalurg-skopje",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "ofk-titograd"
+          ],
+          "winner": "ofk-titograd",
+          "note": "Mladost Podgorica won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "videoton-fc-fehervar",
+              "away": "ofk-titograd",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "ofk-titograd",
+              "away": "videoton-fc-fehervar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "fk-kukesi"
+          ],
+          "winner": "fk-kukesi",
+          "note": "Kukësi won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-flora",
+              "away": "fk-kukesi",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fk-kukesi",
+              "away": "fc-flora",
+              "score": "0:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-teteks",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-teteks",
+              "away": "fc-pyunik",
+              "score": "1:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-pyunik",
+              "away": "fk-teteks",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-teuta",
+            "fc-dacia-chisinau"
+          ],
+          "winner": "fc-dacia-chisinau",
+          "note": "Dacia Chișinău won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "kf-teuta",
+              "away": "fc-dacia-chisinau",
+              "score": "3:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-dacia-chisinau",
+              "away": "kf-teuta",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "ac-libertas"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-sarajevo",
+              "away": "ac-libertas",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "ac-libertas",
+              "away": "fk-sarajevo",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "khazar-lankaran-fk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "sliema-wanderers-fc",
+              "away": "khazar-lankaran-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "khazar-lankaran-fk",
+              "away": "sliema-wanderers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fc-irtysh"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "pfc-levski-sofia",
+              "away": "fc-irtysh",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-irtysh",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "hibernians-fc",
+              "away": "fk-vojvodina",
+              "score": "1:4"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fk-vojvodina",
+              "away": "hibernians-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-astana",
+              "away": "botev-plovdiv",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "botev-plovdiv",
+              "away": "fc-astana",
+              "score": "5:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-santa-coloma",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "ue-santa-coloma",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:3"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "hsk-zrinjski-mostar",
+              "away": "ue-santa-coloma",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "fc-astra-giurgiu"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "nk-domzale",
+              "away": "fc-astra-giurgiu",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-astra-giurgiu",
+              "away": "nk-domzale",
+              "score": "2:0",
+              "note": "Played at Arena Națională, Bucharest (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rudar-pljevlja",
+            "sc-mika"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-rudar-pljevlja",
+              "away": "sc-mika",
+              "score": "1:0",
+              "note": "Played at Podgorica City Stadium, Podgorica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-09",
+              "home": "sc-mika",
+              "away": "fk-rudar-pljevlja",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "breidablik",
+              "away": "fc-santa-coloma",
+              "score": "4:0"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-santa-coloma",
+              "away": "breidablik",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "drogheda-united-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "drogheda-united-fc",
+              "away": "malmo-ff",
+              "score": "0:0",
+              "note": "Played at Tallaght Stadium, Tallaght (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "malmo-ff",
+              "away": "drogheda-united-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "samaxi-fk",
+            "ifk-mariehamn"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "samaxi-fk",
+              "away": "ifk-mariehamn",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "ifk-mariehamn",
+              "away": "samaxi-fk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-fuglafjardar",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-03",
+              "home": "if-fuglafjardar",
+              "away": "linfield-fc",
+              "score": "0:2",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-10",
+              "home": "linfield-fc",
+              "away": "if-fuglafjardar",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "prestatyn-town-fc",
+            "fk-liepajas-metalurgs"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "prestatyn-town-fc",
+              "away": "fk-liepajas-metalurgs",
+              "score": "1:2",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fk-liepajas-metalurgs",
+              "away": "prestatyn-town-fc",
+              "score": "1:2",
+              "extra_time": true,
+              "note": "Prestatyn Town FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "prestatyn-town-fc"
+        },
+        {
+          "clubs": [
+            "tromso-il",
+            "nk-celje"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "tromso-il",
+              "away": "nk-celje",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "nk-celje",
+              "away": "tromso-il",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tiraspol",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-tiraspol",
+              "away": "skonto-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "skonto-fc",
+              "away": "fc-tiraspol",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Skonto FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "skonto-fc"
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "crusaders-fc",
+              "away": "rosenborg-bk",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "rosenborg-bk",
+              "away": "crusaders-fc",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "ibv-vestmannaeyjar",
+              "away": "hb-torshavn",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "hb-torshavn",
+              "away": "ibv-vestmannaeyjar",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "jeunesse-esch",
+              "away": "tps-turku",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-09",
+              "home": "tps-turku",
+              "away": "jeunesse-esch",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bala-town-fc",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-02",
+              "home": "bala-town-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "1:0",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fci-levadia-tallinn",
+              "away": "bala-town-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kruoja-pakruojis",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-kruoja-pakruojis",
+              "away": "fc-dinamo-minsk",
+              "score": "0:3",
+              "note": "Played at Savivaldybė Stadium, Šiauliai (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-dinamo-minsk",
+              "away": "fk-kruoja-pakruojis",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-la-fiorita",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "sp-la-fiorita",
+              "away": "valletta-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "valletta-fc",
+              "away": "sp-la-fiorita",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-laci",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "kf-laci",
+              "away": "fc-differdange-03",
+              "score": "0:1",
+              "note": "Played at Skënderbeu Stadium, Korçë (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-09",
+              "home": "fc-differdange-03",
+              "away": "kf-laci",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-gandzasar",
+            "fc-aktobe"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-gandzasar",
+              "away": "fc-aktobe",
+              "score": "1:2",
+              "note": "Played at Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fc-aktobe",
+              "away": "fc-gandzasar",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-celik-niksic",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-celik-niksic",
+              "away": "budapest-honved-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "budapest-honved-fc",
+              "away": "fk-celik-niksic",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fc-torpedo-kutaisi",
+              "away": "msk-zilina",
+              "score": "0:3"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "msk-zilina",
+              "away": "fc-torpedo-kutaisi",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "fk-horizont-turnovo"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-04",
+              "home": "fk-suduva",
+              "away": "fk-horizont-turnovo",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-11",
+              "home": "fk-horizont-turnovo",
+              "away": "fk-suduva",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria); FK Horizont Turnovo won 5:4 on penalties"
+            }
+          ],
+          "winner": "fk-horizont-turnovo"
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "ac-sparta-prague",
+              "away": "bk-hacken",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "bk-hacken",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kukesi",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fk-kukesi",
+              "away": "fk-sarajevo",
+              "score": "3:2",
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fk-sarajevo",
+              "away": "fk-kukesi",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-thun",
+            "fc-chikhura-sachkhere"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-thun",
+              "away": "fc-chikhura-sachkhere",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-chikhura-sachkhere",
+              "away": "fc-thun",
+              "score": "1:3",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "xanthi-fc",
+            "linfield-fc"
+          ],
+          "winner": "xanthi-fc",
+          "note": "Skoda Xanthi won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "xanthi-fc",
+              "away": "linfield-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "linfield-fc",
+              "away": "xanthi-fc",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "il-hodd",
+            "fc-aktobe"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "il-hodd",
+              "away": "fc-aktobe",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-aktobe",
+              "away": "il-hodd",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dila-gori",
+            "aab-fodbold"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-dila-gori",
+              "away": "aab-fodbold",
+              "score": "3:0",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "aab-fodbold",
+              "away": "fc-dila-gori",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "khazar-lankaran-fk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "maccabi-haifa-fc",
+              "away": "khazar-lankaran-fk",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "khazar-lankaran-fk",
+              "away": "maccabi-haifa-fc",
+              "score": "0:8"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fk-horizont-turnovo"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "hnk-hajduk-split",
+              "away": "fk-horizont-turnovo",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fk-horizont-turnovo",
+              "away": "hnk-hajduk-split",
+              "score": "1:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fk-ventspils",
+              "away": "jeunesse-esch",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "jeunesse-esch",
+              "away": "fk-ventspils",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-astra-giurgiu",
+              "away": "ac-omonia",
+              "score": "1:1",
+              "note": "Played at Arena Națională, Bucharest (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "ac-omonia",
+              "away": "fc-astra-giurgiu",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "fc-slovan-liberec"
+          ],
+          "winner": "fc-slovan-liberec",
+          "note": "Slovan Liberec won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "skonto-fc",
+              "away": "fc-slovan-liberec",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-slovan-liberec",
+              "away": "skonto-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "cs-pandurii-targu-jiu"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-16",
+              "home": "fci-levadia-tallinn",
+              "away": "cs-pandurii-targu-jiu",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "cs-pandurii-targu-jiu",
+              "away": "fci-levadia-tallinn",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "fk-rudar-pljevlja"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "slask-wroclaw",
+              "away": "fk-rudar-pljevlja",
+              "score": "4:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fk-rudar-pljevlja",
+              "away": "slask-wroclaw",
+              "score": "2:2",
+              "note": "Played at Podgorica City Stadium, Podgorica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "malmo-ff",
+              "away": "hibernian-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "hibernian-fc",
+              "away": "malmo-ff",
+              "score": "0:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jagodina",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fk-jagodina",
+              "away": "fc-rubin-kazan",
+              "score": "2:3"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-rubin-kazan",
+              "away": "fk-jagodina",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "stromsgodset",
+              "away": "debreceni-vsc",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "debreceni-vsc",
+              "away": "stromsgodset",
+              "score": "0:3",
+              "note": "Played at Sóstói Stadion, Nyíregyháza (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrolul-ploiesti",
+            "vikingur-gota"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-petrolul-ploiesti",
+              "away": "vikingur-gota",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "vikingur-gota",
+              "away": "fc-petrolul-ploiesti",
+              "score": "0:4",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "prestatyn-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "hnk-rijeka",
+              "away": "prestatyn-town-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "prestatyn-town-fc",
+              "away": "hnk-rijeka",
+              "score": "0:3",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fk-zalgiris",
+              "away": "fc-pyunik",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-pyunik",
+              "away": "fk-zalgiris",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-honka",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-honka",
+              "away": "lech-poznan",
+              "score": "1:3",
+              "note": "Played at ISS Stadion, Vantaa (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "lech-poznan",
+              "away": "fc-honka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "red-star-belgrade",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "ibv-vestmannaeyjar",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "fc-milsami-orhei",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-milsami-orhei",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Milsami Orhei won 4:2 on penalties"
+            }
+          ],
+          "winner": "fc-milsami-orhei"
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fk-vojvodina",
+              "away": "budapest-honved-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "budapest-honved-fc",
+              "away": "fk-vojvodina",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "msk-zilina"
+          ],
+          "winner": "msk-zilina",
+          "note": "Žilina won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "nk-olimpija-ljubljana",
+              "away": "msk-zilina",
+              "score": "3:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "msk-zilina",
+              "away": "nk-olimpija-ljubljana",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tromso-il",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "tromso-il",
+              "away": "samaxi-fk",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "samaxi-fk",
+              "away": "tromso-il",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "fc-dacia-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-chornomorets-odesa",
+              "away": "fc-dacia-chisinau",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-dacia-chisinau",
+              "away": "fc-chornomorets-odesa",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "as-trencin"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "ifk-goteborg",
+              "away": "as-trencin",
+              "score": "0:0",
+              "note": "Played at Olympia, Helsingborg"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "as-trencin",
+              "away": "ifk-goteborg",
+              "score": "2:1",
+              "note": "Played at Štadión Zimný, Dubnica nad Váhom (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "nk-lokomotiva-zagreb"
+          ],
+          "winner": "fc-dinamo-minsk",
+          "note": "Dinamo Minsk won on away goals",
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-dinamo-minsk",
+              "away": "nk-lokomotiva-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "nk-lokomotiva-zagreb",
+              "away": "fc-dinamo-minsk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "kr-reykjavik",
+              "away": "r-standard-liege",
+              "score": "1:3"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "r-standard-liege",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "hsk-zrinjski-mostar",
+              "away": "botev-plovdiv",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "botev-plovdiv",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "piast-gliwice"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "qarabag-fk",
+              "away": "piast-gliwice",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "piast-gliwice",
+              "away": "qarabag-fk",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "rosenborg-bk",
+              "away": "st-johnstone-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "st-johnstone-fc",
+              "away": "rosenborg-bk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "trabzonspor",
+              "away": "derry-city-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "derry-city-fc",
+              "away": "trabzonspor",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fc-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "valletta-fc",
+              "away": "fc-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-minsk",
+              "away": "valletta-fc",
+              "score": "2:0",
+              "note": "Played at Torpedo Stadium, Zhodzina (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-titograd",
+            "fk-senica"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "ofk-titograd",
+              "away": "fk-senica",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fk-senica",
+              "away": "ofk-titograd",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "gefle-if"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "anorthosis-famagusta-fc",
+              "away": "gefle-if",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "gefle-if",
+              "away": "anorthosis-famagusta-fc",
+              "score": "4:0",
+              "note": "Played at Norrporten Arena, Sundsvall (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "breidablik",
+              "away": "sk-sturm-graz",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "sk-sturm-graz",
+              "away": "breidablik",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-irtysh",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-irtysh",
+              "away": "nk-siroki-brijeg",
+              "score": "3:2"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "nk-siroki-brijeg",
+              "away": "fc-irtysh",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "2013-07-18",
+              "home": "fc-differdange-03",
+              "away": "fc-utrecht",
+              "score": "2:1",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-07-25",
+              "home": "fc-utrecht",
+              "away": "fc-differdange-03",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-chornomorets-odesa",
+              "away": "red-star-belgrade",
+              "score": "3:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "red-star-belgrade",
+              "away": "fc-chornomorets-odesa",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "udinese-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "nk-siroki-brijeg",
+              "away": "udinese-calcio",
+              "score": "1:3",
+              "note": "Played at Bilino Polje Stadium, Zenica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "udinese-calcio",
+              "away": "nk-siroki-brijeg",
+              "score": "4:0",
+              "note": "Played at Stadio Nereo Rocco, Trieste (the Stadio Friuli was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fk-ventspils",
+              "away": "maccabi-haifa-fc",
+              "score": "0:0",
+              "note": "Played at Skonto Stadium, Riga (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "maccabi-haifa-fc",
+              "away": "fk-ventspils",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-dinamo-minsk",
+              "away": "trabzonspor",
+              "score": "0:1",
+              "note": "Played at OSK Brestskiy, Brest (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "trabzonspor",
+              "away": "fc-dinamo-minsk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "slask-wroclaw",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "club-brugge-kv",
+              "away": "slask-wroclaw",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "fc-astra-giurgiu"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "as-trencin",
+              "away": "fc-astra-giurgiu",
+              "score": "1:3",
+              "note": "Played at Štadión Zimný, Dubnica nad Váhom (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-astra-giurgiu",
+              "away": "as-trencin",
+              "score": "2:2",
+              "note": "Played at Arena Națională, Bucharest (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "swansea-city-afc",
+              "away": "malmo-ff",
+              "score": "4:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "malmo-ff",
+              "away": "swansea-city-afc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrolul-ploiesti",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-petrolul-ploiesti",
+              "away": "sbv-vitesse",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "sbv-vitesse",
+              "away": "fc-petrolul-ploiesti",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-slovan-liberec",
+              "away": "fc-zurich",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-zurich",
+              "away": "fc-slovan-liberec",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-aktobe",
+              "away": "breidablik",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "breidablik",
+              "away": "fc-aktobe",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria); FC Aktobe won 2:1 on penalties"
+            }
+          ],
+          "winner": "fc-aktobe"
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "randers-fc",
+              "away": "fc-rubin-kazan",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-rubin-kazan",
+              "away": "randers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "lech-poznan"
+          ],
+          "winner": "fk-zalgiris",
+          "note": "Žalgiris won on away goals",
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fk-zalgiris",
+              "away": "lech-poznan",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "lech-poznan",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "ofk-titograd"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "sevilla-fc",
+              "away": "ofk-titograd",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "ofk-titograd",
+              "away": "sevilla-fc",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-dila-gori"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "hnk-hajduk-split",
+              "away": "fc-dila-gori",
+              "score": "0:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-dila-gori",
+              "away": "hnk-hajduk-split",
+              "score": "1:0",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kukesi",
+            "fc-metalurh-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fk-kukesi",
+              "away": "fc-metalurh-donetsk",
+              "score": "2:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-metalurh-donetsk",
+              "away": "fk-kukesi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-pandurii-targu-jiu",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "cs-pandurii-targu-jiu",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:1",
+              "note": "Played at Cluj Arena, Cluj-Napoca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "cs-pandurii-targu-jiu",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tromso-il",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "tromso-il",
+              "away": "fc-differdange-03",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-differdange-03",
+              "away": "tromso-il",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Tromsø IL won 4:3 on penalties"
+            }
+          ],
+          "winner": "tromso-il"
+        },
+        {
+          "clubs": [
+            "motherwell-fc",
+            "fc-kuban-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "motherwell-fc",
+              "away": "fc-kuban-krasnodar",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-kuban-krasnodar",
+              "away": "motherwell-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "as-saint-etienne",
+              "away": "fc-milsami-orhei",
+              "score": "3:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-milsami-orhei",
+              "away": "as-saint-etienne",
+              "score": "0:3",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "stromsgodset"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fk-jablonec",
+              "away": "stromsgodset",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "stromsgodset",
+              "away": "fk-jablonec",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "gefle-if"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "qarabag-fk",
+              "away": "gefle-if",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "gefle-if",
+              "away": "qarabag-fk",
+              "score": "0:2",
+              "note": "Played at Norrporten Arena, Sundsvall (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "hnk-rijeka",
+              "away": "msk-zilina",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "msk-zilina",
+              "away": "hnk-rijeka",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asteras-tripolis-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "asteras-tripolis-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "sk-rapid-wien",
+              "away": "asteras-tripolis-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "vfb-stuttgart"
+          ],
+          "winner": "vfb-stuttgart",
+          "note": "Stuttgart won on away goals",
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "botev-plovdiv",
+              "away": "vfb-stuttgart",
+              "score": "1:1",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "vfb-stuttgart",
+              "away": "botev-plovdiv",
+              "score": "0:0",
+              "note": "Played at Comtech Arena, Aspach"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gd-estoril-praia",
+            "hapoel-ramat-gan-givatayim-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "gd-estoril-praia",
+              "away": "hapoel-ramat-gan-givatayim-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "hapoel-ramat-gan-givatayim-fc",
+              "away": "gd-estoril-praia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "bursaspor"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fk-vojvodina",
+              "away": "bursaspor",
+              "score": "2:2"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "bursaspor",
+              "away": "fk-vojvodina",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "xanthi-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "xanthi-fc",
+              "away": "r-standard-liege",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "r-standard-liege",
+              "away": "xanthi-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "bk-hacken",
+              "away": "fc-thun",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "fc-thun",
+              "away": "bk-hacken",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-minsk",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-01",
+              "home": "fc-minsk",
+              "away": "st-johnstone-fc",
+              "score": "0:1",
+              "note": "Played at Neman Stadium, Grodno (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-08",
+              "home": "st-johnstone-fc",
+              "away": "fc-minsk",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "FC Minsk won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-minsk"
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fc-kuban-krasnodar",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-kuban-krasnodar",
+              "away": "feyenoord",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "feyenoord",
+              "away": "fc-kuban-krasnodar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-zulte-waregem",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "sv-zulte-waregem",
+              "away": "apoel-fc",
+              "score": "1:1",
+              "note": "Played at Constant Vanden Stock Stadium, Brussels (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "apoel-fc",
+              "away": "sv-zulte-waregem",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-dila-gori"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "sk-rapid-wien",
+              "away": "fc-dila-gori",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-dila-gori",
+              "away": "sk-rapid-wien",
+              "score": "0:3",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tromso-il",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "tromso-il",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "besiktas-jk",
+              "away": "tromso-il",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-pandurii-targu-jiu",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "cs-pandurii-targu-jiu",
+              "away": "sc-braga",
+              "score": "0:1",
+              "note": "Played at Cluj Arena, Cluj-Napoca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "sc-braga",
+              "away": "cs-pandurii-targu-jiu",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "apollon-limassol-fc",
+              "away": "ogc-nice",
+              "score": "2:0",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "ogc-nice",
+              "away": "apollon-limassol-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-aktobe",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:3"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-aktobe",
+              "score": "5:1",
+              "note": "Played behind closed doors (UEFA punishment for racist behaviour by Dynamo fans)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "swansea-city-afc",
+              "away": "fc-petrolul-ploiesti",
+              "score": "5:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-petrolul-ploiesti",
+              "away": "swansea-city-afc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atromitos-fc",
+            "az-alkmaar"
+          ],
+          "winner": "az-alkmaar",
+          "note": "AZ won on away goals",
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "atromitos-fc",
+              "away": "az-alkmaar",
+              "score": "1:3"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "az-alkmaar",
+              "away": "atromitos-fc",
+              "score": "0:2",
+              "note": "Abandoned after 59 minutes because of a fire at the stadium and completed the next day from the point of abandonment"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fh-hafnarfjardar",
+              "away": "krc-genk",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "krc-genk",
+              "away": "fh-hafnarfjardar",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "fc-nordsjaelland"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "if-elfsborg",
+              "away": "fc-nordsjaelland",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-nordsjaelland",
+              "away": "if-elfsborg",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "sevilla-fc",
+              "away": "slask-wroclaw",
+              "score": "4:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "slask-wroclaw",
+              "away": "sevilla-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-red-bull-salzburg",
+              "away": "fk-zalgiris",
+              "score": "5:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fk-zalgiris",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "qarabag-fk",
+              "away": "eintracht-frankfurt",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "eintracht-frankfurt",
+              "away": "qarabag-fk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-minsk",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-minsk",
+              "away": "r-standard-liege",
+              "score": "0:2",
+              "note": "Played at Neman Stadium, Grodno (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "r-standard-liege",
+              "away": "fc-minsk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fk-jablonec",
+              "away": "real-betis",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "real-betis",
+              "away": "fk-jablonec",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "hnk-rijeka",
+              "away": "vfb-stuttgart",
+              "score": "2:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "vfb-stuttgart",
+              "away": "hnk-rijeka",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "kf-skenderbeu"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-chornomorets-odesa",
+              "away": "kf-skenderbeu",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "kf-skenderbeu",
+              "away": "fc-chornomorets-odesa",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria); FC Chornomorets Odesa won 7:6 on penalties"
+            }
+          ],
+          "winner": "fc-chornomorets-odesa"
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "paok-fc"
+          ],
+          "winner": "maccabi-tel-aviv-fc",
+          "note": "Walkover: PAOK were moved to the Champions League play-off round in place of the disqualified Metalist Kharkiv",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-st-gallen",
+              "away": "fc-spartak-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-spartak-moscow",
+              "away": "fc-st-gallen",
+              "score": "2:4",
+              "note": "Played at Arena Khimki, Khimki"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "molde-fk",
+              "away": "fc-rubin-kazan",
+              "score": "0:2"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-rubin-kazan",
+              "away": "molde-fk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fk-vojvodina",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:1"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fk-vojvodina",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kukesi",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fk-kukesi",
+              "away": "trabzonspor",
+              "score": "0:2",
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "trabzonspor",
+              "away": "fk-kukesi",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "esbjerg-fb",
+              "away": "as-saint-etienne",
+              "score": "4:3"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "as-saint-etienne",
+              "away": "esbjerg-fb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "acf-fiorentina"
+          ],
+          "winner": "acf-fiorentina",
+          "note": "Fiorentina won on away goals",
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "grasshopper-club",
+              "away": "acf-fiorentina",
+              "score": "1:2"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "acf-fiorentina",
+              "away": "grasshopper-club",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fc-astra-giurgiu"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-astra-giurgiu",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-astra-giurgiu",
+              "away": "maccabi-haifa-fc",
+              "score": "1:1",
+              "note": "Played at Stadionul Ceahlăul, Piatra Neamț (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "udinese-calcio",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "udinese-calcio",
+              "away": "fc-slovan-liberec",
+              "score": "1:3",
+              "note": "Played at Stadio Nereo Rocco, Trieste (the Stadio Friuli was being rebuilt)"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-slovan-liberec",
+              "away": "udinese-calcio",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fc-dinamo-tbilisi",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gd-estoril-praia",
+            "fc-juniors-oo"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "gd-estoril-praia",
+              "away": "fc-juniors-oo",
+              "score": "2:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-juniors-oo",
+              "away": "gd-estoril-praia",
+              "score": "1:2",
+              "note": "Played at Linzer Stadion, Linz (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "nomme-kalju-fc",
+              "away": "fc-dnipro",
+              "score": "1:3"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-dnipro",
+              "away": "nomme-kalju-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2013-08-22",
+              "home": "fk-partizan",
+              "away": "fc-thun",
+              "score": "1:0"
+            },
+            {
+              "date": "2013-08-29",
+              "home": "fc-thun",
+              "away": "fk-partizan",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2013-09-19",
+          "home": "valencia-cf",
+          "away": "swansea-city-afc",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "fc-st-gallen",
+          "away": "fc-kuban-krasnodar",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-kuban-krasnodar",
+          "away": "valencia-cf",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "swansea-city-afc",
+          "away": "fc-st-gallen",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "swansea-city-afc",
+          "away": "fc-kuban-krasnodar",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "valencia-cf",
+          "away": "fc-st-gallen",
+          "score": "5:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "fc-kuban-krasnodar",
+          "away": "swansea-city-afc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "fc-st-gallen",
+          "away": "valencia-cf",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-kuban-krasnodar",
+          "away": "fc-st-gallen",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "swansea-city-afc",
+          "away": "valencia-cf",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "valencia-cf",
+          "away": "fc-kuban-krasnodar",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "fc-st-gallen",
+          "away": "swansea-city-afc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-chornomorets-odesa",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "psv-eindhoven",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "gnk-dinamo-zagreb",
+          "score": "3:0",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-chornomorets-odesa",
+          "away": "psv-eindhoven",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-chornomorets-odesa",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "gnk-dinamo-zagreb",
+          "away": "psv-eindhoven",
+          "score": "0:0",
+          "group": "B",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by Dinamo fans)"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "fc-chornomorets-odesa",
+          "score": "1:1",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "psv-eindhoven",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-chornomorets-odesa",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "psv-eindhoven",
+          "score": "2:0",
+          "group": "B",
+          "note": "Played at Vasil Levski National Stadium, Sofia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "gnk-dinamo-zagreb",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "psv-eindhoven",
+          "away": "fc-chornomorets-odesa",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "fc-red-bull-salzburg",
+          "away": "if-elfsborg",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "r-standard-liege",
+          "away": "esbjerg-fb",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "esbjerg-fb",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "if-elfsborg",
+          "away": "r-standard-liege",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "if-elfsborg",
+          "away": "esbjerg-fb",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-red-bull-salzburg",
+          "away": "r-standard-liege",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "esbjerg-fb",
+          "away": "if-elfsborg",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "r-standard-liege",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "if-elfsborg",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "esbjerg-fb",
+          "away": "r-standard-liege",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "fc-red-bull-salzburg",
+          "away": "esbjerg-fb",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "r-standard-liege",
+          "away": "if-elfsborg",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "sv-zulte-waregem",
+          "away": "wigan-athletic-fc",
+          "score": "0:0",
+          "group": "D",
+          "note": "Played at Jan Breydel Stadium, Bruges (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "nk-maribor",
+          "away": "fc-rubin-kazan",
+          "score": "2:5",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-rubin-kazan",
+          "away": "sv-zulte-waregem",
+          "score": "4:0",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "wigan-athletic-fc",
+          "away": "nk-maribor",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "wigan-athletic-fc",
+          "away": "fc-rubin-kazan",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "sv-zulte-waregem",
+          "away": "nk-maribor",
+          "score": "1:3",
+          "group": "D",
+          "note": "Played at Jan Breydel Stadium, Bruges (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "fc-rubin-kazan",
+          "away": "wigan-athletic-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "nk-maribor",
+          "away": "sv-zulte-waregem",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-rubin-kazan",
+          "away": "nk-maribor",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "wigan-athletic-fc",
+          "away": "sv-zulte-waregem",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "sv-zulte-waregem",
+          "away": "fc-rubin-kazan",
+          "score": "0:2",
+          "group": "D",
+          "note": "Played at Jan Breydel Stadium, Bruges (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "nk-maribor",
+          "away": "wigan-athletic-fc",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "acf-fiorentina",
+          "away": "fc-pacos-de-ferreira",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "cs-pandurii-targu-jiu",
+          "away": "fc-dnipro",
+          "score": "0:1",
+          "group": "E",
+          "note": "Played at Cluj Arena, Cluj-Napoca (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-dnipro",
+          "away": "acf-fiorentina",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-pacos-de-ferreira",
+          "away": "cs-pandurii-targu-jiu",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played at Estádio D. Afonso Henriques, Guimarães (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-pacos-de-ferreira",
+          "away": "fc-dnipro",
+          "score": "0:2",
+          "group": "E",
+          "note": "Played at Estádio D. Afonso Henriques, Guimarães (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "acf-fiorentina",
+          "away": "cs-pandurii-targu-jiu",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "fc-dnipro",
+          "away": "fc-pacos-de-ferreira",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "cs-pandurii-targu-jiu",
+          "away": "acf-fiorentina",
+          "score": "1:2",
+          "group": "E",
+          "note": "Played at Cluj Arena, Cluj-Napoca (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-pacos-de-ferreira",
+          "away": "acf-fiorentina",
+          "score": "0:0",
+          "group": "E",
+          "note": "Played at Estádio D. Afonso Henriques, Guimarães (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-dnipro",
+          "away": "cs-pandurii-targu-jiu",
+          "score": "4:1",
+          "group": "E"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "acf-fiorentina",
+          "away": "fc-dnipro",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "cs-pandurii-targu-jiu",
+          "away": "fc-pacos-de-ferreira",
+          "score": "0:0",
+          "group": "E",
+          "note": "Played at Cluj Arena, Cluj-Napoca (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "eintracht-frankfurt",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "apoel-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "apoel-fc",
+          "away": "eintracht-frankfurt",
+          "score": "0:3",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "apoel-fc",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "eintracht-frankfurt",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "apoel-fc",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "eintracht-frankfurt",
+          "score": "4:2",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "eintracht-frankfurt",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "apoel-fc",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "eintracht-frankfurt",
+          "away": "apoel-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "fc-dynamo-kyiv",
+          "away": "krc-genk",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "fc-thun",
+          "away": "sk-rapid-wien",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "sk-rapid-wien",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "krc-genk",
+          "away": "fc-thun",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "krc-genk",
+          "away": "sk-rapid-wien",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-thun",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "sk-rapid-wien",
+          "away": "krc-genk",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "fc-thun",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "krc-genk",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "sk-rapid-wien",
+          "away": "fc-thun",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "fc-dynamo-kyiv",
+          "away": "sk-rapid-wien",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "fc-thun",
+          "away": "krc-genk",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "sc-freiburg",
+          "away": "fc-slovan-liberec",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "gd-estoril-praia",
+          "away": "sevilla-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "sevilla-fc",
+          "away": "sc-freiburg",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-slovan-liberec",
+          "away": "gd-estoril-praia",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-slovan-liberec",
+          "away": "sevilla-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "sc-freiburg",
+          "away": "gd-estoril-praia",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "sevilla-fc",
+          "away": "fc-slovan-liberec",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "gd-estoril-praia",
+          "away": "sc-freiburg",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-slovan-liberec",
+          "away": "sc-freiburg",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "sevilla-fc",
+          "away": "gd-estoril-praia",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "sc-freiburg",
+          "away": "sevilla-fc",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "gd-estoril-praia",
+          "away": "fc-slovan-liberec",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "real-betis",
+          "away": "olympique-lyonnais",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "vitoria-sc",
+          "away": "hnk-rijeka",
+          "score": "4:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "hnk-rijeka",
+          "away": "real-betis",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "olympique-lyonnais",
+          "away": "vitoria-sc",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "olympique-lyonnais",
+          "away": "hnk-rijeka",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "real-betis",
+          "away": "vitoria-sc",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "hnk-rijeka",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "vitoria-sc",
+          "away": "real-betis",
+          "score": "0:1",
+          "group": "I"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "olympique-lyonnais",
+          "away": "real-betis",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "hnk-rijeka",
+          "away": "vitoria-sc",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "real-betis",
+          "away": "hnk-rijeka",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "vitoria-sc",
+          "away": "olympique-lyonnais",
+          "score": "1:2",
+          "group": "I"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "apollon-limassol-fc",
+          "away": "trabzonspor",
+          "score": "1:2",
+          "group": "J",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "ss-lazio",
+          "away": "legia-warsaw",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "legia-warsaw",
+          "away": "apollon-limassol-fc",
+          "score": "0:1",
+          "group": "J",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by Legia fans)"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "trabzonspor",
+          "away": "ss-lazio",
+          "score": "3:3",
+          "group": "J"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "trabzonspor",
+          "away": "legia-warsaw",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "apollon-limassol-fc",
+          "away": "ss-lazio",
+          "score": "0:0",
+          "group": "J",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "legia-warsaw",
+          "away": "trabzonspor",
+          "score": "0:2",
+          "group": "J"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "ss-lazio",
+          "away": "apollon-limassol-fc",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "trabzonspor",
+          "away": "apollon-limassol-fc",
+          "score": "4:2",
+          "group": "J"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "legia-warsaw",
+          "away": "ss-lazio",
+          "score": "0:2",
+          "group": "J"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "apollon-limassol-fc",
+          "away": "legia-warsaw",
+          "score": "0:2",
+          "group": "J",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "ss-lazio",
+          "away": "trabzonspor",
+          "score": "0:0",
+          "group": "J"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-anzhi-makhachkala",
+          "score": "0:0",
+          "group": "K"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "tottenham-hotspur-fc",
+          "away": "tromso-il",
+          "score": "3:0",
+          "group": "K"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-anzhi-makhachkala",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": "K",
+          "note": "Played at Saturn Stadium, Ramenskoye (Anzhi played its European home matches near Moscow for security reasons)"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "tromso-il",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-anzhi-makhachkala",
+          "away": "tromso-il",
+          "score": "1:0",
+          "group": "K",
+          "note": "Played at Saturn Stadium, Ramenskoye (Anzhi played its European home matches near Moscow for security reasons)"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-sheriff-tiraspol",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": "K"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "tromso-il",
+          "away": "fc-anzhi-makhachkala",
+          "score": "0:1",
+          "group": "K"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-sheriff-tiraspol",
+          "score": "2:1",
+          "group": "K"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-anzhi-makhachkala",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:1",
+          "group": "K",
+          "note": "Played at Saturn Stadium, Ramenskoye (Anzhi played its European home matches near Moscow for security reasons)"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "tromso-il",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": "K"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "fc-sheriff-tiraspol",
+          "away": "tromso-il",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-anzhi-makhachkala",
+          "score": "4:1",
+          "group": "K"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "paok-fc",
+          "away": "fc-shakhter-karagandy",
+          "score": "2:1",
+          "group": "L",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by PAOK fans)"
+        },
+        {
+          "date": "2013-09-19",
+          "home": "maccabi-haifa-fc",
+          "away": "az-alkmaar",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "fc-shakhter-karagandy",
+          "away": "maccabi-haifa-fc",
+          "score": "2:2",
+          "group": "L",
+          "note": "Played at Astana Arena, Astana (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-03",
+          "home": "az-alkmaar",
+          "away": "paok-fc",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "fc-shakhter-karagandy",
+          "away": "az-alkmaar",
+          "score": "1:1",
+          "group": "L",
+          "note": "Played at Astana Arena, Astana (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-10-24",
+          "home": "paok-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "3:2",
+          "group": "L"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "az-alkmaar",
+          "away": "fc-shakhter-karagandy",
+          "score": "1:0",
+          "group": "L"
+        },
+        {
+          "date": "2013-11-07",
+          "home": "maccabi-haifa-fc",
+          "away": "paok-fc",
+          "score": "0:0",
+          "group": "L"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "fc-shakhter-karagandy",
+          "away": "paok-fc",
+          "score": "0:2",
+          "group": "L",
+          "note": "Played at Astana Arena, Astana (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2013-11-28",
+          "home": "az-alkmaar",
+          "away": "maccabi-haifa-fc",
+          "score": "2:0",
+          "group": "L"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "paok-fc",
+          "away": "az-alkmaar",
+          "score": "2:2",
+          "group": "L"
+        },
+        {
+          "date": "2013-12-12",
+          "home": "maccabi-haifa-fc",
+          "away": "fc-shakhter-karagandy",
+          "score": "2:1",
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dnipro",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-dnipro",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-dnipro",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "real-betis",
+              "away": "fc-rubin-kazan",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "fc-rubin-kazan",
+              "away": "real-betis",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "swansea-city-afc",
+              "away": "ssc-napoli",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "ssc-napoli",
+              "away": "swansea-city-afc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "juventus-fc",
+              "away": "trabzonspor",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "trabzonspor",
+              "away": "juventus-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "nk-maribor",
+              "away": "sevilla-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "sevilla-fc",
+              "away": "nk-maribor",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-viktoria-plzen",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-chornomorets-odesa",
+              "away": "olympique-lyonnais",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "olympique-lyonnais",
+              "away": "fc-chornomorets-odesa",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "ss-lazio",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ss-lazio",
+              "score": "3:3",
+              "note": "Played at Vasil Levski National Stadium, Sofia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "esbjerg-fb",
+              "away": "acf-fiorentina",
+              "score": "1:3"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "acf-fiorentina",
+              "away": "esbjerg-fb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "afc-ajax",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "fc-red-bull-salzburg",
+              "away": "afc-ajax",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-basel",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "fc-basel",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "eintracht-frankfurt"
+          ],
+          "winner": "fc-porto",
+          "note": "Porto won on away goals",
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-porto",
+              "away": "eintracht-frankfurt",
+              "score": "2:2"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "eintracht-frankfurt",
+              "away": "fc-porto",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-anzhi-makhachkala",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-anzhi-makhachkala",
+              "away": "krc-genk",
+              "score": "0:0",
+              "note": "Played at Saturn Stadium, Ramenskoye (Anzhi played its European home matches near Moscow for security reasons)"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "krc-genk",
+              "away": "fc-anzhi-makhachkala",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-dynamo-kyiv",
+              "away": "valencia-cf",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at GSP Stadium, Nicosia (Cyprus) because of the unrest in Ukraine"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "valencia-cf",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "paok-fc",
+              "away": "sl-benfica",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "sl-benfica",
+              "away": "paok-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2014-02-20",
+              "home": "fc-slovan-liberec",
+              "away": "az-alkmaar",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-02-27",
+              "home": "az-alkmaar",
+              "away": "fc-slovan-liberec",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "az-alkmaar",
+            "fc-anzhi-makhachkala"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "az-alkmaar",
+              "away": "fc-anzhi-makhachkala",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "fc-anzhi-makhachkala",
+              "away": "az-alkmaar",
+              "score": "0:0",
+              "note": "Played at Saturn Stadium, Ramenskoye (Anzhi played its European home matches near Moscow for security reasons)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "valencia-cf",
+              "score": "0:3",
+              "note": "Played at Vasil Levski National Stadium, Sofia (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "valencia-cf",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "fc-porto",
+              "away": "ssc-napoli",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "ssc-napoli",
+              "away": "fc-porto",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "olympique-lyonnais",
+              "away": "fc-viktoria-plzen",
+              "score": "4:1"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "fc-viktoria-plzen",
+              "away": "olympique-lyonnais",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "sevilla-fc",
+              "away": "real-betis",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "real-betis",
+              "away": "sevilla-fc",
+              "score": "0:2",
+              "extra_time": true,
+              "note": "Sevilla FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "sevilla-fc"
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "tottenham-hotspur-fc",
+              "away": "sl-benfica",
+              "score": "1:3"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "sl-benfica",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "fc-basel",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-basel",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2014-03-13",
+              "home": "juventus-fc",
+              "away": "acf-fiorentina",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-03-20",
+              "home": "acf-fiorentina",
+              "away": "juventus-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "az-alkmaar",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-03",
+              "home": "az-alkmaar",
+              "away": "sl-benfica",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-04-10",
+              "home": "sl-benfica",
+              "away": "az-alkmaar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-03",
+              "home": "olympique-lyonnais",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-04-10",
+              "home": "juventus-fc",
+              "away": "olympique-lyonnais",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-03",
+              "home": "fc-basel",
+              "away": "valencia-cf",
+              "score": "3:0",
+              "note": "Played behind closed doors (UEFA punishment for crowd trouble by Basel fans)"
+            },
+            {
+              "date": "2014-04-10",
+              "home": "valencia-cf",
+              "away": "fc-basel",
+              "score": "5:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-03",
+              "home": "fc-porto",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-04-10",
+              "home": "sevilla-fc",
+              "away": "fc-porto",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "sevilla-fc",
+            "valencia-cf"
+          ],
+          "winner": "sevilla-fc",
+          "note": "Sevilla won on away goals",
+          "matches": [
+            {
+              "date": "2014-04-24",
+              "home": "sevilla-fc",
+              "away": "valencia-cf",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-05-01",
+              "home": "valencia-cf",
+              "away": "sevilla-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-04-24",
+              "home": "sl-benfica",
+              "away": "juventus-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-05-01",
+              "home": "juventus-fc",
+              "away": "sl-benfica",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sevilla-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2014-05-14",
+              "home": "sevilla-fc",
+              "away": "sl-benfica",
+              "score": "0:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Juventus Stadium, Turin; Sevilla FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "sevilla-fc"
+        }
+      ]
+    }
+  ]
+}

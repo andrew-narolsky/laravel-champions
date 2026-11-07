@@ -1,0 +1,1318 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1975-76",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "msv-duisburg",
+            "enosis-neon-paralimni-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-14",
+              "home": "msv-duisburg",
+              "away": "enosis-neon-paralimni-fc",
+              "score": "7:1"
+            },
+            {
+              "date": "1975-09-16",
+              "home": "enosis-neon-paralimni-fc",
+              "away": "msv-duisburg",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-16",
+              "home": "glentoran-fc",
+              "away": "afc-ajax",
+              "score": "1:6"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "afc-ajax",
+              "away": "glentoran-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "real-sociedad"
+          ],
+          "winner": "real-sociedad",
+          "note": "Real Sociedad won on away goals",
+          "matches": [
+            {
+              "date": "1975-09-16",
+              "home": "grasshopper-club",
+              "away": "real-sociedad",
+              "score": "3:3"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "real-sociedad",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-16",
+              "home": "paok-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "fc-barcelona",
+              "away": "paok-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "aik-fotboll",
+              "away": "fc-spartak-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "fc-spartak-moscow",
+              "away": "aik-fotboll",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "r-antwerp-fc",
+              "away": "aston-villa-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "aston-villa-fc",
+              "away": "r-antwerp-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "bohemians-praha-1905",
+              "away": "budapest-honved-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "budapest-honved-fc",
+              "away": "bohemians-praha-1905",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fc-carl-zeiss-jena",
+              "away": "olympique-de-marseille",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "olympique-de-marseille",
+              "away": "fc-carl-zeiss-jena",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "cs-universitatea-craiova",
+              "away": "red-star-belgrade",
+              "score": "1:3"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "red-star-belgrade",
+              "away": "cs-universitatea-craiova",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "everton-fc",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "ac-milan",
+              "away": "everton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "feyenoord",
+              "away": "ipswich-town-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "ipswich-town-fc",
+              "away": "feyenoord",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gais",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "gais",
+              "away": "slask-wroclaw",
+              "score": "2:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "slask-wroclaw",
+              "away": "gais",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "hertha-bsc",
+              "away": "hjk-helsinki",
+              "score": "4:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "hjk-helsinki",
+              "away": "hertha-bsc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "hibernian-fc",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-09-30",
+              "home": "liverpool-fc",
+              "away": "hibernian-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "holbaek-bi",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "holbaek-bi",
+              "away": "stal-mielec",
+              "score": "0:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "stal-mielec",
+              "away": "holbaek-bi",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "1-fc-koln",
+              "away": "boldklubben-1903",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "boldklubben-1903",
+              "away": "1-fc-koln",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "olympique-lyonnais",
+              "away": "club-brugge-kv",
+              "score": "4:3"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "club-brugge-kv",
+              "away": "olympique-lyonnais",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "molde-fk",
+              "away": "osters-if",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "osters-if",
+              "away": "molde-fk",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asa-targu-mures",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "asa-targu-mures",
+              "away": "sg-dynamo-dresden",
+              "score": "2:2"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "sg-dynamo-dresden",
+              "away": "asa-targu-mures",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fc-chornomorets-odesa",
+              "away": "ss-lazio",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "ss-lazio",
+              "away": "fc-chornomorets-odesa",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-avenir-beggen"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fc-porto",
+              "away": "fc-avenir-beggen",
+              "score": "7:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "fc-avenir-beggen",
+              "away": "fc-porto",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "sk-rapid-wien",
+              "away": "galatasaray-sk",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "galatasaray-sk",
+              "away": "sk-rapid-wien",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "fc-dunav-ruse"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "as-roma",
+              "away": "fc-dunav-ruse",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "fc-dunav-ruse",
+              "away": "as-roma",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fc-torpedo-moscow",
+              "away": "ssc-napoli",
+              "score": "4:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "ssc-napoli",
+              "away": "fc-torpedo-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-stahl-linz",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fc-stahl-linz",
+              "away": "vasas-sc",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "vasas-sc",
+              "away": "fc-stahl-linz",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "fk-vojvodina",
+              "away": "aek-athens-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "aek-athens-fc",
+              "away": "fk-vojvodina",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-17",
+              "home": "bsc-young-boys",
+              "away": "hamburger-sv",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "hamburger-sv",
+              "away": "bsc-young-boys",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athlone-town-afc",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-18",
+              "home": "athlone-town-afc",
+              "away": "valerenga-fotball",
+              "score": "3:1"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "valerenga-fotball",
+              "away": "athlone-town-afc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-18",
+              "home": "fk-inter-bratislava",
+              "away": "real-zaragoza",
+              "score": "5:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "real-zaragoza",
+              "away": "fk-inter-bratislava",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "keflavik",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-23",
+              "home": "keflavik",
+              "away": "dundee-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1975-09-30",
+              "home": "dundee-united-fc",
+              "away": "keflavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "eskisehirspor"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-18",
+              "home": "pfc-levski-sofia",
+              "away": "eskisehirspor",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "eskisehirspor",
+              "away": "pfc-levski-sofia",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-24",
+              "home": "sliema-wanderers-fc",
+              "away": "sporting-cp",
+              "score": "1:2"
+            },
+            {
+              "date": "1975-10-01",
+              "home": "sporting-cp",
+              "away": "sliema-wanderers-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "msv-duisburg",
+            "pfc-levski-sofia"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski-Spartak won on away goals",
+          "matches": [
+            {
+              "date": "1975-10-21",
+              "home": "msv-duisburg",
+              "away": "pfc-levski-sofia",
+              "score": "3:2"
+            },
+            {
+              "date": "1975-11-04",
+              "home": "pfc-levski-sofia",
+              "away": "msv-duisburg",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athlone-town-afc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "athlone-town-afc",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "ac-milan",
+              "away": "athlone-town-afc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "fc-carl-zeiss-jena",
+              "away": "stal-mielec",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "stal-mielec",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Stal Mielec won 3:2 on penalties"
+            }
+          ],
+          "winner": "stal-mielec"
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "dundee-united-fc",
+              "away": "fc-porto",
+              "score": "1:2"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "fc-porto",
+              "away": "dundee-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "galatasaray-sk",
+              "away": "fc-torpedo-moscow",
+              "score": "2:4"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "fc-torpedo-moscow",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "hertha-bsc",
+              "away": "afc-ajax",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "afc-ajax",
+              "away": "hertha-bsc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "budapest-honved-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "2:2"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "sg-dynamo-dresden",
+              "away": "budapest-honved-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "aek-athens-fc"
+          ],
+          "winner": "fk-inter-bratislava",
+          "note": "Inter Bratislava won on away goals",
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "fk-inter-bratislava",
+              "away": "aek-athens-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "aek-athens-fc",
+              "away": "fk-inter-bratislava",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "ipswich-town-fc",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "club-brugge-kv",
+              "away": "ipswich-town-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "fc-spartak-moscow",
+              "away": "1-fc-koln",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "1-fc-koln",
+              "away": "fc-spartak-moscow",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "osters-if",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "as-roma",
+              "away": "osters-if",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "real-sociedad",
+              "away": "liverpool-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1975-11-04",
+              "home": "liverpool-fc",
+              "away": "real-sociedad",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "red-star-belgrade",
+              "away": "hamburger-sv",
+              "score": "1:1"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "hamburger-sv",
+              "away": "red-star-belgrade",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "slask-wroclaw",
+              "away": "r-antwerp-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "r-antwerp-fc",
+              "away": "slask-wroclaw",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "vasas-sc",
+              "away": "sporting-cp",
+              "score": "3:1"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "sporting-cp",
+              "away": "vasas-sc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1975-10-22",
+              "home": "ss-lazio",
+              "away": "fc-barcelona",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Barcelona: Lazio refused to play, citing security concerns after the executions of ETA and FRAP members in Spain"
+            },
+            {
+              "date": "1975-11-05",
+              "home": "fc-barcelona",
+              "away": "ss-lazio",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "afc-ajax",
+              "away": "pfc-levski-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "pfc-levski-sofia",
+              "away": "afc-ajax",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "PFC Levski Sofia won 5:3 on penalties"
+            }
+          ],
+          "winner": "pfc-levski-sofia"
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "fc-barcelona",
+              "away": "vasas-sc",
+              "score": "3:1"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "vasas-sc",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "club-brugge-kv",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "as-roma",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-torpedo-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "fc-torpedo-moscow",
+              "away": "sg-dynamo-dresden",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "hamburger-sv",
+              "away": "fc-porto",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "fc-porto",
+              "away": "hamburger-sv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "fk-inter-bratislava",
+              "away": "stal-mielec",
+              "score": "1:0"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "stal-mielec",
+              "away": "fk-inter-bratislava",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "slask-wroclaw",
+              "away": "liverpool-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "liverpool-fc",
+              "away": "slask-wroclaw",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1975-11-26",
+              "home": "ac-milan",
+              "away": "fc-spartak-moscow",
+              "score": "4:0"
+            },
+            {
+              "date": "1975-12-10",
+              "home": "fc-spartak-moscow",
+              "away": "ac-milan",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-03",
+              "home": "fc-barcelona",
+              "away": "pfc-levski-sofia",
+              "score": "4:0"
+            },
+            {
+              "date": "1976-03-17",
+              "home": "pfc-levski-sofia",
+              "away": "fc-barcelona",
+              "score": "5:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-03",
+              "home": "club-brugge-kv",
+              "away": "ac-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-03-17",
+              "home": "ac-milan",
+              "away": "club-brugge-kv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-03",
+              "home": "sg-dynamo-dresden",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1976-03-17",
+              "home": "liverpool-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "stal-mielec"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-03",
+              "home": "hamburger-sv",
+              "away": "stal-mielec",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-03-17",
+              "home": "stal-mielec",
+              "away": "hamburger-sv",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-30",
+              "home": "fc-barcelona",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1976-04-14",
+              "home": "liverpool-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1976-03-31",
+              "home": "hamburger-sv",
+              "away": "club-brugge-kv",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-04-14",
+              "home": "club-brugge-kv",
+              "away": "hamburger-sv",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1976-04-28",
+              "home": "liverpool-fc",
+              "away": "club-brugge-kv",
+              "score": "3:2"
+            },
+            {
+              "date": "1976-05-19",
+              "home": "club-brugge-kv",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

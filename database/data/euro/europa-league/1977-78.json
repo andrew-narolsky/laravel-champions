@@ -1,0 +1,1326 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1977-78",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-13",
+              "home": "eintracht-frankfurt",
+              "away": "sliema-wanderers-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "sliema-wanderers-fc",
+              "away": "eintracht-frankfurt",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "red-boys-differdange"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "az-alkmaar",
+              "away": "red-boys-differdange",
+              "score": "11:1"
+            },
+            {
+              "date": "1977-09-27",
+              "home": "red-boys-differdange",
+              "away": "az-alkmaar",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "aston-villa-fc",
+              "away": "fenerbahce-sk",
+              "score": "4:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fenerbahce-sk",
+              "away": "aston-villa-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-barcelona",
+              "away": "fcsb",
+              "score": "5:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fcsb",
+              "away": "fc-barcelona",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "sc-bastia",
+              "away": "sporting-cp",
+              "score": "3:2"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "sporting-cp",
+              "away": "sc-bastia",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "mjondalen-if-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-bayern-munich",
+              "away": "mjondalen-if-fotball",
+              "score": "8:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "mjondalen-if-fotball",
+              "away": "fc-bayern-munich",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "boavista-fc",
+              "away": "ss-lazio",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "ss-lazio",
+              "away": "boavista-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "bohemian-fc",
+              "away": "newcastle-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "newcastle-united-fc",
+              "away": "bohemian-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "altay-sk"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-carl-zeiss-jena",
+              "away": "altay-sk",
+              "score": "5:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "altay-sk",
+              "away": "fc-carl-zeiss-jena",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "kjobenhavns-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "dundee-united-fc",
+              "away": "kjobenhavns-boldklub",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-27",
+              "home": "kjobenhavns-boldklub",
+              "away": "dundee-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "acf-fiorentina",
+              "away": "fc-schalke-04",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Schalke 04: Fiorentina fielded an ineligible player, Gianfranco Casarsa (the match finished 0:0)"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-schalke-04",
+              "away": "acf-fiorentina",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-frem",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "boldklubben-frem",
+              "away": "grasshopper-club",
+              "score": "0:2"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "grasshopper-club",
+              "away": "boldklubben-frem",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "glenavon-fc",
+              "away": "psv-eindhoven",
+              "score": "2:6"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "psv-eindhoven",
+              "away": "glenavon-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "gornik-zabrze",
+              "away": "fc-haka",
+              "score": "5:3"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-haka",
+              "away": "gornik-zabrze",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "inter-milan",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fc-dinamo-tbilisi",
+              "away": "inter-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "eintracht-braunschweig"
+          ],
+          "winner": "eintracht-braunschweig",
+          "note": "Eintracht Braunschweig won on away goals",
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-dynamo-kyiv",
+              "away": "eintracht-braunschweig",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "eintracht-braunschweig",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "landskrona-bois",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "landskrona-bois",
+              "away": "ipswich-town-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "ipswich-town-fc",
+              "away": "landskrona-bois",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ud-las-palmas",
+            "fk-sloboda-tuzla"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "ud-las-palmas",
+              "away": "fk-sloboda-tuzla",
+              "score": "5:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fk-sloboda-tuzla",
+              "away": "ud-las-palmas",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "rc-lens",
+              "away": "malmo-ff",
+              "score": "4:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "malmo-ff",
+              "away": "rc-lens",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "linzer-ask",
+              "away": "ujpest-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "ujpest-fc",
+              "away": "linzer-ask",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odra-opole",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "odra-opole",
+              "away": "1-fc-magdeburg",
+              "score": "1:2"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "1-fc-magdeburg",
+              "away": "odra-opole",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "olympiacos-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "gnk-dinamo-zagreb",
+              "away": "olympiacos-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "widzew-lodz"
+          ],
+          "winner": "widzew-lodz",
+          "note": "Widzew Łódź won on away goals",
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "manchester-city-fc",
+              "away": "widzew-lodz",
+              "score": "2:2"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "widzew-lodz",
+              "away": "manchester-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-marek-dupnitsa",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-marek-dupnitsa",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "ferencvarosi-tc",
+              "away": "fc-marek-dupnitsa",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fk-inter-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "sk-rapid-wien",
+              "away": "fk-inter-bratislava",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "fk-inter-bratislava",
+              "away": "sk-rapid-wien",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "rwd-molenbeek",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "aberdeen-fc",
+              "away": "rwd-molenbeek",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "servette-fc",
+              "away": "athletic-bilbao",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "athletic-bilbao",
+              "away": "servette-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "sk-slavia-prague"
+          ],
+          "winner": "r-standard-liege",
+          "note": "Standard Liège won on away goals",
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "r-standard-liege",
+              "away": "sk-slavia-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "sk-slavia-prague",
+              "away": "r-standard-liege",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "fram-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "ik-start",
+              "away": "fram-reykjavik",
+              "score": "6:0"
+            },
+            {
+              "date": "1977-09-27",
+              "home": "fram-reykjavik",
+              "away": "ik-start",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asa-targu-mures",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "asa-targu-mures",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "aek-athens-fc",
+              "away": "asa-targu-mures",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "torino-fc",
+              "away": "apoel-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "apoel-fc",
+              "away": "torino-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1977-09-14",
+              "home": "fc-zurich",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-09-28",
+              "home": "pfc-cska-sofia",
+              "away": "fc-zurich",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "aek-athens-fc",
+              "away": "r-standard-liege",
+              "score": "2:2"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "r-standard-liege",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "az-alkmaar",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-barcelona",
+              "away": "az-alkmaar",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Barcelona won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-barcelona"
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "aston-villa-fc",
+              "away": "gornik-zabrze",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "gornik-zabrze",
+              "away": "aston-villa-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "sc-bastia",
+              "away": "newcastle-united-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "newcastle-united-fc",
+              "away": "sc-bastia",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-marek-dupnitsa"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "fc-bayern-munich",
+              "away": "fc-marek-dupnitsa",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-marek-dupnitsa",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "fk-inter-bratislava",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "grasshopper-club",
+              "away": "fk-inter-bratislava",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "ud-las-palmas"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "ipswich-town-fc",
+              "away": "ud-las-palmas",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "ud-las-palmas",
+              "away": "ipswich-town-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "kjobenhavns-boldklub",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:4"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-dinamo-tbilisi",
+              "away": "kjobenhavns-boldklub",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "ss-lazio",
+              "away": "rc-lens",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "rc-lens",
+              "away": "ss-lazio",
+              "score": "6:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "1-fc-magdeburg",
+              "away": "fc-schalke-04",
+              "score": "4:2"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-schalke-04",
+              "away": "1-fc-magdeburg",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "rwd-molenbeek",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "fc-carl-zeiss-jena",
+              "away": "rwd-molenbeek",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Carl Zeiss Jena won 6:5 on penalties"
+            }
+          ],
+          "winner": "fc-carl-zeiss-jena"
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "eintracht-braunschweig"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "ik-start",
+              "away": "eintracht-braunschweig",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "eintracht-braunschweig",
+              "away": "ik-start",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "torino-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "gnk-dinamo-zagreb",
+              "away": "torino-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "ujpest-fc",
+              "away": "athletic-bilbao",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "athletic-bilbao",
+              "away": "ujpest-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "widzew-lodz",
+              "away": "psv-eindhoven",
+              "score": "3:5"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "psv-eindhoven",
+              "away": "widzew-lodz",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1977-10-19",
+              "home": "fc-zurich",
+              "away": "eintracht-frankfurt",
+              "score": "0:3"
+            },
+            {
+              "date": "1977-11-02",
+              "home": "eintracht-frankfurt",
+              "away": "fc-zurich",
+              "score": "4:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "aston-villa-fc",
+              "away": "athletic-bilbao",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "athletic-bilbao",
+              "away": "aston-villa-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "sc-bastia",
+              "away": "torino-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "torino-fc",
+              "away": "sc-bastia",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "fc-carl-zeiss-jena",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "r-standard-liege",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "eintracht-frankfurt",
+              "away": "fc-bayern-munich",
+              "score": "4:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "fc-bayern-munich",
+              "away": "eintracht-frankfurt",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "ipswich-town-fc",
+              "away": "fc-barcelona",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "fc-barcelona",
+              "away": "ipswich-town-fc",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "FC Barcelona won 3:1 on penalties"
+            }
+          ],
+          "winner": "fc-barcelona"
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "1-fc-magdeburg",
+              "away": "rc-lens",
+              "score": "4:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "rc-lens",
+              "away": "1-fc-magdeburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "eintracht-braunschweig"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "psv-eindhoven",
+              "away": "eintracht-braunschweig",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "eintracht-braunschweig",
+              "away": "psv-eindhoven",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-23",
+              "home": "fc-dinamo-tbilisi",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-12-07",
+              "home": "grasshopper-club",
+              "away": "fc-dinamo-tbilisi",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "aston-villa-fc",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "fc-barcelona",
+              "away": "aston-villa-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "sc-bastia",
+              "away": "fc-carl-zeiss-jena",
+              "score": "7:2"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "fc-carl-zeiss-jena",
+              "away": "sc-bastia",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "1-fc-magdeburg",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-03-15",
+              "home": "psv-eindhoven",
+              "away": "1-fc-magdeburg",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "grasshopper-club"
+          ],
+          "winner": "grasshopper-club",
+          "note": "Grasshoppers won on away goals",
+          "matches": [
+            {
+              "date": "1978-03-01",
+              "home": "eintracht-frankfurt",
+              "away": "grasshopper-club",
+              "score": "3:2"
+            },
+            {
+              "date": "1978-03-14",
+              "home": "grasshopper-club",
+              "away": "eintracht-frankfurt",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "grasshopper-club",
+            "sc-bastia"
+          ],
+          "winner": "sc-bastia",
+          "note": "Bastia won on away goals",
+          "matches": [
+            {
+              "date": "1978-03-29",
+              "home": "grasshopper-club",
+              "away": "sc-bastia",
+              "score": "3:2"
+            },
+            {
+              "date": "1978-04-12",
+              "home": "sc-bastia",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1978-03-29",
+              "home": "psv-eindhoven",
+              "away": "fc-barcelona",
+              "score": "3:0"
+            },
+            {
+              "date": "1978-04-12",
+              "home": "fc-barcelona",
+              "away": "psv-eindhoven",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sc-bastia",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1978-04-26",
+              "home": "sc-bastia",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-05-09",
+              "home": "psv-eindhoven",
+              "away": "sc-bastia",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

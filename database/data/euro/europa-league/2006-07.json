@@ -1,0 +1,3454 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2006-07",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "nk-varazdin",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "nk-varazdin",
+              "away": "kf-tirana",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "kf-tirana",
+              "away": "nk-varazdin",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-dinamo-city",
+              "away": "pfc-cska-sofia",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dinamo-city",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-koper",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-koper",
+              "away": "fc-lovech",
+              "score": "0:1",
+              "note": "Played at Domžale Sports Park, Domžale"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-lovech",
+              "away": "fc-koper",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-rangers"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fk-sarajevo",
+              "away": "fc-rangers",
+              "score": "3:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-rangers",
+              "away": "fk-sarajevo",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-orasje",
+            "nk-domzale"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "hnk-orasje",
+              "away": "nk-domzale",
+              "score": "0:2"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "nk-domzale",
+              "away": "hnk-orasje",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "hibernians-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:4"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-dinamo-bucuresti",
+              "away": "hibernians-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "ss-murata"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "apoel-fc",
+              "away": "ss-murata",
+              "score": "3:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "ss-murata",
+              "away": "apoel-fc",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "hnk-rijeka",
+              "away": "ac-omonia",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "ac-omonia",
+              "away": "hnk-rijeka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "fk-makedonija-gp"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "fk-makedonija-gp",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fk-makedonija-gp",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "ksv-roeselare"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fk-vardar",
+              "away": "ksv-roeselare",
+              "score": "1:2"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "ksv-roeselare",
+              "away": "fk-vardar",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-rapid-bucuresti",
+              "away": "sliema-wanderers-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "ujpest-fc",
+              "away": "fc-vaduz",
+              "score": "0:4"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-vaduz",
+              "away": "ujpest-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-zimbru-chisinau",
+              "away": "qarabag-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "qarabag-fk",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-mika",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "sc-mika",
+              "away": "bsc-young-boys",
+              "score": "1:3"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "bsc-young-boys",
+              "away": "sc-mika",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "fc-kairat"
+          ],
+          "winner": "videoton-fc-fehervar",
+          "note": "Fehérvár won on away goals",
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "videoton-fc-fehervar",
+              "away": "fc-kairat",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-kairat",
+              "away": "videoton-fc-fehervar",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zaglebie-lubin",
+            "fc-dinamo-minsk"
+          ],
+          "winner": "fc-dinamo-minsk",
+          "note": "Dinamo Minsk won on away goals",
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "zaglebie-lubin",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-dinamo-minsk",
+              "away": "zaglebie-lubin",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karvan-ik",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "karvan-ik",
+              "away": "fc-spartak-trnava",
+              "score": "1:0",
+              "note": "Played at Shafa Stadium, Baku"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-spartak-trnava",
+              "away": "karvan-ik",
+              "score": "0:1",
+              "note": "Played at National Training Centre, Senec"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ameri-tbilisi",
+            "fc-urartu"
+          ],
+          "winner": "fc-ameri-tbilisi",
+          "note": "Ameri Tbilisi won on away goals",
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-ameri-tbilisi",
+              "away": "fc-urartu",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-urartu",
+              "away": "fc-ameri-tbilisi",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fc-nistru-otaci"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-bate-borisov",
+              "away": "fc-nistru-otaci",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-nistru-otaci",
+              "away": "fc-bate-borisov",
+              "score": "0:1",
+              "note": "Played at Stadionul Republican, Chișinău"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-tobol"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-basel",
+              "away": "fc-tobol",
+              "score": "3:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-tobol",
+              "away": "fc-basel",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "fc-wit-georgia"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fc-petrzalka",
+              "away": "fc-wit-georgia",
+              "score": "2:0",
+              "note": "Played at Tehelné pole, Bratislava"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-wit-georgia",
+              "away": "fc-petrzalka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "drogheda-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "hjk-helsinki",
+              "away": "drogheda-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "drogheda-united-fc",
+              "away": "hjk-helsinki",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Played at Dalymount Park, Dublin"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "brondby-if",
+              "away": "valur",
+              "score": "3:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "valur",
+              "away": "brondby-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gefle-if",
+            "llanelli-town-afc"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "gefle-if",
+              "away": "llanelli-town-afc",
+              "score": "1:2",
+              "note": "Played at Råsunda Stadium, Solna"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "llanelli-town-afc",
+              "away": "gefle-if",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "jeunesse-esch",
+              "away": "skonto-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "skonto-fc",
+              "away": "jeunesse-esch",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "fc-etzella-ettelbruck"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "atvidabergs-ff",
+              "away": "fc-etzella-ettelbruck",
+              "score": "4:0",
+              "note": "Played at Idrottsparken, Norrköping"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-etzella-ettelbruck",
+              "away": "atvidabergs-ff",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "gi-gota"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fk-ventspils",
+              "away": "gi-gota",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "gi-gota",
+              "away": "fk-ventspils",
+              "score": "0:2",
+              "note": "Played at Svangaskarð, Toftir"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "glentoran-fc",
+              "away": "sk-brann",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "sk-brann",
+              "away": "glentoran-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "ia-akranes"
+          ],
+          "winner": "randers-fc",
+          "note": "Randers won on away goals",
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "randers-fc",
+              "away": "ia-akranes",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "ia-akranes",
+              "away": "randers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "portadown-fc",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "portadown-fc",
+              "away": "fbk-kaunas",
+              "score": "1:3"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fbk-kaunas",
+              "away": "portadown-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rhyl-fc",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "rhyl-fc",
+              "away": "fk-suduva",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fk-suduva",
+              "away": "rhyl-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-haka",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-haka",
+              "away": "fci-levadia-tallinn",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skala-if",
+            "ik-start"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "skala-if",
+              "away": "ik-start",
+              "score": "0:1",
+              "note": "Played at Svangaskarð, Toftir"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "ik-start",
+              "away": "skala-if",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyn-fotball",
+            "fc-flora"
+          ],
+          "winner": "fc-flora",
+          "note": "Flora won on away goals",
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "lyn-fotball",
+              "away": "fc-flora",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "fc-flora",
+              "away": "lyn-fotball",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-07-13",
+              "home": "ifk-goteborg",
+              "away": "derry-city-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-07-27",
+              "home": "derry-city-fc",
+              "away": "ifk-goteborg",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "apoel-fc",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "apoel-fc",
+              "away": "trabzonspor",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "trabzonspor",
+              "away": "apoel-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "nk-domzale"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "nk-domzale",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Koning Willem II Stadion, Tilburg (Netherlands): UEFA banned European matches in Israel during the 2006 Israel–Lebanon conflict"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "nk-domzale",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fk-hajduk-kula"
+          ],
+          "winner": "pfc-cska-sofia",
+          "note": "CSKA Sofia won on away goals",
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "pfc-cska-sofia",
+              "away": "fk-hajduk-kula",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fk-hajduk-kula",
+              "away": "pfc-cska-sofia",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Played at Red Star Stadium, Belgrade"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksv-roeselare",
+            "ethnikos-achna-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "ksv-roeselare",
+              "away": "ethnikos-achna-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "ethnikos-achna-fc",
+              "away": "ksv-roeselare",
+              "score": "5:0",
+              "note": "Played at GSP Stadium, Nicosia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-beograd",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-08",
+              "home": "ofk-beograd",
+              "away": "aj-auxerre",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "aj-auxerre",
+              "away": "ofk-beograd",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-dinamo-bucuresti",
+              "away": "beitar-jerusalem-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "beitar-jerusalem-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Georgi Asparuhov Stadium, Sofia (Bulgaria): UEFA banned European matches in Israel during the 2006 Israel–Lebanon conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fk-partizan",
+              "away": "nk-maribor",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "nk-maribor",
+              "away": "fk-partizan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fk-sarajevo",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-rapid-bucuresti",
+              "away": "fk-sarajevo",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bnei-yehuda-tel-aviv-fc",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at NTC Stadion, Senec (Slovakia): UEFA banned European matches in Israel during the 2006 Israel–Lebanon conflict"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-08",
+              "home": "ac-omonia",
+              "away": "fc-lovech",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-lovech",
+              "away": "ac-omonia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "kayserispor"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "kf-tirana",
+              "away": "kayserispor",
+              "score": "0:2"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "kayserispor",
+              "away": "kf-tirana",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-petrzalka",
+              "away": "fc-dinamo-minsk",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-petrzalka",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-ried",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "sv-ried",
+              "away": "fc-sion",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-sion",
+              "away": "sv-ried",
+              "score": "1:0",
+              "note": "Played at Stade de Genève, Geneva"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "videoton-fc-fehervar",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "grasshopper-club",
+              "away": "videoton-fc-fehervar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karvan-ik",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "karvan-ik",
+              "away": "sk-slavia-prague",
+              "score": "0:2",
+              "note": "Played at Shafa Stadium, Baku"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "sk-slavia-prague",
+              "away": "karvan-ik",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "wisla-plock"
+          ],
+          "winner": "fc-chornomorets-odesa",
+          "note": "Chornomorets Odesa won on away goals",
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-chornomorets-odesa",
+              "away": "wisla-plock",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "wisla-plock",
+              "away": "fc-chornomorets-odesa",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-vaduz"
+          ],
+          "winner": "fc-basel",
+          "note": "Basel won on away goals",
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-basel",
+              "away": "fc-vaduz",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-vaduz",
+              "away": "fc-basel",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "fc-metalurh-zaporizhzhia"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-metalurh-zaporizhzhia",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-metalurh-zaporizhzhia",
+              "away": "fc-zimbru-chisinau",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-mattersburg",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "sv-mattersburg",
+              "away": "wisla-krakow",
+              "score": "1:1",
+              "note": "Played at Ernst-Happel-Stadion, Vienna"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "wisla-krakow",
+              "away": "sv-mattersburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "fc-ameri-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "hertha-bsc",
+              "away": "fc-ameri-tbilisi",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-ameri-tbilisi",
+              "away": "hertha-bsc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rubin-kazan",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-rubin-kazan",
+              "away": "fc-bate-borisov",
+              "score": "3:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fc-bate-borisov",
+              "away": "fc-rubin-kazan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "olympique-de-marseille"
+          ],
+          "winner": "olympique-de-marseille",
+          "note": "Marseille won on away goals",
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "bsc-young-boys",
+              "away": "olympique-de-marseille",
+              "score": "3:3"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "olympique-de-marseille",
+              "away": "bsc-young-boys",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "drogheda-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "ik-start",
+              "away": "drogheda-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "drogheda-united-fc",
+              "away": "ik-start",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Dalymount Park, Dublin; IK Start won 11:10 on penalties"
+            }
+          ],
+          "winner": "ik-start"
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "llanelli-town-afc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "odense-boldklub",
+              "away": "llanelli-town-afc",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "llanelli-town-afc",
+              "away": "odense-boldklub",
+              "score": "1:5",
+              "note": "Played at Liberty Stadium, Swansea"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "fbk-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "randers-fc",
+              "away": "fbk-kaunas",
+              "score": "3:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fbk-kaunas",
+              "away": "randers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-twente",
+              "away": "fci-levadia-tallinn",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-twente",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fk-ventspils",
+              "away": "newcastle-united-fc",
+              "score": "0:1",
+              "note": "Played at Skonto Stadium, Riga"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "newcastle-united-fc",
+              "away": "fk-ventspils",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "atvidabergs-ff"
+          ],
+          "winner": "atvidabergs-ff",
+          "note": "Åtvidaberg won on away goals",
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "sk-brann",
+              "away": "atvidabergs-ff",
+              "score": "3:3"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "atvidabergs-ff",
+              "away": "sk-brann",
+              "score": "1:1",
+              "note": "Played at Värendsvallen, Växjö"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "molde-fk",
+              "away": "skonto-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "skonto-fc",
+              "away": "molde-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fc-flora",
+              "away": "brondby-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "brondby-if",
+              "away": "fc-flora",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "fk-suduva",
+              "away": "club-brugge-kv",
+              "score": "0:2",
+              "note": "Played at S. Darius and S. Girėnas Stadium, Kaunas"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "club-brugge-kv",
+              "away": "fk-suduva",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gretna-fc",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-10",
+              "home": "gretna-fc",
+              "away": "derry-city-fc",
+              "score": "1:5",
+              "note": "Played at Fir Park, Motherwell"
+            },
+            {
+              "date": "2006-08-24",
+              "home": "derry-city-fc",
+              "away": "gretna-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-chornomorets-odesa",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-chornomorets-odesa",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "ac-chievoverona"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "sc-braga",
+              "away": "ac-chievoverona",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "ac-chievoverona",
+              "away": "sc-braga",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fci-levadia-tallinn",
+              "away": "newcastle-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "newcastle-united-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "molde-fk",
+              "away": "rangers-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "rangers-fc",
+              "away": "molde-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "rc-celta-de-vigo"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "r-standard-liege",
+              "away": "rc-celta-de-vigo",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "rc-celta-de-vigo",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-lovech",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Stadion de Goffert, Nijmegen (Netherlands): UEFA banned European matches in Israel during the 2006 Israel–Lebanon conflict"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fc-lovech",
+              "away": "maccabi-haifa-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "derry-city-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "paris-saint-germain-fc",
+              "away": "derry-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "hertha-bsc",
+              "away": "odense-boldklub",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "odense-boldklub",
+              "away": "hertha-bsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "legia-warsaw",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fk-austria-wien",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "fc-metalurh-zaporizhzhia"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "panathinaikos-fc",
+              "away": "fc-metalurh-zaporizhzhia",
+              "score": "1:1",
+              "note": "Played at Pampeloponnisiako Stadium, Patras (the Olympic Stadium in Athens was hosting the 2006 IAAF World Cup)"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fc-metalurh-zaporizhzhia",
+              "away": "panathinaikos-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-moscow",
+            "sv-zulte-waregem"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-lokomotiv-moscow",
+              "away": "sv-zulte-waregem",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "sv-zulte-waregem",
+              "away": "fc-lokomotiv-moscow",
+              "score": "2:0",
+              "note": "Played at Jules Ottenstadion, Ghent"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "heart-of-midlothian-fc",
+              "away": "ac-sparta-prague",
+              "score": "0:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "ac-sparta-prague",
+              "away": "heart-of-midlothian-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "randers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fenerbahce-sk",
+              "away": "randers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "randers-fc",
+              "away": "fenerbahce-sk",
+              "score": "0:3",
+              "note": "Played at Aarhus Stadion, Aarhus"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-red-bull-salzburg",
+              "away": "blackburn-rovers-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "blackburn-rovers-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "as-nancy-lorraine"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-schalke-04",
+              "away": "as-nancy-lorraine",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "as-nancy-lorraine",
+              "away": "fc-schalke-04",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ethnikos-achna-fc",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "ethnikos-achna-fc",
+              "away": "rc-lens",
+              "score": "0:0",
+              "note": "Played at GSP Stadium, Nicosia"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "rc-lens",
+              "away": "ethnikos-achna-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-slovan-liberec",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "red-star-belgrade",
+              "away": "fc-slovan-liberec",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "kayserispor"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "az-alkmaar",
+              "away": "kayserispor",
+              "score": "3:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "kayserispor",
+              "away": "az-alkmaar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rubin-kazan",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-rubin-kazan",
+              "away": "parma-calcio",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "parma-calcio",
+              "away": "fc-rubin-kazan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atromitos-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "atromitos-fc",
+              "away": "sevilla-fc",
+              "score": "1:2",
+              "note": "Played at Georgios Kamaras Stadium, Athens"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "sevilla-fc",
+              "away": "atromitos-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "eintracht-frankfurt",
+              "away": "brondby-if",
+              "score": "4:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "brondby-if",
+              "away": "eintracht-frankfurt",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "besiktas-jk",
+              "away": "pfc-cska-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "pfc-cska-sofia",
+              "away": "besiktas-jk",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "sc-heerenveen"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "vitoria-fc",
+              "away": "sc-heerenveen",
+              "score": "0:3"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "sc-heerenveen",
+              "away": "vitoria-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fk-mlada-boleslav"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "olympique-de-marseille",
+              "away": "fk-mlada-boleslav",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fk-mlada-boleslav",
+              "away": "olympique-de-marseille",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "atvidabergs-ff",
+              "away": "grasshopper-club",
+              "score": "0:3",
+              "note": "Played at Idrottsparken, Norrköping"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "grasshopper-club",
+              "away": "atvidabergs-ff",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "cd-nacional"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-rapid-bucuresti",
+              "away": "cd-nacional",
+              "score": "1:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "cd-nacional",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "ca-osasuna"
+          ],
+          "winner": "ca-osasuna",
+          "note": "Osasuna won on away goals",
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "trabzonspor",
+              "away": "ca-osasuna",
+              "score": "2:2",
+              "note": "Played behind closed doors (UEFA punishment for crowd trouble in the previous round)"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "ca-osasuna",
+              "away": "trabzonspor",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-basel",
+              "away": "fk-rabotnicki",
+              "score": "6:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fk-rabotnicki",
+              "away": "fc-basel",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "palermo-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "west-ham-united-fc",
+              "away": "palermo-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "palermo-fc",
+              "away": "west-ham-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "feyenoord"
+          ],
+          "winner": "feyenoord",
+          "note": "Feyenoord won on away goals",
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "feyenoord",
+              "score": "2:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "feyenoord",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mfk-ruzomberok",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "mfk-ruzomberok",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "club-brugge-kv",
+              "away": "mfk-ruzomberok",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-sion",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0",
+              "note": "Played at Stade de Genève, Geneva"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-sion",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-groningen"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fk-partizan",
+              "away": "fc-groningen",
+              "score": "4:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fc-groningen",
+              "away": "fk-partizan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "xanthi-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "xanthi-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:4"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "fc-dinamo-bucuresti",
+              "away": "xanthi-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "sk-slavia-prague",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "tottenham-hotspur-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "ik-start",
+              "away": "afc-ajax",
+              "score": "2:5",
+              "note": "Played at Åråsen Stadion, Lillestrøm"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "afc-ajax",
+              "away": "ik-start",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "fc-petrzalka",
+              "away": "rcd-espanyol",
+              "score": "2:2",
+              "note": "Played at Tehelné pole, Bratislava"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "rcd-espanyol",
+              "away": "fc-petrzalka",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "iraklis-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "wisla-krakow",
+              "away": "iraklis-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "iraklis-fc",
+              "away": "wisla-krakow",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "us-livorno",
+            "asko-pasching"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "us-livorno",
+              "away": "asko-pasching",
+              "score": "2:0"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "asko-pasching",
+              "away": "us-livorno",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "2006-09-14",
+              "home": "gnk-dinamo-zagreb",
+              "away": "aj-auxerre",
+              "score": "1:2"
+            },
+            {
+              "date": "2006-09-28",
+              "home": "aj-auxerre",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2006-10-19",
+          "home": "us-livorno",
+          "away": "rangers-fc",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "maccabi-haifa-fc",
+          "away": "aj-auxerre",
+          "score": "3:1",
+          "group": "A",
+          "note": "Played at Bloomfield Stadium, Tel Aviv"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "fk-partizan",
+          "away": "us-livorno",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "rangers-fc",
+          "away": "maccabi-haifa-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "aj-auxerre",
+          "away": "rangers-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "maccabi-haifa-fc",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "A",
+          "note": "Played at Bloomfield Stadium, Tel Aviv"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "us-livorno",
+          "away": "maccabi-haifa-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "fk-partizan",
+          "away": "aj-auxerre",
+          "score": "1:4",
+          "group": "A"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "rangers-fc",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "aj-auxerre",
+          "away": "us-livorno",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "besiktas-jk",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "club-brugge-kv",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "tottenham-hotspur-fc",
+          "away": "club-brugge-kv",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "fc-dinamo-bucuresti",
+          "away": "besiktas-jk",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "bayer-04-leverkusen",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "club-brugge-kv",
+          "away": "fc-dinamo-bucuresti",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "fc-dinamo-bucuresti",
+          "away": "bayer-04-leverkusen",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "besiktas-jk",
+          "away": "club-brugge-kv",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "tottenham-hotspur-fc",
+          "away": "fc-dinamo-bucuresti",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "bayer-04-leverkusen",
+          "away": "besiktas-jk",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "az-alkmaar",
+          "away": "sc-braga",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "fc-slovan-liberec",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "grasshopper-club",
+          "away": "az-alkmaar",
+          "score": "2:5",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "sc-braga",
+          "away": "fc-slovan-liberec",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "fc-slovan-liberec",
+          "away": "grasshopper-club",
+          "score": "4:1",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "sevilla-fc",
+          "away": "sc-braga",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "grasshopper-club",
+          "away": "sevilla-fc",
+          "score": "0:4",
+          "group": "C"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "az-alkmaar",
+          "away": "fc-slovan-liberec",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "sc-braga",
+          "away": "grasshopper-club",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "sevilla-fc",
+          "away": "az-alkmaar",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "ca-osasuna",
+          "away": "sc-heerenveen",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "odense-boldklub",
+          "away": "parma-calcio",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "sc-heerenveen",
+          "away": "odense-boldklub",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "rc-lens",
+          "away": "ca-osasuna",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "parma-calcio",
+          "away": "sc-heerenveen",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "odense-boldklub",
+          "away": "rc-lens",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "rc-lens",
+          "away": "parma-calcio",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2006-11-29",
+          "home": "ca-osasuna",
+          "away": "odense-boldklub",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "parma-calcio",
+          "away": "ca-osasuna",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2006-12-14",
+          "home": "sc-heerenveen",
+          "away": "rc-lens",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "wisla-krakow",
+          "away": "blackburn-rovers-fc",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "fc-basel",
+          "away": "feyenoord",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "blackburn-rovers-fc",
+          "away": "fc-basel",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "as-nancy-lorraine",
+          "away": "wisla-krakow",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "fc-basel",
+          "away": "as-nancy-lorraine",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "feyenoord",
+          "away": "blackburn-rovers-fc",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "as-nancy-lorraine",
+          "away": "feyenoord",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "wisla-krakow",
+          "away": "fc-basel",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "blackburn-rovers-fc",
+          "away": "as-nancy-lorraine",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "feyenoord",
+          "away": "wisla-krakow",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "fk-austria-wien",
+          "away": "sv-zulte-waregem",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "ac-sparta-prague",
+          "away": "rcd-espanyol",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "sv-zulte-waregem",
+          "away": "ac-sparta-prague",
+          "score": "3:1",
+          "group": "F",
+          "note": "Played at Jules Ottenstadion, Ghent"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "afc-ajax",
+          "away": "fk-austria-wien",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "ac-sparta-prague",
+          "away": "afc-ajax",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "rcd-espanyol",
+          "away": "sv-zulte-waregem",
+          "score": "6:2",
+          "group": "F"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "afc-ajax",
+          "away": "rcd-espanyol",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "fk-austria-wien",
+          "away": "ac-sparta-prague",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "rcd-espanyol",
+          "away": "fk-austria-wien",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "sv-zulte-waregem",
+          "away": "afc-ajax",
+          "score": "0:3",
+          "group": "F",
+          "note": "Played at Jules Ottenstadion, Ghent"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "panathinaikos-fc",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:0",
+          "group": "G",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble at the previous home match)"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "fc-rapid-bucuresti",
+          "away": "paris-saint-germain-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "fc-rapid-bucuresti",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "fk-mlada-boleslav",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "fc-rapid-bucuresti",
+          "away": "fk-mlada-boleslav",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "paris-saint-germain-fc",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:4",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "fk-mlada-boleslav",
+          "away": "paris-saint-germain-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "panathinaikos-fc",
+          "away": "fc-rapid-bucuresti",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "paris-saint-germain-fc",
+          "away": "panathinaikos-fc",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "fk-mlada-boleslav",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "eintracht-frankfurt",
+          "away": "palermo-fc",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2006-10-19",
+          "home": "newcastle-united-fc",
+          "away": "fenerbahce-sk",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "palermo-fc",
+          "away": "newcastle-united-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-02",
+          "home": "rc-celta-de-vigo",
+          "away": "eintracht-frankfurt",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "newcastle-united-fc",
+          "away": "rc-celta-de-vigo",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-23",
+          "home": "fenerbahce-sk",
+          "away": "palermo-fc",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "rc-celta-de-vigo",
+          "away": "fenerbahce-sk",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2006-11-30",
+          "home": "eintracht-frankfurt",
+          "away": "newcastle-united-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "palermo-fc",
+          "away": "rc-celta-de-vigo",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2006-12-13",
+          "home": "fenerbahce-sk",
+          "away": "eintracht-frankfurt",
+          "score": "2:2",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "sv-zulte-waregem",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-15",
+              "home": "sv-zulte-waregem",
+              "away": "newcastle-united-fc",
+              "score": "1:3",
+              "note": "Played at Jules Ottenstadion, Ghent"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "newcastle-united-fc",
+              "away": "sv-zulte-waregem",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-15",
+              "home": "sc-braga",
+              "away": "parma-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "parma-calcio",
+              "away": "sc-braga",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-15",
+              "home": "rc-lens",
+              "away": "panathinaikos-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "panathinaikos-fc",
+              "away": "rc-lens",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "bayer-04-leverkusen",
+              "away": "blackburn-rovers-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "blackburn-rovers-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "rangers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "rangers-fc",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "us-livorno",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "us-livorno",
+              "away": "rcd-espanyol",
+              "score": "1:2",
+              "note": "Played behind closed doors: the Italian government ruled the stadium unsafe after the 2007 Catania football violence"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "rcd-espanyol",
+              "away": "us-livorno",
+              "score": "2:0",
+              "note": "Played behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "tottenham-hotspur-fc"
+          ],
+          "winner": "tottenham-hotspur-fc",
+          "note": "Walkover: Feyenoord were disqualified by UEFA after crowd trouble at their final group match against Nancy",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "az-alkmaar"
+          ],
+          "winner": "az-alkmaar",
+          "note": "AZ won on away goals",
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "fenerbahce-sk",
+              "away": "az-alkmaar",
+              "score": "3:3"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "az-alkmaar",
+              "away": "fenerbahce-sk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "sv-werder-bremen",
+              "away": "afc-ajax",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "afc-ajax",
+              "away": "sv-werder-bremen",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "rc-celta-de-vigo"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-15",
+              "home": "fc-spartak-moscow",
+              "away": "rc-celta-de-vigo",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "rc-celta-de-vigo",
+              "away": "fc-spartak-moscow",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "pfc-cska-moscow",
+              "away": "maccabi-haifa-fc",
+              "score": "0:0",
+              "note": "Played at Republican Spartak Stadium, Vladikavkaz"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "maccabi-haifa-fc",
+              "away": "pfc-cska-moscow",
+              "score": "1:0",
+              "note": "Played at Bloomfield Stadium, Tel Aviv"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "aek-athens-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "paris-saint-germain-fc",
+              "away": "aek-athens-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "sl-benfica",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "fc-dinamo-bucuresti",
+              "away": "sl-benfica",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-15",
+              "home": "fcsb",
+              "away": "sevilla-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "sevilla-fc",
+              "away": "fcsb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "as-nancy-lorraine"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "fc-shakhtar-donetsk",
+              "away": "as-nancy-lorraine",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "as-nancy-lorraine",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "2007-02-14",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "ca-osasuna",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-02-22",
+              "home": "ca-osasuna",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "az-alkmaar"
+          ],
+          "winner": "az-alkmaar",
+          "note": "AZ won on away goals",
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "newcastle-united-fc",
+              "away": "az-alkmaar",
+              "score": "4:2"
+            },
+            {
+              "date": "2007-03-15",
+              "home": "az-alkmaar",
+              "away": "newcastle-united-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "maccabi-haifa-fc",
+              "away": "rcd-espanyol",
+              "score": "0:0",
+              "note": "Played at Bloomfield Stadium, Tel Aviv"
+            },
+            {
+              "date": "2007-03-15",
+              "home": "rcd-espanyol",
+              "away": "maccabi-haifa-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "rangers-fc",
+              "away": "ca-osasuna",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-03-14",
+              "home": "ca-osasuna",
+              "away": "rangers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "sc-braga",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2007-03-14",
+              "home": "tottenham-hotspur-fc",
+              "away": "sc-braga",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "sevilla-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:2"
+            },
+            {
+              "date": "2007-03-15",
+              "home": "fc-shakhtar-donetsk",
+              "away": "sevilla-fc",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "rc-lens",
+              "away": "bayer-04-leverkusen",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-03-14",
+              "home": "bayer-04-leverkusen",
+              "away": "rc-lens",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "paris-saint-germain-fc",
+              "away": "sl-benfica",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-03-15",
+              "home": "sl-benfica",
+              "away": "paris-saint-germain-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2007-03-08",
+              "home": "rc-celta-de-vigo",
+              "away": "sv-werder-bremen",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-03-14",
+              "home": "sv-werder-bremen",
+              "away": "rc-celta-de-vigo",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "az-alkmaar",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-05",
+              "home": "az-alkmaar",
+              "away": "sv-werder-bremen",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-04-12",
+              "home": "sv-werder-bremen",
+              "away": "az-alkmaar",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-05",
+              "home": "bayer-04-leverkusen",
+              "away": "ca-osasuna",
+              "score": "0:3"
+            },
+            {
+              "date": "2007-04-12",
+              "home": "ca-osasuna",
+              "away": "bayer-04-leverkusen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-05",
+              "home": "sevilla-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-04-12",
+              "home": "tottenham-hotspur-fc",
+              "away": "sevilla-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-05",
+              "home": "rcd-espanyol",
+              "away": "sl-benfica",
+              "score": "3:2"
+            },
+            {
+              "date": "2007-04-12",
+              "home": "sl-benfica",
+              "away": "rcd-espanyol",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-26",
+              "home": "rcd-espanyol",
+              "away": "sv-werder-bremen",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-05-03",
+              "home": "sv-werder-bremen",
+              "away": "rcd-espanyol",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ca-osasuna",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-04-26",
+              "home": "ca-osasuna",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-05-03",
+              "home": "sevilla-fc",
+              "away": "ca-osasuna",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-05-16",
+              "home": "rcd-espanyol",
+              "away": "sevilla-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Hampden Park, Glasgow; Sevilla FC won 3:1 on penalties"
+            }
+          ],
+          "winner": "sevilla-fc"
+        }
+      ]
+    }
+  ]
+}

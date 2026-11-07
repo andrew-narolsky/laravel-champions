@@ -1,0 +1,4509 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2009-10",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "fc-partizan-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-partizan-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fc-partizan-minsk",
+              "away": "fk-sutjeska-niksic",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lahti",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-lahti",
+              "away": "fc-dinamo-city",
+              "score": "4:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fc-dinamo-city",
+              "away": "fc-lahti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-grevenmacher",
+            "fk-vetra"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "cs-grevenmacher",
+              "away": "fk-vetra",
+              "score": "0:3",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fk-vetra",
+              "away": "cs-grevenmacher",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nsi-runavik",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "nsi-runavik",
+              "away": "rosenborg-bk",
+              "score": "0:3",
+              "note": "Played at Gundadalur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "rosenborg-bk",
+              "away": "nsi-runavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "szombathelyi-haladas",
+            "fc-irtysh"
+          ],
+          "winner": "szombathelyi-haladas",
+          "note": "Haladás won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "szombathelyi-haladas",
+              "away": "fc-irtysh",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fc-irtysh",
+              "away": "szombathelyi-haladas",
+              "score": "2:1",
+              "note": "Played at Shakhtyor Stadium, Karagandy (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sligo-rovers-fc",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "sligo-rovers-fc",
+              "away": "kf-vllaznia",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "kf-vllaznia",
+              "away": "sligo-rovers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurgi-rustavi",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-metalurgi-rustavi",
+              "away": "b36-torshavn",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "b36-torshavn",
+              "away": "fc-metalurgi-rustavi",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "un-kaerjeng-97"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "anorthosis-famagusta-fc",
+              "away": "un-kaerjeng-97",
+              "score": "5:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "un-kaerjeng-97",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:2",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-slaven-belupo",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "nk-slaven-belupo",
+              "away": "birkirkara-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "birkirkara-fc",
+              "away": "nk-slaven-belupo",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "fc-okzhetpes"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-okzhetpes",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fc-okzhetpes",
+              "away": "fc-zimbru-chisinau",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lisburn-distillery-fc",
+            "fc-zestaponi"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "lisburn-distillery-fc",
+              "away": "fc-zestaponi",
+              "score": "1:5",
+              "note": "Played at Mourneview Park, Lurgan (New Grosvenor Stadium was being renovated)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "fc-zestaponi",
+              "away": "lisburn-distillery-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "sc-mika"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "helsingborgs-if",
+              "away": "sc-mika",
+              "score": "3:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "sc-mika",
+              "away": "helsingborgs-if",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "valletta-fc",
+              "away": "keflavik",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "keflavik",
+              "away": "valletta-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dinaburg-fc",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "dinaburg-fc",
+              "away": "nomme-kalju-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "nomme-kalju-fc",
+              "away": "dinaburg-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "polonia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fk-buducnost-podgorica",
+              "away": "polonia-warsaw",
+              "score": "0:2"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "polonia-warsaw",
+              "away": "fk-buducnost-podgorica",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-narva-trans",
+            "nk-rudar-velenje"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "jk-narva-trans",
+              "away": "nk-rudar-velenje",
+              "score": "0:3",
+              "note": "Played at Lilleküla Stadium, Tallinn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "nk-rudar-velenje",
+              "away": "jk-narva-trans",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "motherwell-fc",
+            "llanelli-town-afc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "motherwell-fc",
+              "away": "llanelli-town-afc",
+              "score": "0:1",
+              "note": "Played at Excelsior Stadium, Airdrie (Fir Park was being renovated)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "llanelli-town-afc",
+              "away": "motherwell-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-urartu",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-urartu",
+              "away": "nk-siroki-brijeg",
+              "score": "0:2"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "nk-siroki-brijeg",
+              "away": "fc-urartu",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-spartak-trnava",
+              "away": "samaxi-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "samaxi-fk",
+              "away": "fc-spartak-trnava",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "kf-renova"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fc-dinamo-minsk",
+              "away": "kf-renova",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "kf-renova",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "randers-fc",
+              "away": "linfield-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "linfield-fc",
+              "away": "randers-fc",
+              "score": "0:3",
+              "note": "Played at Mourneview Park, Lurgan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "simurq-pik",
+            "bnei-yehuda-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "simurq-pik",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "0:1",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "simurq-pik",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-02",
+              "home": "fram-reykjavik",
+              "away": "the-new-saints-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-09",
+              "home": "the-new-saints-fc",
+              "away": "fram-reykjavik",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "rosenborg-bk",
+              "away": "qarabag-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "qarabag-fk",
+              "away": "rosenborg-bk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "fc-pacos-de-ferreira"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-pacos-de-ferreira",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-pacos-de-ferreira",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:0",
+              "note": "Played at Estádio D. Afonso Henriques, Guimarães (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-juvenes-dogana",
+            "polonia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "ac-juvenes-dogana",
+              "away": "polonia-warsaw",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "polonia-warsaw",
+              "away": "ac-juvenes-dogana",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "sk-sturm-graz",
+              "away": "nk-siroki-brijeg",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "nk-siroki-brijeg",
+              "away": "sk-sturm-graz",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-basel",
+              "away": "fc-santa-coloma",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-santa-coloma",
+              "away": "fc-basel",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-honka",
+            "bangor-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-honka",
+              "away": "bangor-city-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "bangor-city-fc",
+              "away": "fc-honka",
+              "score": "0:1",
+              "note": "Played at Racecourse Ground, Wrexham (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "fc-dacia-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "msk-zilina",
+              "away": "fc-dacia-chisinau",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-dacia-chisinau",
+              "away": "msk-zilina",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "ofk-petrovac"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "anorthosis-famagusta-fc",
+              "away": "ofk-petrovac",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "ofk-petrovac",
+              "away": "anorthosis-famagusta-fc",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Played at Gradski stadion, Nikšić (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "st-patricks-athletic-fc",
+              "away": "valletta-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "valletta-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "ac-omonia",
+              "away": "hb-torshavn",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "hb-torshavn",
+              "away": "ac-omonia",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "fc-lahti"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "nd-gorica",
+              "away": "fc-lahti",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-lahti",
+              "away": "nd-gorica",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "fram-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "sk-sigma-olomouc",
+              "away": "fram-reykjavik",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fram-reykjavik",
+              "away": "sk-sigma-olomouc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-metalurgi-rustavi"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "legia-warsaw",
+              "away": "fc-metalurgi-rustavi",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-metalurgi-rustavi",
+              "away": "legia-warsaw",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "falkirk-fc",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "falkirk-fc",
+              "away": "fc-vaduz",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-vaduz",
+              "away": "falkirk-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "szombathelyi-haladas"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "if-elfsborg",
+              "away": "szombathelyi-haladas",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "szombathelyi-haladas",
+              "away": "if-elfsborg",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "sk-rapid-wien",
+              "away": "kf-vllaznia",
+              "score": "5:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "kf-vllaznia",
+              "away": "sk-rapid-wien",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-naftan-novopolotsk",
+            "kaa-gent"
+          ],
+          "winner": "kaa-gent",
+          "note": "Gent won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-naftan-novopolotsk",
+              "away": "kaa-gent",
+              "score": "2:1",
+              "note": "Played at Vitebsk Central Sport Complex, Vitebsk (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "kaa-gent",
+              "away": "fc-naftan-novopolotsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fk-liepajas-metalurgs",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fk-liepajas-metalurgs",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-differdange-03",
+              "away": "hnk-rijeka",
+              "score": "1:0",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "hnk-rijeka",
+              "away": "fc-differdange-03",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "randers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fk-suduva",
+              "away": "randers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "randers-fc",
+              "away": "fk-suduva",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vetra",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fk-vetra",
+              "away": "hjk-helsinki",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "hjk-helsinki",
+              "away": "fk-vetra",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-milano-kumanove",
+            "nk-slaven-belupo"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "kf-milano-kumanove",
+              "away": "nk-slaven-belupo",
+              "score": "0:4"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "nk-slaven-belupo",
+              "away": "kf-milano-kumanove",
+              "score": "8:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-dinamo-minsk",
+              "away": "tromso-il",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "tromso-il",
+              "away": "fc-dinamo-minsk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "ae-larissa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "kr-reykjavik",
+              "away": "ae-larissa-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "ae-larissa-fc",
+              "away": "kr-reykjavik",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "brondby-if",
+              "away": "fc-flora",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-flora",
+              "away": "brondby-if",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "fk-slavija-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "aab-fodbold",
+              "away": "fk-slavija-sarajevo",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fk-slavija-sarajevo",
+              "away": "aab-fodbold",
+              "score": "3:1",
+              "note": "Played at Asim Ferhatović Hase Stadium, Sarajevo (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fcsb",
+              "away": "ujpest-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "ujpest-fc",
+              "away": "fcsb",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-donetsk",
+            "fc-partizan-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-metalurh-donetsk",
+              "away": "fc-partizan-minsk",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-partizan-minsk",
+              "away": "fc-metalurh-donetsk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-14",
+              "home": "crusaders-fc",
+              "away": "fk-rabotnicki",
+              "score": "1:1",
+              "note": "Played at Mourneview Park, Lurgan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fk-rabotnicki",
+              "away": "crusaders-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bnei-yehuda-tel-aviv-fc",
+            "dinaburg-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "dinaburg-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "dinaburg-fc",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nac-breda",
+            "fc-gandzasar"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "nac-breda",
+              "away": "fc-gandzasar",
+              "score": "6:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-gandzasar",
+              "away": "nac-breda",
+              "score": "0:2",
+              "note": "Played at Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cherno-more-varna",
+            "fc-iskra-stal"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "pfc-cherno-more-varna",
+              "away": "fc-iskra-stal",
+              "score": "1:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-iskra-stal",
+              "away": "pfc-cherno-more-varna",
+              "score": "0:3",
+              "note": "Played at Sheriff Stadium, Tiraspol (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sevojno",
+            "fbk-kaunas"
+          ],
+          "winner": "fk-sevojno",
+          "note": "Sevojno won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fk-sevojno",
+              "away": "fbk-kaunas",
+              "score": "0:0",
+              "note": "Played at Partizan Stadium, Belgrade (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fbk-kaunas",
+              "away": "fk-sevojno",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "flamurtari-fc",
+            "motherwell-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "flamurtari-fc",
+              "away": "motherwell-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "motherwell-fc",
+              "away": "flamurtari-fc",
+              "score": "8:1",
+              "note": "Played at Excelsior Stadium, Airdrie (Fir Park was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zestaponi",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-zestaponi",
+              "away": "helsingborgs-if",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "helsingborgs-if",
+              "away": "fc-zestaponi",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "skonto-fc",
+              "away": "derry-city-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "derry-city-fc",
+              "away": "skonto-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "maccabi-netanya-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-14",
+              "home": "sliema-wanderers-fc",
+              "away": "maccabi-netanya-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "maccabi-netanya-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "3:0",
+              "note": "Played at Bloomfield Stadium, Tel Aviv"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tobol",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fc-tobol",
+              "away": "galatasaray-sk",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "galatasaray-sk",
+              "away": "fc-tobol",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-rudar-velenje",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "nk-rudar-velenje",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "red-star-belgrade",
+              "away": "nk-rudar-velenje",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-16",
+              "home": "fk-sarajevo",
+              "away": "fc-spartak-trnava",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-07-23",
+              "home": "fc-spartak-trnava",
+              "away": "fk-sarajevo",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "helsingborgs-if",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fk-sarajevo",
+              "away": "helsingborgs-if",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FK Sarajevo won 5:4 on penalties"
+            }
+          ],
+          "winner": "fk-sarajevo"
+        },
+        {
+          "clubs": [
+            "fredrikstad-fk",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fredrikstad-fk",
+              "away": "lech-poznan",
+              "score": "1:6"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "lech-poznan",
+              "away": "fredrikstad-fk",
+              "score": "1:2",
+              "note": "Played at Stadion Amica, Wronki (Stadion Miejski in Poznań was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "fc-metalist-kharkiv"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "hnk-rijeka",
+              "away": "fc-metalist-kharkiv",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-metalist-kharkiv",
+              "away": "hnk-rijeka",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "as-roma",
+              "away": "kaa-gent",
+              "score": "3:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "kaa-gent",
+              "away": "as-roma",
+              "score": "1:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaslui",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fc-vaslui",
+              "away": "ac-omonia",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-08-04",
+              "home": "ac-omonia",
+              "away": "fc-vaslui",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-slavija-sarajevo",
+            "fc-vss-kosice"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fk-slavija-sarajevo",
+              "away": "fc-vss-kosice",
+              "score": "0:2",
+              "note": "Played at Asim Ferhatović Hase Stadium, Sarajevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-vss-kosice",
+              "away": "fk-slavija-sarajevo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "ifk-goteborg",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "ifk-goteborg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "pfc-cherno-more-varna"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "psv-eindhoven",
+              "away": "pfc-cherno-more-varna",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "pfc-cherno-more-varna",
+              "away": "psv-eindhoven",
+              "score": "0:1",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-donetsk",
+            "nk-ib-1975-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fc-metalurh-donetsk",
+              "away": "nk-ib-1975-ljubljana",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "nk-ib-1975-ljubljana",
+              "away": "fc-metalurh-donetsk",
+              "score": "0:3",
+              "note": "Played at Domžale Sports Park, Domžale (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "paok-fc"
+          ],
+          "winner": "paok-fc",
+          "note": "PAOK won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "valerenga-fotball",
+              "away": "paok-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "paok-fc",
+              "away": "valerenga-fotball",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "apop-kinyras-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "sk-rapid-wien",
+              "away": "apop-kinyras-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "apop-kinyras-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-honka",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fc-honka",
+              "away": "qarabag-fk",
+              "score": "0:1",
+              "note": "Played at Finnair Stadium, Helsinki (Tapiola stadium was being renovated)"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "qarabag-fk",
+              "away": "fc-honka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fc-vaduz",
+              "away": "fc-slovan-liberec",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-slovan-liberec",
+              "away": "fc-vaduz",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "pfc-krylia-sovetov"
+          ],
+          "winner": "st-patricks-athletic-fc",
+          "note": "St Patrick's Athletic won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "st-patricks-athletic-fc",
+              "away": "pfc-krylia-sovetov",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "pfc-krylia-sovetov",
+              "away": "st-patricks-athletic-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "randers-fc",
+              "away": "hamburger-sv",
+              "score": "0:4"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "hamburger-sv",
+              "away": "randers-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tromso-il",
+            "nk-slaven-belupo"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "tromso-il",
+              "away": "nk-slaven-belupo",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "nk-slaven-belupo",
+              "away": "tromso-il",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "legia-warsaw"
+          ],
+          "winner": "brondby-if",
+          "note": "Brøndby won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "brondby-if",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "legia-warsaw",
+              "away": "brondby-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fk-vojvodina",
+              "away": "fk-austria-wien",
+              "score": "1:1",
+              "note": "Played at Red Star Stadium, Belgrade (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fk-austria-wien",
+              "away": "fk-vojvodina",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "pfc-cska-sofia",
+              "away": "derry-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "derry-city-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "motherwell-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fcsb",
+              "away": "motherwell-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "motherwell-fc",
+              "away": "fcsb",
+              "score": "1:3",
+              "note": "Played at Excelsior Stadium, Airdrie (Fir Park was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "msk-zilina",
+              "away": "hnk-hajduk-split",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "hnk-hajduk-split",
+              "away": "msk-zilina",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "sc-braga",
+              "away": "if-elfsborg",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "if-elfsborg",
+              "away": "sc-braga",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "sk-sigma-olomouc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "aberdeen-fc",
+              "away": "sk-sigma-olomouc",
+              "score": "1:5"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "sk-sigma-olomouc",
+              "away": "aberdeen-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fk-rabotnicki",
+              "away": "odense-boldklub",
+              "score": "3:4"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "odense-boldklub",
+              "away": "fk-rabotnicki",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sevojno",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fk-sevojno",
+              "away": "lille-osc",
+              "score": "0:2",
+              "note": "Played at Partizan Stadium, Belgrade (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "lille-osc",
+              "away": "fk-sevojno",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-petrovac",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "ofk-petrovac",
+              "away": "sk-sturm-graz",
+              "score": "1:2",
+              "note": "Played at Podgorica City Stadium, Podgorica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "sk-sturm-graz",
+              "away": "ofk-petrovac",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fenerbahce-sk",
+              "away": "budapest-honved-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "budapest-honved-fc",
+              "away": "fenerbahce-sk",
+              "score": "1:1",
+              "note": "Played behind closed doors (UEFA punishment for racist conduct by Honvéd fans)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bnei-yehuda-tel-aviv-fc",
+            "fc-pacos-de-ferreira"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-28",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "fc-pacos-de-ferreira",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-pacos-de-ferreira",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "0:1",
+              "note": "Played at Estádio D. Afonso Henriques, Guimarães (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-lahti"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "club-brugge-kv",
+              "away": "fc-lahti",
+              "score": "3:2"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-lahti",
+              "away": "club-brugge-kv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "bsc-young-boys"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "athletic-bilbao",
+              "away": "bsc-young-boys",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "bsc-young-boys",
+              "away": "athletic-bilbao",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "kr-reykjavik",
+              "away": "fc-basel",
+              "score": "2:2"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fc-basel",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-netanya-fc",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "maccabi-netanya-fc",
+              "away": "galatasaray-sk",
+              "score": "1:4",
+              "note": "Played at Bloomfield Stadium, Tel Aviv"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "galatasaray-sk",
+              "away": "maccabi-netanya-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fc-dinamo-tbilisi",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "red-star-belgrade",
+              "away": "fc-dinamo-tbilisi",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "polonia-warsaw",
+            "nac-breda"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "polonia-warsaw",
+              "away": "nac-breda",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "nac-breda",
+              "away": "polonia-warsaw",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vetra",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-07-30",
+              "home": "fk-vetra",
+              "away": "fulham-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2009-08-06",
+              "home": "fulham-fc",
+              "away": "fk-vetra",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "paok-fc",
+            "sc-heerenveen"
+          ],
+          "winner": "sc-heerenveen",
+          "note": "Heerenveen won on away goals",
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "paok-fc",
+              "away": "sc-heerenveen",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "sc-heerenveen",
+              "away": "paok-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "heart-of-midlothian-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "heart-of-midlothian-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "fc-aktobe"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sv-werder-bremen",
+              "away": "fc-aktobe",
+              "score": "6:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-aktobe",
+              "away": "sv-werder-bremen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "sk-sigma-olomouc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "everton-fc",
+              "away": "sk-sigma-olomouc",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "sk-sigma-olomouc",
+              "away": "everton-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-bate-borisov",
+              "away": "fc-lovech",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-lovech",
+              "away": "fc-bate-borisov",
+              "score": "0:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nac-breda",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "nac-breda",
+              "away": "villarreal-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "villarreal-cf",
+              "away": "nac-breda",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "lech-poznan",
+              "away": "club-brugge-kv",
+              "score": "1:0",
+              "note": "Played at Stadion Amica, Wronki (Stadion Miejski in Poznań was being renovated)"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "club-brugge-kv",
+              "away": "lech-poznan",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Club Brugge KV won 4:3 on penalties"
+            }
+          ],
+          "winner": "club-brugge-kv"
+        },
+        {
+          "clubs": [
+            "fulham-fc",
+            "fc-amkar-perm"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fulham-fc",
+              "away": "fc-amkar-perm",
+              "score": "3:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-amkar-perm",
+              "away": "fulham-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "galatasaray-sk",
+              "away": "fci-levadia-tallinn",
+              "score": "5:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fci-levadia-tallinn",
+              "away": "galatasaray-sk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-teplice",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fk-teplice",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fk-teplice",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-donetsk",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-metalurh-donetsk",
+              "away": "fk-austria-wien",
+              "score": "2:2"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fk-austria-wien",
+              "away": "fc-metalurh-donetsk",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-twente",
+              "away": "qarabag-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "qarabag-fk",
+              "away": "fc-twente",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-vss-kosice",
+              "away": "as-roma",
+              "score": "3:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "as-roma",
+              "away": "fc-vss-kosice",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dynamo-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-dynamo-moscow",
+              "away": "pfc-cska-sofia",
+              "score": "1:2",
+              "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "krc-genk",
+              "away": "lille-osc",
+              "score": "1:2"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "lille-osc",
+              "away": "krc-genk",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bnei-yehuda-tel-aviv-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "psv-eindhoven",
+              "score": "0:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "psv-eindhoven",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "ss-lazio",
+              "away": "if-elfsborg",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "if-elfsborg",
+              "away": "ss-lazio",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "toulouse-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "trabzonspor",
+              "away": "toulouse-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "toulouse-fc",
+              "away": "trabzonspor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fk-partizan",
+              "away": "msk-zilina",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "msk-zilina",
+              "away": "fk-partizan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-baku",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-baku",
+              "away": "fc-basel",
+              "score": "1:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-basel",
+              "away": "fc-baku",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "afc-ajax",
+              "away": "sk-slovan-bratislava",
+              "score": "5:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "sk-slovan-bratislava",
+              "away": "afc-ajax",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sivasspor",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sivasspor",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:3"
+            },
+            {
+              "date": "2009-08-25",
+              "home": "fc-shakhtar-donetsk",
+              "away": "sivasspor",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "brondby-if",
+              "away": "hertha-bsc",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "hertha-bsc",
+              "away": "brondby-if",
+              "score": "3:1",
+              "note": "Played at Friedrich Ludwig Jahn Sportpark, Berlin (the Olympiastadion was hosting the 2009 World Athletics Championships)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "athletic-bilbao",
+              "away": "tromso-il",
+              "score": "3:2"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "tromso-il",
+              "away": "athletic-bilbao",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fk-sarajevo",
+              "away": "cfr-cluj",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "cfr-cluj",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "aston-villa-fc"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sk-rapid-wien",
+              "away": "aston-villa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "aston-villa-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fcsb",
+              "away": "st-patricks-athletic-fc",
+              "score": "3:0",
+              "note": "Played behind closed doors (UEFA punishment for offensive banners by Steaua fans against Újpest)"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "st-patricks-athletic-fc",
+              "away": "fcsb",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "nk-maribor",
+              "away": "ac-sparta-prague",
+              "score": "0:2"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "ac-sparta-prague",
+              "away": "nk-maribor",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-nacional",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "cd-nacional",
+              "away": "fc-zenit",
+              "score": "4:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-zenit",
+              "away": "cd-nacional",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genoa-cfc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "genoa-cfc",
+              "away": "odense-boldklub",
+              "score": "3:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "odense-boldklub",
+              "away": "genoa-cfc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-slovan-liberec",
+              "score": "0:3",
+              "note": "Awarded 0:3 to Slovan Liberec: the match was abandoned at 0:2 in the 88th minute after a Dinamo fan entered the pitch"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-slovan-liberec",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:3",
+              "extra_time": true,
+              "note": "FC Dinamo București won 9:8 on penalties"
+            }
+          ],
+          "winner": "fc-dinamo-bucuresti"
+        },
+        {
+          "clubs": [
+            "en-avant-guingamp",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "en-avant-guingamp",
+              "away": "hamburger-sv",
+              "score": "1:5"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "hamburger-sv",
+              "away": "en-avant-guingamp",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-sion",
+              "away": "fenerbahce-sk",
+              "score": "0:2",
+              "note": "Played at Stade de Genève, Geneva (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fenerbahce-sk",
+              "away": "fc-sion",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "fc-metalist-kharkiv"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sk-sturm-graz",
+              "away": "fc-metalist-kharkiv",
+              "score": "1:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-metalist-kharkiv",
+              "away": "sk-sturm-graz",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sk-slavia-prague",
+              "away": "red-star-belgrade",
+              "score": "3:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "red-star-belgrade",
+              "away": "sk-slavia-prague",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-vorskla-poltava"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "sl-benfica",
+              "away": "fc-vorskla-poltava",
+              "score": "4:0"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "fc-vorskla-poltava",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaslui",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "fc-vaslui",
+              "away": "aek-athens-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "aek-athens-fc",
+              "away": "fc-vaslui",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stabaek-fotball",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2009-08-20",
+              "home": "stabaek-fotball",
+              "away": "valencia-cf",
+              "score": "0:3"
+            },
+            {
+              "date": "2009-08-27",
+              "home": "valencia-cf",
+              "away": "stabaek-fotball",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2009-09-17",
+          "home": "afc-ajax",
+          "away": "fc-politehnica-timisoara",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "gnk-dinamo-zagreb",
+          "away": "rsc-anderlecht",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "rsc-anderlecht",
+          "away": "afc-ajax",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-politehnica-timisoara",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fc-politehnica-timisoara",
+          "away": "rsc-anderlecht",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "afc-ajax",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "rsc-anderlecht",
+          "away": "fc-politehnica-timisoara",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "gnk-dinamo-zagreb",
+          "away": "afc-ajax",
+          "score": "0:2",
+          "group": "A",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by Dinamo fans)"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "fc-politehnica-timisoara",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "rsc-anderlecht",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "afc-ajax",
+          "away": "rsc-anderlecht",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-politehnica-timisoara",
+          "score": "1:2",
+          "group": "A",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by Dinamo fans)"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "lille-osc",
+          "away": "valencia-cf",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "genoa-cfc",
+          "away": "sk-slavia-prague",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "sk-slavia-prague",
+          "away": "lille-osc",
+          "score": "1:5",
+          "group": "B"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "valencia-cf",
+          "away": "genoa-cfc",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "valencia-cf",
+          "away": "sk-slavia-prague",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "lille-osc",
+          "away": "genoa-cfc",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sk-slavia-prague",
+          "away": "valencia-cf",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "genoa-cfc",
+          "away": "lille-osc",
+          "score": "3:2",
+          "group": "B"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "valencia-cf",
+          "away": "lille-osc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "sk-slavia-prague",
+          "away": "genoa-cfc",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "lille-osc",
+          "away": "sk-slavia-prague",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "genoa-cfc",
+          "away": "valencia-cf",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "celtic-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "sk-rapid-wien",
+          "away": "hamburger-sv",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "hamburger-sv",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "4:2",
+          "group": "C"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "celtic-fc",
+          "away": "sk-rapid-wien",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "celtic-fc",
+          "away": "hamburger-sv",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "sk-rapid-wien",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "hamburger-sv",
+          "away": "celtic-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sk-rapid-wien",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "celtic-fc",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "hamburger-sv",
+          "away": "sk-rapid-wien",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "hamburger-sv",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "sk-rapid-wien",
+          "away": "celtic-fc",
+          "score": "3:3",
+          "group": "C"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "hertha-bsc",
+          "away": "fk-ventspils",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "sc-heerenveen",
+          "away": "sporting-cp",
+          "score": "2:3",
+          "group": "D"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "sporting-cp",
+          "away": "hertha-bsc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fk-ventspils",
+          "away": "sc-heerenveen",
+          "score": "0:0",
+          "group": "D",
+          "note": "Played at Skonto Stadium, Riga (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fk-ventspils",
+          "away": "sporting-cp",
+          "score": "1:2",
+          "group": "D",
+          "note": "Played at Skonto Stadium, Riga (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "hertha-bsc",
+          "away": "sc-heerenveen",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sporting-cp",
+          "away": "fk-ventspils",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sc-heerenveen",
+          "away": "hertha-bsc",
+          "score": "2:3",
+          "group": "D"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fk-ventspils",
+          "away": "hertha-bsc",
+          "score": "0:1",
+          "group": "D",
+          "note": "Played at Skonto Stadium, Riga (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "sporting-cp",
+          "away": "sc-heerenveen",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "hertha-bsc",
+          "away": "sporting-cp",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "sc-heerenveen",
+          "away": "fk-ventspils",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "pfc-cska-sofia",
+          "away": "fulham-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "fc-basel",
+          "away": "as-roma",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "as-roma",
+          "away": "pfc-cska-sofia",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fulham-fc",
+          "away": "fc-basel",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fulham-fc",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "pfc-cska-sofia",
+          "away": "fc-basel",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "as-roma",
+          "away": "fulham-fc",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fc-basel",
+          "away": "pfc-cska-sofia",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fulham-fc",
+          "away": "pfc-cska-sofia",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "as-roma",
+          "away": "fc-basel",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "pfc-cska-sofia",
+          "away": "as-roma",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "fc-basel",
+          "away": "fulham-fc",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "panathinaikos-fc",
+          "away": "galatasaray-sk",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "sk-sturm-graz",
+          "away": "fc-dinamo-bucuresti",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-dinamo-bucuresti",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "F",
+          "note": "Played behind closed doors (UEFA punishment for the pitch invasion against Slovan Liberec)"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "galatasaray-sk",
+          "away": "sk-sturm-graz",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "galatasaray-sk",
+          "away": "fc-dinamo-bucuresti",
+          "score": "4:1",
+          "group": "F"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "panathinaikos-fc",
+          "away": "sk-sturm-graz",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fc-dinamo-bucuresti",
+          "away": "galatasaray-sk",
+          "score": "0:3",
+          "group": "F",
+          "note": "Played behind closed doors (UEFA punishment for the pitch invasion against Slovan Liberec)"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sk-sturm-graz",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "galatasaray-sk",
+          "away": "panathinaikos-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fc-dinamo-bucuresti",
+          "away": "sk-sturm-graz",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "panathinaikos-fc",
+          "away": "fc-dinamo-bucuresti",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "sk-sturm-graz",
+          "away": "galatasaray-sk",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "ss-lazio",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "villarreal-cf",
+          "away": "pfc-levski-sofia",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "pfc-levski-sofia",
+          "away": "ss-lazio",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-red-bull-salzburg",
+          "away": "villarreal-cf",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fc-red-bull-salzburg",
+          "away": "pfc-levski-sofia",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "ss-lazio",
+          "away": "villarreal-cf",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "pfc-levski-sofia",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "villarreal-cf",
+          "away": "ss-lazio",
+          "score": "4:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "fc-red-bull-salzburg",
+          "away": "ss-lazio",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "pfc-levski-sofia",
+          "away": "villarreal-cf",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "ss-lazio",
+          "away": "pfc-levski-sofia",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "villarreal-cf",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "fcsb",
+          "away": "fc-sheriff-tiraspol",
+          "score": "0:0",
+          "group": "H",
+          "note": "Played behind closed doors (UEFA punishment for offensive banners by Steaua fans against Újpest)"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "fenerbahce-sk",
+          "away": "fc-twente",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-twente",
+          "away": "fcsb",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fenerbahce-sk",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-twente",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fcsb",
+          "away": "fenerbahce-sk",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fc-twente",
+          "away": "fc-sheriff-tiraspol",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fenerbahce-sk",
+          "away": "fcsb",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fcsb",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "fc-twente",
+          "away": "fenerbahce-sk",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "fcsb",
+          "away": "fc-twente",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "fenerbahce-sk",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "sl-benfica",
+          "away": "fc-bate-borisov",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "everton-fc",
+          "away": "aek-athens-fc",
+          "score": "4:0",
+          "group": "I"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "aek-athens-fc",
+          "away": "sl-benfica",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-bate-borisov",
+          "away": "everton-fc",
+          "score": "1:2",
+          "group": "I",
+          "note": "Played at Dinamo Stadium, Minsk (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fc-bate-borisov",
+          "away": "aek-athens-fc",
+          "score": "2:1",
+          "group": "I",
+          "note": "Played at Dinamo Stadium, Minsk (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "sl-benfica",
+          "away": "everton-fc",
+          "score": "5:0",
+          "group": "I"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "aek-athens-fc",
+          "away": "fc-bate-borisov",
+          "score": "2:2",
+          "group": "I"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "everton-fc",
+          "away": "sl-benfica",
+          "score": "0:2",
+          "group": "I"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "fc-bate-borisov",
+          "away": "sl-benfica",
+          "score": "1:2",
+          "group": "I",
+          "note": "Played at Dinamo Stadium, Minsk (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2009-12-02",
+          "home": "aek-athens-fc",
+          "away": "everton-fc",
+          "score": "0:1",
+          "group": "I"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "sl-benfica",
+          "away": "aek-athens-fc",
+          "score": "2:1",
+          "group": "I"
+        },
+        {
+          "date": "2009-12-17",
+          "home": "everton-fc",
+          "away": "fc-bate-borisov",
+          "score": "0:1",
+          "group": "I"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "club-brugge-kv",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:4",
+          "group": "J"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "fk-partizan",
+          "away": "toulouse-fc",
+          "score": "2:3",
+          "group": "J"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "toulouse-fc",
+          "away": "club-brugge-kv",
+          "score": "2:2",
+          "group": "J"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-shakhtar-donetsk",
+          "away": "fk-partizan",
+          "score": "4:1",
+          "group": "J"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fc-shakhtar-donetsk",
+          "away": "toulouse-fc",
+          "score": "4:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "club-brugge-kv",
+          "away": "fk-partizan",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "toulouse-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:2",
+          "group": "J"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fk-partizan",
+          "away": "club-brugge-kv",
+          "score": "2:4",
+          "group": "J"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fc-shakhtar-donetsk",
+          "away": "club-brugge-kv",
+          "score": "0:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "toulouse-fc",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "club-brugge-kv",
+          "away": "toulouse-fc",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "fk-partizan",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "ac-sparta-prague",
+          "away": "psv-eindhoven",
+          "score": "2:2",
+          "group": "K"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "cfr-cluj",
+          "away": "fc-copenhagen",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fc-copenhagen",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "psv-eindhoven",
+          "away": "cfr-cluj",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "psv-eindhoven",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "ac-sparta-prague",
+          "away": "cfr-cluj",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "fc-copenhagen",
+          "away": "psv-eindhoven",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "cfr-cluj",
+          "away": "ac-sparta-prague",
+          "score": "2:3",
+          "group": "K"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "psv-eindhoven",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fc-copenhagen",
+          "away": "cfr-cluj",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "ac-sparta-prague",
+          "away": "fc-copenhagen",
+          "score": "0:3",
+          "group": "K"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "cfr-cluj",
+          "away": "psv-eindhoven",
+          "score": "0:2",
+          "group": "K"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "athletic-bilbao",
+          "away": "fk-austria-wien",
+          "score": "3:0",
+          "group": "L"
+        },
+        {
+          "date": "2009-09-17",
+          "home": "cd-nacional",
+          "away": "sv-werder-bremen",
+          "score": "2:3",
+          "group": "L"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "sv-werder-bremen",
+          "away": "athletic-bilbao",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2009-10-01",
+          "home": "fk-austria-wien",
+          "away": "cd-nacional",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "fk-austria-wien",
+          "away": "sv-werder-bremen",
+          "score": "2:2",
+          "group": "L"
+        },
+        {
+          "date": "2009-10-22",
+          "home": "athletic-bilbao",
+          "away": "cd-nacional",
+          "score": "2:1",
+          "group": "L"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "sv-werder-bremen",
+          "away": "fk-austria-wien",
+          "score": "2:0",
+          "group": "L"
+        },
+        {
+          "date": "2009-11-05",
+          "home": "cd-nacional",
+          "away": "athletic-bilbao",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "fk-austria-wien",
+          "away": "athletic-bilbao",
+          "score": "0:3",
+          "group": "L"
+        },
+        {
+          "date": "2009-12-03",
+          "home": "sv-werder-bremen",
+          "away": "cd-nacional",
+          "score": "4:1",
+          "group": "L"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "athletic-bilbao",
+          "away": "sv-werder-bremen",
+          "score": "0:3",
+          "group": "L"
+        },
+        {
+          "date": "2009-12-16",
+          "home": "cd-nacional",
+          "away": "fk-austria-wien",
+          "score": "5:1",
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "fc-rubin-kazan",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "fc-rubin-kazan",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-rubin-kazan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "athletic-bilbao",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "rsc-anderlecht",
+              "away": "athletic-bilbao",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "fc-copenhagen",
+              "away": "olympique-de-marseille",
+              "score": "1:3"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "olympique-de-marseille",
+              "away": "fc-copenhagen",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "panathinaikos-fc",
+              "away": "as-roma",
+              "score": "3:2"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "as-roma",
+              "away": "panathinaikos-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "atletico-madrid",
+              "away": "galatasaray-sk",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "galatasaray-sk",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "afc-ajax",
+              "away": "juventus-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "juventus-fc",
+              "away": "afc-ajax",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "club-brugge-kv",
+              "away": "valencia-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "valencia-cf",
+              "away": "club-brugge-kv",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fulham-fc",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "fulham-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fulham-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-unirea-urziceni"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "liverpool-fc",
+              "away": "fc-unirea-urziceni",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "fc-unirea-urziceni",
+              "away": "liverpool-fc",
+              "score": "1:3",
+              "note": "Played at Stadionul Steaua, Bucharest (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "psv-eindhoven"
+          ],
+          "winner": "hamburger-sv",
+          "note": "Hamburger SV won on away goals",
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "hamburger-sv",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "psv-eindhoven",
+              "away": "hamburger-sv",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "vfl-wolfsburg"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "villarreal-cf",
+              "away": "vfl-wolfsburg",
+              "score": "2:2"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "vfl-wolfsburg",
+              "away": "villarreal-cf",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "r-standard-liege",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:2"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "fc-red-bull-salzburg",
+              "away": "r-standard-liege",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "fc-twente",
+              "away": "sv-werder-bremen",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "sv-werder-bremen",
+              "away": "fc-twente",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lille-osc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "lille-osc",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "fenerbahce-sk",
+              "away": "lille-osc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-16",
+              "home": "everton-fc",
+              "away": "sporting-cp",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-02-25",
+              "home": "sporting-cp",
+              "away": "everton-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2010-02-18",
+              "home": "hertha-bsc",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-02-23",
+              "home": "sl-benfica",
+              "away": "hertha-bsc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "hamburger-sv",
+              "away": "rsc-anderlecht",
+              "score": "3:1"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "rsc-anderlecht",
+              "away": "hamburger-sv",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rubin-kazan",
+            "vfl-wolfsburg"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "fc-rubin-kazan",
+              "away": "vfl-wolfsburg",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "vfl-wolfsburg",
+              "away": "fc-rubin-kazan",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "sporting-cp"
+          ],
+          "winner": "atletico-madrid",
+          "note": "Atlético Madrid won on away goals",
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "atletico-madrid",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "sporting-cp",
+              "away": "atletico-madrid",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "sl-benfica",
+              "away": "olympique-de-marseille",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "olympique-de-marseille",
+              "away": "sl-benfica",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "panathinaikos-fc",
+              "away": "r-standard-liege",
+              "score": "1:3"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "r-standard-liege",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lille-osc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "lille-osc",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "liverpool-fc",
+              "away": "lille-osc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "juventus-fc",
+              "away": "fulham-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "fulham-fc",
+              "away": "juventus-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "sv-werder-bremen"
+          ],
+          "winner": "valencia-cf",
+          "note": "Valencia won on away goals",
+          "matches": [
+            {
+              "date": "2010-03-11",
+              "home": "valencia-cf",
+              "away": "sv-werder-bremen",
+              "score": "1:1"
+            },
+            {
+              "date": "2010-03-18",
+              "home": "sv-werder-bremen",
+              "away": "valencia-cf",
+              "score": "4:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fulham-fc",
+            "vfl-wolfsburg"
+          ],
+          "matches": [
+            {
+              "date": "2010-04-01",
+              "home": "fulham-fc",
+              "away": "vfl-wolfsburg",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-04-08",
+              "home": "vfl-wolfsburg",
+              "away": "fulham-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2010-04-01",
+              "home": "hamburger-sv",
+              "away": "r-standard-liege",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-04-08",
+              "home": "r-standard-liege",
+              "away": "hamburger-sv",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "atletico-madrid"
+          ],
+          "winner": "atletico-madrid",
+          "note": "Atlético Madrid won on away goals",
+          "matches": [
+            {
+              "date": "2010-04-01",
+              "home": "valencia-cf",
+              "away": "atletico-madrid",
+              "score": "2:2"
+            },
+            {
+              "date": "2010-04-08",
+              "home": "atletico-madrid",
+              "away": "valencia-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-04-01",
+              "home": "sl-benfica",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2010-04-08",
+              "home": "liverpool-fc",
+              "away": "sl-benfica",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-04-22",
+              "home": "hamburger-sv",
+              "away": "fulham-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2010-04-29",
+              "home": "fulham-fc",
+              "away": "hamburger-sv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "liverpool-fc"
+          ],
+          "winner": "atletico-madrid",
+          "note": "Atlético Madrid won on away goals",
+          "matches": [
+            {
+              "date": "2010-04-22",
+              "home": "atletico-madrid",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2010-04-29",
+              "home": "liverpool-fc",
+              "away": "atletico-madrid",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2010-05-12",
+              "home": "atletico-madrid",
+              "away": "fulham-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Volksparkstadion, Hamburg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

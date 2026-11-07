@@ -49,12 +49,18 @@ class EuroTie extends Model
     }
 
     /**
-     * Number of regular legs: one for the final, two otherwise.
-     * A later match is a play-off / replay and is not part of the aggregate.
+     * Number of regular legs: two, except a final played as one match at a neutral venue
+     * (European Cup / Champions League, UEFA Cup from 1998). Two-legged finals (UEFA Cup
+     * until 1997) are played home and away. A later match is a play-off / replay
+     * and is not part of the aggregate.
      */
     public function regularLegs(): int
     {
-        return $this->stage === EuroStage::FINAL ? 1 : 2;
+        if ($this->stage !== EuroStage::FINAL) {
+            return 2;
+        }
+
+        return $this->matches->first()?->neutral === false ? 2 : 1;
     }
 
     /**

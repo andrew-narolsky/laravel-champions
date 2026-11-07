@@ -1,0 +1,1551 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2021-22",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "ac-omonia",
+              "away": "fc-flora",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "fc-flora",
+              "away": "ac-omonia",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "AC Omonia won 5:4 on penalties"
+            }
+          ],
+          "winner": "ac-omonia"
+        },
+        {
+          "clubs": [
+            "ns-mura",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "ns-mura",
+              "away": "fk-zalgiris",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fk-zalgiris",
+              "away": "ns-mura",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-kairat",
+              "away": "fc-alashkert",
+              "score": "0:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-alashkert",
+              "away": "fc-kairat",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "lincoln-red-imps-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:3"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "sk-slovan-bratislava",
+              "away": "lincoln-red-imps-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "neftci-pfk",
+              "away": "hjk-helsinki",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hjk-helsinki",
+              "away": "neftci-pfk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fk-jablonec",
+              "away": "celtic-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "celtic-fc",
+              "away": "fk-jablonec",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "sk-rapid-wien",
+              "away": "anorthosis-famagusta-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "anorthosis-famagusta-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "galatasaray-sk",
+              "away": "st-johnstone-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "st-johnstone-fc",
+              "away": "galatasaray-sk",
+              "score": "2:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "randers-sportsklub-freja",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "randers-sportsklub-freja",
+              "away": "galatasaray-sk",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "galatasaray-sk",
+              "away": "randers-sportsklub-freja",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-zorya-luhansk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "sk-rapid-wien",
+              "away": "fc-zorya-luhansk",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fc-zorya-luhansk",
+              "away": "sk-rapid-wien",
+              "score": "2:3",
+              "note": "Played at Slavutych-Arena, Zaporizhzhia (clubs from the Donbas could not play at home because of the war)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-18",
+              "home": "celtic-fc",
+              "away": "az-alkmaar",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "az-alkmaar",
+              "away": "celtic-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fenerbahce-sk",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "hjk-helsinki",
+              "away": "fenerbahce-sk",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ns-mura",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "ns-mura",
+              "away": "sk-sturm-graz",
+              "score": "1:3"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "sk-sturm-graz",
+              "away": "ns-mura",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "ac-omonia",
+              "away": "r-antwerp-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "r-antwerp-fc",
+              "away": "ac-omonia",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "R Antwerp FC won 3:2 on penalties"
+            }
+          ],
+          "winner": "r-antwerp-fc"
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "olympiacos-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "sk-slovan-bratislava",
+              "away": "olympiacos-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "rangers-fc",
+              "away": "fc-alashkert",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fc-alashkert",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "sk-slavia-prague",
+              "away": "legia-warsaw",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "legia-warsaw",
+              "away": "sk-slavia-prague",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-17",
+              "home": "red-star-belgrade",
+              "away": "cfr-cluj",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "cfr-cluj",
+              "away": "red-star-belgrade",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2021-09-16",
+          "home": "rangers-fc",
+          "away": "olympique-lyonnais",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "brondby-if",
+          "away": "ac-sparta-prague",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "olympique-lyonnais",
+          "away": "brondby-if",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "ac-sparta-prague",
+          "away": "rangers-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "ac-sparta-prague",
+          "away": "olympique-lyonnais",
+          "score": "3:4",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "rangers-fc",
+          "away": "brondby-if",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "olympique-lyonnais",
+          "away": "ac-sparta-prague",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "brondby-if",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "rangers-fc",
+          "away": "ac-sparta-prague",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "brondby-if",
+          "away": "olympique-lyonnais",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "olympique-lyonnais",
+          "away": "rangers-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "ac-sparta-prague",
+          "away": "brondby-if",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "psv-eindhoven",
+          "away": "real-sociedad",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "as-monaco-fc",
+          "away": "sk-sturm-graz",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "real-sociedad",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "sk-sturm-graz",
+          "away": "psv-eindhoven",
+          "score": "1:4",
+          "group": "B"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "sk-sturm-graz",
+          "away": "real-sociedad",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "psv-eindhoven",
+          "away": "as-monaco-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "as-monaco-fc",
+          "away": "psv-eindhoven",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "real-sociedad",
+          "away": "sk-sturm-graz",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "as-monaco-fc",
+          "away": "real-sociedad",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "psv-eindhoven",
+          "away": "sk-sturm-graz",
+          "score": "2:0",
+          "group": "B",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "real-sociedad",
+          "away": "psv-eindhoven",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "sk-sturm-graz",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "B",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-09-15",
+          "home": "fc-spartak-moscow",
+          "away": "legia-warsaw",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "leicester-city-fc",
+          "away": "ssc-napoli",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "ssc-napoli",
+          "away": "fc-spartak-moscow",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "legia-warsaw",
+          "away": "leicester-city-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-20",
+          "home": "fc-spartak-moscow",
+          "away": "leicester-city-fc",
+          "score": "3:4",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "ssc-napoli",
+          "away": "legia-warsaw",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "legia-warsaw",
+          "away": "ssc-napoli",
+          "score": "1:4",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "leicester-city-fc",
+          "away": "fc-spartak-moscow",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-24",
+          "home": "fc-spartak-moscow",
+          "away": "ssc-napoli",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "leicester-city-fc",
+          "away": "legia-warsaw",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "ssc-napoli",
+          "away": "leicester-city-fc",
+          "score": "3:2",
+          "group": "C"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "legia-warsaw",
+          "away": "fc-spartak-moscow",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "eintracht-frankfurt",
+          "away": "fenerbahce-sk",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "olympiacos-fc",
+          "away": "r-antwerp-fc",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "r-antwerp-fc",
+          "away": "eintracht-frankfurt",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fenerbahce-sk",
+          "away": "olympiacos-fc",
+          "score": "0:3",
+          "group": "D"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fenerbahce-sk",
+          "away": "r-antwerp-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "eintracht-frankfurt",
+          "away": "olympiacos-fc",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "olympiacos-fc",
+          "away": "eintracht-frankfurt",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "r-antwerp-fc",
+          "away": "fenerbahce-sk",
+          "score": "0:3",
+          "group": "D",
+          "note": "Played behind closed doors"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "eintracht-frankfurt",
+          "away": "r-antwerp-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "olympiacos-fc",
+          "away": "fenerbahce-sk",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fenerbahce-sk",
+          "away": "eintracht-frankfurt",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "r-antwerp-fc",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fc-lokomotiv-moscow",
+          "away": "olympique-de-marseille",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "galatasaray-sk",
+          "away": "ss-lazio",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "ss-lazio",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "olympique-de-marseille",
+          "away": "galatasaray-sk",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "ss-lazio",
+          "away": "olympique-de-marseille",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fc-lokomotiv-moscow",
+          "away": "galatasaray-sk",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "galatasaray-sk",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "olympique-de-marseille",
+          "away": "ss-lazio",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "galatasaray-sk",
+          "away": "olympique-de-marseille",
+          "score": "4:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fc-lokomotiv-moscow",
+          "away": "ss-lazio",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "ss-lazio",
+          "away": "galatasaray-sk",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "olympique-de-marseille",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fc-midtjylland",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "red-star-belgrade",
+          "away": "sc-braga",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "red-star-belgrade",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "sc-braga",
+          "away": "fc-midtjylland",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "sc-braga",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fc-midtjylland",
+          "away": "red-star-belgrade",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "sc-braga",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "4:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "red-star-belgrade",
+          "away": "fc-midtjylland",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fc-midtjylland",
+          "away": "sc-braga",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "red-star-belgrade",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "fc-midtjylland",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "sc-braga",
+          "away": "red-star-belgrade",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "bayer-04-leverkusen",
+          "away": "ferencvarosi-tc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "real-betis",
+          "away": "celtic-fc",
+          "score": "4:3",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "celtic-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "ferencvarosi-tc",
+          "away": "real-betis",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2021-10-19",
+          "home": "celtic-fc",
+          "away": "ferencvarosi-tc",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "real-betis",
+          "away": "bayer-04-leverkusen",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "bayer-04-leverkusen",
+          "away": "real-betis",
+          "score": "4:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "ferencvarosi-tc",
+          "away": "celtic-fc",
+          "score": "2:3",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "bayer-04-leverkusen",
+          "away": "celtic-fc",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "real-betis",
+          "away": "ferencvarosi-tc",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "celtic-fc",
+          "away": "real-betis",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "ferencvarosi-tc",
+          "away": "bayer-04-leverkusen",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "gnk-dinamo-zagreb",
+          "away": "west-ham-united-fc",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "sk-rapid-wien",
+          "away": "krc-genk",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "krc-genk",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "west-ham-united-fc",
+          "away": "sk-rapid-wien",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "sk-rapid-wien",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "west-ham-united-fc",
+          "away": "krc-genk",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "krc-genk",
+          "away": "west-ham-united-fc",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "gnk-dinamo-zagreb",
+          "away": "sk-rapid-wien",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "gnk-dinamo-zagreb",
+          "away": "krc-genk",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "sk-rapid-wien",
+          "away": "west-ham-united-fc",
+          "score": "0:2",
+          "group": "H",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "krc-genk",
+          "away": "sk-rapid-wien",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "west-ham-united-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "sevilla-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "sevilla-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "atalanta-bc",
+              "away": "olympiacos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "olympiacos-fc",
+              "away": "atalanta-bc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "rb-leipzig",
+              "away": "real-sociedad",
+              "score": "2:2"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "real-sociedad",
+              "away": "rb-leipzig",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fc-barcelona",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "ssc-napoli",
+              "away": "fc-barcelona",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fc-zenit",
+              "away": "real-betis",
+              "score": "2:3"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "real-betis",
+              "away": "fc-zenit",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "borussia-dortmund",
+              "away": "rangers-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "rangers-fc",
+              "away": "borussia-dortmund",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fc-sheriff-tiraspol",
+              "away": "sc-braga",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "sc-braga",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "SC Braga won 3:2 on penalties"
+            }
+          ],
+          "winner": "sc-braga"
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fc-porto",
+              "away": "ss-lazio",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "ss-lazio",
+              "away": "fc-porto",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "rangers-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "rangers-fc",
+              "away": "red-star-belgrade",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "red-star-belgrade",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "sc-braga",
+              "away": "as-monaco-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "as-monaco-fc",
+              "away": "sc-braga",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-09",
+              "home": "fc-porto",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "olympique-lyonnais",
+              "away": "fc-porto",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "atalanta-bc",
+              "away": "bayer-04-leverkusen",
+              "score": "3:2"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "bayer-04-leverkusen",
+              "away": "atalanta-bc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "west-ham-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "sevilla-fc",
+              "away": "west-ham-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "west-ham-united-fc",
+              "away": "sevilla-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "fc-barcelona",
+              "away": "galatasaray-sk",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "galatasaray-sk",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "fc-spartak-moscow"
+          ],
+          "winner": "rb-leipzig",
+          "note": "Walkover: UEFA suspended Spartak Moscow because of the Russian invasion of Ukraine",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-09",
+              "home": "real-betis",
+              "away": "eintracht-frankfurt",
+              "score": "1:2"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "eintracht-frankfurt",
+              "away": "real-betis",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "rb-leipzig",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "rb-leipzig",
+              "away": "atalanta-bc",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "atalanta-bc",
+              "away": "rb-leipzig",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "eintracht-frankfurt",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "fc-barcelona",
+              "away": "eintracht-frankfurt",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "west-ham-united-fc",
+              "away": "olympique-lyonnais",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "olympique-lyonnais",
+              "away": "west-ham-united-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "sc-braga",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "rangers-fc",
+              "away": "sc-braga",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "rb-leipzig",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-28",
+              "home": "rb-leipzig",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-05-05",
+              "home": "rangers-fc",
+              "away": "rb-leipzig",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-28",
+              "home": "west-ham-united-fc",
+              "away": "eintracht-frankfurt",
+              "score": "1:2"
+            },
+            {
+              "date": "2022-05-05",
+              "home": "eintracht-frankfurt",
+              "away": "west-ham-united-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-05-18",
+              "home": "eintracht-frankfurt",
+              "away": "rangers-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Estadio Ramón Sánchez Pizjuán, Seville; Eintracht Frankfurt won 5:4 on penalties"
+            }
+          ],
+          "winner": "eintracht-frankfurt"
+        }
+      ]
+    }
+  ]
+}

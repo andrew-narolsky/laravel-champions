@@ -1,0 +1,2983 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2003-04",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "aik-fotboll",
+            "fylkir"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "aik-fotboll",
+              "away": "fylkir",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fylkir",
+              "away": "aik-fotboll",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "dundee-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "kf-vllaznia",
+              "away": "dundee-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "dundee-fc",
+              "away": "kf-vllaznia",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "nk-varazdin"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fci-levadia-tallinn",
+              "away": "nk-varazdin",
+              "score": "1:3"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "nk-varazdin",
+              "away": "fci-levadia-tallinn",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "esbjerg-fb",
+              "away": "fc-santa-coloma",
+              "score": "5:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-santa-coloma",
+              "away": "esbjerg-fb",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "fc-urartu"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-urartu",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Het Kasteel, Rotterdam (Netherlands): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-urartu",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "brondby-if",
+              "away": "fc-dinamo-minsk",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-dinamo-minsk",
+              "away": "brondby-if",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "portadown-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "malmo-ff",
+              "away": "portadown-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "portadown-fc",
+              "away": "malmo-ff",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fk-liepajas-metalurgs"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fk-liepajas-metalurgs",
+              "score": "5:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fk-liepajas-metalurgs",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-12",
+              "home": "valletta-fc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "0:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "neuchatel-xamax-fcs",
+              "away": "valletta-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-karnten",
+            "grindavik"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-karnten",
+              "away": "grindavik",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "grindavik",
+              "away": "fc-karnten",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-viktoria-zizkov",
+            "fc-zhenis"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fk-viktoria-zizkov",
+              "away": "fc-zhenis",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-08-27",
+              "home": "fc-zhenis",
+              "away": "fk-viktoria-zizkov",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fk-smederevo-1924"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-12",
+              "home": "fk-sarajevo",
+              "away": "fk-smederevo-1924",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fk-smederevo-1924",
+              "away": "fk-sarajevo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "apoel-fc",
+              "away": "derry-city-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "derry-city-fc",
+              "away": "apoel-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "fc-zimbru-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-lovech",
+              "away": "fc-zimbru-chisinau",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-lovech",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-neman-grodno",
+            "fcsb"
+          ],
+          "winner": "fcsb",
+          "note": "Steaua București won on away goals",
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-neman-grodno",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fcsb",
+              "away": "fc-neman-grodno",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-etzella-ettelbruck",
+            "nk-kamen-ingrad"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-etzella-ettelbruck",
+              "away": "nk-kamen-ingrad",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "nk-kamen-ingrad",
+              "away": "fc-etzella-ettelbruck",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "manchester-city-fc",
+              "away": "the-new-saints-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "the-new-saints-fc",
+              "away": "manchester-city-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "molde-fk",
+              "away": "ki-klaksvik",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "ki-klaksvik",
+              "away": "molde-fk",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "fc-tvmk"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "odense-boldklub",
+              "away": "fc-tvmk",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-tvmk",
+              "away": "odense-boldklub",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "wisla-plock"
+          ],
+          "winner": "fk-ventspils",
+          "note": "Ventspils won on away goals",
+          "matches": [
+            {
+              "date": "2003-08-13",
+              "home": "fk-ventspils",
+              "away": "wisla-plock",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "wisla-plock",
+              "away": "fk-ventspils",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "mypa-myllykoski",
+              "away": "bsc-young-boys",
+              "score": "3:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "bsc-young-boys",
+              "away": "mypa-myllykoski",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-vaduz",
+              "away": "fc-dnipro",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-dnipro",
+              "away": "fc-vaduz",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "coleraine-fc",
+            "ud-leiria"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "coleraine-fc",
+              "away": "ud-leiria",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "ud-leiria",
+              "away": "coleraine-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dyskobolia-grodzisk-wielkopolski",
+            "fk-atlantas"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "fk-atlantas",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-08-27",
+              "home": "fk-atlantas",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-dinamo-city",
+              "away": "ksc-lokeren",
+              "score": "0:4"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "ksc-lokeren",
+              "away": "fc-dinamo-city",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cwmbran-town-afc",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "cwmbran-town-afc",
+              "away": "maccabi-haifa-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "maccabi-haifa-fc",
+              "away": "cwmbran-town-afc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at İzmir Alsancak Stadium, İzmir (Turkey): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "fk-belasica"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "nk-celje",
+              "away": "fk-belasica",
+              "score": "7:2"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fk-belasica",
+              "away": "nk-celje",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cementarnica-55",
+            "gks-katowice"
+          ],
+          "winner": "fk-cementarnica-55",
+          "note": "Cementarnica won on away goals",
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fk-cementarnica-55",
+              "away": "gks-katowice",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "gks-katowice",
+              "away": "fk-cementarnica-55",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-puchov",
+            "fc-sioni-bolnisi"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "msk-puchov",
+              "away": "fc-sioni-bolnisi",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-sioni-bolnisi",
+              "away": "msk-puchov",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-nistru-otaci"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "red-star-belgrade",
+              "away": "fc-nistru-otaci",
+              "score": "5:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-nistru-otaci",
+              "away": "red-star-belgrade",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fk-ekranas",
+              "away": "debreceni-vsc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "debreceni-vsc",
+              "away": "fk-ekranas",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "birkirkara-fc",
+              "away": "ferencvarosi-tc",
+              "score": "0:5"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "ferencvarosi-tc",
+              "away": "birkirkara-fc",
+              "score": "1:0",
+              "note": "Played behind closed doors"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "hnk-hajduk-split"
+          ],
+          "winner": "hnk-hajduk-split",
+          "note": "Hajduk Split won on away goals",
+          "matches": [
+            {
+              "date": "2003-08-12",
+              "home": "fc-haka",
+              "away": "hnk-hajduk-split",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "hnk-hajduk-split",
+              "away": "fc-haka",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "fc-domagnano"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-torpedo-moscow",
+              "away": "fc-domagnano",
+              "score": "5:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-domagnano",
+              "away": "fc-torpedo-moscow",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-atyrau",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-atyrau",
+              "away": "pfc-levski-sofia",
+              "score": "1:4"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "pfc-levski-sofia",
+              "away": "fc-atyrau",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "nk-olimpija",
+              "away": "shelbourne-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "shelbourne-fc",
+              "away": "nk-olimpija",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "fc-torpedo-kutaisi"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "rc-lens",
+              "away": "fc-torpedo-kutaisi",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-torpedo-kutaisi",
+              "away": "rc-lens",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nordsjaelland",
+            "fc-shirak"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-nordsjaelland",
+              "away": "fc-shirak",
+              "score": "4:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "fc-shirak",
+              "away": "fc-nordsjaelland",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "fc-petrzalka",
+              "away": "f91-dudelange",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "f91-dudelange",
+              "away": "fc-petrzalka",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nsi-runavik",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2003-08-14",
+              "home": "nsi-runavik",
+              "away": "lyn-fotball",
+              "score": "1:3"
+            },
+            {
+              "date": "2003-08-28",
+              "home": "lyn-fotball",
+              "away": "nsi-runavik",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aik-fotboll",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "aik-fotboll",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "valencia-cf",
+              "away": "aik-fotboll",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "nk-celje"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "maccabi-haifa-fc",
+              "away": "nk-celje",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at İzmir Alsancak Stadium, İzmir (Turkey): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "nk-celje",
+              "away": "maccabi-haifa-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-fc",
+            "ac-perugia-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "dundee-fc",
+              "away": "ac-perugia-calcio",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "ac-perugia-calcio",
+              "away": "dundee-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cementarnica-55",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fk-cementarnica-55",
+              "away": "rc-lens",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "rc-lens",
+              "away": "fk-cementarnica-55",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "nac-breda"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "newcastle-united-fc",
+              "away": "nac-breda",
+              "score": "5:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "nac-breda",
+              "away": "newcastle-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panionios-fc",
+            "fc-nordsjaelland"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "panionios-fc",
+              "away": "fc-nordsjaelland",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-nordsjaelland",
+              "away": "panionios-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "heart-of-midlothian-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "heart-of-midlothian-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genclerbirligi-sk",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "genclerbirligi-sk",
+              "away": "blackburn-rovers-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "blackburn-rovers-fc",
+              "away": "genclerbirligi-sk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-puchov",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "msk-puchov",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-barcelona",
+              "away": "msk-puchov",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "gnk-dinamo-zagreb",
+              "away": "mtk-budapest-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "mtk-budapest-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-ramat-gan-givatayim-fc",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "hapoel-ramat-gan-givatayim-fc",
+              "away": "pfc-levski-sofia",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Mestský Stadion, Dunajská Streda (Slovakia): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "pfc-levski-sofia",
+              "away": "hapoel-ramat-gan-givatayim-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-smederevo-1924",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fk-smederevo-1924",
+              "away": "sk-slavia-prague",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "sk-slavia-prague",
+              "away": "fk-smederevo-1924",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "villarreal-cf",
+              "away": "trabzonspor",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "trabzonspor",
+              "away": "villarreal-cf",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "hnk-hajduk-split"
+          ],
+          "winner": "hnk-hajduk-split",
+          "note": "Hajduk Split won on away goals",
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "grasshopper-club",
+              "away": "hnk-hajduk-split",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "hnk-hajduk-split",
+              "away": "grasshopper-club",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "dyskobolia-grodzisk-wielkopolski"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "hertha-bsc",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "hertha-bsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "grazer-ak"
+          ],
+          "winner": "valerenga-fotball",
+          "note": "Vålerenga won on away goals",
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "valerenga-fotball",
+              "away": "grazer-ak",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "grazer-ak",
+              "away": "valerenga-fotball",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-zimbru-chisinau",
+              "away": "aris-thessaloniki-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "aris-thessaloniki-fc",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-varazdin",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "nk-varazdin",
+              "away": "debreceni-vsc",
+              "score": "1:3"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "debreceni-vsc",
+              "away": "nk-varazdin",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ud-leiria",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "ud-leiria",
+              "away": "molde-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "molde-fk",
+              "away": "ud-leiria",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fk-austria-wien",
+              "away": "borussia-dortmund",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "borussia-dortmund",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "aj-auxerre",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "neuchatel-xamax-fcs",
+              "away": "aj-auxerre",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fk-ventspils",
+              "away": "rosenborg-bk",
+              "score": "1:4"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "rosenborg-bk",
+              "away": "fk-ventspils",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gaziantepspor",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "gaziantepspor",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "gaziantepspor",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Played at Het Kasteel, Rotterdam (Netherlands): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "odense-boldklub",
+              "away": "red-star-belgrade",
+              "score": "2:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "red-star-belgrade",
+              "away": "odense-boldklub",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "sporting-cp",
+              "away": "malmo-ff",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "malmo-ff",
+              "away": "sporting-cp",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-utrecht",
+              "away": "msk-zilina",
+              "score": "2:0",
+              "note": "Played behind closed doors"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "msk-zilina",
+              "away": "fc-utrecht",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-donetsk",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-metalurh-donetsk",
+              "away": "parma-calcio",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "parma-calcio",
+              "away": "fc-metalurh-donetsk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "fc-sochaux-montbeliard"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "mypa-myllykoski",
+              "away": "fc-sochaux-montbeliard",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-sochaux-montbeliard",
+              "away": "mypa-myllykoski",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "southampton-fc",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fcsb",
+              "away": "southampton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "as-roma",
+              "away": "fk-vardar",
+              "score": "4:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fk-vardar",
+              "away": "as-roma",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "manchester-city-fc",
+              "away": "ksc-lokeren",
+              "score": "3:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "ksc-lokeren",
+              "away": "manchester-city-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-spartak-moscow",
+              "away": "esbjerg-fb",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "esbjerg-fb",
+              "away": "fc-spartak-moscow",
+              "score": "1:1",
+              "note": "Played at Aarhus Stadium, Aarhus"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "pfc-cska-sofia",
+              "away": "fc-torpedo-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-torpedo-moscow",
+              "away": "pfc-cska-sofia",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Torpedo Moscow won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-torpedo-moscow"
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "ferencvarosi-tc",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-copenhagen",
+              "away": "ferencvarosi-tc",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Copenhagen won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-copenhagen"
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "rcd-mallorca"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "apoel-fc",
+              "away": "rcd-mallorca",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "rcd-mallorca",
+              "away": "apoel-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "nk-olimpija",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "liverpool-fc",
+              "away": "nk-olimpija",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "paok-fc",
+              "away": "lyn-fotball",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "lyn-fotball",
+              "away": "paok-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malatyaspor",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "malatyaspor",
+              "away": "fc-basel",
+              "score": "0:2"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-basel",
+              "away": "malatyaspor",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "raa-louvieroise",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "raa-louvieroise",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "sl-benfica",
+              "away": "raa-louvieroise",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "udinese-calcio"
+          ],
+          "winner": "fc-red-bull-salzburg",
+          "note": "Austria Salzburg won on away goals",
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "fc-red-bull-salzburg",
+              "away": "udinese-calcio",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "udinese-calcio",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "fk-viktoria-zizkov"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "brondby-if",
+              "away": "fk-viktoria-zizkov",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-10-16",
+              "home": "fk-viktoria-zizkov",
+              "away": "brondby-if",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "fk-teplice"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-24",
+              "home": "1-fc-kaiserslautern",
+              "away": "fk-teplice",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-10-16",
+              "home": "fk-teplice",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-25",
+              "home": "hamburger-sv",
+              "away": "fc-dnipro",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-dnipro",
+              "away": "hamburger-sv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fc-petrzalka"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-25",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-petrzalka",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "fc-petrzalka",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "nec-nijmegen"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-25",
+              "home": "wisla-krakow",
+              "away": "nec-nijmegen",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-10-15",
+              "home": "nec-nijmegen",
+              "away": "wisla-krakow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-kamen-ingrad",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-25",
+              "home": "nk-kamen-ingrad",
+              "away": "fc-schalke-04",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-10-16",
+              "home": "fc-schalke-04",
+              "away": "nk-kamen-ingrad",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "fc-karnten"
+          ],
+          "matches": [
+            {
+              "date": "2003-09-25",
+              "home": "feyenoord",
+              "away": "fc-karnten",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-10-16",
+              "home": "fc-karnten",
+              "away": "feyenoord",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2003-10-29",
+              "home": "rosenborg-bk",
+              "away": "red-star-belgrade",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "red-star-belgrade",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-dnipro",
+              "score": "0:2"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fc-dnipro",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fc-sochaux-montbeliard"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "borussia-dortmund",
+              "away": "fc-sochaux-montbeliard",
+              "score": "2:2"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fc-sochaux-montbeliard",
+              "away": "borussia-dortmund",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "dyskobolia-grodzisk-wielkopolski"
+          ],
+          "winner": "dyskobolia-grodzisk-wielkopolski",
+          "note": "Groclin won on away goals",
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "manchester-city-fc",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "manchester-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "sl-benfica",
+              "away": "molde-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "molde-fk",
+              "away": "sl-benfica",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "pfc-levski-sofia"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski Sofia won on away goals",
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "sk-slavia-prague",
+              "away": "pfc-levski-sofia",
+              "score": "2:2"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "pfc-levski-sofia",
+              "away": "sk-slavia-prague",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-spartak-moscow",
+              "away": "fc-dinamo-bucuresti",
+              "score": "4:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-spartak-moscow",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gaziantepspor",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "gaziantepspor",
+              "away": "rc-lens",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "rc-lens",
+              "away": "gaziantepspor",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-schalke-04",
+              "away": "brondby-if",
+              "score": "2:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "brondby-if",
+              "away": "fc-schalke-04",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Brøndby IF won 3:1 on penalties"
+            }
+          ],
+          "winner": "brondby-if"
+        },
+        {
+          "clubs": [
+            "ac-perugia-calcio",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "ac-perugia-calcio",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "aris-thessaloniki-fc",
+              "away": "ac-perugia-calcio",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-utrecht",
+              "away": "aj-auxerre",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "aj-auxerre",
+              "away": "fc-utrecht",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fcsb",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "liverpool-fc",
+              "away": "fcsb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "valerenga-fotball",
+              "away": "wisla-krakow",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "wisla-krakow",
+              "away": "valerenga-fotball",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Vålerenga Fotball won 4:3 on penalties"
+            }
+          ],
+          "winner": "valerenga-fotball"
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "debreceni-vsc"
+          ],
+          "winner": "debreceni-vsc",
+          "note": "Debrecen won on away goals",
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "paok-fc",
+              "away": "debreceni-vsc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "debreceni-vsc",
+              "away": "paok-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "rcd-mallorca"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-copenhagen",
+              "away": "rcd-mallorca",
+              "score": "1:2"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "rcd-mallorca",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-basel",
+              "away": "newcastle-united-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "newcastle-united-fc",
+              "away": "fc-basel",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "as-roma",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "hnk-hajduk-split",
+              "away": "as-roma",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genclerbirligi-sk",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "genclerbirligi-sk",
+              "away": "sporting-cp",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "sporting-cp",
+              "away": "genclerbirligi-sk",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "villarreal-cf",
+              "away": "fc-torpedo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fc-torpedo-moscow",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "fk-teplice"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "feyenoord",
+              "away": "fk-teplice",
+              "score": "0:2"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fk-teplice",
+              "away": "feyenoord",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "heart-of-midlothian-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "heart-of-midlothian-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panionios-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "panionios-fc",
+              "away": "fc-barcelona",
+              "score": "0:3"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "fc-barcelona",
+              "away": "panionios-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "fc-red-bull-salzburg",
+              "away": "parma-calcio",
+              "score": "0:4"
+            },
+            {
+              "date": "2003-11-27",
+              "home": "parma-calcio",
+              "away": "fc-red-bull-salzburg",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-11-06",
+              "home": "valencia-cf",
+              "away": "maccabi-haifa-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-12-11",
+              "home": "maccabi-haifa-fc",
+              "away": "valencia-cf",
+              "score": "0:4",
+              "neutral": true,
+              "note": "Played at Het Kasteel, Rotterdam (Netherlands): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "brondby-if",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "brondby-if",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "fc-barcelona",
+              "away": "brondby-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "genclerbirligi-sk"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "parma-calcio",
+              "away": "genclerbirligi-sk",
+              "score": "0:1"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "genclerbirligi-sk",
+              "away": "parma-calcio",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "rosenborg-bk"
+          ],
+          "winner": "sl-benfica",
+          "note": "Benfica won on away goals",
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "sl-benfica",
+              "away": "rosenborg-bk",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "rosenborg-bk",
+              "away": "sl-benfica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "olympique-de-marseille",
+              "away": "fc-dnipro",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "fc-dnipro",
+              "away": "olympique-de-marseille",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fk-teplice"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "celtic-fc",
+              "away": "fk-teplice",
+              "score": "3:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "fk-teplice",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-perugia-calcio",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "ac-perugia-calcio",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "psv-eindhoven",
+              "away": "ac-perugia-calcio",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dyskobolia-grodzisk-wielkopolski",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "valencia-cf",
+              "away": "besiktas-jk",
+              "score": "3:2"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "besiktas-jk",
+              "away": "valencia-cf",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "galatasaray-sk",
+              "away": "villarreal-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "villarreal-cf",
+              "away": "galatasaray-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "club-brugge-kv",
+              "away": "debreceni-vsc",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "debreceni-vsc",
+              "away": "club-brugge-kv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "inter-milan"
+          ],
+          "winner": "inter-milan",
+          "note": "Inter Milan won on away goals",
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "fc-sochaux-montbeliard",
+              "away": "inter-milan",
+              "score": "2:2"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "inter-milan",
+              "away": "fc-sochaux-montbeliard",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "liverpool-fc",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "pfc-levski-sofia",
+              "away": "liverpool-fc",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "rcd-mallorca"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "fc-spartak-moscow",
+              "away": "rcd-mallorca",
+              "score": "0:3"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "rcd-mallorca",
+              "away": "fc-spartak-moscow",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gaziantepspor",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "gaziantepspor",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "as-roma",
+              "away": "gaziantepspor",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "aj-auxerre",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "panathinaikos-fc",
+              "away": "aj-auxerre",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-02-26",
+              "home": "valerenga-fotball",
+              "away": "newcastle-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-03-03",
+              "home": "newcastle-united-fc",
+              "away": "valerenga-fotball",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "celtic-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "fc-barcelona",
+              "away": "celtic-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genclerbirligi-sk",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "genclerbirligi-sk",
+              "away": "valencia-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "valencia-cf",
+              "away": "genclerbirligi-sk",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "club-brugge-kv",
+              "score": "3:1"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "club-brugge-kv",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "rcd-mallorca"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "newcastle-united-fc",
+              "away": "rcd-mallorca",
+              "score": "4:1"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "rcd-mallorca",
+              "away": "newcastle-united-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "aj-auxerre",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "psv-eindhoven",
+              "away": "aj-auxerre",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "sl-benfica",
+              "away": "inter-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "inter-milan",
+              "away": "sl-benfica",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "liverpool-fc",
+              "away": "olympique-de-marseille",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "olympique-de-marseille",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2004-03-11",
+              "home": "villarreal-cf",
+              "away": "as-roma",
+              "score": "2:0"
+            },
+            {
+              "date": "2004-03-25",
+              "home": "as-roma",
+              "away": "villarreal-cf",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-08",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "valencia-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "2004-04-14",
+              "home": "valencia-cf",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-08",
+              "home": "olympique-de-marseille",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "2004-04-14",
+              "home": "inter-milan",
+              "away": "olympique-de-marseille",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-08",
+              "home": "celtic-fc",
+              "away": "villarreal-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-04-14",
+              "home": "villarreal-cf",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-08",
+              "home": "psv-eindhoven",
+              "away": "newcastle-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2004-04-14",
+              "home": "newcastle-united-fc",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-22",
+              "home": "newcastle-united-fc",
+              "away": "olympique-de-marseille",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-05-06",
+              "home": "olympique-de-marseille",
+              "away": "newcastle-united-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2004-04-22",
+              "home": "villarreal-cf",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "2004-05-06",
+              "home": "valencia-cf",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2004-05-19",
+              "home": "valencia-cf",
+              "away": "olympique-de-marseille",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Ullevi, Gothenburg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

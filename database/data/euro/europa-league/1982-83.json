@@ -1,0 +1,1325 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1982-83",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-progres-niederkorn",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-08",
+              "home": "fc-progres-niederkorn",
+              "away": "servette-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "servette-fc",
+              "away": "fc-progres-niederkorn",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pezoporikos-larnaca-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "fc-zurich",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-zurich",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "ssc-napoli"
+          ],
+          "winner": "ssc-napoli",
+          "note": "Napoli won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-dinamo-tbilisi",
+              "away": "ssc-napoli",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "ssc-napoli",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "cs-universitatea-craiova",
+              "away": "acf-fiorentina",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "acf-fiorentina",
+              "away": "cs-universitatea-craiova",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zurrieq-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-22",
+              "home": "zurrieq-fc",
+              "away": "hnk-hajduk-split",
+              "score": "1:4"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "hnk-hajduk-split",
+              "away": "zurrieq-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "bohemians-praha-1905",
+              "away": "admira-wacker",
+              "score": "5:0"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "admira-wacker",
+              "away": "bohemians-praha-1905",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-carl-zeiss-jena",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-carl-zeiss-jena",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-14",
+              "home": "fc-spartak-moscow",
+              "away": "arsenal-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "arsenal-fc",
+              "away": "fc-spartak-moscow",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "sv-werder-bremen"
+          ],
+          "winner": "sv-werder-bremen",
+          "note": "Werder Bremen won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "1-fc-frankfurt",
+              "away": "sv-werder-bremen",
+              "score": "1:3"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "sv-werder-bremen",
+              "away": "1-fc-frankfurt",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-14",
+              "home": "pfc-slavia-sofia",
+              "away": "fk-sarajevo",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fk-sarajevo",
+              "away": "pfc-slavia-sofia",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "ferencvarosi-tc",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "athletic-bilbao",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "slask-wroclaw",
+              "away": "fc-dynamo-moscow",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-dynamo-moscow",
+              "away": "slask-wroclaw",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "winner": "viking-fk",
+          "note": "Viking won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "viking-fk",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "viking-fk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "borussia-dortmund",
+              "away": "rangers-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "rangers-fc",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-22",
+              "home": "fram-reykjavik",
+              "away": "shamrock-rovers-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1982-09-30",
+              "home": "shamrock-rovers-fc",
+              "away": "fram-reykjavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyngby-boldklub",
+            "ik-brage"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-16",
+              "home": "lyngby-boldklub",
+              "away": "ik-brage",
+              "score": "1:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "ik-brage",
+              "away": "lyngby-boldklub",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stal-mielec",
+            "ksc-lokeren"
+          ],
+          "winner": "ksc-lokeren",
+          "note": "Lokeren won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "stal-mielec",
+              "away": "ksc-lokeren",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "ksc-lokeren",
+              "away": "stal-mielec",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "1-fc-kaiserslautern",
+              "away": "trabzonspor",
+              "score": "3:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "trabzonspor",
+              "away": "1-fc-kaiserslautern",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-utrecht",
+              "away": "fc-porto",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-09-30",
+              "home": "fc-porto",
+              "away": "fc-utrecht",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hfc-haarlem",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "hfc-haarlem",
+              "away": "kaa-gent",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "kaa-gent",
+              "away": "hfc-haarlem",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-sochaux-montbeliard"
+          ],
+          "winner": "paok-fc",
+          "note": "PAOK won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "paok-fc",
+              "away": "fc-sochaux-montbeliard",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-sochaux-montbeliard",
+              "away": "paok-fc",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "koparit"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "rsc-anderlecht",
+              "away": "koparit",
+              "score": "3:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "koparit",
+              "away": "rsc-anderlecht",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "as-roma",
+              "away": "ipswich-town-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "ipswich-town-fc",
+              "away": "as-roma",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "tatabanyai-sc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "as-saint-etienne",
+              "away": "tatabanyai-sc",
+              "score": "4:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "tatabanyai-sc",
+              "away": "as-saint-etienne",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "dundee-united-fc",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "psv-eindhoven",
+              "away": "dundee-united-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "glentoran-fc",
+              "away": "fc-banik-ostrava",
+              "score": "1:3"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-banik-ostrava",
+              "away": "glentoran-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grazer-ak",
+            "fc-corvinul-hunedoara"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "grazer-ak",
+              "away": "fc-corvinul-hunedoara",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-corvinul-hunedoara",
+              "away": "grazer-ak",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "manchester-united-fc",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "valencia-cf",
+              "away": "manchester-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "ifk-norrkoping"
+          ],
+          "winner": "ifk-norrkoping",
+          "note": "Norrköping won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "southampton-fc",
+              "away": "ifk-norrkoping",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "ifk-norrkoping",
+              "away": "southampton-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "sevilla-fc",
+              "away": "pfc-levski-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "pfc-levski-sofia",
+              "away": "sevilla-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "sl-benfica",
+              "away": "real-betis",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "real-betis",
+              "away": "sl-benfica",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-29",
+              "home": "aek-athens-fc",
+              "away": "1-fc-koln",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-10-06",
+              "home": "1-fc-koln",
+              "away": "aek-athens-fc",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-corvinul-hunedoara",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "fc-corvinul-hunedoara",
+              "away": "fk-sarajevo",
+              "score": "4:4"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fk-sarajevo",
+              "away": "fc-corvinul-hunedoara",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "sl-benfica",
+              "away": "ksc-lokeren",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "ksc-lokeren",
+              "away": "sl-benfica",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "hfc-haarlem"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "fc-spartak-moscow",
+              "away": "hfc-haarlem",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "hfc-haarlem",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "hnk-hajduk-split",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "4:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "hnk-hajduk-split",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "paok-fc",
+              "away": "sevilla-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "sevilla-fc",
+              "away": "paok-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "slask-wroclaw",
+              "away": "servette-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1982-11-04",
+              "home": "servette-fc",
+              "away": "slask-wroclaw",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "ferencvarosi-tc",
+              "away": "fc-zurich",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-zurich",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "viking-fk",
+              "away": "dundee-united-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "dundee-united-fc",
+              "away": "viking-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "rsc-anderlecht",
+              "away": "fc-porto",
+              "score": "4:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-porto",
+              "away": "rsc-anderlecht",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "ik-brage"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "sv-werder-bremen",
+              "away": "ik-brage",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "ik-brage",
+              "away": "sv-werder-bremen",
+              "score": "2:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "as-roma",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "ifk-norrkoping",
+              "away": "as-roma",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "AS Roma won 4:2 on penalties"
+            }
+          ],
+          "winner": "as-roma"
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "as-saint-etienne",
+              "away": "bohemians-praha-1905",
+              "score": "0:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "bohemians-praha-1905",
+              "away": "as-saint-etienne",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "ssc-napoli",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:2"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "1-fc-kaiserslautern",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "rangers-fc",
+              "away": "1-fc-koln",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "1-fc-koln",
+              "away": "rangers-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "valencia-cf",
+              "away": "fc-banik-ostrava",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-banik-ostrava",
+              "away": "valencia-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-21",
+              "home": "shamrock-rovers-fc",
+              "away": "cs-universitatea-craiova",
+              "score": "0:2"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "cs-universitatea-craiova",
+              "away": "shamrock-rovers-fc",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "fc-spartak-moscow",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "valencia-cf",
+              "away": "fc-spartak-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "1-fc-koln",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "as-roma",
+              "away": "1-fc-koln",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "fc-zurich",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "sl-benfica",
+              "away": "fc-zurich",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "rsc-anderlecht",
+              "away": "fk-sarajevo",
+              "score": "6:1"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "fk-sarajevo",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "servette-fc",
+              "away": "bohemians-praha-1905",
+              "score": "2:2"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "bohemians-praha-1905",
+              "away": "servette-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "cs-universitatea-craiova",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "cs-universitatea-craiova",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "sevilla-fc",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "1-fc-kaiserslautern",
+              "away": "sevilla-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1982-11-24",
+              "home": "dundee-united-fc",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-12-08",
+              "home": "sv-werder-bremen",
+              "away": "dundee-united-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "as-roma",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "as-roma",
+              "away": "sl-benfica",
+              "score": "1:2"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "sl-benfica",
+              "away": "as-roma",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "bohemians-praha-1905",
+              "away": "dundee-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "dundee-united-fc",
+              "away": "bohemians-praha-1905",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "cs-universitatea-craiova"
+          ],
+          "winner": "cs-universitatea-craiova",
+          "note": "Universitatea Craiova won on away goals",
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "1-fc-kaiserslautern",
+              "away": "cs-universitatea-craiova",
+              "score": "3:2"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "cs-universitatea-craiova",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "valencia-cf",
+              "away": "rsc-anderlecht",
+              "score": "1:2"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "rsc-anderlecht",
+              "away": "valencia-cf",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "bohemians-praha-1905",
+              "away": "rsc-anderlecht",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-04-20",
+              "home": "rsc-anderlecht",
+              "away": "bohemians-praha-1905",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "cs-universitatea-craiova"
+          ],
+          "winner": "sl-benfica",
+          "note": "Benfica won on away goals",
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "sl-benfica",
+              "away": "cs-universitatea-craiova",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-04-20",
+              "home": "cs-universitatea-craiova",
+              "away": "sl-benfica",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1983-05-04",
+              "home": "rsc-anderlecht",
+              "away": "sl-benfica",
+              "score": "1:0",
+              "note": "Played at Heysel Stadium, Brussels"
+            },
+            {
+              "date": "1983-05-18",
+              "home": "sl-benfica",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

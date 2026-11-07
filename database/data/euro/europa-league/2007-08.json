@@ -1,0 +1,3510 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2007-08",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fk-buducnost-podgorica",
+              "away": "hnk-hajduk-split",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "hnk-hajduk-split",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fk-rudar-pljevlja"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "ac-omonia",
+              "away": "fk-rudar-pljevlja",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fk-rudar-pljevlja",
+              "away": "ac-omonia",
+              "score": "0:2",
+              "note": "Played at Podgorica City Stadium, Podgorica"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-slaven-belupo",
+            "kf-teuta"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "nk-slaven-belupo",
+              "away": "kf-teuta",
+              "score": "6:2"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "kf-teuta",
+              "away": "nk-slaven-belupo",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bezanija",
+            "kf-besa"
+          ],
+          "winner": "kf-besa",
+          "note": "Besa won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fk-bezanija",
+              "away": "kf-besa",
+              "score": "2:2",
+              "note": "Played at Partizan Stadium, Belgrade"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "kf-besa",
+              "away": "fk-bezanija",
+              "score": "0:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-lovech",
+              "score": "0:3"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-lovech",
+              "away": "sliema-wanderers-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fk-vojvodina",
+              "away": "hibernians-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "hibernians-fc",
+              "away": "fk-vojvodina",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-santa-coloma",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-santa-coloma",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "nk-siroki-brijeg",
+              "away": "fc-koper",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-koper",
+              "away": "nk-siroki-brijeg",
+              "score": "2:3",
+              "note": "Played at Arena Petrol, Celje"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fk-vardar",
+              "away": "anorthosis-famagusta-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fk-vardar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "nd-gorica",
+              "away": "fk-rabotnicki",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fk-rabotnicki",
+              "away": "nd-gorica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "fk-partizan"
+          ],
+          "winner": "hsk-zrinjski-mostar",
+          "note": "Zrinjski Mostar advanced: UEFA disqualified Partizan for crowd trouble by their fans in the first leg in Mostar (Partizan had won 11:1 on aggregate)",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "hsk-zrinjski-mostar",
+              "away": "fk-partizan",
+              "score": "1:6"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fk-partizan",
+              "away": "hsk-zrinjski-mostar",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vion-zlate-moravce",
+            "fc-alma-ata"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-vion-zlate-moravce",
+              "away": "fc-alma-ata",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-alma-ata",
+              "away": "fc-vion-zlate-moravce",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "sc-mika"
+          ],
+          "winner": "sc-mika",
+          "note": "Mika won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "mtk-budapest-fc",
+              "away": "sc-mika",
+              "score": "2:1",
+              "note": "Played at Szusza Ferenc Stadium, Budapest (MTK's own ground did not meet UEFA standards)"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "sc-mika",
+              "away": "mtk-budapest-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "imisli-fk",
+            "dyskobolia-grodzisk-wielkopolski"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "imisli-fk",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "0:0",
+              "note": "Played at Tofiq Bahramov Republican Stadium, Baku"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "imisli-fk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-belchatow",
+            "fc-ameri-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "gks-belchatow",
+              "away": "fc-ameri-tbilisi",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-ameri-tbilisi",
+              "away": "gks-belchatow",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "GKS Bełchatów won 4:2 on penalties"
+            }
+          ],
+          "winner": "gks-belchatow"
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "fc-zimbru-chisinau"
+          ],
+          "winner": "fc-petrzalka",
+          "note": "Artmedia Petržalka won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-petrzalka",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:1",
+              "note": "Played at NTC Senec, Senec"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-petrzalka",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-urartu",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-urartu",
+              "away": "bsc-young-boys",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "bsc-young-boys",
+              "away": "fc-urartu",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nistru-otaci",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-nistru-otaci",
+              "away": "budapest-honved-fc",
+              "score": "1:1",
+              "note": "Played at Zimbru Stadium, Chișinău (Nistru's ground in Otaci did not meet UEFA standards)"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "budapest-honved-fc",
+              "away": "fc-nistru-otaci",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Budapest Honvéd FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "budapest-honved-fc"
+        },
+        {
+          "clubs": [
+            "sv-ried",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "sv-ried",
+              "away": "neftci-pfk",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "neftci-pfk",
+              "away": "sv-ried",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-vaduz",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-vaduz",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "sv-mattersburg"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-aktobe",
+              "away": "sv-mattersburg",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "sv-mattersburg",
+              "away": "fc-aktobe",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b36-torshavn",
+            "fk-ekranas"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "b36-torshavn",
+              "away": "fk-ekranas",
+              "score": "1:3"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fk-ekranas",
+              "away": "b36-torshavn",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-libertas",
+            "drogheda-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "ac-libertas",
+              "away": "drogheda-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "drogheda-united-fc",
+              "away": "ac-libertas",
+              "score": "3:0",
+              "note": "Played at Dalymount Park, Dublin"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rhyl-fc",
+            "fc-haka"
+          ],
+          "winner": "fc-haka",
+          "note": "Haka won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "rhyl-fc",
+              "away": "fc-haka",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-haka",
+              "away": "rhyl-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "carmarthen-town-afc",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "carmarthen-town-afc",
+              "away": "sk-brann",
+              "score": "0:8"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "sk-brann",
+              "away": "carmarthen-town-afc",
+              "score": "6:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fc-flora",
+              "away": "valerenga-fotball",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "valerenga-fotball",
+              "away": "fc-flora",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "ebstreymur"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "mypa-myllykoski",
+              "away": "ebstreymur",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "ebstreymur",
+              "away": "mypa-myllykoski",
+              "score": "1:1",
+              "note": "Played at Tórsvøllur, Tórshavn"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dungannon-swifts-fc",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "dungannon-swifts-fc",
+              "away": "fk-suduva",
+              "score": "1:0",
+              "note": "Played at Windsor Park, Belfast"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fk-suduva",
+              "away": "dungannon-swifts-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "un-kaerjeng-97"
+          ],
+          "winner": "un-kaerjeng-97",
+          "note": "Käerjéng 97 won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "lillestrom-sk",
+              "away": "un-kaerjeng-97",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-07-31",
+              "home": "un-kaerjeng-97",
+              "away": "lillestrom-sk",
+              "score": "1:0",
+              "note": "Played at Stade Josy Barthel, Luxembourg City"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "fk-liepajas-metalurgs",
+              "away": "fc-dynamo-brest",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-dynamo-brest",
+              "away": "fk-liepajas-metalurgs",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "jk-narva-trans"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "helsingborgs-if",
+              "away": "jk-narva-trans",
+              "score": "6:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "jk-narva-trans",
+              "away": "helsingborgs-if",
+              "score": "0:3",
+              "note": "Played at A. Le Coq Arena, Tallinn"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "keflavik",
+            "fc-midtjylland"
+          ],
+          "winner": "fc-midtjylland",
+          "note": "Midtjylland won on away goals",
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "keflavik",
+              "away": "fc-midtjylland",
+              "score": "3:2"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-midtjylland",
+              "away": "keflavik",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "bk-hacken",
+              "away": "kr-reykjavik",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "kr-reykjavik",
+              "away": "bk-hacken",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "st-patricks-athletic-fc",
+              "away": "odense-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "odense-boldklub",
+              "away": "st-patricks-athletic-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-etzella-ettelbruck"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "hjk-helsinki",
+              "away": "fc-etzella-ettelbruck",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-etzella-ettelbruck",
+              "away": "hjk-helsinki",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "glentoran-fc",
+              "away": "aik-fotboll",
+              "score": "0:5"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "aik-fotboll",
+              "away": "glentoran-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2007-07-19",
+              "home": "skonto-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-02",
+              "home": "fc-dinamo-minsk",
+              "away": "skonto-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "asc-otelul-galati"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "asc-otelul-galati",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "asc-otelul-galati",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "cfr-cluj",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "anorthosis-famagusta-fc",
+              "away": "cfr-cluj",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fk-rabotnicki",
+              "away": "hsk-zrinjski-mostar",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "hsk-zrinjski-mostar",
+              "away": "fk-rabotnicki",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-slaven-belupo",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "nk-slaven-belupo",
+              "away": "galatasaray-sk",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "galatasaray-sk",
+              "away": "nk-slaven-belupo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ud-leiria",
+            "maccabi-netanya-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "ud-leiria",
+              "away": "maccabi-netanya-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "maccabi-netanya-fc",
+              "away": "ud-leiria",
+              "score": "0:1",
+              "note": "Played at Kiryat Eliezer Stadium, Haifa"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "hnk-hajduk-split",
+              "away": "uc-sampdoria",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "uc-sampdoria",
+              "away": "hnk-hajduk-split",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-besa",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "kf-besa",
+              "away": "fc-lovech",
+              "score": "0:3",
+              "note": "Played at Niko Dovana Stadium, Durrës"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fc-lovech",
+              "away": "kf-besa",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "kayseri-erciyesspor"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "kayseri-erciyesspor",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "kayseri-erciyesspor",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "atletico-madrid",
+              "away": "fk-vojvodina",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fk-vojvodina",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "nk-siroki-brijeg",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "nk-siroki-brijeg",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "ac-omonia",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "pfc-cska-sofia",
+              "away": "ac-omonia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "sv-mattersburg"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-basel",
+              "away": "sv-mattersburg",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "sv-mattersburg",
+              "away": "fc-basel",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-ried",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "sv-ried",
+              "away": "fc-sion",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fc-sion",
+              "away": "sv-ried",
+              "score": "3:0",
+              "note": "Played at Stade de Genève, Geneva"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-mika",
+            "fc-petrzalka"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "sc-mika",
+              "away": "fc-petrzalka",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fc-petrzalka",
+              "away": "sc-mika",
+              "score": "2:0",
+              "note": "Played at NTC Senec, Senec"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "gks-belchatow"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-dnipro",
+              "away": "gks-belchatow",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "gks-belchatow",
+              "away": "fc-dnipro",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "budapest-honved-fc",
+              "away": "hamburger-sv",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "hamburger-sv",
+              "away": "budapest-honved-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "bsc-young-boys",
+              "away": "rc-lens",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "rc-lens",
+              "away": "bsc-young-boys",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tobol",
+            "dyskobolia-grodzisk-wielkopolski"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-tobol",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "fc-tobol",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fk-jablonec"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fk-austria-wien",
+              "away": "fk-jablonec",
+              "score": "4:3"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fk-jablonec",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vion-zlate-moravce",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-vion-zlate-moravce",
+              "away": "fc-zenit",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fc-zenit",
+              "away": "fc-vion-zlate-moravce",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-dinamo-tbilisi",
+              "away": "sk-rapid-wien",
+              "score": "0:3"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "sk-rapid-wien",
+              "away": "fc-dinamo-tbilisi",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "mypa-myllykoski",
+              "away": "blackburn-rovers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "blackburn-rovers-fc",
+              "away": "mypa-myllykoski",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "drogheda-united-fc",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "drogheda-united-fc",
+              "away": "helsingborgs-if",
+              "score": "1:1",
+              "note": "Played at Dalymount Park, Dublin"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "helsingborgs-if",
+              "away": "drogheda-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fk-liepajas-metalurgs",
+              "away": "aik-fotboll",
+              "score": "3:2"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "aik-fotboll",
+              "away": "fk-liepajas-metalurgs",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "aab-fodbold"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "hjk-helsinki",
+              "away": "aab-fodbold",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "aab-fodbold",
+              "away": "hjk-helsinki",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ekranas",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fk-ekranas",
+              "away": "valerenga-fotball",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "valerenga-fotball",
+              "away": "fk-ekranas",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "dunfermline-athletic-fc",
+              "away": "bk-hacken",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "bk-hacken",
+              "away": "dunfermline-athletic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "sk-brann",
+              "away": "fk-suduva",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fk-suduva",
+              "away": "sk-brann",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-haka",
+              "away": "fc-midtjylland",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fc-midtjylland",
+              "away": "fc-haka",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "fc-dinamo-minsk",
+              "away": "odense-boldklub",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "odense-boldklub",
+              "away": "fc-dinamo-minsk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "un-kaerjeng-97",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "un-kaerjeng-97",
+              "away": "r-standard-liege",
+              "score": "0:3",
+              "note": "Played at Stade Josy Barthel, Luxembourg City"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "r-standard-liege",
+              "away": "un-kaerjeng-97",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "fredrikstad-fk"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-16",
+              "home": "hammarby-if",
+              "away": "fredrikstad-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-08-30",
+              "home": "fredrikstad-fk",
+              "away": "hammarby-if",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-midtjylland",
+              "away": "fc-lokomotiv-moscow",
+              "score": "1:3"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-lokomotiv-moscow",
+              "away": "fc-midtjylland",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-groningen",
+              "away": "acf-fiorentina",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "acf-fiorentina",
+              "away": "fc-groningen",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "ACF Fiorentina won 4:3 on penalties"
+            }
+          ],
+          "winner": "acf-fiorentina"
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "bolton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fk-rabotnicki",
+              "away": "bolton-wanderers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "bolton-wanderers-fc",
+              "away": "fk-rabotnicki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "aek-athens-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-red-bull-salzburg",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-nurnberg",
+            "fc-rapid-bucuresti"
+          ],
+          "winner": "1-fc-nurnberg",
+          "note": "Nürnberg won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "1-fc-nurnberg",
+              "away": "fc-rapid-bucuresti",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-rapid-bucuresti",
+              "away": "1-fc-nurnberg",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "fc-metalist-kharkiv"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "everton-fc",
+              "away": "fc-metalist-kharkiv",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-metalist-kharkiv",
+              "away": "everton-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-zenit",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "r-standard-liege",
+              "away": "fc-zenit",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "ud-leiria"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "bayer-04-leverkusen",
+              "away": "ud-leiria",
+              "score": "3:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "ud-leiria",
+              "away": "bayer-04-leverkusen",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "villarreal-cf",
+              "away": "fc-bate-borisov",
+              "score": "4:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-bate-borisov",
+              "away": "villarreal-cf",
+              "score": "0:2",
+              "note": "Played at Dinamo Stadium, Minsk"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-sion",
+              "away": "galatasaray-sk",
+              "score": "3:2",
+              "note": "Played at Stade de Genève, Geneva"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "galatasaray-sk",
+              "away": "fc-sion",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "kayseri-erciyesspor"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "atletico-madrid",
+              "away": "kayseri-erciyesspor",
+              "score": "4:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "kayseri-erciyesspor",
+              "away": "atletico-madrid",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tampere-united",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "tampere-united",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:3"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "tampere-united",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrzalka",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-petrzalka",
+              "away": "panathinaikos-fc",
+              "score": "1:2",
+              "note": "Played at Tehelné pole, Bratislava"
+            },
+            {
+              "date": "2007-10-02",
+              "home": "panathinaikos-fc",
+              "away": "fc-petrzalka",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "ac-sparta-prague",
+              "away": "odense-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "odense-boldklub",
+              "away": "ac-sparta-prague",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "AC Sparta Prague won 4:3 on penalties"
+            }
+          ],
+          "winner": "ac-sparta-prague"
+        },
+        {
+          "clubs": [
+            "empoli-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "empoli-fc",
+              "away": "fc-zurich",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-zurich",
+              "away": "empoli-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "panionios-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-sochaux-montbeliard",
+              "away": "panionios-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "panionios-fc",
+              "away": "fc-sochaux-montbeliard",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "rsc-anderlecht",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "sk-rapid-wien",
+              "away": "rsc-anderlecht",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pacos-de-ferreira",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-pacos-de-ferreira",
+              "away": "az-alkmaar",
+              "score": "0:1",
+              "note": "Played at Estádio do Bessa, Porto"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "az-alkmaar",
+              "away": "fc-pacos-de-ferreira",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "aab-fodbold"
+          ],
+          "winner": "aab-fodbold",
+          "note": "AaB won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "uc-sampdoria",
+              "away": "aab-fodbold",
+              "score": "2:2"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "aab-fodbold",
+              "away": "uc-sampdoria",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-spartak-moscow",
+              "away": "bk-hacken",
+              "score": "5:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "bk-hacken",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "hammarby-if",
+              "away": "sc-braga",
+              "score": "2:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "sc-braga",
+              "away": "hammarby-if",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ae-larissa-fc",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "ae-larissa-fc",
+              "away": "blackburn-rovers-fc",
+              "score": "2:0",
+              "note": "Played at Panthessaliko Stadium, Volos (AEL's Alkazar Stadium in Larissa did not meet UEFA standards)"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "blackburn-rovers-fc",
+              "away": "ae-larissa-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "palermo-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fk-mlada-boleslav",
+              "away": "palermo-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "palermo-fc",
+              "away": "fk-mlada-boleslav",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "FK Mladá Boleslav won 4:2 on penalties"
+            }
+          ],
+          "winner": "fk-mlada-boleslav"
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "afc-ajax"
+          ],
+          "winner": "gnk-dinamo-zagreb",
+          "note": "Dinamo Zagreb won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "afc-ajax",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "afc-ajax",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "stade-rennais-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "stade-rennais-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "stade-rennais-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "club-brugge-kv"
+          ],
+          "winner": "sk-brann",
+          "note": "Brann won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "sk-brann",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "club-brugge-kv",
+              "away": "sk-brann",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-bayern-munich",
+              "away": "cf-os-belenenses",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "cf-os-belenenses",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-dnipro"
+          ],
+          "winner": "aberdeen-fc",
+          "note": "Aberdeen won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "aberdeen-fc",
+              "away": "fc-dnipro",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-dnipro",
+              "away": "aberdeen-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-heerenveen",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "sc-heerenveen",
+              "away": "helsingborgs-if",
+              "score": "5:3"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "helsingborgs-if",
+              "away": "sc-heerenveen",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "toulouse-fc",
+            "pfc-cska-sofia"
+          ],
+          "winner": "toulouse-fc",
+          "note": "Toulouse won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "toulouse-fc",
+              "away": "pfc-cska-sofia",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "pfc-cska-sofia",
+              "away": "toulouse-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-18",
+              "home": "fc-lovech",
+              "away": "hamburger-sv",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "hamburger-sv",
+              "away": "fc-lovech",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fk-sarajevo",
+              "away": "fc-basel",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-basel",
+              "away": "fk-sarajevo",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fk-austria-wien",
+              "away": "valerenga-fotball",
+              "score": "2:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "valerenga-fotball",
+              "away": "fk-austria-wien",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "aik-fotboll",
+              "score": "0:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "aik-fotboll",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "real-zaragoza"
+          ],
+          "winner": "aris-thessaloniki-fc",
+          "note": "Aris won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "aris-thessaloniki-fc",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "real-zaragoza",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "if-elfsborg"
+          ],
+          "winner": "if-elfsborg",
+          "note": "Elfsborg won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "fc-dinamo-bucuresti",
+              "away": "if-elfsborg",
+              "score": "1:2"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "if-elfsborg",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "tottenham-hotspur-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "anorthosis-famagusta-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-19",
+              "home": "rc-lens",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-copenhagen",
+              "away": "rc-lens",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "getafe-cf",
+            "fc-twente"
+          ],
+          "winner": "getafe-cf",
+          "note": "Getafe won on away goals",
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "getafe-cf",
+              "away": "fc-twente",
+              "score": "1:0"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "fc-twente",
+              "away": "getafe-cf",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dyskobolia-grodzisk-wielkopolski",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2007-09-20",
+              "home": "dyskobolia-grodzisk-wielkopolski",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            },
+            {
+              "date": "2007-10-04",
+              "home": "red-star-belgrade",
+              "away": "dyskobolia-grodzisk-wielkopolski",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2007-10-25",
+          "home": "fc-zenit",
+          "away": "az-alkmaar",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "everton-fc",
+          "away": "ae-larissa-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "ae-larissa-fc",
+          "away": "fc-zenit",
+          "score": "2:3",
+          "group": "A",
+          "note": "Played at Panthessaliko Stadium, Volos (AEL's Alkazar Stadium in Larissa did not meet UEFA standards)"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "1-fc-nurnberg",
+          "away": "everton-fc",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "fc-zenit",
+          "away": "1-fc-nurnberg",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "az-alkmaar",
+          "away": "ae-larissa-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "1-fc-nurnberg",
+          "away": "az-alkmaar",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "everton-fc",
+          "away": "fc-zenit",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "az-alkmaar",
+          "away": "everton-fc",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "ae-larissa-fc",
+          "away": "1-fc-nurnberg",
+          "score": "1:3",
+          "group": "A",
+          "note": "Played at Panthessaliko Stadium, Volos (AEL's Alkazar Stadium in Larissa did not meet UEFA standards)"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "panathinaikos-fc",
+          "away": "aberdeen-fc",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "fc-lokomotiv-moscow",
+          "away": "atletico-madrid",
+          "score": "3:3",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "fc-copenhagen",
+          "away": "panathinaikos-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "aberdeen-fc",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-copenhagen",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "atletico-madrid",
+          "away": "aberdeen-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "fc-copenhagen",
+          "away": "atletico-madrid",
+          "score": "0:2",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "panathinaikos-fc",
+          "away": "fc-lokomotiv-moscow",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "atletico-madrid",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "aberdeen-fc",
+          "away": "fc-copenhagen",
+          "score": "4:0",
+          "group": "B"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "if-elfsborg",
+          "away": "aek-athens-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "villarreal-cf",
+          "away": "acf-fiorentina",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "fk-mlada-boleslav",
+          "away": "villarreal-cf",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "acf-fiorentina",
+          "away": "if-elfsborg",
+          "score": "6:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "if-elfsborg",
+          "away": "fk-mlada-boleslav",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "aek-athens-fc",
+          "away": "acf-fiorentina",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "fk-mlada-boleslav",
+          "away": "aek-athens-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "villarreal-cf",
+          "away": "if-elfsborg",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "aek-athens-fc",
+          "away": "villarreal-cf",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "acf-fiorentina",
+          "away": "fk-mlada-boleslav",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "sk-brann",
+          "away": "hamburger-sv",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "fc-basel",
+          "away": "stade-rennais-fc",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "stade-rennais-fc",
+          "away": "sk-brann",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-basel",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "hamburger-sv",
+          "away": "stade-rennais-fc",
+          "score": "3:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "sk-brann",
+          "away": "gnk-dinamo-zagreb",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "gnk-dinamo-zagreb",
+          "away": "hamburger-sv",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-05",
+          "home": "fc-basel",
+          "away": "sk-brann",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "hamburger-sv",
+          "away": "fc-basel",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-12-20",
+          "home": "stade-rennais-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "ac-sparta-prague",
+          "away": "fc-zurich",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "bayer-04-leverkusen",
+          "away": "toulouse-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "fc-spartak-moscow",
+          "away": "bayer-04-leverkusen",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "toulouse-fc",
+          "away": "ac-sparta-prague",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "ac-sparta-prague",
+          "away": "fc-spartak-moscow",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "fc-zurich",
+          "away": "toulouse-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "fc-spartak-moscow",
+          "away": "fc-zurich",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "bayer-04-leverkusen",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "fc-zurich",
+          "away": "bayer-04-leverkusen",
+          "score": "0:5",
+          "group": "E"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "toulouse-fc",
+          "away": "fc-spartak-moscow",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "bolton-wanderers-fc",
+          "away": "sc-braga",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "red-star-belgrade",
+          "away": "fc-bayern-munich",
+          "score": "2:3",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "fc-bayern-munich",
+          "away": "bolton-wanderers-fc",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "aris-thessaloniki-fc",
+          "away": "red-star-belgrade",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "sc-braga",
+          "away": "fc-bayern-munich",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "bolton-wanderers-fc",
+          "away": "aris-thessaloniki-fc",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "aris-thessaloniki-fc",
+          "away": "sc-braga",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "red-star-belgrade",
+          "away": "bolton-wanderers-fc",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "sc-braga",
+          "away": "red-star-belgrade",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "fc-bayern-munich",
+          "away": "aris-thessaloniki-fc",
+          "score": "6:0",
+          "group": "F"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "rsc-anderlecht",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "tottenham-hotspur-fc",
+          "away": "getafe-cf",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "aab-fodbold",
+          "away": "rsc-anderlecht",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "getafe-cf",
+          "away": "hapoel-tel-aviv-fc",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "tottenham-hotspur-fc",
+          "away": "aab-fodbold",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "aab-fodbold",
+          "away": "getafe-cf",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "rsc-anderlecht",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "getafe-cf",
+          "away": "rsc-anderlecht",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "hapoel-tel-aviv-fc",
+          "away": "aab-fodbold",
+          "score": "1:3",
+          "group": "G"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "helsingborgs-if",
+          "away": "panionios-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-10-25",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "galatasaray-sk",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "galatasaray-sk",
+          "away": "helsingborgs-if",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-08",
+          "home": "fk-austria-wien",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "panionios-fc",
+          "away": "galatasaray-sk",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2007-11-29",
+          "home": "helsingborgs-if",
+          "away": "fk-austria-wien",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "fk-austria-wien",
+          "away": "panionios-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-06",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "helsingborgs-if",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "panionios-fc",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2007-12-19",
+          "home": "galatasaray-sk",
+          "away": "fk-austria-wien",
+          "score": "0:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "aberdeen-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:2"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "fc-bayern-munich",
+              "away": "aberdeen-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "getafe-cf"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "aek-athens-fc",
+              "away": "getafe-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "getafe-cf",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bolton-wanderers-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "bolton-wanderers-fc",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "atletico-madrid",
+              "away": "bolton-wanderers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "villarreal-cf"
+          ],
+          "winner": "fc-zenit",
+          "note": "Zenit won on away goals",
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "fc-zenit",
+              "away": "villarreal-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "villarreal-cf",
+              "away": "fc-zenit",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "galatasaray-sk",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "bayer-04-leverkusen",
+              "away": "galatasaray-sk",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "rsc-anderlecht",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:1"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "sk-brann",
+              "away": "everton-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "everton-fc",
+              "away": "sk-brann",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "fc-zurich",
+              "away": "hamburger-sv",
+              "score": "1:3"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "hamburger-sv",
+              "away": "fc-zurich",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "panathinaikos-fc"
+          ],
+          "winner": "rangers-fc",
+          "note": "Rangers won on away goals",
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "rangers-fc",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "panathinaikos-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "psv-eindhoven",
+              "away": "helsingborgs-if",
+              "score": "2:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "helsingborgs-if",
+              "away": "psv-eindhoven",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "sk-slavia-prague",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "tottenham-hotspur-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "rosenborg-bk",
+              "away": "acf-fiorentina",
+              "score": "0:1"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "acf-fiorentina",
+              "away": "rosenborg-bk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "sporting-cp",
+              "away": "fc-basel",
+              "score": "2:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "fc-basel",
+              "away": "sporting-cp",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "sv-werder-bremen",
+              "away": "sc-braga",
+              "score": "3:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "sc-braga",
+              "away": "sv-werder-bremen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "1-fc-nurnberg"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-14",
+              "home": "sl-benfica",
+              "away": "1-fc-nurnberg",
+              "score": "1:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "1-fc-nurnberg",
+              "away": "sl-benfica",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2008-02-13",
+              "home": "olympique-de-marseille",
+              "away": "fc-spartak-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "2008-02-21",
+              "home": "fc-spartak-moscow",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "rsc-anderlecht",
+              "away": "fc-bayern-munich",
+              "score": "0:5"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "fc-bayern-munich",
+              "away": "rsc-anderlecht",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "rangers-fc",
+              "away": "sv-werder-bremen",
+              "score": "2:0"
+            },
+            {
+              "date": "2008-03-13",
+              "home": "sv-werder-bremen",
+              "away": "rangers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bolton-wanderers-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "bolton-wanderers-fc",
+              "away": "sporting-cp",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-03-13",
+              "home": "sporting-cp",
+              "away": "bolton-wanderers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "hamburger-sv"
+          ],
+          "winner": "bayer-04-leverkusen",
+          "note": "Bayer Leverkusen won on away goals",
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "bayer-04-leverkusen",
+              "away": "hamburger-sv",
+              "score": "1:0"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "hamburger-sv",
+              "away": "bayer-04-leverkusen",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "getafe-cf"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "sl-benfica",
+              "away": "getafe-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "getafe-cf",
+              "away": "sl-benfica",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "acf-fiorentina",
+              "away": "everton-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "everton-fc",
+              "away": "acf-fiorentina",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "ACF Fiorentina won 4:2 on penalties"
+            }
+          ],
+          "winner": "acf-fiorentina"
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "tottenham-hotspur-fc",
+              "away": "psv-eindhoven",
+              "score": "0:1"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "psv-eindhoven",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "PSV Eindhoven won 6:5 on penalties"
+            }
+          ],
+          "winner": "psv-eindhoven"
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-zenit"
+          ],
+          "winner": "fc-zenit",
+          "note": "Zenit won on away goals",
+          "matches": [
+            {
+              "date": "2008-03-06",
+              "home": "olympique-de-marseille",
+              "away": "fc-zenit",
+              "score": "3:1"
+            },
+            {
+              "date": "2008-03-12",
+              "home": "fc-zenit",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-03",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-zenit",
+              "score": "1:4"
+            },
+            {
+              "date": "2008-04-10",
+              "home": "fc-zenit",
+              "away": "bayer-04-leverkusen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-03",
+              "home": "rangers-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-04-10",
+              "home": "sporting-cp",
+              "away": "rangers-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "getafe-cf"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "2008-04-03",
+              "home": "fc-bayern-munich",
+              "away": "getafe-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-04-10",
+              "home": "getafe-cf",
+              "away": "fc-bayern-munich",
+              "score": "3:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-03",
+              "home": "acf-fiorentina",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-04-10",
+              "home": "psv-eindhoven",
+              "away": "acf-fiorentina",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-24",
+              "home": "fc-bayern-munich",
+              "away": "fc-zenit",
+              "score": "1:1"
+            },
+            {
+              "date": "2008-05-01",
+              "home": "fc-zenit",
+              "away": "fc-bayern-munich",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2008-04-24",
+              "home": "rangers-fc",
+              "away": "acf-fiorentina",
+              "score": "0:0"
+            },
+            {
+              "date": "2008-05-01",
+              "home": "acf-fiorentina",
+              "away": "rangers-fc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Rangers FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "rangers-fc"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zenit",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2008-05-14",
+              "home": "fc-zenit",
+              "away": "rangers-fc",
+              "score": "2:0",
+              "neutral": true,
+              "note": "City of Manchester Stadium, Manchester"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1566 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2022-23",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "malmo-ff",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "malmo-ff",
+              "away": "f91-dudelange",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "f91-dudelange",
+              "away": "malmo-ff",
+              "score": "2:2",
+              "note": "Played at Stade de Luxembourg, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "kf-shkupi"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "shamrock-rovers-fc",
+              "away": "kf-shkupi",
+              "score": "3:1"
+            },
+            {
+              "date": "2022-08-09",
+              "home": "kf-shkupi",
+              "away": "shamrock-rovers-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "linfield-fc",
+              "away": "fc-zurich",
+              "score": "0:2"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "fc-zurich",
+              "away": "linfield-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "olympiacos-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "sk-slovan-bratislava",
+              "away": "olympiacos-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Olympiacos FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "olympiacos-fc"
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "nk-maribor",
+              "away": "hjk-helsinki",
+              "score": "0:2"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "hjk-helsinki",
+              "away": "nk-maribor",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-larnaca-fc",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "aek-larnaca-fc",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "fk-partizan",
+              "away": "aek-larnaca-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "1-fc-slovacko"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-04",
+              "home": "fenerbahce-sk",
+              "away": "1-fc-slovacko",
+              "score": "3:0"
+            },
+            {
+              "date": "2022-08-11",
+              "home": "1-fc-slovacko",
+              "away": "fenerbahce-sk",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "sc-dnipro-1",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "sc-dnipro-1",
+              "away": "aek-larnaca-fc",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Košická futbalová aréna, Košice (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "aek-larnaca-fc",
+              "away": "sc-dnipro-1",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "kaa-gent",
+              "away": "ac-omonia",
+              "score": "0:2"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "ac-omonia",
+              "away": "kaa-gent",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "fk-austria-wien",
+              "away": "fenerbahce-sk",
+              "score": "0:2"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "fenerbahce-sk",
+              "away": "fk-austria-wien",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "fc-zurich",
+              "away": "heart-of-midlothian-fc",
+              "score": "2:1",
+              "note": "Played at Kybunpark, St. Gallen (the Letzigrund was unavailable)"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "heart-of-midlothian-fc",
+              "away": "fc-zurich",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "silkeborg-if"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "hjk-helsinki",
+              "away": "silkeborg-if",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "silkeborg-if",
+              "away": "hjk-helsinki",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "sivasspor"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "malmo-ff",
+              "away": "sivasspor",
+              "score": "3:1"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "sivasspor",
+              "away": "malmo-ff",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "ferencvarosi-tc",
+              "away": "shamrock-rovers-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "shamrock-rovers-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "apollon-limassol-fc",
+              "away": "olympiacos-fc",
+              "score": "1:1",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "olympiacos-fc",
+              "away": "apollon-limassol-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Olympiacos FC won 3:1 on penalties"
+            }
+          ],
+          "winner": "olympiacos-fc"
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "fc-pyunik",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "fc-sheriff-tiraspol",
+              "away": "fc-pyunik",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at Zimbru Stadium, Chișinău (Sheriff could not play in Tiraspol because of Transnistria's involvement in the Russian invasion of Ukraine); FC Sheriff Tiraspol won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-sheriff-tiraspol"
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-18",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fk-zalgiris",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-08-25",
+              "home": "fk-zalgiris",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "3:3",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2022-09-08",
+          "home": "fc-zurich",
+          "away": "arsenal-fc",
+          "score": "1:2",
+          "group": "A",
+          "note": "Played at Kybunpark, St. Gallen (the Letzigrund was unavailable)"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "psv-eindhoven",
+          "away": "fk-bodoglimt",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "fk-bodoglimt",
+          "away": "fc-zurich",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "fc-zurich",
+          "away": "psv-eindhoven",
+          "score": "1:5",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "arsenal-fc",
+          "away": "fk-bodoglimt",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "fk-bodoglimt",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "psv-eindhoven",
+          "away": "fc-zurich",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-20",
+          "home": "arsenal-fc",
+          "away": "psv-eindhoven",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "fc-zurich",
+          "away": "fk-bodoglimt",
+          "score": "2:1",
+          "group": "A"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "psv-eindhoven",
+          "away": "arsenal-fc",
+          "score": "2:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "arsenal-fc",
+          "away": "fc-zurich",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "fk-bodoglimt",
+          "away": "psv-eindhoven",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "aek-larnaca-fc",
+          "away": "stade-rennais-fc",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "fenerbahce-sk",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "fc-dynamo-kyiv",
+          "away": "aek-larnaca-fc",
+          "score": "0:1",
+          "group": "B",
+          "neutral": true,
+          "note": "Played at Stadion Cracovii im. Józefa Piłsudskiego, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "stade-rennais-fc",
+          "away": "fenerbahce-sk",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "stade-rennais-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "fenerbahce-sk",
+          "away": "aek-larnaca-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "fc-dynamo-kyiv",
+          "away": "stade-rennais-fc",
+          "score": "0:1",
+          "group": "B",
+          "neutral": true,
+          "note": "Played at Stadion Cracovii im. Józefa Piłsudskiego, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "aek-larnaca-fc",
+          "away": "fenerbahce-sk",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "fenerbahce-sk",
+          "away": "stade-rennais-fc",
+          "score": "3:3",
+          "group": "B"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "aek-larnaca-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:3",
+          "group": "B"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "fc-dynamo-kyiv",
+          "away": "fenerbahce-sk",
+          "score": "0:2",
+          "group": "B",
+          "neutral": true,
+          "note": "Played at Stadion Cracovii im. Józefa Piłsudskiego, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "stade-rennais-fc",
+          "away": "aek-larnaca-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "as-roma",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "hjk-helsinki",
+          "away": "real-betis",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "real-betis",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "3:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "as-roma",
+          "away": "hjk-helsinki",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "hjk-helsinki",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "as-roma",
+          "away": "real-betis",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "real-betis",
+          "away": "as-roma",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "hjk-helsinki",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "real-betis",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "hjk-helsinki",
+          "away": "as-roma",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "as-roma",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "real-betis",
+          "away": "hjk-helsinki",
+          "score": "3:0",
+          "group": "C"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "malmo-ff",
+          "away": "sc-braga",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "1-fc-union-berlin",
+          "away": "r-union-saint-gilloise",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "r-union-saint-gilloise",
+          "away": "malmo-ff",
+          "score": "3:2",
+          "group": "D",
+          "note": "Played at Den Dreef, Leuven (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "sc-braga",
+          "away": "1-fc-union-berlin",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "malmo-ff",
+          "away": "1-fc-union-berlin",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "sc-braga",
+          "away": "r-union-saint-gilloise",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "r-union-saint-gilloise",
+          "away": "sc-braga",
+          "score": "3:3",
+          "group": "D",
+          "note": "Played at Den Dreef, Leuven (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "1-fc-union-berlin",
+          "away": "malmo-ff",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "malmo-ff",
+          "away": "r-union-saint-gilloise",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "1-fc-union-berlin",
+          "away": "sc-braga",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "r-union-saint-gilloise",
+          "away": "1-fc-union-berlin",
+          "score": "0:1",
+          "group": "D",
+          "note": "Played at Den Dreef, Leuven (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "sc-braga",
+          "away": "malmo-ff",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "manchester-united-fc",
+          "away": "real-sociedad",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "ac-omonia",
+          "away": "fc-sheriff-tiraspol",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "fc-sheriff-tiraspol",
+          "away": "manchester-united-fc",
+          "score": "0:2",
+          "group": "E",
+          "note": "Played at Zimbru Stadium, Chișinău (Sheriff could not play in Tiraspol because of Transnistria's involvement in the Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "real-sociedad",
+          "away": "ac-omonia",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "fc-sheriff-tiraspol",
+          "away": "real-sociedad",
+          "score": "0:2",
+          "group": "E",
+          "note": "Played at Zimbru Stadium, Chișinău (Sheriff could not play in Tiraspol because of Transnistria's involvement in the Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "ac-omonia",
+          "away": "manchester-united-fc",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "manchester-united-fc",
+          "away": "ac-omonia",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "real-sociedad",
+          "away": "fc-sheriff-tiraspol",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "manchester-united-fc",
+          "away": "fc-sheriff-tiraspol",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "ac-omonia",
+          "away": "real-sociedad",
+          "score": "0:2",
+          "group": "E"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "real-sociedad",
+          "away": "manchester-united-fc",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "fc-sheriff-tiraspol",
+          "away": "ac-omonia",
+          "score": "1:0",
+          "group": "E",
+          "note": "Played at Zimbru Stadium, Chișinău (Sheriff could not play in Tiraspol because of Transnistria's involvement in the Russian invasion of Ukraine)"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "ss-lazio",
+          "away": "feyenoord",
+          "score": "4:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "sk-sturm-graz",
+          "away": "fc-midtjylland",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "fc-midtjylland",
+          "away": "ss-lazio",
+          "score": "5:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "feyenoord",
+          "away": "sk-sturm-graz",
+          "score": "6:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "sk-sturm-graz",
+          "away": "ss-lazio",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "fc-midtjylland",
+          "away": "feyenoord",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "feyenoord",
+          "away": "fc-midtjylland",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "ss-lazio",
+          "away": "sk-sturm-graz",
+          "score": "2:2",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "ss-lazio",
+          "away": "fc-midtjylland",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "sk-sturm-graz",
+          "away": "feyenoord",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "fc-midtjylland",
+          "away": "sk-sturm-graz",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "feyenoord",
+          "away": "ss-lazio",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "fc-nantes",
+          "away": "olympiacos-fc",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "sc-freiburg",
+          "away": "qarabag-fk",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "olympiacos-fc",
+          "away": "sc-freiburg",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "qarabag-fk",
+          "away": "fc-nantes",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "olympiacos-fc",
+          "away": "qarabag-fk",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "sc-freiburg",
+          "away": "fc-nantes",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "fc-nantes",
+          "away": "sc-freiburg",
+          "score": "0:4",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "qarabag-fk",
+          "away": "olympiacos-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "sc-freiburg",
+          "away": "olympiacos-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "fc-nantes",
+          "away": "qarabag-fk",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "qarabag-fk",
+          "away": "sc-freiburg",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "olympiacos-fc",
+          "away": "fc-nantes",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "red-star-belgrade",
+          "away": "as-monaco-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-08",
+          "home": "ferencvarosi-tc",
+          "away": "trabzonspor",
+          "score": "3:2",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "trabzonspor",
+          "away": "red-star-belgrade",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-09-15",
+          "home": "as-monaco-fc",
+          "away": "ferencvarosi-tc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "red-star-belgrade",
+          "away": "ferencvarosi-tc",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-06",
+          "home": "as-monaco-fc",
+          "away": "trabzonspor",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "trabzonspor",
+          "away": "as-monaco-fc",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-13",
+          "home": "ferencvarosi-tc",
+          "away": "red-star-belgrade",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "red-star-belgrade",
+          "away": "trabzonspor",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-10-27",
+          "home": "ferencvarosi-tc",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "trabzonspor",
+          "away": "ferencvarosi-tc",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2022-11-03",
+          "home": "as-monaco-fc",
+          "away": "red-star-belgrade",
+          "score": "4:1",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "fc-barcelona",
+              "away": "manchester-united-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "manchester-united-fc",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "juventus-fc",
+              "away": "fc-nantes",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "fc-nantes",
+              "away": "juventus-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "sporting-cp",
+              "away": "fc-midtjylland",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "fc-midtjylland",
+              "away": "sporting-cp",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "stade-rennais-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "fc-shakhtar-donetsk",
+              "away": "stade-rennais-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Stadion Wojska Polskiego, Warsaw (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "stade-rennais-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FC Shakhtar Donetsk won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-shakhtar-donetsk"
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "1-fc-union-berlin"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "afc-ajax",
+              "away": "1-fc-union-berlin",
+              "score": "0:0"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "1-fc-union-berlin",
+              "away": "afc-ajax",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "bayer-04-leverkusen",
+              "away": "as-monaco-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "as-monaco-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "2:3",
+              "extra_time": true,
+              "note": "Bayer 04 Leverkusen won 5:3 on penalties"
+            }
+          ],
+          "winner": "bayer-04-leverkusen"
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "sevilla-fc",
+              "away": "psv-eindhoven",
+              "score": "3:0"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "psv-eindhoven",
+              "away": "sevilla-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2023-02-16",
+              "home": "fc-red-bull-salzburg",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-02-23",
+              "home": "as-roma",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-union-berlin",
+            "r-union-saint-gilloise"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "1-fc-union-berlin",
+              "away": "r-union-saint-gilloise",
+              "score": "3:3"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "r-union-saint-gilloise",
+              "away": "1-fc-union-berlin",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "sevilla-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "fenerbahce-sk",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "sc-freiburg"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "juventus-fc",
+              "away": "sc-freiburg",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "sc-freiburg",
+              "away": "juventus-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "bayer-04-leverkusen",
+              "away": "ferencvarosi-tc",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "ferencvarosi-tc",
+              "away": "bayer-04-leverkusen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "sporting-cp",
+              "away": "arsenal-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "arsenal-fc",
+              "away": "sporting-cp",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Sporting CP won 5:3 on penalties"
+            }
+          ],
+          "winner": "sporting-cp"
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "manchester-united-fc",
+              "away": "real-betis",
+              "score": "4:1"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "real-betis",
+              "away": "manchester-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "as-roma",
+              "away": "real-sociedad",
+              "score": "2:0"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "real-sociedad",
+              "away": "as-roma",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2023-03-09",
+              "home": "fc-shakhtar-donetsk",
+              "away": "feyenoord",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Stadion Wojska Polskiego, Warsaw (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2023-03-16",
+              "home": "feyenoord",
+              "away": "fc-shakhtar-donetsk",
+              "score": "7:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-13",
+              "home": "manchester-united-fc",
+              "away": "sevilla-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2023-04-20",
+              "home": "sevilla-fc",
+              "away": "manchester-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-13",
+              "home": "juventus-fc",
+              "away": "sporting-cp",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-04-20",
+              "home": "sporting-cp",
+              "away": "juventus-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "r-union-saint-gilloise"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-13",
+              "home": "bayer-04-leverkusen",
+              "away": "r-union-saint-gilloise",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-04-20",
+              "home": "r-union-saint-gilloise",
+              "away": "bayer-04-leverkusen",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2023-04-13",
+              "home": "feyenoord",
+              "away": "as-roma",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-04-20",
+              "home": "as-roma",
+              "away": "feyenoord",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2023-05-11",
+              "home": "juventus-fc",
+              "away": "sevilla-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2023-05-18",
+              "home": "sevilla-fc",
+              "away": "juventus-fc",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2023-05-11",
+              "home": "as-roma",
+              "away": "bayer-04-leverkusen",
+              "score": "1:0"
+            },
+            {
+              "date": "2023-05-18",
+              "home": "bayer-04-leverkusen",
+              "away": "as-roma",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sevilla-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2023-05-31",
+              "home": "sevilla-fc",
+              "away": "as-roma",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Puskás Aréna, Budapest; Sevilla FC won 4:1 on penalties"
+            }
+          ],
+          "winner": "sevilla-fc"
+        }
+      ]
+    }
+  ]
+}

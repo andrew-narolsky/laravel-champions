@@ -1,0 +1,1876 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1994-95",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "fc-volov-shumen"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fc-volov-shumen",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-volov-shumen",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "aris-thessaloniki-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "aris-thessaloniki-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-city-fc",
+            "ia-akranes"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "bangor-city-fc",
+              "away": "ia-akranes",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "ia-akranes",
+              "away": "bangor-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "fc-zimbru-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "budapest-honved-fc",
+              "away": "fc-zimbru-chisinau",
+              "score": "4:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-zimbru-chisinau",
+              "away": "budapest-honved-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-grevenmacher",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "cs-grevenmacher",
+              "away": "rosenborg-bk",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "rosenborg-bk",
+              "away": "cs-grevenmacher",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aarau",
+            "nk-mura"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fc-aarau",
+              "away": "nk-mura",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "nk-mura",
+              "away": "fc-aarau",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fc-dinamo-minsk",
+              "away": "hibernians-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "hibernians-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "4:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fc-dinamo-tbilisi",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "cs-universitatea-craiova",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-jazz"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fc-copenhagen",
+              "away": "fc-jazz",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-jazz",
+              "away": "fc-copenhagen",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "turan-tovuz"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fenerbahce-sk",
+              "away": "turan-tovuz",
+              "score": "5:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "turan-tovuz",
+              "away": "fenerbahce-sk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fh-hafnarfjardar",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "linfield-fc",
+              "away": "fh-hafnarfjardar",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "mypa-myllykoski"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fk-inter-bratislava",
+              "away": "mypa-myllykoski",
+              "score": "0:3"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "mypa-myllykoski",
+              "away": "fk-inter-bratislava",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "bekescsaba-1912-elore"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "fk-vardar",
+              "away": "bekescsaba-1912-elore",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "bekescsaba-1912-elore",
+              "away": "fk-vardar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gi-gota",
+            "trelleborgs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "gi-gota",
+              "away": "trelleborgs-ff",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "trelleborgs-ff",
+              "away": "gi-gota",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "gornik-zabrze",
+              "away": "shamrock-rovers-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "shamrock-rovers-fc",
+              "away": "gornik-zabrze",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-teuta",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "kf-teuta",
+              "away": "apollon-limassol-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "apollon-limassol-fc",
+              "away": "kf-teuta",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "lillestrom-sk",
+              "away": "fc-shakhtar-donetsk",
+              "score": "4:1"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-shakhtar-donetsk",
+              "away": "lillestrom-sk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "motherwell-fc",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "motherwell-fc",
+              "away": "hb-torshavn",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "hb-torshavn",
+              "away": "motherwell-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "odense-boldklub",
+              "away": "fc-flora",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-flora",
+              "away": "odense-boldklub",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "nk-olimpija",
+              "away": "pfc-levski-sofia",
+              "score": "3:2"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "pfc-levski-sofia",
+              "away": "nk-olimpija",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "pfc-cska-sofia",
+              "away": "fc-ararat-yerevan",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-ararat-yerevan",
+              "away": "pfc-cska-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "portadown-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "portadown-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:2"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "sk-slovan-bratislava",
+              "away": "portadown-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "romar-mazeikiai",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "romar-mazeikiai",
+              "away": "aik-fotboll",
+              "score": "0:2"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "aik-fotboll",
+              "away": "romar-mazeikiai",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "cork-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "sk-slavia-prague",
+              "away": "cork-city-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "cork-city-fc",
+              "away": "sk-slavia-prague",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "aberdeen-fc"
+          ],
+          "winner": "skonto-fc",
+          "note": "Skonto won on away goals",
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "skonto-fc",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "aberdeen-fc",
+              "away": "skonto-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-cardiff-fc",
+            "gks-katowice"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "inter-cardiff-fc",
+              "away": "gks-katowice",
+              "score": "0:2"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "gks-katowice",
+              "away": "inter-cardiff-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-09",
+              "home": "valletta-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "2:6"
+            },
+            {
+              "date": "1994-08-23",
+              "home": "fc-rapid-bucuresti",
+              "away": "valletta-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aik-fotboll",
+            "sk-slavia-prague"
+          ],
+          "winner": "aik-fotboll",
+          "note": "AIK won on away goals",
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "aik-fotboll",
+              "away": "sk-slavia-prague",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "sk-slavia-prague",
+              "away": "aik-fotboll",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "anorthosis-famagusta-fc",
+              "away": "athletic-bilbao",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "athletic-bilbao",
+              "away": "anorthosis-famagusta-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "apollon-limassol-fc",
+              "away": "fc-sion",
+              "score": "1:3"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-sion",
+              "away": "apollon-limassol-fc",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-cannes",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "as-cannes",
+              "away": "fenerbahce-sk",
+              "score": "4:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fenerbahce-sk",
+              "away": "as-cannes",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "bayer-04-leverkusen",
+              "away": "psv-eindhoven",
+              "score": "5:4"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "psv-eindhoven",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "blackburn-rovers-fc",
+            "trelleborgs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "blackburn-rovers-fc",
+              "away": "trelleborgs-ff",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "trelleborgs-ff",
+              "away": "blackburn-rovers-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "mypa-myllykoski"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "boavista-fc",
+              "away": "mypa-myllykoski",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "mypa-myllykoski",
+              "away": "boavista-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "motherwell-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "borussia-dortmund",
+              "away": "motherwell-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-28",
+              "home": "motherwell-fc",
+              "away": "borussia-dortmund",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aarau",
+            "cs-maritimo"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-aarau",
+              "away": "cs-maritimo",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "cs-maritimo",
+              "away": "fc-aarau",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-dinamo-minsk",
+              "away": "ss-lazio",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "ss-lazio",
+              "away": "fc-dinamo-minsk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-tirol-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-tirol-innsbruck",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-tirol-innsbruck",
+              "away": "fc-dinamo-tbilisi",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "lillestrom-sk",
+              "score": "3:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "lillestrom-sk",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tekstilshchik-kamyshin",
+            "bekescsaba-1912-elore"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-tekstilshchik-kamyshin",
+              "away": "bekescsaba-1912-elore",
+              "score": "6:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "bekescsaba-1912-elore",
+              "away": "fc-tekstilshchik-kamyshin",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-twente",
+              "away": "budapest-honved-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "budapest-honved-fc",
+              "away": "fc-twente",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "gks-katowice",
+              "away": "aris-thessaloniki-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "aris-thessaloniki-fc",
+              "away": "gks-katowice",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "GKS Katowice won 4:3 on penalties"
+            }
+          ],
+          "winner": "gks-katowice"
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "ia-akranes",
+              "away": "1-fc-kaiserslautern",
+              "score": "0:4"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "1-fc-kaiserslautern",
+              "away": "ia-akranes",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "linfield-fc",
+              "away": "odense-boldklub",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "odense-boldklub",
+              "away": "linfield-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "ssc-napoli",
+              "away": "skonto-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "skonto-fc",
+              "away": "ssc-napoli",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "olympiacos-fc",
+              "away": "olympique-de-marseille",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "olympique-de-marseille",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "pfc-cska-sofia",
+              "away": "juventus-fc",
+              "score": "0:3",
+              "note": "Awarded 3:0 to Juventus: CSKA Sofia fielded an ineligible player, Petar Mihtarski (the match finished 3:2)"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "juventus-fc",
+              "away": "pfc-cska-sofia",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "r-antwerp-fc",
+              "away": "newcastle-united-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "newcastle-united-fc",
+              "away": "r-antwerp-fc",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-seraing",
+            "fc-dynamo-moscow"
+          ],
+          "winner": "fc-dynamo-moscow",
+          "note": "Dynamo Moscow won on away goals",
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "rfc-seraing",
+              "away": "fc-dynamo-moscow",
+              "score": "3:4"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-dynamo-moscow",
+              "away": "rfc-seraing",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "r-charleroi-sc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-rapid-bucuresti",
+              "away": "r-charleroi-sc",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "r-charleroi-sc",
+              "away": "fc-rapid-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "sporting-cp"
+          ],
+          "winner": "real-madrid-cf",
+          "note": "Real Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "real-madrid-cf",
+              "away": "sporting-cp",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "sporting-cp",
+              "away": "real-madrid-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "rosenborg-bk",
+              "away": "deportivo-de-la-coruna",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "deportivo-de-la-coruna",
+              "away": "rosenborg-bk",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rotor-volgograd",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "fc-rotor-volgograd",
+              "away": "fc-nantes",
+              "score": "3:2"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-nantes",
+              "away": "fc-rotor-volgograd",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-copenhagen",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-copenhagen",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "trabzonspor",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "fc-dinamo-bucuresti",
+              "away": "trabzonspor",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "admira-wacker",
+              "away": "gornik-zabrze",
+              "score": "5:2"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "gornik-zabrze",
+              "away": "admira-wacker",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "sbv-vitesse",
+              "away": "parma-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "parma-calcio",
+              "away": "sbv-vitesse",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "inter-milan",
+              "away": "aston-villa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "aston-villa-fc",
+              "away": "inter-milan",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Aston Villa FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "aston-villa-fc"
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "nk-olimpija",
+              "away": "eintracht-frankfurt",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-09-27",
+              "home": "eintracht-frankfurt",
+              "away": "nk-olimpija",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "odense-boldklub"
+          ],
+          "winner": "odense-boldklub",
+          "note": "Odense won on away goals",
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "1-fc-kaiserslautern",
+              "away": "odense-boldklub",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-11-02",
+              "home": "odense-boldklub",
+              "away": "1-fc-kaiserslautern",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "boavista-fc",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "ssc-napoli",
+              "away": "boavista-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "budapest-honved-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "0:2"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "bayer-04-leverkusen",
+              "away": "budapest-honved-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-maritimo",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "cs-maritimo",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-11-02",
+              "home": "juventus-fc",
+              "away": "cs-maritimo",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "fc-dynamo-moscow",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "real-madrid-cf",
+              "away": "fc-dynamo-moscow",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "fc-tekstilshchik-kamyshin"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "fc-nantes",
+              "away": "fc-tekstilshchik-kamyshin",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "fc-tekstilshchik-kamyshin",
+              "away": "fc-nantes",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "olympique-de-marseille"
+          ],
+          "winner": "fc-sion",
+          "note": "Sion won on away goals",
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "fc-sion",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "olympique-de-marseille",
+              "away": "fc-sion",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "fc-tirol-innsbruck",
+              "away": "deportivo-de-la-coruna",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "deportivo-de-la-coruna",
+              "away": "fc-tirol-innsbruck",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "gks-katowice",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "gks-katowice",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "athletic-bilbao"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "newcastle-united-fc",
+              "away": "athletic-bilbao",
+              "score": "3:2"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "athletic-bilbao",
+              "away": "newcastle-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "sk-slovan-bratislava",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "borussia-dortmund",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "aston-villa-fc"
+          ],
+          "winner": "trabzonspor",
+          "note": "Trabzonspor won on away goals",
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "trabzonspor",
+              "away": "aston-villa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "aston-villa-fc",
+              "away": "trabzonspor",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trelleborgs-ff",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "trelleborgs-ff",
+              "away": "ss-lazio",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "ss-lazio",
+              "away": "trelleborgs-ff",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "as-cannes"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-18",
+              "home": "admira-wacker",
+              "away": "as-cannes",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "as-cannes",
+              "away": "admira-wacker",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-19",
+              "home": "fc-rapid-bucuresti",
+              "away": "eintracht-frankfurt",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-11-01",
+              "home": "eintracht-frankfurt",
+              "away": "fc-rapid-bucuresti",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "aik-fotboll",
+              "away": "parma-calcio",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-11-02",
+              "home": "parma-calcio",
+              "away": "aik-fotboll",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-22",
+              "home": "athletic-bilbao",
+              "away": "parma-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "parma-calcio",
+              "away": "athletic-bilbao",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "deportivo-de-la-coruna",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-22",
+              "home": "deportivo-de-la-coruna",
+              "away": "borussia-dortmund",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "borussia-dortmund",
+              "away": "deportivo-de-la-coruna",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-22",
+              "home": "gks-katowice",
+              "away": "bayer-04-leverkusen",
+              "score": "1:4"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "bayer-04-leverkusen",
+              "away": "gks-katowice",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-22",
+              "home": "odense-boldklub",
+              "away": "real-madrid-cf",
+              "score": "2:3"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "real-madrid-cf",
+              "away": "odense-boldklub",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-22",
+              "home": "trabzonspor",
+              "away": "ss-lazio",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "ss-lazio",
+              "away": "trabzonspor",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-24",
+              "home": "eintracht-frankfurt",
+              "away": "ssc-napoli",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-12-07",
+              "home": "ssc-napoli",
+              "away": "eintracht-frankfurt",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-24",
+              "home": "fc-nantes",
+              "away": "fc-sion",
+              "score": "4:0"
+            },
+            {
+              "date": "1994-12-08",
+              "home": "fc-sion",
+              "away": "fc-nantes",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-11-24",
+              "home": "admira-wacker",
+              "away": "juventus-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1994-12-06",
+              "home": "juventus-fc",
+              "away": "admira-wacker",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1995-02-28",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-nantes",
+              "score": "5:1"
+            },
+            {
+              "date": "1995-03-14",
+              "home": "fc-nantes",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-02-28",
+              "home": "eintracht-frankfurt",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-03-14",
+              "home": "juventus-fc",
+              "away": "eintracht-frankfurt",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1995-02-28",
+              "home": "ss-lazio",
+              "away": "borussia-dortmund",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-03-14",
+              "home": "borussia-dortmund",
+              "away": "ss-lazio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-02",
+              "home": "parma-calcio",
+              "away": "odense-boldklub",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-03-14",
+              "home": "odense-boldklub",
+              "away": "parma-calcio",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-04",
+              "home": "bayer-04-leverkusen",
+              "away": "parma-calcio",
+              "score": "1:2"
+            },
+            {
+              "date": "1995-04-18",
+              "home": "parma-calcio",
+              "away": "bayer-04-leverkusen",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-04",
+              "home": "juventus-fc",
+              "away": "borussia-dortmund",
+              "score": "2:2"
+            },
+            {
+              "date": "1995-04-18",
+              "home": "borussia-dortmund",
+              "away": "juventus-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "parma-calcio",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-05-03",
+              "home": "parma-calcio",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-05-17",
+              "home": "juventus-fc",
+              "away": "parma-calcio",
+              "score": "1:1",
+              "note": "Played at San Siro, Milan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4964 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2018-19",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "europa-fc",
+            "fc-prishtina"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "europa-fc",
+              "away": "fc-prishtina",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "fc-prishtina",
+              "away": "europa-fc",
+              "score": "5:0",
+              "note": "Played at Adem Jashari Olympic Stadium, Mitrovica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-sant-julia",
+            "gzira-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-26",
+              "home": "ue-sant-julia",
+              "away": "gzira-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "gzira-united-fc",
+              "away": "ue-sant-julia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-engordany",
+            "ss-folgore-falciano"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "ue-engordany",
+              "away": "ss-folgore-falciano",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "ss-folgore-falciano",
+              "away": "ue-engordany",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Stadio Tullo Morgagni, Forlì (Italy) (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b36-torshavn",
+            "st-josephs-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "b36-torshavn",
+              "away": "st-josephs-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "st-josephs-fc",
+              "away": "b36-torshavn",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "B36 Tórshavn won 4:2 on penalties"
+            }
+          ],
+          "winner": "b36-torshavn"
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "birkirkara-fc",
+              "away": "ki-klaksvik",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "ki-klaksvik",
+              "away": "birkirkara-fc",
+              "score": "2:1",
+              "note": "Played at Gundadalur, Tórshavn (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tre-fiori-fc",
+            "bala-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "tre-fiori-fc",
+              "away": "bala-town-fc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Stadio Tullo Morgagni, Forlì (Italy) (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "bala-town-fc",
+              "away": "tre-fiori-fc",
+              "score": "1:0",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cefn-druids-afc",
+            "fk-riteriai"
+          ],
+          "matches": [
+            {
+              "date": "2018-06-28",
+              "home": "cefn-druids-afc",
+              "away": "fk-riteriai",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Park Hall, Oswestry (England) (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-05",
+              "home": "fk-riteriai",
+              "away": "cefn-druids-afc",
+              "score": "1:0",
+              "note": "Played at Alytus Stadium, Alytus (home ground did not meet UEFA criteria)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "stjarnan",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "stjarnan",
+              "away": "nomme-kalju-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "nomme-kalju-fc",
+              "away": "stjarnan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-ilves",
+              "away": "pfc-slavia-sofia",
+              "score": "0:1",
+              "note": "Played at Telia 5G -areena, Helsinki (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "pfc-slavia-sofia",
+              "away": "fc-ilves",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "ki-klaksvik",
+              "away": "fk-zalgiris",
+              "score": "1:2",
+              "note": "Played at Gundadalur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fk-zalgiris",
+              "away": "ki-klaksvik",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-fola-esch",
+            "fc-prishtina"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "cs-fola-esch",
+              "away": "fc-prishtina",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-prishtina",
+              "away": "cs-fola-esch",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at Adem Jashari Olympic Stadium, Mitrovica (home ground did not meet UEFA criteria); CS Fola Esch won 5:4 on penalties"
+            }
+          ],
+          "winner": "cs-fola-esch"
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "glenavon-fc",
+              "away": "molde-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "molde-fk",
+              "away": "glenavon-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dac-1904",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-dac-1904",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-dac-1904",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-stumbras",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-stumbras",
+              "away": "apollon-limassol-fc",
+              "score": "1:0",
+              "note": "Played at Alytus Stadium, Alytus (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "apollon-limassol-fc",
+              "away": "fc-stumbras",
+              "score": "2:0",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "nk-domzale"
+          ],
+          "winner": "nk-domzale",
+          "note": "Domžale won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "nk-siroki-brijeg",
+              "away": "nk-domzale",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "nk-domzale",
+              "away": "nk-siroki-brijeg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "kf-shkupi"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "rangers-fc",
+              "away": "kf-shkupi",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-07-17",
+              "home": "kf-shkupi",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qabala-ik",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "qabala-ik",
+              "away": "fc-progres-niederkorn",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-progres-niederkorn",
+              "away": "qabala-ik",
+              "score": "0:1",
+              "note": "Played at Stade Municipal, Differdange (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "racing-fc-union-luxembourg",
+            "fc-viitorul-constanta"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "racing-fc-union-luxembourg",
+              "away": "fc-viitorul-constanta",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-viitorul-constanta",
+              "away": "racing-fc-union-luxembourg",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-samtredia",
+            "fc-tobol"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-10",
+              "home": "fc-samtredia",
+              "away": "fc-tobol",
+              "score": "0:1",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-tobol",
+              "away": "fc-samtredia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-partizani",
+              "away": "nk-maribor",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "nk-maribor",
+              "away": "fk-partizani",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "neftci-pfk",
+              "away": "ujpest-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "ujpest-fc",
+              "away": "neftci-pfk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "as-trencin"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-buducnost-podgorica",
+              "away": "as-trencin",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "as-trencin",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:1",
+              "note": "Played at Stadium Myjava, Myjava (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "derry-city-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-dinamo-minsk",
+              "away": "derry-city-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b36-torshavn",
+            "ofk-titograd"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "b36-torshavn",
+              "away": "ofk-titograd",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "ofk-titograd",
+              "away": "b36-torshavn",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "fc-balti"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "gornik-zabrze",
+              "away": "fc-balti",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-balti",
+              "away": "gornik-zabrze",
+              "score": "1:1",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-spartak-subotica",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-spartak-subotica",
+              "away": "coleraine-fc",
+              "score": "1:1",
+              "note": "Played at Karađorđe Stadium, Novi Sad (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "coleraine-fc",
+              "away": "fk-spartak-subotica",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-pyunik",
+              "away": "fk-vardar",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fk-vardar",
+              "away": "fc-pyunik",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "shamrock-rovers-fc",
+              "away": "aik-fotboll",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "aik-fotboll",
+              "away": "shamrock-rovers-fc",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "connahs-quay-nomads-fc",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "connahs-quay-nomads-fc",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:3",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "connahs-quay-nomads-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lahti",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-lahti",
+              "away": "fh-hafnarfjardar",
+              "score": "0:3"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fh-hafnarfjardar",
+              "away": "fc-lahti",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "luftetari-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-ventspils",
+              "away": "luftetari-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "luftetari-fc",
+              "away": "fk-ventspils",
+              "score": "3:3",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "fc-nordsjaelland"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "cliftonville-fc",
+              "away": "fc-nordsjaelland",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-nordsjaelland",
+              "away": "cliftonville-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-urartu",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "fc-urartu",
+              "away": "fk-sarajevo",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fk-sarajevo",
+              "away": "fc-urartu",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-engordany",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "ue-engordany",
+              "away": "fc-kairat",
+              "score": "0:3"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-kairat",
+              "away": "ue-engordany",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrocub-hincesti",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-petrocub-hincesti",
+              "away": "nk-osijek",
+              "score": "1:1",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "nk-osijek",
+              "away": "fc-petrocub-hincesti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "kf-laci"
+          ],
+          "winner": "kf-laci",
+          "note": "Laçi won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "anorthosis-famagusta-fc",
+              "away": "kf-laci",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "kf-laci",
+              "away": "anorthosis-famagusta-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "ferencvarosi-tc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:0",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "balzan-fc",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "balzan-fc",
+              "away": "samaxi-fk",
+              "score": "4:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "samaxi-fk",
+              "away": "balzan-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "fk-rabotnicki",
+              "away": "budapest-honved-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-07-17",
+              "home": "budapest-honved-fc",
+              "away": "fk-rabotnicki",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rudar-pljevlja",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-rudar-pljevlja",
+              "away": "fk-partizan",
+              "score": "0:3",
+              "note": "Played at Gradski stadion, Nikšić (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fk-partizan",
+              "away": "fk-rudar-pljevlja",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "riga-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "pfc-cska-sofia",
+              "away": "riga-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "riga-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "PFC CSKA Sofia won 5:3 on penalties"
+            }
+          ],
+          "winner": "pfc-cska-sofia"
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-milsami-orhei",
+              "away": "sk-slovan-bratislava",
+              "score": "2:4"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-milsami-orhei",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-nis",
+            "gzira-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-radnicki-nis",
+              "away": "gzira-united-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "gzira-united-fc",
+              "away": "fk-radnicki-nis",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "fc-gandzasar"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "lech-poznan",
+              "away": "fc-gandzasar",
+              "score": "2:0",
+              "note": "Played behind closed doors (UEFA punishment)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-gandzasar",
+              "away": "lech-poznan",
+              "score": "2:1",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chikhura-sachkhere",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fc-chikhura-sachkhere",
+              "away": "beitar-jerusalem-fc",
+              "score": "0:0",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "beitar-jerusalem-fc",
+              "away": "fc-chikhura-sachkhere",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "pfc-levski-sofia"
+          ],
+          "winner": "fc-vaduz",
+          "note": "Vaduz won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-11",
+              "home": "fc-vaduz",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-07-17",
+              "home": "pfc-levski-sofia",
+              "away": "fc-vaduz",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-narva-trans",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "jk-narva-trans",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "0:2",
+              "note": "Played at A. Le Coq Arena, Tallinn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-07-18",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "jk-narva-trans",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-riteriai",
+            "fc-irtysh"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-riteriai",
+              "away": "fc-irtysh",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-irtysh",
+              "away": "fk-riteriai",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "nsi-runavik"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "hibernian-fc",
+              "away": "nsi-runavik",
+              "score": "6:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "nsi-runavik",
+              "away": "hibernian-fc",
+              "score": "4:6",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-rudar-velenje",
+            "tre-fiori-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "nk-rudar-velenje",
+              "away": "tre-fiori-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "tre-fiori-fc",
+              "away": "nk-rudar-velenje",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Stadio Tullo Morgagni, Forlì (Italy) (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fci-levadia-tallinn",
+              "away": "dundalk-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "dundalk-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "sarpsborg-08-ff"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "ibv-vestmannaeyjar",
+              "away": "sarpsborg-08-ff",
+              "score": "0:4"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "sarpsborg-08-ff",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "kups-kuopio",
+              "away": "fc-copenhagen",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "fc-copenhagen",
+              "away": "kups-kuopio",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepaja",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-12",
+              "home": "fk-liepaja",
+              "away": "bk-hacken",
+              "score": "0:3"
+            },
+            {
+              "date": "2018-07-19",
+              "home": "bk-hacken",
+              "away": "fk-liepaja",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "the-new-saints-fc",
+              "away": "lincoln-red-imps-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "lincoln-red-imps-fc",
+              "away": "the-new-saints-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "vikingur-gota"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-torpedo-kutaisi",
+              "away": "vikingur-gota",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "vikingur-gota",
+              "away": "fc-torpedo-kutaisi",
+              "score": "0:4",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "hsk-zrinjski-mostar",
+              "away": "valletta-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "valletta-fc",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-santa-coloma",
+              "away": "valur",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "valur",
+              "away": "fc-santa-coloma",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-alashkert",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-alashkert",
+              "away": "fk-sutjeska-niksic",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "fc-drita"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "f91-dudelange",
+              "away": "fc-drita",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-drita",
+              "away": "f91-dudelange",
+              "score": "1:1",
+              "note": "Played at Adem Jashari Olympic Stadium, Mitrovica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-spartaks-jurmala",
+            "sp-la-fiorita"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-spartaks-jurmala",
+              "away": "sp-la-fiorita",
+              "score": "6:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "sp-la-fiorita",
+              "away": "fk-spartaks-jurmala",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Stadio Tullo Morgagni, Forlì (Italy) (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "apoel-fc",
+              "away": "fc-flora",
+              "score": "5:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-flora",
+              "away": "apoel-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "nk-olimpija-ljubljana",
+              "away": "crusaders-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "crusaders-fc",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "kf-laci"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "molde-fk",
+              "away": "kf-laci",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "kf-laci",
+              "away": "molde-fk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "atalanta-bc",
+              "away": "fk-sarajevo",
+              "score": "2:2",
+              "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fk-sarajevo",
+              "away": "atalanta-bc",
+              "score": "0:8"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-zalgiris",
+              "away": "fc-vaduz",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-vaduz",
+              "away": "fk-zalgiris",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-kairat",
+              "away": "az-alkmaar",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "az-alkmaar",
+              "away": "fc-kairat",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "burnley-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "aberdeen-fc",
+              "away": "burnley-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "burnley-fc",
+              "away": "aberdeen-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fk-riteriai"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-partizan",
+              "away": "fk-riteriai",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fk-riteriai",
+              "away": "fk-partizan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "balzan-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "balzan-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "sk-slovan-bratislava",
+              "away": "balzan-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nordsjaelland",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-nordsjaelland",
+              "away": "aik-fotboll",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "aik-fotboll",
+              "away": "fc-nordsjaelland",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-rudar-velenje",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "nk-rudar-velenje",
+              "away": "fcsb",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fcsb",
+              "away": "nk-rudar-velenje",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-haifa-fc",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "hapoel-haifa-fc",
+              "away": "fh-hafnarfjardar",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fh-hafnarfjardar",
+              "away": "hapoel-haifa-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "dundalk-fc",
+              "away": "aek-larnaca-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "aek-larnaca-fc",
+              "away": "dundalk-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "as-trencin"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "gornik-zabrze",
+              "away": "as-trencin",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "as-trencin",
+              "away": "gornik-zabrze",
+              "score": "4:1",
+              "note": "Played at Stadium Myjava, Myjava (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fk-radnicki-nis"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fk-radnicki-nis",
+              "score": "2:0",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fk-radnicki-nis",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "pfc-cska-sofia",
+              "away": "admira-wacker",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "admira-wacker",
+              "away": "pfc-cska-sofia",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-spartak-subotica",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-spartak-subotica",
+              "away": "ac-sparta-prague",
+              "score": "2:0",
+              "note": "Played at Karađorđe Stadium, Novi Sad (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "ac-sparta-prague",
+              "away": "fk-spartak-subotica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "rb-leipzig",
+              "away": "bk-hacken",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "bk-hacken",
+              "away": "rb-leipzig",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "stjarnan",
+              "away": "fc-copenhagen",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-copenhagen",
+              "away": "stjarnan",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ufa",
+            "nk-domzale"
+          ],
+          "winner": "fc-ufa",
+          "note": "Ufa won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-ufa",
+              "away": "nk-domzale",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "nk-domzale",
+              "away": "fc-ufa",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tobol",
+            "fc-pyunik"
+          ],
+          "winner": "fc-pyunik",
+          "note": "Pyunik won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-tobol",
+              "away": "fc-pyunik",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-07-31",
+              "home": "fc-pyunik",
+              "away": "fc-tobol",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "rio-ave-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "jagiellonia-bialystok",
+              "away": "rio-ave-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "rio-ave-fc",
+              "away": "jagiellonia-bialystok",
+              "score": "4:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "linzer-ask",
+              "away": "lillestrom-sk",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "lillestrom-sk",
+              "away": "linzer-ask",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "budapest-honved-fc",
+              "away": "fc-progres-niederkorn",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-progres-niederkorn",
+              "away": "budapest-honved-fc",
+              "score": "2:0",
+              "note": "Played at Stade Municipal, Differdange (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "nk-osijek",
+              "away": "rangers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "rangers-fc",
+              "away": "nk-osijek",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b36-torshavn",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "b36-torshavn",
+              "away": "besiktas-jk",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "besiktas-jk",
+              "away": "b36-torshavn",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dac-1904",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-dac-1904",
+              "away": "fc-dinamo-minsk",
+              "score": "1:3"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-dac-1904",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-ventspils",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fk-ventspils",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "apollon-limassol-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "apollon-limassol-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "3:1",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viitorul-constanta",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-viitorul-constanta",
+              "away": "sbv-vitesse",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "sbv-vitesse",
+              "away": "fc-viitorul-constanta",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "sarpsborg-08-ff"
+          ],
+          "winner": "sarpsborg-08-ff",
+          "note": "Sarpsborg 08 won on away goals",
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-st-gallen",
+              "away": "sarpsborg-08-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "sarpsborg-08-ff",
+              "away": "fc-st-gallen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-brest",
+            "atromitos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-dynamo-brest",
+              "away": "atromitos-fc",
+              "score": "4:3"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "atromitos-fc",
+              "away": "fc-dynamo-brest",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "sevilla-fc",
+              "away": "ujpest-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "ujpest-fc",
+              "away": "sevilla-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "lech-poznan",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "lech-poznan",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "asteras-tripolis-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "hibernian-fc",
+              "away": "asteras-tripolis-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "asteras-tripolis-fc",
+              "away": "hibernian-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chikhura-sachkhere",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "fc-chikhura-sachkhere",
+              "away": "nk-maribor",
+              "score": "0:0",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "nk-maribor",
+              "away": "fc-chikhura-sachkhere",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "krc-genk",
+              "away": "cs-fola-esch",
+              "score": "5:0"
+            },
+            {
+              "date": "2018-08-01",
+              "home": "cs-fola-esch",
+              "away": "krc-genk",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "fc-mariupol"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "djurgardens-if",
+              "away": "fc-mariupol",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "fc-mariupol",
+              "away": "djurgardens-if",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at Chornomorets Stadium, Odesa (clubs from the Donbas could not play at home because of the war)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2018-07-26",
+              "home": "hnk-hajduk-split",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-02",
+              "home": "pfc-slavia-sofia",
+              "away": "hnk-hajduk-split",
+              "score": "2:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "hsk-zrinjski-mostar",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:1",
+              "note": "Played at Stadion Pecara, Široki Brijeg (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "legia-warsaw",
+              "away": "f91-dudelange",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "f91-dudelange",
+              "away": "legia-warsaw",
+              "score": "2:2",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-alashkert",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-alashkert",
+              "away": "cfr-cluj",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "cfr-cluj",
+              "away": "fc-alashkert",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "nk-olimpija-ljubljana",
+              "away": "hjk-helsinki",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "hjk-helsinki",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "valur"
+          ],
+          "winner": "fc-sheriff-tiraspol",
+          "note": "Sheriff Tiraspol won on away goals",
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-sheriff-tiraspol",
+              "away": "valur",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "valur",
+              "away": "fc-sheriff-tiraspol",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-city-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "cork-city-fc",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "rosenborg-bk",
+              "away": "cork-city-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-spartaks-jurmala",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fk-spartaks-jurmala",
+              "away": "fk-suduva",
+              "score": "0:1",
+              "note": "Played at Skonto Stadium, Riga (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fk-suduva",
+              "away": "fk-spartaks-jurmala",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "the-new-saints-fc",
+              "away": "fc-midtjylland",
+              "score": "0:2",
+              "note": "Played at Cardiff City Stadium, Cardiff (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-midtjylland",
+              "away": "the-new-saints-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "apoel-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "apoel-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "fk-kukesi"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-torpedo-kutaisi",
+              "away": "fk-kukesi",
+              "score": "5:2",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fk-kukesi",
+              "away": "fc-torpedo-kutaisi",
+              "score": "2:0",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-07",
+              "home": "fc-pyunik",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-pyunik",
+              "score": "2:1",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-zenit",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-zenit",
+              "away": "fc-dinamo-minsk",
+              "score": "8:1",
+              "extra_time": true,
+              "note": "Played at Petrovsky Stadium, Saint Petersburg, behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sk-sturm-graz",
+              "away": "aek-larnaca-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "aek-larnaca-fc",
+              "away": "sk-sturm-graz",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sarpsborg-08-ff",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sarpsborg-08-ff",
+              "away": "hnk-rijeka",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "hnk-rijeka",
+              "away": "sarpsborg-08-ff",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "istanbul-basaksehir-fk",
+            "burnley-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "istanbul-basaksehir-fk",
+              "away": "burnley-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "burnley-fc",
+              "away": "istanbul-basaksehir-fk",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "sc-braga"
+          ],
+          "winner": "fc-zorya-luhansk",
+          "note": "Zorya Luhansk won on away goals",
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-zorya-luhansk",
+              "away": "sc-braga",
+              "score": "1:1",
+              "note": "Played at Slavutych-Arena, Zaporizhia (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "sc-braga",
+              "away": "fc-zorya-luhansk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-haifa-fc",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "hapoel-haifa-fc",
+              "away": "atalanta-bc",
+              "score": "1:4"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "atalanta-bc",
+              "away": "hapoel-haifa-fc",
+              "score": "2:0",
+              "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "krc-genk",
+              "away": "lech-poznan",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "lech-poznan",
+              "away": "krc-genk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sbv-vitesse",
+              "away": "fc-basel",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-basel",
+              "away": "sbv-vitesse",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nordsjaelland",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-nordsjaelland",
+              "away": "fk-partizan",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fk-partizan",
+              "away": "fc-nordsjaelland",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "hibernian-fc",
+              "away": "molde-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "molde-fk",
+              "away": "hibernian-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "hnk-hajduk-split",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fcsb",
+              "away": "hnk-hajduk-split",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sevilla-fc",
+              "away": "fk-zalgiris",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fk-zalgiris",
+              "away": "sevilla-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sk-sigma-olomouc",
+              "away": "fc-kairat",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-kairat",
+              "away": "sk-sigma-olomouc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "sk-slovan-bratislava",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "sk-rapid-wien",
+              "away": "sk-slovan-bratislava",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-mariupol",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-mariupol",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:3",
+              "note": "Played at Chornomorets Stadium, Odesa (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-mariupol",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "pfc-cska-sofia",
+              "away": "fc-copenhagen",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-copenhagen",
+              "away": "pfc-cska-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-luzern"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "olympiacos-fc",
+              "away": "fc-luzern",
+              "score": "4:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-luzern",
+              "away": "olympiacos-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "rangers-fc",
+              "away": "nk-maribor",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "nk-maribor",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "as-trencin",
+              "away": "feyenoord",
+              "score": "4:0",
+              "note": "Played at Štadión pod Dubňom, Žilina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "feyenoord",
+              "away": "as-trencin",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "jagiellonia-bialystok",
+              "away": "kaa-gent",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "kaa-gent",
+              "away": "jagiellonia-bialystok",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-spartak-subotica",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fk-spartak-subotica",
+              "away": "brondby-if",
+              "score": "0:2",
+              "note": "Played at Red Star Stadium, Belgrade (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "brondby-if",
+              "away": "fk-spartak-subotica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ufa",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "fc-ufa",
+              "away": "fc-progres-niederkorn",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-progres-niederkorn",
+              "away": "fc-ufa",
+              "score": "2:2",
+              "note": "Played at Stade Municipal, Differdange (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "linzer-ask"
+          ],
+          "winner": "besiktas-jk",
+          "note": "Beşiktaş won on away goals",
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "besiktas-jk",
+              "away": "linzer-ask",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "linzer-ask",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "apollon-limassol-fc",
+              "away": "fc-dynamo-brest",
+              "score": "4:0",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "fc-dynamo-brest",
+              "away": "apollon-limassol-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-09",
+              "home": "rb-leipzig",
+              "away": "cs-universitatea-craiova",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-16",
+              "home": "cs-universitatea-craiova",
+              "away": "rb-leipzig",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fc-spartak-trnava",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-spartak-trnava",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "apoel-fc",
+              "away": "fc-astana",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-astana",
+              "away": "apoel-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Astana won 2:1 on penalties"
+            }
+          ],
+          "winner": "fc-astana"
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "rosenborg-bk",
+              "away": "kf-shkendija",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "kf-shkendija",
+              "away": "rosenborg-bk",
+              "score": "0:2",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "f91-dudelange",
+              "away": "cfr-cluj",
+              "score": "2:0",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "cfr-cluj",
+              "away": "f91-dudelange",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fk-suduva",
+              "away": "celtic-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "celtic-fc",
+              "away": "fk-suduva",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fc-sheriff-tiraspol",
+              "away": "qarabag-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "qarabag-fk",
+              "away": "fc-sheriff-tiraspol",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "malmo-ff",
+              "away": "fc-midtjylland",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-midtjylland",
+              "away": "malmo-ff",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "pfc-ludogorets-razgrad"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fc-torpedo-kutaisi",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:1",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fc-torpedo-kutaisi",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "sk-sigma-olomouc",
+              "away": "sevilla-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "sevilla-fc",
+              "away": "sk-sigma-olomouc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sarpsborg-08-ff",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "sarpsborg-08-ff",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "sarpsborg-08-ff",
+              "score": "2:1",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "kaa-gent",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "kaa-gent",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fk-partizan",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "besiktas-jk",
+              "away": "fk-partizan",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "sk-rapid-wien",
+              "away": "fcsb",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fcsb",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "apollon-limassol-fc"
+          ],
+          "winner": "apollon-limassol-fc",
+          "note": "Apollon Limassol won on away goals",
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fc-basel",
+              "away": "apollon-limassol-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "apollon-limassol-fc",
+              "away": "fc-basel",
+              "score": "1:0",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-ufa"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "rangers-fc",
+              "away": "fc-ufa",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-ufa",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "atalanta-bc",
+              "away": "fc-copenhagen",
+              "score": "0:0",
+              "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "fc-copenhagen",
+              "away": "atalanta-bc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "FC Copenhagen won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-copenhagen"
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fc-zenit",
+              "away": "molde-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "molde-fk",
+              "away": "fc-zenit",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "as-trencin",
+              "away": "aek-larnaca-fc",
+              "score": "1:1",
+              "note": "Played at Štadión pod Dubňom, Žilina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "aek-larnaca-fc",
+              "away": "as-trencin",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "krc-genk",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "krc-genk",
+              "away": "brondby-if",
+              "score": "5:2"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "brondby-if",
+              "away": "krc-genk",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "burnley-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "olympiacos-fc",
+              "away": "burnley-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "burnley-fc",
+              "away": "olympiacos-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "rb-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "2018-08-23",
+              "home": "fc-zorya-luhansk",
+              "away": "rb-leipzig",
+              "score": "0:0",
+              "note": "Played at Slavutych-Arena, Zaporizhia (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2018-08-30",
+              "home": "rb-leipzig",
+              "away": "fc-zorya-luhansk",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2018-09-20",
+          "home": "aek-larnaca-fc",
+          "away": "fc-zurich",
+          "score": "0:1",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "bayer-04-leverkusen",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "bayer-04-leverkusen",
+          "away": "aek-larnaca-fc",
+          "score": "4:2",
+          "group": "A"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-zurich",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fc-zurich",
+          "away": "bayer-04-leverkusen",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "aek-larnaca-fc",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "bayer-04-leverkusen",
+          "away": "fc-zurich",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "aek-larnaca-fc",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-zurich",
+          "away": "aek-larnaca-fc",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "bayer-04-leverkusen",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "aek-larnaca-fc",
+          "away": "bayer-04-leverkusen",
+          "score": "1:5",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "fc-zurich",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "rb-leipzig",
+          "away": "fc-red-bull-salzburg",
+          "score": "2:3",
+          "group": "B"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "celtic-fc",
+          "away": "rosenborg-bk",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "rosenborg-bk",
+          "away": "rb-leipzig",
+          "score": "1:3",
+          "group": "B"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-red-bull-salzburg",
+          "away": "celtic-fc",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fc-red-bull-salzburg",
+          "away": "rosenborg-bk",
+          "score": "3:0",
+          "group": "B"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "rb-leipzig",
+          "away": "celtic-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "rosenborg-bk",
+          "away": "fc-red-bull-salzburg",
+          "score": "2:5",
+          "group": "B"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "celtic-fc",
+          "away": "rb-leipzig",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-red-bull-salzburg",
+          "away": "rb-leipzig",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "rosenborg-bk",
+          "away": "celtic-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "rb-leipzig",
+          "away": "rosenborg-bk",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "celtic-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:2",
+          "group": "B"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "fc-copenhagen",
+          "away": "fc-zenit",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "sk-slavia-prague",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "fc-copenhagen",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-zenit",
+          "away": "sk-slavia-prague",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fc-zenit",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fc-copenhagen",
+          "away": "sk-slavia-prague",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "fc-zenit",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "sk-slavia-prague",
+          "away": "fc-copenhagen",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-zenit",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "sk-slavia-prague",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "fc-copenhagen",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "sk-slavia-prague",
+          "away": "fc-zenit",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "fc-spartak-trnava",
+          "away": "rsc-anderlecht",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fenerbahce-sk",
+          "score": "4:1",
+          "group": "D"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fenerbahce-sk",
+          "away": "fc-spartak-trnava",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "rsc-anderlecht",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "rsc-anderlecht",
+          "away": "fenerbahce-sk",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fc-spartak-trnava",
+          "away": "gnk-dinamo-zagreb",
+          "score": "1:2",
+          "group": "D",
+          "note": "Played behind closed doors (UEFA punishment for racist behaviour by Spartak Trnava fans)"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fenerbahce-sk",
+          "away": "rsc-anderlecht",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-spartak-trnava",
+          "score": "3:1",
+          "group": "D"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "rsc-anderlecht",
+          "away": "fc-spartak-trnava",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fenerbahce-sk",
+          "away": "gnk-dinamo-zagreb",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "fc-spartak-trnava",
+          "away": "fenerbahce-sk",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "gnk-dinamo-zagreb",
+          "away": "rsc-anderlecht",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "sporting-cp",
+          "away": "qarabag-fk",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "arsenal-fc",
+          "away": "fc-vorskla-poltava",
+          "score": "4:2",
+          "group": "E"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-vorskla-poltava",
+          "away": "sporting-cp",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "qarabag-fk",
+          "away": "arsenal-fc",
+          "score": "0:3",
+          "group": "E"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "qarabag-fk",
+          "away": "fc-vorskla-poltava",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "sporting-cp",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-vorskla-poltava",
+          "away": "qarabag-fk",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "arsenal-fc",
+          "away": "sporting-cp",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "qarabag-fk",
+          "away": "sporting-cp",
+          "score": "1:6",
+          "group": "E"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-vorskla-poltava",
+          "away": "arsenal-fc",
+          "score": "0:3",
+          "group": "E",
+          "note": "Played at NSC Olimpiyskiy, Kyiv (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "sporting-cp",
+          "away": "fc-vorskla-poltava",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "arsenal-fc",
+          "away": "qarabag-fk",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "f91-dudelange",
+          "away": "ac-milan",
+          "score": "0:1",
+          "group": "F",
+          "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "olympiacos-fc",
+          "away": "real-betis",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "real-betis",
+          "away": "f91-dudelange",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "ac-milan",
+          "away": "olympiacos-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "ac-milan",
+          "away": "real-betis",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "f91-dudelange",
+          "away": "olympiacos-fc",
+          "score": "0:2",
+          "group": "F",
+          "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "real-betis",
+          "away": "ac-milan",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "olympiacos-fc",
+          "away": "f91-dudelange",
+          "score": "5:1",
+          "group": "F"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "ac-milan",
+          "away": "f91-dudelange",
+          "score": "5:2",
+          "group": "F"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "real-betis",
+          "away": "olympiacos-fc",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "f91-dudelange",
+          "away": "real-betis",
+          "score": "0:0",
+          "group": "F",
+          "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "olympiacos-fc",
+          "away": "ac-milan",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "villarreal-cf",
+          "away": "rangers-fc",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "sk-rapid-wien",
+          "away": "fc-spartak-moscow",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-spartak-moscow",
+          "away": "villarreal-cf",
+          "score": "3:3",
+          "group": "G"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "rangers-fc",
+          "away": "sk-rapid-wien",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "rangers-fc",
+          "away": "fc-spartak-moscow",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "villarreal-cf",
+          "away": "sk-rapid-wien",
+          "score": "5:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-spartak-moscow",
+          "away": "rangers-fc",
+          "score": "4:3",
+          "group": "G"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "sk-rapid-wien",
+          "away": "villarreal-cf",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-spartak-moscow",
+          "away": "sk-rapid-wien",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "rangers-fc",
+          "away": "villarreal-cf",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "villarreal-cf",
+          "away": "fc-spartak-moscow",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "sk-rapid-wien",
+          "away": "rangers-fc",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "olympique-de-marseille",
+          "away": "eintracht-frankfurt",
+          "score": "1:2",
+          "group": "H",
+          "note": "Played behind closed doors (UEFA punishment for crowd trouble by Marseille fans)"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "ss-lazio",
+          "away": "apollon-limassol-fc",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "apollon-limassol-fc",
+          "away": "olympique-de-marseille",
+          "score": "2:2",
+          "group": "H",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "eintracht-frankfurt",
+          "away": "ss-lazio",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "eintracht-frankfurt",
+          "away": "apollon-limassol-fc",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "olympique-de-marseille",
+          "away": "ss-lazio",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "apollon-limassol-fc",
+          "away": "eintracht-frankfurt",
+          "score": "2:3",
+          "group": "H",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "ss-lazio",
+          "away": "olympique-de-marseille",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "eintracht-frankfurt",
+          "away": "olympique-de-marseille",
+          "score": "4:0",
+          "group": "H"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "apollon-limassol-fc",
+          "away": "ss-lazio",
+          "score": "2:0",
+          "group": "H",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "olympique-de-marseille",
+          "away": "apollon-limassol-fc",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "ss-lazio",
+          "away": "eintracht-frankfurt",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "besiktas-jk",
+          "away": "sarpsborg-08-ff",
+          "score": "3:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "krc-genk",
+          "away": "malmo-ff",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "malmo-ff",
+          "away": "besiktas-jk",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "sarpsborg-08-ff",
+          "away": "krc-genk",
+          "score": "3:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "sarpsborg-08-ff",
+          "away": "malmo-ff",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "besiktas-jk",
+          "away": "krc-genk",
+          "score": "2:4",
+          "group": "I"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "malmo-ff",
+          "away": "sarpsborg-08-ff",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "krc-genk",
+          "away": "besiktas-jk",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "sarpsborg-08-ff",
+          "away": "besiktas-jk",
+          "score": "2:3",
+          "group": "I"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "malmo-ff",
+          "away": "krc-genk",
+          "score": "2:2",
+          "group": "I"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "besiktas-jk",
+          "away": "malmo-ff",
+          "score": "0:1",
+          "group": "I"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "krc-genk",
+          "away": "sarpsborg-08-ff",
+          "score": "4:0",
+          "group": "I"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "sevilla-fc",
+          "away": "r-standard-liege",
+          "score": "5:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "akhisarspor",
+          "away": "fc-krasnodar",
+          "score": "0:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-krasnodar",
+          "away": "sevilla-fc",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "r-standard-liege",
+          "away": "akhisarspor",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "r-standard-liege",
+          "away": "fc-krasnodar",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "sevilla-fc",
+          "away": "akhisarspor",
+          "score": "6:0",
+          "group": "J"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-krasnodar",
+          "away": "r-standard-liege",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "akhisarspor",
+          "away": "sevilla-fc",
+          "score": "2:3",
+          "group": "J"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-krasnodar",
+          "away": "akhisarspor",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "r-standard-liege",
+          "away": "sevilla-fc",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "sevilla-fc",
+          "away": "fc-krasnodar",
+          "score": "3:0",
+          "group": "J"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "akhisarspor",
+          "away": "r-standard-liege",
+          "score": "0:0",
+          "group": "J"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "stade-rennais-fc",
+          "away": "fk-jablonec",
+          "score": "2:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-astana",
+          "score": "2:2",
+          "group": "K"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-astana",
+          "away": "stade-rennais-fc",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fk-jablonec",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:2",
+          "group": "K"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "fk-jablonec",
+          "away": "fc-astana",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "stade-rennais-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "1:2",
+          "group": "K"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-astana",
+          "away": "fk-jablonec",
+          "score": "2:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-dynamo-kyiv",
+          "away": "stade-rennais-fc",
+          "score": "3:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-astana",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fk-jablonec",
+          "away": "stade-rennais-fc",
+          "score": "0:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "stade-rennais-fc",
+          "away": "fc-astana",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "fc-dynamo-kyiv",
+          "away": "fk-jablonec",
+          "score": "0:1",
+          "group": "K"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "paok-fc",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2018-09-20",
+          "home": "videoton-fc-fehervar",
+          "away": "fc-bate-borisov",
+          "score": "0:2",
+          "group": "L",
+          "note": "Played at Groupama Arena, Budapest (the Sóstói Stadion was being rebuilt)"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "fc-bate-borisov",
+          "away": "paok-fc",
+          "score": "1:4",
+          "group": "L"
+        },
+        {
+          "date": "2018-10-04",
+          "home": "chelsea-fc",
+          "away": "videoton-fc-fehervar",
+          "score": "1:0",
+          "group": "L"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "chelsea-fc",
+          "away": "fc-bate-borisov",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2018-10-25",
+          "home": "paok-fc",
+          "away": "videoton-fc-fehervar",
+          "score": "0:2",
+          "group": "L"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "fc-bate-borisov",
+          "away": "chelsea-fc",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2018-11-08",
+          "home": "videoton-fc-fehervar",
+          "away": "paok-fc",
+          "score": "1:0",
+          "group": "L",
+          "note": "Played at Groupama Arena, Budapest (the Sóstói Stadion was being rebuilt)"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "fc-bate-borisov",
+          "away": "videoton-fc-fehervar",
+          "score": "2:0",
+          "group": "L"
+        },
+        {
+          "date": "2018-11-29",
+          "home": "chelsea-fc",
+          "away": "paok-fc",
+          "score": "4:0",
+          "group": "L"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "paok-fc",
+          "away": "fc-bate-borisov",
+          "score": "1:3",
+          "group": "L"
+        },
+        {
+          "date": "2018-12-13",
+          "home": "videoton-fc-fehervar",
+          "away": "chelsea-fc",
+          "score": "2:2",
+          "group": "L",
+          "note": "Played at Groupama Arena, Budapest (the Sóstói Stadion was being rebuilt)"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "fc-viktoria-plzen",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-viktoria-plzen",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "club-brugge-kv",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "fc-red-bull-salzburg",
+              "away": "club-brugge-kv",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "sk-rapid-wien",
+              "away": "inter-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "inter-milan",
+              "away": "sk-rapid-wien",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "krc-genk"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "sk-slavia-prague",
+              "away": "krc-genk",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "krc-genk",
+              "away": "sk-slavia-prague",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "bayer-04-leverkusen"
+          ],
+          "winner": "fc-krasnodar",
+          "note": "Krasnodar won on away goals",
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "fc-krasnodar",
+              "away": "bayer-04-leverkusen",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-krasnodar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "fc-zurich",
+              "away": "ssc-napoli",
+              "score": "1:3"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "ssc-napoli",
+              "away": "fc-zurich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "malmo-ff",
+              "away": "chelsea-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "chelsea-fc",
+              "away": "malmo-ff",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "fc-shakhtar-donetsk",
+              "away": "eintracht-frankfurt",
+              "score": "2:2",
+              "note": "Played at Metalist Stadium, Kharkiv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "eintracht-frankfurt",
+              "away": "fc-shakhtar-donetsk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "celtic-fc",
+              "away": "valencia-cf",
+              "score": "0:2"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "valencia-cf",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-rennais-fc",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "stade-rennais-fc",
+              "away": "real-betis",
+              "score": "3:3"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "real-betis",
+              "away": "stade-rennais-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "olympiacos-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:2"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "fc-dynamo-kyiv",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "ss-lazio",
+              "away": "sevilla-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-02-20",
+              "home": "sevilla-fc",
+              "away": "ss-lazio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-12",
+              "home": "fenerbahce-sk",
+              "away": "fc-zenit",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "fc-zenit",
+              "away": "fenerbahce-sk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "sporting-cp",
+              "away": "villarreal-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "villarreal-cf",
+              "away": "sporting-cp",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "fc-bate-borisov",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "arsenal-fc",
+              "away": "fc-bate-borisov",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2019-02-14",
+              "home": "galatasaray-sk",
+              "away": "sl-benfica",
+              "score": "1:2"
+            },
+            {
+              "date": "2019-02-21",
+              "home": "sl-benfica",
+              "away": "galatasaray-sk",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "chelsea-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "3:0"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "fc-dynamo-kyiv",
+              "away": "chelsea-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "eintracht-frankfurt",
+              "away": "inter-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "inter-milan",
+              "away": "eintracht-frankfurt",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "sl-benfica",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "ssc-napoli",
+              "away": "fc-red-bull-salzburg",
+              "score": "3:0"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "fc-red-bull-salzburg",
+              "away": "ssc-napoli",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "valencia-cf",
+              "away": "fc-krasnodar",
+              "score": "2:1"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "fc-krasnodar",
+              "away": "valencia-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "sevilla-fc",
+              "away": "sk-slavia-prague",
+              "score": "2:2"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "sk-slavia-prague",
+              "away": "sevilla-fc",
+              "score": "4:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-rennais-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "stade-rennais-fc",
+              "away": "arsenal-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "arsenal-fc",
+              "away": "stade-rennais-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2019-03-07",
+              "home": "fc-zenit",
+              "away": "villarreal-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "2019-03-14",
+              "home": "villarreal-cf",
+              "away": "fc-zenit",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2019-04-11",
+              "home": "arsenal-fc",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            },
+            {
+              "date": "2019-04-18",
+              "home": "ssc-napoli",
+              "away": "arsenal-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2019-04-11",
+              "home": "villarreal-cf",
+              "away": "valencia-cf",
+              "score": "1:3"
+            },
+            {
+              "date": "2019-04-18",
+              "home": "valencia-cf",
+              "away": "villarreal-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "eintracht-frankfurt"
+          ],
+          "winner": "eintracht-frankfurt",
+          "note": "Eintracht Frankfurt won on away goals",
+          "matches": [
+            {
+              "date": "2019-04-11",
+              "home": "sl-benfica",
+              "away": "eintracht-frankfurt",
+              "score": "4:2"
+            },
+            {
+              "date": "2019-04-18",
+              "home": "eintracht-frankfurt",
+              "away": "sl-benfica",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-04-11",
+              "home": "sk-slavia-prague",
+              "away": "chelsea-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2019-04-18",
+              "home": "chelsea-fc",
+              "away": "sk-slavia-prague",
+              "score": "4:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2019-05-02",
+              "home": "arsenal-fc",
+              "away": "valencia-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "2019-05-09",
+              "home": "valencia-cf",
+              "away": "arsenal-fc",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-05-02",
+              "home": "eintracht-frankfurt",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2019-05-09",
+              "home": "chelsea-fc",
+              "away": "eintracht-frankfurt",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Chelsea FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "chelsea-fc"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2019-05-29",
+              "home": "chelsea-fc",
+              "away": "arsenal-fc",
+              "score": "4:1",
+              "neutral": true,
+              "note": "Olympic Stadium, Baku"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

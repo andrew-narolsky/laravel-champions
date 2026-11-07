@@ -1,0 +1,2404 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1996-97",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "cs-grevenmacher"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-dinamo-tbilisi",
+              "away": "cs-grevenmacher",
+              "score": "4:0"
+            },
+            {
+              "date": "1996-07-23",
+              "home": "cs-grevenmacher",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-93-minsk",
+            "cs-tiligul-tiras-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-dinamo-93-minsk",
+              "away": "cs-tiligul-tiras-tiraspol",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "cs-tiligul-tiras-tiraspol",
+              "away": "fc-dinamo-93-minsk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "kf-tirana",
+              "score": "4:0"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "kf-tirana",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fc-margveti-zestaponi"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-margveti-zestaponi",
+              "score": "1:3"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-margveti-zestaponi",
+              "away": "sliema-wanderers-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-jazz",
+            "gi-gota"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-jazz",
+              "away": "gi-gota",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "gi-gota",
+              "away": "fc-jazz",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "nd-gorica",
+              "away": "fk-vardar",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fk-vardar",
+              "away": "nd-gorica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "fc-shirak"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "anorthosis-famagusta-fc",
+              "away": "fc-shirak",
+              "score": "4:0"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-shirak",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "portadown-fc",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "portadown-fc",
+              "away": "fk-vojvodina",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fk-vojvodina",
+              "away": "portadown-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-pyunik",
+              "away": "hjk-helsinki",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "hjk-helsinki",
+              "away": "fc-pyunik",
+              "score": "5:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lantana-tallinn",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-lantana-tallinn",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "ibv-vestmannaeyjar",
+              "away": "fc-lantana-tallinn",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "fc-dinamo-minsk"
+          ],
+          "winner": "fc-dinamo-minsk",
+          "note": "Dinamo Minsk won on away goals",
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "bohemian-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-dinamo-minsk",
+              "away": "bohemian-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "beitar-jerusalem-fc",
+              "away": "floriana-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "floriana-fc",
+              "away": "beitar-jerusalem-fc",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "jeunesse-esch",
+              "away": "legia-warsaw",
+              "score": "2:4"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "legia-warsaw",
+              "away": "jeunesse-esch",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "fk-inkaras-kaunas"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "pfc-slavia-sofia",
+              "away": "fk-inkaras-kaunas",
+              "score": "4:3"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fk-inkaras-kaunas",
+              "away": "pfc-slavia-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "fk-sileks"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "ia-akranes",
+              "away": "fk-sileks",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fk-sileks",
+              "away": "ia-akranes",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "neftci-pfk",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "neftci-pfk",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newtown-afc",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "newtown-afc",
+              "away": "skonto-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "skonto-fc",
+              "away": "newtown-afc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-zimbru-chisinau",
+              "away": "hnk-hajduk-split",
+              "score": "0:4"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "hnk-hajduk-split",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b71-sandur",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "b71-sandur",
+              "away": "apoel-fc",
+              "score": "1:5",
+              "note": "Played at Svangaskarð, Toftir"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "apoel-fc",
+              "away": "b71-sandur",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fk-zalgiris",
+              "away": "crusaders-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "crusaders-fc",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-teuta",
+            "fc-vss-kosice"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "kf-teuta",
+              "away": "fc-vss-kosice",
+              "score": "1:4"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-vss-kosice",
+              "away": "kf-teuta",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "fc-haka",
+              "away": "fc-flora",
+              "score": "2:2"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fc-flora",
+              "away": "fc-haka",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-becej-1918",
+            "nk-mura"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "ofk-becej-1918",
+              "away": "nk-mura",
+              "score": "0:0",
+              "note": "Played at Stadion Karađorđe, Novi Sad"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "nk-mura",
+              "away": "ofk-becej-1918",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hutnik-krakow",
+            "khazri-buzovna"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "hutnik-krakow",
+              "away": "khazri-buzovna",
+              "score": "9:0"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "khazri-buzovna",
+              "away": "hutnik-krakow",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-17",
+              "home": "maccabi-haifa-fc",
+              "away": "fk-partizan",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "fk-partizan",
+              "away": "maccabi-haifa-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "barry-town-united-fc",
+            "dinaburg-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-18",
+              "home": "barry-town-united-fc",
+              "away": "dinaburg-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-07-23",
+              "home": "dinaburg-fc",
+              "away": "barry-town-united-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1996-07-18",
+              "home": "st-patricks-athletic-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "3:4"
+            },
+            {
+              "date": "1996-07-24",
+              "home": "sk-slovan-bratislava",
+              "away": "st-patricks-athletic-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "fc-jazz"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-dynamo-moscow",
+              "away": "fc-jazz",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-jazz",
+              "away": "fc-dynamo-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-rapid-bucuresti",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "fc-rapid-bucuresti",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "anorthosis-famagusta-fc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:2"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "neuchatel-xamax-fcs",
+              "away": "anorthosis-famagusta-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "halmstads-bk",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "halmstads-bk",
+              "away": "fk-vardar",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fk-vardar",
+              "away": "halmstads-bk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grazer-ak",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "grazer-ak",
+              "away": "fk-vojvodina",
+              "score": "2:0",
+              "note": "Played at Alpenstadion, Kapfenberg"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fk-vojvodina",
+              "away": "grazer-ak",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "legia-warsaw",
+              "away": "fc-haka",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-haka",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "iraklis-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "iraklis-fc",
+              "away": "apoel-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "apoel-fc",
+              "away": "iraklis-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "fc-dinamo-93-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "helsingborgs-if",
+              "away": "fc-dinamo-93-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-dinamo-93-minsk",
+              "away": "helsingborgs-if",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "ia-akranes",
+              "away": "pfc-cska-moscow",
+              "score": "0:2"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "pfc-cska-moscow",
+              "away": "ia-akranes",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "sliema-wanderers-fc",
+              "away": "odense-boldklub",
+              "score": "0:2"
+            },
+            {
+              "date": "1996-08-06",
+              "home": "odense-boldklub",
+              "away": "sliema-wanderers-fc",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fk-zalgiris",
+              "away": "aberdeen-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "aberdeen-fc",
+              "away": "fk-zalgiris",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapesti-vsc",
+            "barry-town-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "budapesti-vsc",
+              "away": "barry-town-united-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "barry-town-united-fc",
+              "away": "budapesti-vsc",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Barry Town United FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "barry-town-united-fc"
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "hutnik-krakow"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "sk-sigma-olomouc",
+              "away": "hutnik-krakow",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "hutnik-krakow",
+              "away": "sk-sigma-olomouc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "sk-slovan-bratislava",
+              "away": "trabzonspor",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "trabzonspor",
+              "away": "sk-slovan-bratislava",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fk-partizan",
+              "away": "fc-progresul-bucuresti",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-progresul-bucuresti",
+              "away": "fk-partizan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aarau",
+            "fc-lantana-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-aarau",
+              "away": "fc-lantana-tallinn",
+              "score": "4:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-lantana-tallinn",
+              "away": "fc-aarau",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-spartak-moscow"
+          ],
+          "winner": "fc-spartak-moscow",
+          "note": "Spartak Moscow won on away goals",
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-spartak-moscow",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-spartak-moscow",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "fc-tirol-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "pfc-slavia-sofia",
+              "away": "fc-tirol-innsbruck",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-tirol-innsbruck",
+              "away": "pfc-slavia-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "hnk-hajduk-split",
+              "away": "fc-torpedo-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-torpedo-moscow",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "beitar-jerusalem-fc",
+              "away": "fk-bodoglimt",
+              "score": "1:5"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fk-bodoglimt",
+              "away": "beitar-jerusalem-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyngby-boldklub",
+            "nk-mura"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "lyngby-boldklub",
+              "away": "nk-mura",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "nk-mura",
+              "away": "lyngby-boldklub",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-vss-kosice",
+              "away": "celtic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "celtic-fc",
+              "away": "fc-vss-kosice",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "hjk-helsinki",
+              "away": "fc-chornomorets-odesa",
+              "score": "2:2"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "fc-chornomorets-odesa",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-dinamo-tbilisi",
+              "away": "molde-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "molde-fk",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "skonto-fc",
+              "away": "malmo-ff",
+              "score": "0:3"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "malmo-ff",
+              "away": "skonto-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1996-08-06",
+              "home": "fc-dinamo-minsk",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-08-20",
+              "home": "besiktas-jk",
+              "away": "fc-dinamo-minsk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "pfc-cska-moscow",
+              "away": "feyenoord",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "feyenoord",
+              "away": "pfc-cska-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "ferencvarosi-tc",
+              "away": "olympiacos-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "olympiacos-fc",
+              "away": "ferencvarosi-tc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "malmo-ff",
+              "away": "sk-slavia-prague",
+              "score": "1:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "sk-slavia-prague",
+              "away": "malmo-ff",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "rwd-molenbeek",
+              "away": "besiktas-jk",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "besiktas-jk",
+              "away": "rwd-molenbeek",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "celtic-fc",
+              "away": "hamburger-sv",
+              "score": "0:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "hamburger-sv",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-chornomorets-odesa",
+              "away": "fc-progresul-bucuresti",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-progresul-bucuresti",
+              "away": "fc-chornomorets-odesa",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "fc-metz"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-tirol-innsbruck",
+              "away": "fc-metz",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-metz",
+              "away": "fc-tirol-innsbruck",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "fc-aarau"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "brondby-if",
+              "away": "fc-aarau",
+              "score": "5:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-aarau",
+              "away": "brondby-if",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "club-brugge-kv",
+              "away": "lyngby-boldklub",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "lyngby-boldklub",
+              "away": "club-brugge-kv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "boavista-fc"
+          ],
+          "winner": "boavista-fc",
+          "note": "Boavista won on away goals",
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "odense-boldklub",
+              "away": "boavista-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "boavista-fc",
+              "away": "odense-boldklub",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "valencia-cf",
+              "away": "fc-bayern-munich",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-bayern-munich",
+              "away": "valencia-cf",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "as-roma",
+              "away": "fc-dynamo-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-dynamo-moscow",
+              "away": "as-roma",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-dynamo-kyiv",
+              "away": "neuchatel-xamax-fcs",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "neuchatel-xamax-fcs",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "rapid-jc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-schalke-04",
+              "away": "rapid-jc",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "rapid-jc",
+              "away": "fc-schalke-04",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "rc-lens",
+              "away": "ss-lazio",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "ss-lazio",
+              "away": "rc-lens",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "en-avant-guingamp",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "en-avant-guingamp",
+              "away": "inter-milan",
+              "score": "0:3"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "inter-milan",
+              "away": "en-avant-guingamp",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "barry-town-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "aberdeen-fc",
+              "away": "barry-town-united-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "barry-town-united-fc",
+              "away": "aberdeen-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "montpellier-hsc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "montpellier-hsc",
+              "away": "sporting-cp",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "sporting-cp",
+              "away": "montpellier-hsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fk-bodoglimt",
+              "away": "trabzonspor",
+              "score": "1:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "trabzonspor",
+              "away": "fk-bodoglimt",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "apoel-fc",
+              "away": "rcd-espanyol",
+              "score": "2:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "rcd-espanyol",
+              "away": "apoel-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "helsingborgs-if"
+          ],
+          "winner": "helsingborgs-if",
+          "note": "Helsingborg won on away goals",
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "aston-villa-fc",
+              "away": "helsingborgs-if",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "helsingborgs-if",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "grazer-ak"
+          ],
+          "winner": "grazer-ak",
+          "note": "Grazer AK won on away goals",
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "k-beerschot-vac",
+              "away": "grazer-ak",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "grazer-ak",
+              "away": "k-beerschot-vac",
+              "score": "2:0",
+              "note": "Played at Alpenstadion, Kapfenberg"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "halmstads-bk"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "newcastle-united-fc",
+              "away": "halmstads-bk",
+              "score": "4:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "halmstads-bk",
+              "away": "newcastle-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-vladikavkaz",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-spartak-vladikavkaz",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "rsc-anderlecht",
+              "away": "fc-spartak-vladikavkaz",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "parma-calcio",
+              "away": "vitoria-sc",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "vitoria-sc",
+              "away": "parma-calcio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "fc-torpedo-moscow",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-torpedo-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "cd-tenerife",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1996-09-25",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "cd-tenerife",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-10",
+              "home": "arsenal-fc",
+              "away": "borussia-monchengladbach",
+              "score": "2:3"
+            },
+            {
+              "date": "1996-09-25",
+              "home": "borussia-monchengladbach",
+              "away": "arsenal-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hutnik-krakow",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-11",
+              "home": "hutnik-krakow",
+              "away": "as-monaco-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "as-monaco-fc",
+              "away": "hutnik-krakow",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "silkeborg-if"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-11",
+              "home": "fc-spartak-moscow",
+              "away": "silkeborg-if",
+              "score": "3:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "silkeborg-if",
+              "away": "fc-spartak-moscow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "legia-warsaw"
+          ],
+          "winner": "legia-warsaw",
+          "note": "Legia Warsaw won on away goals",
+          "matches": [
+            {
+              "date": "1996-09-11",
+              "home": "panathinaikos-fc",
+              "away": "legia-warsaw",
+              "score": "4:2"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "legia-warsaw",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1996-09-11",
+              "home": "fc-rapid-bucuresti",
+              "away": "karlsruher-sc",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-09-24",
+              "home": "karlsruher-sc",
+              "away": "fc-rapid-bucuresti",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "fc-dinamo-tbilisi",
+              "away": "boavista-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "boavista-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "ferencvarosi-tc",
+              "away": "newcastle-united-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "newcastle-united-fc",
+              "away": "ferencvarosi-tc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "club-brugge-kv",
+              "away": "fc-progresul-bucuresti",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "fc-progresul-bucuresti",
+              "away": "club-brugge-kv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "rsc-anderlecht"
+          ],
+          "winner": "rsc-anderlecht",
+          "note": "Anderlecht won on away goals",
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "vitoria-sc",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "rsc-anderlecht",
+              "away": "vitoria-sc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metz",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "fc-metz",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "sporting-cp",
+              "away": "fc-metz",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "rcd-espanyol",
+              "away": "feyenoord",
+              "score": "0:3"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "feyenoord",
+              "away": "rcd-espanyol",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "aberdeen-fc",
+              "away": "brondby-if",
+              "score": "0:2"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "brondby-if",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "sk-slavia-prague",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "valencia-cf",
+              "away": "sk-slavia-prague",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "cd-tenerife"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "ss-lazio",
+              "away": "cd-tenerife",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "cd-tenerife",
+              "away": "ss-lazio",
+              "score": "5:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "inter-milan",
+              "away": "grazer-ak",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "grazer-ak",
+              "away": "inter-milan",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Alpenstadion, Kapfenberg; Inter Milan won 5:3 on penalties"
+            }
+          ],
+          "winner": "inter-milan"
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "helsingborgs-if",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "neuchatel-xamax-fcs",
+              "away": "helsingborgs-if",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "legia-warsaw",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "besiktas-jk",
+              "away": "legia-warsaw",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "fc-schalke-04",
+              "away": "trabzonspor",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "trabzonspor",
+              "away": "fc-schalke-04",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "borussia-monchengladbach",
+              "away": "as-monaco-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "as-monaco-fc",
+              "away": "borussia-monchengladbach",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karlsruher-sc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-15",
+              "home": "karlsruher-sc",
+              "away": "as-roma",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "as-roma",
+              "away": "karlsruher-sc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1996-10-16",
+              "home": "hamburger-sv",
+              "away": "fc-spartak-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-10-29",
+              "home": "fc-spartak-moscow",
+              "away": "hamburger-sv",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "brondby-if",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "brondby-if",
+              "away": "karlsruher-sc",
+              "score": "1:3"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "karlsruher-sc",
+              "away": "brondby-if",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "club-brugge-kv",
+              "away": "fc-schalke-04",
+              "score": "2:1"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "fc-schalke-04",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "as-monaco-fc",
+              "away": "hamburger-sv",
+              "score": "3:0"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "hamburger-sv",
+              "away": "as-monaco-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "helsingborgs-if",
+              "away": "rsc-anderlecht",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "rsc-anderlecht",
+              "away": "helsingborgs-if",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "valencia-cf",
+              "away": "besiktas-jk",
+              "score": "3:1"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "besiktas-jk",
+              "away": "valencia-cf",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metz",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "fc-metz",
+              "away": "newcastle-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "newcastle-united-fc",
+              "away": "fc-metz",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "inter-milan",
+              "away": "boavista-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "boavista-fc",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1996-11-19",
+              "home": "cd-tenerife",
+              "away": "feyenoord",
+              "score": "0:0"
+            },
+            {
+              "date": "1996-12-03",
+              "home": "feyenoord",
+              "away": "cd-tenerife",
+              "score": "2:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-04",
+              "home": "newcastle-united-fc",
+              "away": "as-monaco-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-03-18",
+              "home": "as-monaco-fc",
+              "away": "newcastle-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-04",
+              "home": "rsc-anderlecht",
+              "away": "inter-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-03-18",
+              "home": "inter-milan",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-04",
+              "home": "fc-schalke-04",
+              "away": "valencia-cf",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-03-18",
+              "home": "valencia-cf",
+              "away": "fc-schalke-04",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1997-03-04",
+              "home": "cd-tenerife",
+              "away": "brondby-if",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-03-18",
+              "home": "brondby-if",
+              "away": "cd-tenerife",
+              "score": "0:2",
+              "extra_time": true,
+              "note": "Played at Parken Stadium, Copenhagen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-04-08",
+              "home": "inter-milan",
+              "away": "as-monaco-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1997-04-22",
+              "home": "as-monaco-fc",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1997-04-08",
+              "home": "cd-tenerife",
+              "away": "fc-schalke-04",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-04-22",
+              "home": "fc-schalke-04",
+              "away": "cd-tenerife",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1997-05-07",
+              "home": "fc-schalke-04",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-05-21",
+              "home": "inter-milan",
+              "away": "fc-schalke-04",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Schalke 04 won 4:1 on penalties"
+            }
+          ],
+          "winner": "fc-schalke-04"
+        }
+      ]
+    }
+  ]
+}

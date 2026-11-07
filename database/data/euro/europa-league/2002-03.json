@@ -1,0 +1,2985 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2002-03",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lovech",
+            "fk-atlantas"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-lovech",
+              "away": "fk-atlantas",
+              "score": "5:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-atlantas",
+              "away": "fc-lovech",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-encamp",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-encamp",
+              "away": "fc-zenit",
+              "score": "0:5"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-zenit",
+              "away": "fc-encamp",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-atyrau",
+            "msk-puchov"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-atyrau",
+              "away": "msk-puchov",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "msk-puchov",
+              "away": "fc-atyrau",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "glentoran-fc",
+              "away": "wisla-krakow",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "wisla-krakow",
+              "away": "glentoran-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-pobeda",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fk-pobeda",
+              "away": "fc-midtjylland",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-midtjylland",
+              "away": "fk-pobeda",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-primorje",
+            "zvartnots-aal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "nk-primorje",
+              "away": "zvartnots-aal-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "zvartnots-aal-fc",
+              "away": "nk-primorje",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "fc-lugano"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fk-ventspils",
+              "away": "fc-lugano",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-lugano",
+              "away": "fk-ventspils",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fk-partizani",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Georgi Asparuhov Stadium, Sofia (Bulgaria): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-partizani",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "ferencvarosi-tc",
+              "away": "ael-limassol",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "ael-limassol",
+              "away": "ferencvarosi-tc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "gi-gota"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "hnk-hajduk-split",
+              "away": "gi-gota",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "gi-gota",
+              "away": "hnk-hajduk-split",
+              "score": "0:8"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "sk-brann",
+              "away": "fk-suduva",
+              "score": "2:3"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-suduva",
+              "away": "sk-brann",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "amica-wronki",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "amica-wronki",
+              "away": "the-new-saints-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "the-new-saints-fc",
+              "away": "amica-wronki",
+              "score": "2:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-locomotive-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-copenhagen",
+              "away": "fc-locomotive-tbilisi",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-locomotive-tbilisi",
+              "away": "fc-copenhagen",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "fc-karnten"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fk-liepajas-metalurgs",
+              "away": "fc-karnten",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-karnten",
+              "away": "fk-liepajas-metalurgs",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "livingston-fc"
+          ],
+          "winner": "livingston-fc",
+          "note": "Livingston won on away goals",
+          "matches": [
+            {
+              "date": "2002-08-13",
+              "home": "fc-vaduz",
+              "away": "livingston-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "livingston-fc",
+              "away": "fc-vaduz",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "polonia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "sliema-wanderers-fc",
+              "away": "polonia-warsaw",
+              "score": "1:3"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "polonia-warsaw",
+              "away": "sliema-wanderers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "anorthosis-famagusta-fc",
+            "cs-grevenmacher"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "anorthosis-famagusta-fc",
+              "away": "cs-grevenmacher",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "cs-grevenmacher",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-u21-tallinn",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fci-levadia-u21-tallinn",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fci-levadia-u21-tallinn",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Played at Georgi Asparuhov Stadium, Sofia (Bulgaria): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leixoes-sc",
+            "fk-belasica"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "leixoes-sc",
+              "away": "fk-belasica",
+              "score": "2:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-belasica",
+              "away": "leixoes-sc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "sk-sigma-olomouc",
+              "away": "fk-sarajevo",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-sarajevo",
+              "away": "sk-sigma-olomouc",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FK Sarajevo won 5:3 on penalties"
+            }
+          ],
+          "winner": "fk-sarajevo"
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-zimbru-chisinau",
+              "away": "ifk-goteborg",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "ifk-goteborg",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "ki-klaksvik",
+              "away": "ujpest-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "ujpest-fc",
+              "away": "ki-klaksvik",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "mypa-myllykoski",
+              "away": "odense-boldklub",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "odense-boldklub",
+              "away": "mypa-myllykoski",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-dinamo-minsk",
+              "away": "pfc-cska-sofia",
+              "score": "1:4"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-tvmk"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-tvmk",
+              "score": "4:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-tvmk",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "spartak-yerevan-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "spartak-yerevan-fc",
+              "away": "servette-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "servette-fc",
+              "away": "spartak-yerevan-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "shamrock-rovers-fc",
+              "away": "djurgardens-if",
+              "score": "1:3"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "djurgardens-if",
+              "away": "shamrock-rovers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-varazdin",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "nk-varazdin",
+              "away": "dundalk-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "dundalk-fc",
+              "away": "nk-varazdin",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-gomel",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-gomel",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "hjk-helsinki",
+              "away": "fc-gomel",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-nistru-otaci"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "aberdeen-fc",
+              "away": "fc-nistru-otaci",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-nistru-otaci",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "aik-fotboll",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "ibv-vestmannaeyjar",
+              "away": "aik-fotboll",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-rapid-bucuresti",
+              "away": "nd-gorica",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "nd-gorica",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-domagnano",
+            "fk-viktoria-zizkov"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-domagnano",
+              "away": "fk-viktoria-zizkov",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-viktoria-zizkov",
+              "away": "fc-domagnano",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-kairat",
+              "away": "red-star-belgrade",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "red-star-belgrade",
+              "away": "fc-kairat",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-zaporizhzhia",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-metalurh-zaporizhzhia",
+              "away": "birkirkara-fc",
+              "score": "3:0",
+              "note": "Played at Meteor Stadium, Dnipropetrovsk"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "birkirkara-fc",
+              "away": "fc-metalurh-zaporizhzhia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-city-fc",
+            "fk-smederevo-1924"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "bangor-city-fc",
+              "away": "fk-smederevo-1924",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fk-smederevo-1924",
+              "away": "bangor-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-senec",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-senec",
+              "away": "nk-siroki-brijeg",
+              "score": "1:2"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "nk-siroki-brijeg",
+              "away": "fc-senec",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "kf-tirana",
+              "away": "fc-progresul-bucuresti",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "fc-progresul-bucuresti",
+              "away": "kf-tirana",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fc-avenir-beggen",
+              "away": "ipswich-town-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "ipswich-town-fc",
+              "away": "fc-avenir-beggen",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fylkir",
+            "re-mouscron"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "fylkir",
+              "away": "re-mouscron",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "re-mouscron",
+              "away": "fylkir",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stabaek-fotball",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-08-15",
+              "home": "stabaek-fotball",
+              "away": "linfield-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-08-29",
+              "home": "linfield-fc",
+              "away": "stabaek-fotball",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "paris-saint-germain-fc",
+              "away": "ujpest-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "ujpest-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "sporting-cp",
+              "away": "fk-partizan",
+              "score": "1:3"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fk-partizan",
+              "away": "sporting-cp",
+              "score": "3:3",
+              "extra_time": true,
+              "note": "Played behind closed doors (UEFA punishment for earlier crowd trouble)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "legia-warsaw",
+              "away": "fc-utrecht",
+              "score": "4:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-utrecht",
+              "away": "legia-warsaw",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-zimbru-chisinau",
+              "away": "real-betis",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "real-betis",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "besiktas-jk",
+              "away": "fk-sarajevo",
+              "score": "2:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fk-sarajevo",
+              "away": "besiktas-jk",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "pfc-cska-moscow",
+              "away": "parma-calcio",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "parma-calcio",
+              "away": "pfc-cska-moscow",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "pfc-levski-sofia",
+              "away": "brondby-if",
+              "score": "4:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "brondby-if",
+              "away": "pfc-levski-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "stabaek-fotball"
+          ],
+          "winner": "rsc-anderlecht",
+          "note": "Anderlecht won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "rsc-anderlecht",
+              "away": "stabaek-fotball",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "stabaek-fotball",
+              "away": "rsc-anderlecht",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progresul-bucuresti",
+            "sc-heerenveen"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-progresul-bucuresti",
+              "away": "sc-heerenveen",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "sc-heerenveen",
+              "away": "fc-progresul-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "xanthi-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "ss-lazio",
+              "away": "xanthi-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "xanthi-fc",
+              "away": "ss-lazio",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "aberdeen-fc",
+              "away": "hertha-bsc",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-10-01",
+              "home": "hertha-bsc",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "fk-smederevo-1924"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "ipswich-town-fc",
+              "away": "fk-smederevo-1924",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fk-smederevo-1924",
+              "away": "ipswich-town-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "boavista-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Balgarska Armiya Stadium, Sofia (Bulgaria): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "boavista-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "aik-fotboll",
+              "away": "fenerbahce-sk",
+              "score": "3:3"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fenerbahce-sk",
+              "away": "aik-fotboll",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "ac-sparta-prague",
+              "away": "nk-siroki-brijeg",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "nk-siroki-brijeg",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "fk-austria-wien",
+              "away": "fc-shakhtar-donetsk",
+              "score": "5:1"
+            },
+            {
+              "date": "2002-10-01",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "denizlispor",
+            "fc-lorient"
+          ],
+          "winner": "denizlispor",
+          "note": "Denizlispor won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "denizlispor",
+              "away": "fc-lorient",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-lorient",
+              "away": "denizlispor",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "chelsea-fc",
+              "away": "viking-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "viking-fk",
+              "away": "chelsea-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-karnten",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-karnten",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-karnten",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Georgi Asparuhov Stadium, Sofia (Bulgaria): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "fk-ventspils"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "vfb-stuttgart",
+              "away": "fk-ventspils",
+              "score": "4:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fk-ventspils",
+              "away": "vfb-stuttgart",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "zalaegerszegi-te"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "gnk-dinamo-zagreb",
+              "away": "zalaegerszegi-te",
+              "score": "6:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "zalaegerszegi-te",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-copenhagen",
+              "away": "djurgardens-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "djurgardens-if",
+              "away": "fc-copenhagen",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-viktoria-zizkov",
+            "rangers-fc"
+          ],
+          "winner": "fk-viktoria-zizkov",
+          "note": "Viktoria Žižkov won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "fk-viktoria-zizkov",
+              "away": "rangers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "rangers-fc",
+              "away": "fk-viktoria-zizkov",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "sbv-vitesse",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-rapid-bucuresti",
+              "away": "sbv-vitesse",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "fc-metalurh-zaporizhzhia"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "leeds-united-fc",
+              "away": "fc-metalurh-zaporizhzhia",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-metalurh-zaporizhzhia",
+              "away": "leeds-united-fc",
+              "score": "1:1",
+              "note": "Played at Meteor Stadium, Dnipropetrovsk"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "amica-wronki"
+          ],
+          "winner": "amica-wronki",
+          "note": "Amica Wronki won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "servette-fc",
+              "away": "amica-wronki",
+              "score": "2:3"
+            },
+            {
+              "date": "2002-10-01",
+              "home": "amica-wronki",
+              "away": "servette-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "livingston-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "sk-sturm-graz",
+              "away": "livingston-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "livingston-fc",
+              "away": "sk-sturm-graz",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "kocaelispor"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "ferencvarosi-tc",
+              "away": "kocaelispor",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "kocaelispor",
+              "away": "ferencvarosi-tc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "malaga-cf"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "malaga-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "malaga-cf",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "msk-puchov"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "msk-puchov",
+              "score": "6:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "msk-puchov",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-slovan-liberec",
+              "away": "fc-dinamo-tbilisi",
+              "score": "3:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-slovan-liberec",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leixoes-sc",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-17",
+              "home": "leixoes-sc",
+              "away": "paok-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "paok-fc",
+              "away": "leixoes-sc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-lovech",
+              "away": "panathinaikos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "panathinaikos-fc",
+              "away": "fc-lovech",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "ac-chievoverona"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "red-star-belgrade",
+              "away": "ac-chievoverona",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "ac-chievoverona",
+              "away": "red-star-belgrade",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "hnk-hajduk-split",
+              "away": "fulham-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fulham-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-primorje",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "nk-primorje",
+              "away": "wisla-krakow",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "wisla-krakow",
+              "away": "nk-primorje",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "apoel-fc",
+              "away": "grazer-ak",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "grazer-ak",
+              "away": "apoel-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "rc-celta-de-vigo",
+              "away": "odense-boldklub",
+              "score": "2:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "odense-boldklub",
+              "away": "rc-celta-de-vigo",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metalurh-donetsk",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-metalurh-donetsk",
+              "away": "sv-werder-bremen",
+              "score": "2:2",
+              "note": "Played at Shakhtar Stadium, Donetsk"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "sv-werder-bremen",
+              "away": "fc-metalurh-donetsk",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "celtic-fc",
+              "away": "fk-suduva",
+              "score": "8:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fk-suduva",
+              "away": "celtic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "polonia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-porto",
+              "away": "polonia-warsaw",
+              "score": "6:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "polonia-warsaw",
+              "away": "fc-porto",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-gomel",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-gomel",
+              "away": "fc-schalke-04",
+              "score": "1:4"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-schalke-04",
+              "away": "fc-gomel",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "grasshopper-club",
+              "away": "fc-zenit",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "fc-zenit",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mke-ankaragucu",
+            "deportivo-alaves"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "mke-ankaragucu",
+              "away": "deportivo-alaves",
+              "score": "1:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "deportivo-alaves",
+              "away": "mke-ankaragucu",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "iraklis-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "winner": "anorthosis-famagusta-fc",
+          "note": "Anorthosis won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "iraklis-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "anorthosis-famagusta-fc",
+              "away": "iraklis-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "nk-varazdin"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "fc-midtjylland",
+              "away": "nk-varazdin",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "nk-varazdin",
+              "away": "fc-midtjylland",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "blackburn-rovers-fc",
+            "pfc-cska-sofia"
+          ],
+          "winner": "blackburn-rovers-fc",
+          "note": "Blackburn Rovers won on away goals",
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "blackburn-rovers-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "pfc-cska-sofia",
+              "away": "blackburn-rovers-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "re-mouscron",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2002-09-19",
+              "home": "re-mouscron",
+              "away": "sk-slavia-prague",
+              "score": "2:2"
+            },
+            {
+              "date": "2002-10-03",
+              "home": "sk-slavia-prague",
+              "away": "re-mouscron",
+              "score": "5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-viktoria-zizkov",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-29",
+              "home": "fk-viktoria-zizkov",
+              "away": "real-betis",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "real-betis",
+              "away": "fk-viktoria-zizkov",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-29",
+              "home": "legia-warsaw",
+              "away": "fc-schalke-04",
+              "score": "2:3"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "fc-schalke-04",
+              "away": "legia-warsaw",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-29",
+              "home": "djurgardens-if",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-11-12",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "djurgardens-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "apoel-fc",
+              "away": "hertha-bsc",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-11-07",
+              "home": "hertha-bsc",
+              "away": "apoel-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fulham-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "fulham-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "denizlispor"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "ac-sparta-prague",
+              "away": "denizlispor",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "denizlispor",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "ferencvarosi-tc",
+              "away": "vfb-stuttgart",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-11-12",
+              "home": "vfb-stuttgart",
+              "away": "ferencvarosi-tc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "sk-sturm-graz",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "pfc-levski-sofia",
+              "away": "sk-sturm-graz",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "SK Sturm Graz won 8:7 on penalties"
+            }
+          ],
+          "winner": "sk-sturm-graz"
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "fk-partizan",
+              "away": "sk-slavia-prague",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "sk-slavia-prague",
+              "away": "fk-partizan",
+              "score": "5:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progresul-bucuresti",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "fc-progresul-bucuresti",
+              "away": "paris-saint-germain-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-progresul-bucuresti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "fenerbahce-sk",
+              "away": "panathinaikos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "panathinaikos-fc",
+              "away": "fenerbahce-sk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "paok-fc",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "grasshopper-club",
+              "away": "paok-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "ss-lazio",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "red-star-belgrade",
+              "away": "ss-lazio",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "rsc-anderlecht",
+              "away": "fc-midtjylland",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "fc-midtjylland",
+              "away": "rsc-anderlecht",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "fk-austria-wien",
+              "away": "fc-porto",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "fc-porto",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "sbv-vitesse",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "sv-werder-bremen",
+              "away": "sbv-vitesse",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "ipswich-town-fc",
+              "away": "fc-slovan-liberec",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "fc-slovan-liberec",
+              "away": "ipswich-town-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Slovan Liberec won 4:2 on penalties"
+            }
+          ],
+          "winner": "fc-slovan-liberec"
+        },
+        {
+          "clubs": [
+            "deportivo-alaves",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "deportivo-alaves",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "besiktas-jk",
+              "away": "deportivo-alaves",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "parma-calcio",
+              "away": "wisla-krakow",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "wisla-krakow",
+              "away": "parma-calcio",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "leeds-united-fc",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "leeds-united-fc",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Played at Stadio Artemio Franchi, Florence (Italy): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "blackburn-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "celtic-fc",
+              "away": "blackburn-rovers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "blackburn-rovers-fc",
+              "away": "celtic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malaga-cf",
+            "amica-wronki"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "malaga-cf",
+              "away": "amica-wronki",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-11-12",
+              "home": "amica-wronki",
+              "away": "malaga-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "rc-celta-de-vigo",
+              "away": "viking-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "viking-fk",
+              "away": "rc-celta-de-vigo",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-10-31",
+              "home": "boavista-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-11-14",
+              "home": "anorthosis-famagusta-fc",
+              "away": "boavista-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "hertha-bsc",
+            "fulham-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-26",
+              "home": "hertha-bsc",
+              "away": "fulham-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "fulham-fc",
+              "away": "hertha-bsc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "boavista-fc"
+          ],
+          "winner": "boavista-fc",
+          "note": "Boavista won on away goals",
+          "matches": [
+            {
+              "date": "2002-11-26",
+              "home": "paris-saint-germain-fc",
+              "away": "boavista-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "boavista-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "wisla-krakow",
+              "away": "fc-schalke-04",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-12-10",
+              "home": "fc-schalke-04",
+              "away": "wisla-krakow",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "denizlispor",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "denizlispor",
+              "away": "olympique-lyonnais",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "olympique-lyonnais",
+              "away": "denizlispor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "fc-slovan-liberec",
+              "away": "panathinaikos-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "panathinaikos-fc",
+              "away": "fc-slovan-liberec",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "besiktas-jk",
+              "away": "fc-dynamo-kyiv",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "fc-dynamo-kyiv",
+              "away": "besiktas-jk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "rsc-anderlecht",
+              "score": "0:2"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "rsc-anderlecht",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "paok-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "sk-slavia-prague",
+              "away": "paok-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "aek-athens-fc",
+              "away": "maccabi-haifa-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "maccabi-haifa-fc",
+              "away": "aek-athens-fc",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Played at GSP Stadium, Nicosia (Cyprus): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "sk-sturm-graz",
+              "away": "ss-lazio",
+              "score": "1:3"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "ss-lazio",
+              "away": "sk-sturm-graz",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "club-brugge-kv",
+              "away": "vfb-stuttgart",
+              "score": "1:2"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "vfb-stuttgart",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "sbv-vitesse",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "liverpool-fc",
+              "away": "sbv-vitesse",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "rc-celta-de-vigo"
+          ],
+          "winner": "celtic-fc",
+          "note": "Celtic won on away goals",
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "celtic-fc",
+              "away": "rc-celta-de-vigo",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "rc-celta-de-vigo",
+              "away": "celtic-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "real-betis",
+              "away": "aj-auxerre",
+              "score": "1:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "aj-auxerre",
+              "away": "real-betis",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malaga-cf",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "malaga-cf",
+              "away": "leeds-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "leeds-united-fc",
+              "away": "malaga-cf",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "rc-lens"
+          ],
+          "matches": [
+            {
+              "date": "2002-11-28",
+              "home": "fc-porto",
+              "away": "rc-lens",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-12-12",
+              "home": "rc-lens",
+              "away": "fc-porto",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "hertha-bsc",
+            "boavista-fc"
+          ],
+          "winner": "boavista-fc",
+          "note": "Boavista won on away goals",
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "hertha-bsc",
+              "away": "boavista-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "boavista-fc",
+              "away": "hertha-bsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "panathinaikos-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:0"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "rsc-anderlecht",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "sk-slavia-prague",
+              "away": "besiktas-jk",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "besiktas-jk",
+              "away": "sk-slavia-prague",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "aj-auxerre",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "liverpool-fc",
+              "away": "aj-auxerre",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "ss-lazio",
+              "away": "wisla-krakow",
+              "score": "3:3"
+            },
+            {
+              "date": "2003-03-05",
+              "home": "wisla-krakow",
+              "away": "ss-lazio",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malaga-cf",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "malaga-cf",
+              "away": "aek-athens-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "aek-athens-fc",
+              "away": "malaga-cf",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "celtic-fc",
+              "away": "vfb-stuttgart",
+              "score": "3:1"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "vfb-stuttgart",
+              "away": "celtic-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "denizlispor"
+          ],
+          "matches": [
+            {
+              "date": "2003-02-20",
+              "home": "fc-porto",
+              "away": "denizlispor",
+              "score": "6:1"
+            },
+            {
+              "date": "2003-02-27",
+              "home": "denizlispor",
+              "away": "fc-porto",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-03-13",
+              "home": "fc-porto",
+              "away": "panathinaikos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2003-03-20",
+              "home": "panathinaikos-fc",
+              "away": "fc-porto",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2003-03-13",
+              "home": "ss-lazio",
+              "away": "besiktas-jk",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-03-20",
+              "home": "besiktas-jk",
+              "away": "ss-lazio",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-03-13",
+              "home": "celtic-fc",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-03-20",
+              "home": "liverpool-fc",
+              "away": "celtic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malaga-cf",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-03-13",
+              "home": "malaga-cf",
+              "away": "boavista-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2003-03-20",
+              "home": "boavista-fc",
+              "away": "malaga-cf",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Boavista FC won 4:1 on penalties"
+            }
+          ],
+          "winner": "boavista-fc"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2003-04-10",
+              "home": "fc-porto",
+              "away": "ss-lazio",
+              "score": "4:1"
+            },
+            {
+              "date": "2003-04-24",
+              "home": "ss-lazio",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "2003-04-10",
+              "home": "celtic-fc",
+              "away": "boavista-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2003-04-24",
+              "home": "boavista-fc",
+              "away": "celtic-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2003-05-21",
+              "home": "celtic-fc",
+              "away": "fc-porto",
+              "score": "2:3",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Estadio Olímpico de Sevilla, Seville; won by a silver goal in extra time (Derlei, 115th minute)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1978-79",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "lr-vicenza"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fk-dukla-prague",
+              "away": "lr-vicenza",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "lr-vicenza",
+              "away": "fk-dukla-prague",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "fc-lokomotiva-kosice"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "ac-milan",
+              "away": "fc-lokomotiva-kosice",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "fc-lokomotiva-kosice",
+              "away": "ac-milan",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "AC Milan won 7:6 on penalties"
+            }
+          ],
+          "winner": "ac-milan"
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "pfc-cska-sofia",
+              "away": "valencia-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "valencia-cf",
+              "away": "pfc-cska-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "borussia-monchengladbach",
+              "away": "sk-sturm-graz",
+              "score": "5:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "sk-sturm-graz",
+              "away": "borussia-monchengladbach",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arges-pitesti",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-arges-pitesti",
+              "away": "panathinaikos-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "panathinaikos-fc",
+              "away": "fc-arges-pitesti",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "athletic-bilbao",
+              "away": "afc-ajax",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "afc-ajax",
+              "away": "athletic-bilbao",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "finn-harps-fc",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-12",
+              "home": "finn-harps-fc",
+              "away": "everton-fc",
+              "score": "0:5"
+            },
+            {
+              "date": "1978-09-26",
+              "home": "everton-fc",
+              "away": "finn-harps-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "jeunesse-esch",
+              "away": "fc-lausanne-sport",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-26",
+              "home": "fc-lausanne-sport",
+              "away": "jeunesse-esch",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-nantes",
+              "away": "sl-benfica",
+              "score": "0:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "sl-benfica",
+              "away": "fc-nantes",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "sporting-de-gijon",
+              "away": "torino-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "torino-fc",
+              "away": "sporting-de-gijon",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "sc-braga",
+              "away": "hibernians-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1978-09-20",
+              "home": "hibernians-fc",
+              "away": "sc-braga",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "galatasaray-sk",
+              "away": "west-bromwich-albion-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "west-bromwich-albion-fc",
+              "away": "galatasaray-sk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "red-star-belgrade"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "bfc-dynamo",
+              "away": "red-star-belgrade",
+              "score": "5:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "red-star-belgrade",
+              "away": "bfc-dynamo",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "boldklubben-1903"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "kups-kuopio",
+              "away": "boldklubben-1903",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "boldklubben-1903",
+              "away": "kups-kuopio",
+              "score": "4:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-basel",
+              "away": "vfb-stuttgart",
+              "score": "2:3"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "vfb-stuttgart",
+              "away": "fc-basel",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-torpedo-moscow",
+              "away": "molde-fk",
+              "score": "4:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "molde-fk",
+              "away": "fc-torpedo-moscow",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "if-elfsborg",
+              "away": "rc-strasbourg",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "rc-strasbourg",
+              "away": "if-elfsborg",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msv-duisburg",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "msv-duisburg",
+              "away": "lech-poznan",
+              "score": "5:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "lech-poznan",
+              "away": "msv-duisburg",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-12",
+              "home": "r-standard-liege",
+              "away": "dundee-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "dundee-united-fc",
+              "away": "r-standard-liege",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ik-start",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "ik-start",
+              "away": "esbjerg-fb",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "esbjerg-fb",
+              "away": "ik-start",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "arsenal-fc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "3:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "arsenal-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "k-lierse-sk"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-carl-zeiss-jena",
+              "away": "k-lierse-sk",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "k-lierse-sk",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "glentoran-fc"
+          ],
+          "winner": "ibv-vestmannaeyjar",
+          "note": "ÍBV won on away goals",
+          "matches": [
+            {
+              "date": "1978-09-05",
+              "home": "ibv-vestmannaeyjar",
+              "away": "glentoran-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-14",
+              "home": "glentoran-fc",
+              "away": "ibv-vestmannaeyjar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-twente",
+              "away": "manchester-city-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "manchester-city-fc",
+              "away": "fc-twente",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "hibernian-fc",
+              "away": "ifk-norrkoping",
+              "score": "3:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "ifk-norrkoping",
+              "away": "hibernian-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-politehnica-timisoara",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-politehnica-timisoara",
+              "away": "mtk-budapest-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "mtk-budapest-fc",
+              "away": "fc-politehnica-timisoara",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pezoporikos-larnaca-fc",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-16",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "slask-wroclaw",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "slask-wroclaw",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-14",
+              "home": "olympiacos-fc",
+              "away": "pfc-levski-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-09-28",
+              "home": "pfc-levski-sofia",
+              "away": "olympiacos-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "fc-dinamo-tbilisi",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "ssc-napoli",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "hnk-hajduk-split",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "sk-rapid-wien",
+              "away": "hnk-hajduk-split",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-13",
+              "home": "hertha-bsc",
+              "away": "botev-plovdiv",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "botev-plovdiv",
+              "away": "hertha-bsc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "adanaspor"
+          ],
+          "matches": [
+            {
+              "date": "1978-09-14",
+              "home": "budapest-honved-fc",
+              "away": "adanaspor",
+              "score": "6:0"
+            },
+            {
+              "date": "1978-09-27",
+              "home": "adanaspor",
+              "away": "budapest-honved-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "afc-ajax",
+              "away": "fc-lausanne-sport",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "fc-lausanne-sport",
+              "away": "afc-ajax",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "fc-politehnica-timisoara"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "budapest-honved-fc",
+              "away": "fc-politehnica-timisoara",
+              "score": "4:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "fc-politehnica-timisoara",
+              "away": "budapest-honved-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "fk-dukla-prague"
+          ],
+          "winner": "fk-dukla-prague",
+          "note": "Dukla Prague won on away goals",
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "everton-fc",
+              "away": "fk-dukla-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "fk-dukla-prague",
+              "away": "everton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arges-pitesti",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-arges-pitesti",
+              "away": "valencia-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "valencia-cf",
+              "away": "fc-arges-pitesti",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "msv-duisburg"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-carl-zeiss-jena",
+              "away": "msv-duisburg",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "msv-duisburg",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "fc-torpedo-moscow",
+              "away": "vfb-stuttgart",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "vfb-stuttgart",
+              "away": "fc-torpedo-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "arsenal-fc"
+          ],
+          "winner": "arsenal-fc",
+          "note": "Arsenal won on away goals",
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "hnk-hajduk-split",
+              "away": "arsenal-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "arsenal-fc",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "hertha-bsc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "fc-dinamo-tbilisi",
+              "away": "hertha-bsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-21",
+              "home": "ibv-vestmannaeyjar",
+              "away": "slask-wroclaw",
+              "score": "0:2"
+            },
+            {
+              "date": "1978-11-02",
+              "home": "slask-wroclaw",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "kups-kuopio",
+              "away": "esbjerg-fb",
+              "score": "0:2"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "esbjerg-fb",
+              "away": "kups-kuopio",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "manchester-city-fc",
+              "away": "r-standard-liege",
+              "score": "4:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "r-standard-liege",
+              "away": "manchester-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-19",
+              "home": "pfc-levski-sofia",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "ac-milan",
+              "away": "pfc-levski-sofia",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "rc-strasbourg",
+              "away": "hibernian-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "hibernian-fc",
+              "away": "rc-strasbourg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "sc-braga",
+              "away": "west-bromwich-albion-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "west-bromwich-albion-fc",
+              "away": "sc-braga",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "sl-benfica",
+              "away": "borussia-monchengladbach",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-10-31",
+              "home": "borussia-monchengladbach",
+              "away": "sl-benfica",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-de-gijon",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1978-10-18",
+              "home": "sporting-de-gijon",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            },
+            {
+              "date": "1978-11-01",
+              "home": "red-star-belgrade",
+              "away": "sporting-de-gijon",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-23",
+              "home": "ac-milan",
+              "away": "manchester-city-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "manchester-city-fc",
+              "away": "ac-milan",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "borussia-monchengladbach",
+              "away": "slask-wroclaw",
+              "score": "1:1"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "slask-wroclaw",
+              "away": "borussia-monchengladbach",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "budapest-honved-fc",
+              "away": "afc-ajax",
+              "score": "4:1"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "afc-ajax",
+              "away": "budapest-honved-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "esbjerg-fb",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "esbjerg-fb",
+              "away": "hertha-bsc",
+              "score": "2:1"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "hertha-bsc",
+              "away": "esbjerg-fb",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "msv-duisburg"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "rc-strasbourg",
+              "away": "msv-duisburg",
+              "score": "0:0"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "msv-duisburg",
+              "away": "rc-strasbourg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "red-star-belgrade",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "arsenal-fc",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "valencia-cf",
+              "away": "west-bromwich-albion-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "west-bromwich-albion-fc",
+              "away": "valencia-cf",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1978-11-22",
+              "home": "vfb-stuttgart",
+              "away": "fk-dukla-prague",
+              "score": "4:1"
+            },
+            {
+              "date": "1978-12-06",
+              "home": "fk-dukla-prague",
+              "away": "vfb-stuttgart",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "msv-duisburg"
+          ],
+          "winner": "msv-duisburg",
+          "note": "MSV Duisburg won on away goals",
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "budapest-honved-fc",
+              "away": "msv-duisburg",
+              "score": "2:3"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "msv-duisburg",
+              "away": "budapest-honved-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "hertha-bsc",
+              "away": "fk-dukla-prague",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "fk-dukla-prague",
+              "away": "hertha-bsc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "manchester-city-fc",
+              "away": "borussia-monchengladbach",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-03-20",
+              "home": "borussia-monchengladbach",
+              "away": "manchester-city-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-03-07",
+              "home": "red-star-belgrade",
+              "away": "west-bromwich-albion-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-03-21",
+              "home": "west-bromwich-albion-fc",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "msv-duisburg",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1979-04-10",
+              "home": "msv-duisburg",
+              "away": "borussia-monchengladbach",
+              "score": "2:2"
+            },
+            {
+              "date": "1979-04-24",
+              "home": "borussia-monchengladbach",
+              "away": "msv-duisburg",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "hertha-bsc"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "1979-04-11",
+              "home": "red-star-belgrade",
+              "away": "hertha-bsc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-04-25",
+              "home": "hertha-bsc",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1979-05-09",
+              "home": "red-star-belgrade",
+              "away": "borussia-monchengladbach",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-05-23",
+              "home": "borussia-monchengladbach",
+              "away": "red-star-belgrade",
+              "score": "1:0",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

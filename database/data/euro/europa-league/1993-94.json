@@ -1,0 +1,1323 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1993-94",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "crusaders-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": null,
+              "home": "crusaders-fc",
+              "away": "servette-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "servette-fc",
+              "away": "crusaders-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vac-fc",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "vac-fc",
+              "away": "apollon-limassol-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "apollon-limassol-fc",
+              "away": "vac-fc",
+              "score": "4:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "fc-dynamo-moscow",
+              "away": "eintracht-frankfurt",
+              "score": "0:6"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "eintracht-frankfurt",
+              "away": "fc-dynamo-moscow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "fc-dnipro",
+              "away": "admira-wacker",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "admira-wacker",
+              "away": "fc-dnipro",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kuusysi",
+            "ksv-waregem"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "fc-kuusysi",
+              "away": "ksv-waregem",
+              "score": "4:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "ksv-waregem",
+              "away": "fc-kuusysi",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-dac-1904",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "fc-dac-1904",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "bsc-young-boys",
+              "away": "celtic-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "celtic-fc",
+              "away": "bsc-young-boys",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "cs-maritimo"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "r-antwerp-fc",
+              "away": "cs-maritimo",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "cs-maritimo",
+              "away": "r-antwerp-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "aab-fodbold",
+              "away": "deportivo-de-la-coruna",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "deportivo-de-la-coruna",
+              "away": "aab-fodbold",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karlsruher-sc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "karlsruher-sc",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "psv-eindhoven",
+              "away": "karlsruher-sc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "bohemian-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "bohemian-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "union-luxembourg",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "union-luxembourg",
+              "away": "boavista-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "boavista-fc",
+              "away": "union-luxembourg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "heart-of-midlothian-fc",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "atletico-madrid",
+              "away": "heart-of-midlothian-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "trabzonspor",
+              "away": "valletta-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "valletta-fc",
+              "away": "trabzonspor",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kocaelispor",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "kocaelispor",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "sporting-cp",
+              "away": "kocaelispor",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-gloria-bistrita",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "acf-gloria-bistrita",
+              "away": "nk-maribor",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "nk-maribor",
+              "away": "acf-gloria-bistrita",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "sk-slovan-bratislava",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "aston-villa-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "botev-plovdiv",
+              "away": "olympiacos-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "olympiacos-fc",
+              "away": "botev-plovdiv",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "ofi-crete-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "sk-slavia-prague",
+              "away": "ofi-crete-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "ofi-crete-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fc-spartak-vladikavkaz"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "borussia-dortmund",
+              "away": "fc-spartak-vladikavkaz",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "fc-spartak-vladikavkaz",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "dundee-united-fc"
+          ],
+          "winner": "brondby-if",
+          "note": "Brøndby won on away goals",
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "brondby-if",
+              "away": "dundee-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "dundee-united-fc",
+              "away": "brondby-if",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "kv-mechelen"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "ifk-norrkoping",
+              "away": "kv-mechelen",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "kv-mechelen",
+              "away": "ifk-norrkoping",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "kongsvinger-il"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "osters-if",
+              "away": "kongsvinger-il",
+              "score": "1:3"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "kongsvinger-il",
+              "away": "osters-if",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "juventus-fc",
+              "away": "fc-lokomotiv-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "fc-lokomotiv-moscow",
+              "away": "juventus-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-twente",
+              "away": "fc-bayern-munich",
+              "score": "3:4"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-bayern-munich",
+              "away": "fc-twente",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "inter-milan",
+              "away": "fc-rapid-bucuresti",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-rapid-bucuresti",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "pfc-lokomotiv-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "ss-lazio",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "ss-lazio",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "norwich-city-fc",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "norwich-city-fc",
+              "away": "sbv-vitesse",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "sbv-vitesse",
+              "away": "norwich-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "cd-tenerife",
+              "away": "aj-auxerre",
+              "score": "2:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "aj-auxerre",
+              "away": "cd-tenerife",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "cagliari-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-16",
+              "home": "fc-dinamo-bucuresti",
+              "away": "cagliari-calcio",
+              "score": "3:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "cagliari-calcio",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-16",
+              "home": "kr-reykjavik",
+              "away": "mtk-budapest-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "mtk-budapest-fc",
+              "away": "kr-reykjavik",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-16",
+              "home": "fc-nantes",
+              "away": "valencia-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-09-30",
+              "home": "valencia-cf",
+              "away": "fc-nantes",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-kuusysi",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "fc-kuusysi",
+              "away": "brondby-if",
+              "score": "1:4"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "brondby-if",
+              "away": "fc-kuusysi",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "eintracht-frankfurt",
+              "away": "fc-dnipro",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "fc-dnipro",
+              "away": "eintracht-frankfurt",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "fc-red-bull-salzburg",
+              "away": "r-antwerp-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "r-antwerp-fc",
+              "away": "fc-red-bull-salzburg",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "ofi-crete-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "atletico-madrid",
+              "away": "ofi-crete-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "ofi-crete-fc",
+              "away": "atletico-madrid",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "servette-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "servette-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "norwich-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "fc-bayern-munich",
+              "away": "norwich-city-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "norwich-city-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-tenerife",
+            "olympiacos-fc"
+          ],
+          "winner": "cd-tenerife",
+          "note": "Tenerife won on away goals",
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "cd-tenerife",
+              "away": "olympiacos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-11-04",
+              "home": "olympiacos-fc",
+              "away": "cd-tenerife",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "deportivo-de-la-coruna",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-19",
+              "home": "deportivo-de-la-coruna",
+              "away": "aston-villa-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "aston-villa-fc",
+              "away": "deportivo-de-la-coruna",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "cagliari-calcio"
+          ],
+          "winner": "cagliari-calcio",
+          "note": "Cagliari won on away goals",
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "trabzonspor",
+              "away": "cagliari-calcio",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "cagliari-calcio",
+              "away": "trabzonspor",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "nk-maribor",
+              "away": "borussia-dortmund",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "borussia-dortmund",
+              "away": "nk-maribor",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kongsvinger-il",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "kongsvinger-il",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "juventus-fc",
+              "away": "kongsvinger-il",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "celtic-fc",
+              "away": "sporting-cp",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "sporting-cp",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kv-mechelen",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "kv-mechelen",
+              "away": "mtk-budapest-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "mtk-budapest-fc",
+              "away": "kv-mechelen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "inter-milan",
+              "away": "apollon-limassol-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "apollon-limassol-fc",
+              "away": "inter-milan",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "ss-lazio",
+              "away": "boavista-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-11-04",
+              "home": "boavista-fc",
+              "away": "ss-lazio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "valencia-cf",
+              "away": "karlsruher-sc",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "karlsruher-sc",
+              "away": "valencia-cf",
+              "score": "7:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "ofi-crete-fc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-23",
+              "home": "ofi-crete-fc",
+              "away": "boavista-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1993-12-07",
+              "home": "boavista-fc",
+              "away": "ofi-crete-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-23",
+              "home": "eintracht-frankfurt",
+              "away": "deportivo-de-la-coruna",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-12-07",
+              "home": "deportivo-de-la-coruna",
+              "away": "eintracht-frankfurt",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-23",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "karlsruher-sc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-12-07",
+              "home": "karlsruher-sc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "cd-tenerife"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-24",
+              "home": "juventus-fc",
+              "away": "cd-tenerife",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-12-08",
+              "home": "cd-tenerife",
+              "away": "juventus-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-24",
+              "home": "brondby-if",
+              "away": "borussia-dortmund",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-12-08",
+              "home": "borussia-dortmund",
+              "away": "brondby-if",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-24",
+              "home": "sporting-cp",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-12-07",
+              "home": "fc-red-bull-salzburg",
+              "away": "sporting-cp",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "norwich-city-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-24",
+              "home": "norwich-city-fc",
+              "away": "inter-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-12-08",
+              "home": "inter-milan",
+              "away": "norwich-city-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kv-mechelen",
+            "cagliari-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1993-11-25",
+              "home": "kv-mechelen",
+              "away": "cagliari-calcio",
+              "score": "1:3"
+            },
+            {
+              "date": "1993-12-08",
+              "home": "cagliari-calcio",
+              "away": "kv-mechelen",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-01",
+              "home": "borussia-dortmund",
+              "away": "inter-milan",
+              "score": "1:3"
+            },
+            {
+              "date": "1994-03-17",
+              "home": "inter-milan",
+              "away": "borussia-dortmund",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cagliari-calcio",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-01",
+              "home": "cagliari-calcio",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-03-15",
+              "home": "juventus-fc",
+              "away": "cagliari-calcio",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-02",
+              "home": "boavista-fc",
+              "away": "karlsruher-sc",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-03-16",
+              "home": "karlsruher-sc",
+              "away": "boavista-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-03",
+              "home": "fc-red-bull-salzburg",
+              "away": "eintracht-frankfurt",
+              "score": "1:0",
+              "note": "Played at Ernst-Happel-Stadion, Vienna"
+            },
+            {
+              "date": "1994-03-15",
+              "home": "eintracht-frankfurt",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Red Bull Salzburg won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-red-bull-salzburg"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "karlsruher-sc"
+          ],
+          "winner": "fc-red-bull-salzburg",
+          "note": "Austria Salzburg won on away goals",
+          "matches": [
+            {
+              "date": "1994-03-29",
+              "home": "fc-red-bull-salzburg",
+              "away": "karlsruher-sc",
+              "score": "0:0",
+              "note": "Played at Ernst-Happel-Stadion, Vienna"
+            },
+            {
+              "date": "1994-04-12",
+              "home": "karlsruher-sc",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cagliari-calcio",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-30",
+              "home": "cagliari-calcio",
+              "away": "inter-milan",
+              "score": "3:2"
+            },
+            {
+              "date": "1994-04-12",
+              "home": "inter-milan",
+              "away": "cagliari-calcio",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1994-04-26",
+              "home": "fc-red-bull-salzburg",
+              "away": "inter-milan",
+              "score": "0:1",
+              "note": "Played at Ernst-Happel-Stadion, Vienna"
+            },
+            {
+              "date": "1994-05-11",
+              "home": "inter-milan",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

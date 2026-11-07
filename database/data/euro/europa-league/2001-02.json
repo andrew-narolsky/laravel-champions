@@ -1,0 +1,2963 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2001-02",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying",
+      "ties": [
+        {
+          "clubs": [
+            "ss-cosmos",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "ss-cosmos",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "sk-rapid-wien",
+              "away": "ss-cosmos",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-pelister",
+            "fc-st-gallen"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fk-pelister",
+              "away": "fc-st-gallen",
+              "score": "0:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-st-gallen",
+              "away": "fk-pelister",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-dinamo-city",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-dinamo-city",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "shafa-baku-fk"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "nk-olimpija",
+              "away": "shafa-baku-fk",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "shafa-baku-fk",
+              "away": "nk-olimpija",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-midtjylland",
+              "away": "glentoran-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "glentoran-fc",
+              "away": "fc-midtjylland",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-narva-trans",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "jk-narva-trans",
+              "away": "if-elfsborg",
+              "score": "3:0",
+              "note": "Awarded 3:0 to Narva Trans: Elfsborg fielded an ineligible player, Christian Lundström (the match finished 1:3)"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "if-elfsborg",
+              "away": "jk-narva-trans",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "ia-akranes"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "club-brugge-kv",
+              "away": "ia-akranes",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "ia-akranes",
+              "away": "club-brugge-kv",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-obilic",
+            "gi-gota"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fk-obilic",
+              "away": "gi-gota",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "gi-gota",
+              "away": "fk-obilic",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-brasov",
+            "sc-mika"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-brasov",
+              "away": "sc-mika",
+              "score": "5:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "sc-mika",
+              "away": "fc-brasov",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "hnk-brotnjo"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "viking-fk",
+              "away": "hnk-brotnjo",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "hnk-brotnjo",
+              "away": "viking-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arsenal-kyiv",
+            "fc-jokerit"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-arsenal-kyiv",
+              "away": "fc-jokerit",
+              "score": "2:0",
+              "note": "Played at Dynamo Stadium, Kyiv"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-jokerit",
+              "away": "fc-arsenal-kyiv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fk-vardar",
+              "away": "r-standard-liege",
+              "score": "0:3"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "r-standard-liege",
+              "away": "fk-vardar",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fk-ventspils"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "hjk-helsinki",
+              "away": "fk-ventspils",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fk-ventspils",
+              "away": "hjk-helsinki",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cwmbran-town-afc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "cwmbran-town-afc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:4"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "sk-slovan-bratislava",
+              "away": "cwmbran-town-afc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-maritimo",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "cs-maritimo",
+              "away": "fk-sarajevo",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fk-sarajevo",
+              "away": "cs-maritimo",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fylkir",
+            "pogon-szczecin"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fylkir",
+              "away": "pogon-szczecin",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "pogon-szczecin",
+              "away": "fylkir",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-flora",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-flora",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "kilmarnock-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "glenavon-fc",
+              "away": "kilmarnock-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "kilmarnock-fc",
+              "away": "glenavon-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "kf-tirana",
+              "away": "apollon-limassol-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "apollon-limassol-fc",
+              "away": "kf-tirana",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-yerevan",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-ararat-yerevan",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-ararat-yerevan",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-etzella-ettelbruck",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-etzella-ettelbruck",
+              "away": "legia-warsaw",
+              "score": "0:4"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "legia-warsaw",
+              "away": "fc-etzella-ettelbruck",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "gaziantepspor"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-zimbru-chisinau",
+              "away": "gaziantepspor",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "gaziantepspor",
+              "away": "fc-zimbru-chisinau",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dinaburg-fc",
+            "nk-osijek"
+          ],
+          "winner": "nk-osijek",
+          "note": "Osijek won on away goals",
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "dinaburg-fc",
+              "away": "nk-osijek",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "nk-osijek",
+              "away": "dinaburg-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "neftci-pfk",
+              "away": "nd-gorica",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "nd-gorica",
+              "away": "neftci-pfk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hb-torshavn",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "hb-torshavn",
+              "away": "grazer-ak",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "grazer-ak",
+              "away": "hb-torshavn",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-atlantas",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fk-atlantas",
+              "away": "fc-rapid-bucuresti",
+              "score": "0:4"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-rapid-bucuresti",
+              "away": "fk-atlantas",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-puchov",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "msk-puchov",
+              "away": "sliema-wanderers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "sliema-wanderers-fc",
+              "away": "msk-puchov",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "longford-town-fc",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "longford-town-fc",
+              "away": "fc-lovech",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-lovech",
+              "away": "longford-town-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "brondby-if",
+              "away": "shelbourne-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "shelbourne-fc",
+              "away": "brondby-if",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santa-coloma",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-santa-coloma",
+              "away": "fk-partizan",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fk-partizan",
+              "away": "fc-santa-coloma",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fk-zalgiris",
+              "score": "6:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fk-zalgiris",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "pfc-cska-sofia",
+              "score": "1:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "pfc-cska-sofia",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "mypa-myllykoski",
+              "away": "helsingborgs-if",
+              "score": "1:3"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "helsingborgs-if",
+              "away": "mypa-myllykoski",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-bate-borisov",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-bate-borisov",
+              "away": "fc-dinamo-tbilisi",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "fc-nistru-otaci"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "debreceni-vsc",
+              "away": "fc-nistru-otaci",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-nistru-otaci",
+              "away": "debreceni-vsc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "polonia-warsaw",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "polonia-warsaw",
+              "away": "the-new-saints-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "the-new-saints-fc",
+              "away": "polonia-warsaw",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "fc-locomotive-tbilisi"
+          ],
+          "winner": "birkirkara-fc",
+          "note": "Birkirkara won on away goals",
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "birkirkara-fc",
+              "away": "fc-locomotive-tbilisi",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-locomotive-tbilisi",
+              "away": "birkirkara-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "cs-grevenmacher"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "aek-athens-fc",
+              "away": "cs-grevenmacher",
+              "score": "6:0"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "cs-grevenmacher",
+              "away": "aek-athens-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mfk-ruzomberok",
+            "fc-belshina-bobruisk"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "mfk-ruzomberok",
+              "away": "fc-belshina-bobruisk",
+              "score": "3:1"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "fc-belshina-bobruisk",
+              "away": "mfk-ruzomberok",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiakos-nicosia",
+            "dunaujvaros-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "olympiakos-nicosia",
+              "away": "dunaujvaros-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "dunaujvaros-fc",
+              "away": "olympiakos-nicosia",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "nk-varazdin"
+          ],
+          "matches": [
+            {
+              "date": "2001-08-09",
+              "home": "fc-vaduz",
+              "away": "nk-varazdin",
+              "score": "3:3"
+            },
+            {
+              "date": "2001-08-23",
+              "home": "nk-varazdin",
+              "away": "fc-vaduz",
+              "score": "6:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fk-inter-bratislava",
+              "away": "fc-lovech",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fc-lovech",
+              "away": "fk-inter-bratislava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-brasov"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "inter-milan",
+              "away": "fc-brasov",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fc-brasov",
+              "away": "inter-milan",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "servette-fc",
+              "away": "sk-slavia-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sk-slavia-prague",
+              "away": "servette-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rapid-jc",
+            "fylkir"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-11",
+              "home": "rapid-jc",
+              "away": "fylkir",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "fylkir",
+              "away": "rapid-jc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arsenal-kyiv",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-arsenal-kyiv",
+              "away": "red-star-belgrade",
+              "score": "3:2",
+              "note": "Played at Dynamo Stadium, Kyiv"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "red-star-belgrade",
+              "away": "fc-arsenal-kyiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "genclerbirligi-sk",
+            "halmstads-bk"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "genclerbirligi-sk",
+              "away": "halmstads-bk",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "halmstads-bk",
+              "away": "genclerbirligi-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "aek-athens-fc",
+              "away": "hibernian-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "hibernian-fc",
+              "away": "aek-athens-fc",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "nk-olimpija",
+              "away": "brondby-if",
+              "score": "2:4"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "brondby-if",
+              "away": "nk-olimpija",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-utrecht",
+              "away": "grazer-ak",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "grazer-ak",
+              "away": "fc-utrecht",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-slovan-liberec",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-slovan-liberec",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fk-obilic"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-copenhagen",
+              "away": "fk-obilic",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fk-obilic",
+              "away": "fc-copenhagen",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "pfc-cska-sofia",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fc-shakhtar-donetsk",
+              "away": "pfc-cska-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "r-standard-liege",
+              "away": "rc-strasbourg",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "rc-strasbourg",
+              "away": "r-standard-liege",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-bate-borisov",
+              "away": "ac-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "ac-milan",
+              "away": "fc-bate-borisov",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chernomorets-novorossiysk",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-19",
+              "home": "fc-chernomorets-novorossiysk",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "valencia-cf",
+              "away": "fc-chernomorets-novorossiysk",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aston-villa-fc",
+            "nk-varazdin"
+          ],
+          "winner": "nk-varazdin",
+          "note": "Varteks won on away goals",
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "aston-villa-fc",
+              "away": "nk-varazdin",
+              "score": "2:3"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "nk-varazdin",
+              "away": "aston-villa-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "parma-calcio",
+              "away": "hjk-helsinki",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "hjk-helsinki",
+              "away": "parma-calcio",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-11",
+              "home": "nd-gorica",
+              "away": "nk-osijek",
+              "score": "1:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "nk-osijek",
+              "away": "nd-gorica",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "ipswich-town-fc",
+              "away": "fc-torpedo-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fc-torpedo-moscow",
+              "away": "ipswich-town-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kilmarnock-fc",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "kilmarnock-fc",
+              "away": "viking-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "viking-fk",
+              "away": "kilmarnock-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "afc-ajax",
+              "away": "apollon-limassol-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "apollon-limassol-fc",
+              "away": "afc-ajax",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-zaragoza",
+            "silkeborg-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "real-zaragoza",
+              "away": "silkeborg-if",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "silkeborg-if",
+              "away": "real-zaragoza",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-dinamo-bucuresti",
+              "away": "grasshopper-club",
+              "score": "1:3"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "grasshopper-club",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-pribram",
+            "cs-sedan-ardennes"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fk-pribram",
+              "away": "cs-sedan-ardennes",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "cs-sedan-ardennes",
+              "away": "fk-pribram",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "es-troyes-ac",
+            "mfk-ruzomberok"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-11",
+              "home": "es-troyes-ac",
+              "away": "mfk-ruzomberok",
+              "score": "6:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "mfk-ruzomberok",
+              "away": "es-troyes-ac",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "legia-warsaw",
+              "away": "if-elfsborg",
+              "score": "4:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "if-elfsborg",
+              "away": "legia-warsaw",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kvc-westerlo",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-19",
+              "home": "kvc-westerlo",
+              "away": "hertha-bsc",
+              "score": "0:2"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "hertha-bsc",
+              "away": "kvc-westerlo",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "chelsea-fc",
+              "away": "pfc-levski-sofia",
+              "score": "3:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "pfc-levski-sofia",
+              "away": "chelsea-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-karnten",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-karnten",
+              "away": "paok-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "paok-fc",
+              "away": "fc-karnten",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-dynamo-moscow",
+              "away": "birkirkara-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "birkirkara-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-dnipro",
+              "away": "acf-fiorentina",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "acf-fiorentina",
+              "away": "fc-dnipro",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-st-gallen",
+              "away": "fcsb",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fcsb",
+              "away": "fc-st-gallen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "debreceni-vsc",
+              "score": "5:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "debreceni-vsc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "gaziantepspor"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "gaziantepspor",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "gaziantepspor",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "1-fc-union-berlin"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-haka",
+              "away": "1-fc-union-berlin",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "1-fc-union-berlin",
+              "away": "fc-haka",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fk-partizan",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sk-rapid-wien",
+              "away": "fk-partizan",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "sk-sigma-olomouc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "rc-celta-de-vigo",
+              "away": "sk-sigma-olomouc",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sk-sigma-olomouc",
+              "away": "rc-celta-de-vigo",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "fc-midtjylland",
+              "away": "sporting-cp",
+              "score": "0:3"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sporting-cp",
+              "away": "fc-midtjylland",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-anzhi-makhachkala",
+            "rangers-fc"
+          ],
+          "note": "Played as a single match in Warsaw",
+          "matches": [
+            {
+              "date": "2001-09-27",
+              "home": "fc-anzhi-makhachkala",
+              "away": "rangers-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Single match at Polish Army Stadium, Warsaw (Poland) because of security concerns in Dagestan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "hnk-hajduk-split",
+              "away": "wisla-krakow",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "wisla-krakow",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-18",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "fc-rapid-bucuresti",
+              "away": "paris-saint-germain-fc",
+              "score": "0:3",
+              "extra_time": true,
+              "note": "Awarded 3:0 to Paris Saint-Germain: Rapid walked off during extra time at 0:1 after a floodlight failure"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-maritimo",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "cs-maritimo",
+              "away": "leeds-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "leeds-united-fc",
+              "away": "cs-maritimo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiakos-nicosia",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "olympiakos-nicosia",
+              "away": "club-brugge-kv",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "club-brugge-kv",
+              "away": "olympiakos-nicosia",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odds-bk",
+            "helsingborgs-if"
+          ],
+          "winner": "helsingborgs-if",
+          "note": "Helsingborg won on away goals",
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "odds-bk",
+              "away": "helsingborgs-if",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "helsingborgs-if",
+              "away": "odds-bk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-viktoria-zizkov",
+            "fc-tirol-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-11",
+              "home": "fk-viktoria-zizkov",
+              "away": "fc-tirol-innsbruck",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "fc-tirol-innsbruck",
+              "away": "fk-viktoria-zizkov",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "maccabi-tel-aviv-fc"
+          ],
+          "winner": "maccabi-tel-aviv-fc",
+          "note": "Maccabi Tel Aviv won on away goals",
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2001-09-25",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "polonia-warsaw",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-20",
+              "home": "polonia-warsaw",
+              "away": "fc-twente",
+              "score": "1:2"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "fc-twente",
+              "away": "polonia-warsaw",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-puchov",
+            "sc-freiburg"
+          ],
+          "matches": [
+            {
+              "date": "2001-09-11",
+              "home": "msk-puchov",
+              "away": "sc-freiburg",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-09-27",
+              "home": "sc-freiburg",
+              "away": "msk-puchov",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "rapid-jc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-16",
+              "home": "rapid-jc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "rapid-jc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "legia-warsaw",
+              "away": "valencia-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "valencia-cf",
+              "away": "legia-warsaw",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-freiburg",
+            "fc-st-gallen"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "sc-freiburg",
+              "away": "fc-st-gallen",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fc-st-gallen",
+              "away": "sc-freiburg",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "r-standard-liege",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "fc-tirol-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "acf-fiorentina",
+              "away": "fc-tirol-innsbruck",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fc-tirol-innsbruck",
+              "away": "acf-fiorentina",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "helsingborgs-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "ipswich-town-fc",
+              "away": "helsingborgs-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "helsingborgs-if",
+              "away": "ipswich-town-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "paris-saint-germain-fc",
+              "away": "sk-rapid-wien",
+              "score": "4:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "sk-rapid-wien",
+              "away": "paris-saint-germain-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-union-berlin",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "1-fc-union-berlin",
+              "away": "fc-lovech",
+              "score": "0:2"
+            },
+            {
+              "date": "2001-10-30",
+              "home": "fc-lovech",
+              "away": "1-fc-union-berlin",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "fc-copenhagen",
+              "away": "afc-ajax",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "afc-ajax",
+              "away": "fc-copenhagen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "inter-milan",
+              "away": "wisla-krakow",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-10-30",
+              "home": "wisla-krakow",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fk-pribram"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "paok-fc",
+              "away": "fk-pribram",
+              "score": "6:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fk-pribram",
+              "away": "paok-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "rangers-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "3:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fc-dynamo-moscow",
+              "away": "rangers-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "halmstads-bk",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "halmstads-bk",
+              "away": "sporting-cp",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "sporting-cp",
+              "away": "halmstads-bk",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-zaragoza",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "real-zaragoza",
+              "away": "servette-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "servette-fc",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "es-troyes-ac"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "leeds-united-fc",
+              "away": "es-troyes-ac",
+              "score": "4:2"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "es-troyes-ac",
+              "away": "leeds-united-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arsenal-kyiv",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "fc-arsenal-kyiv",
+              "away": "club-brugge-kv",
+              "score": "0:2",
+              "note": "Played at Dynamo Stadium, Kyiv"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "club-brugge-kv",
+              "away": "fc-arsenal-kyiv",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "fc-utrecht",
+              "away": "parma-calcio",
+              "score": "1:3"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "parma-calcio",
+              "away": "fc-utrecht",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "nk-osijek",
+              "away": "aek-athens-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2001-10-30",
+              "home": "aek-athens-fc",
+              "away": "nk-osijek",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-16",
+              "home": "viking-fk",
+              "away": "hertha-bsc",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "hertha-bsc",
+              "away": "viking-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "grasshopper-club",
+              "away": "fc-twente",
+              "score": "4:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fc-twente",
+              "away": "grasshopper-club",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-varazdin",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "nk-varazdin",
+              "away": "brondby-if",
+              "score": "3:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "brondby-if",
+              "away": "nk-varazdin",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "chelsea-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "chelsea-fc",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "rc-celta-de-vigo",
+              "away": "fc-slovan-liberec",
+              "score": "3:1"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "fc-slovan-liberec",
+              "away": "rc-celta-de-vigo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2001-10-18",
+              "home": "ac-milan",
+              "away": "pfc-cska-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-11-01",
+              "home": "pfc-cska-sofia",
+              "away": "ac-milan",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "paok-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "paok-fc",
+              "away": "psv-eindhoven",
+              "score": "3:2"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "psv-eindhoven",
+              "away": "paok-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "lille-osc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "acf-fiorentina",
+              "away": "lille-osc",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "lille-osc",
+              "away": "acf-fiorentina",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "valencia-cf",
+              "away": "celtic-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "celtic-fc",
+              "away": "valencia-cf",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Valencia CF won 5:4 on penalties"
+            }
+          ],
+          "winner": "valencia-cf"
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "servette-fc",
+              "away": "hertha-bsc",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "hertha-bsc",
+              "away": "servette-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "ipswich-town-fc",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "inter-milan",
+              "away": "ipswich-town-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "rangers-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "paris-saint-germain-fc",
+              "away": "rangers-fc",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Rangers FC won 4:3 on penalties"
+            }
+          ],
+          "winner": "rangers-fc"
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "sc-freiburg"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "feyenoord",
+              "away": "sc-freiburg",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "sc-freiburg",
+              "away": "feyenoord",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "aek-athens-fc",
+              "away": "fc-lovech",
+              "score": "3:2"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "fc-lovech",
+              "away": "aek-athens-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "grasshopper-club",
+              "away": "leeds-united-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "leeds-united-fc",
+              "away": "grasshopper-club",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "parma-calcio",
+              "away": "brondby-if",
+              "score": "1:1"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "brondby-if",
+              "away": "parma-calcio",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "rapid-jc"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-20",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "rapid-jc",
+              "score": "1:0"
+            },
+            {
+              "date": "2001-12-04",
+              "home": "rapid-jc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "rcd-mallorca"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "fc-slovan-liberec",
+              "away": "rcd-mallorca",
+              "score": "3:1"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "rcd-mallorca",
+              "away": "fc-slovan-liberec",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-20",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-lokomotiv-moscow",
+              "score": "2:1"
+            },
+            {
+              "date": "2001-12-04",
+              "home": "fc-lokomotiv-moscow",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "fc-copenhagen",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            },
+            {
+              "date": "2001-12-04",
+              "home": "borussia-dortmund",
+              "away": "fc-copenhagen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "ac-milan",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "sporting-cp",
+              "away": "ac-milan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "olympique-lyonnais"
+          ],
+          "winner": "olympique-lyonnais",
+          "note": "Lyon won on away goals",
+          "matches": [
+            {
+              "date": "2001-11-22",
+              "home": "club-brugge-kv",
+              "away": "olympique-lyonnais",
+              "score": "4:1"
+            },
+            {
+              "date": "2001-12-06",
+              "home": "olympique-lyonnais",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "inter-milan",
+              "away": "aek-athens-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "aek-athens-fc",
+              "away": "inter-milan",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-19",
+              "home": "valencia-cf",
+              "away": "servette-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "servette-fc",
+              "away": "valencia-cf",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "psv-eindhoven",
+              "away": "leeds-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "leeds-united-fc",
+              "away": "psv-eindhoven",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "rangers-fc",
+              "away": "feyenoord",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "feyenoord",
+              "away": "rangers-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "olympique-lyonnais",
+              "away": "fc-slovan-liberec",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "fc-slovan-liberec",
+              "away": "olympique-lyonnais",
+              "score": "4:1",
+              "note": "Played at Stadion Letná, Prague"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lille-osc",
+            "borussia-dortmund"
+          ],
+          "winner": "borussia-dortmund",
+          "note": "Borussia Dortmund won on away goals",
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "lille-osc",
+              "away": "borussia-dortmund",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "borussia-dortmund",
+              "away": "lille-osc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-21",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "parma-calcio",
+              "score": "0:0"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "parma-calcio",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rapid-jc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2002-02-19",
+              "home": "rapid-jc",
+              "away": "ac-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-02-28",
+              "home": "ac-milan",
+              "away": "rapid-jc",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "AC Milan won 3:2 on penalties"
+            }
+          ],
+          "winner": "ac-milan"
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "2002-03-14",
+              "home": "inter-milan",
+              "away": "valencia-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-03-21",
+              "home": "valencia-cf",
+              "away": "inter-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2002-03-14",
+              "home": "psv-eindhoven",
+              "away": "feyenoord",
+              "score": "1:1"
+            },
+            {
+              "date": "2002-03-21",
+              "home": "feyenoord",
+              "away": "psv-eindhoven",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Feyenoord won 5:4 on penalties"
+            }
+          ],
+          "winner": "feyenoord"
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2002-03-14",
+              "home": "fc-slovan-liberec",
+              "away": "borussia-dortmund",
+              "score": "0:0",
+              "note": "Played at Stadion Letná, Prague"
+            },
+            {
+              "date": "2002-03-21",
+              "home": "borussia-dortmund",
+              "away": "fc-slovan-liberec",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-tel-aviv-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2002-03-14",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "ac-milan",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at GSP Stadium, Nicosia (Cyprus): Israeli clubs had to play home matches at neutral venues (Second Intifada)"
+            },
+            {
+              "date": "2002-03-21",
+              "home": "ac-milan",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2002-04-04",
+              "home": "inter-milan",
+              "away": "feyenoord",
+              "score": "0:1"
+            },
+            {
+              "date": "2002-04-11",
+              "home": "feyenoord",
+              "away": "inter-milan",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2002-04-04",
+              "home": "borussia-dortmund",
+              "away": "ac-milan",
+              "score": "4:0"
+            },
+            {
+              "date": "2002-04-11",
+              "home": "ac-milan",
+              "away": "borussia-dortmund",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "feyenoord",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2002-05-08",
+              "home": "feyenoord",
+              "away": "borussia-dortmund",
+              "score": "3:2",
+              "neutral": false,
+              "note": "De Kuip, Rotterdam (Feyenoord home stadium)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

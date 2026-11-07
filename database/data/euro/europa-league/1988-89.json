@@ -1,0 +1,1330 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1988-89",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "tatabanyai-sc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "vfb-stuttgart",
+              "away": "tatabanyai-sc",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "tatabanyai-sc",
+              "away": "vfb-stuttgart",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "r-antwerp-fc",
+              "away": "1-fc-koln",
+              "score": "2:4"
+            },
+            {
+              "date": "1988-10-12",
+              "home": "1-fc-koln",
+              "away": "r-antwerp-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fc-bayern-munich",
+              "away": "legia-warsaw",
+              "score": "3:1"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "legia-warsaw",
+              "away": "fc-bayern-munich",
+              "score": "3:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "bayer-04-leverkusen",
+              "away": "cf-os-belenenses",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-10-12",
+              "home": "cf-os-belenenses",
+              "away": "bayer-04-leverkusen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "1-fc-nurnberg"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "as-roma",
+              "away": "1-fc-nurnberg",
+              "score": "1:2"
+            },
+            {
+              "date": "1988-10-12",
+              "home": "1-fc-nurnberg",
+              "away": "as-roma",
+              "score": "1:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "atletico-madrid"
+          ],
+          "winner": "fc-groningen",
+          "note": "Groningen won on away goals",
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fc-groningen",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "atletico-madrid",
+              "away": "fc-groningen",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aarau",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fc-aarau",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "0:3"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fc-aarau",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "st-patricks-athletic-fc",
+              "away": "heart-of-midlothian-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "heart-of-midlothian-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fk-zalgiris",
+              "away": "fk-austria-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fk-austria-wien",
+              "away": "fk-zalgiris",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "sporting-cp",
+              "away": "afc-ajax",
+              "score": "4:2"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "afc-ajax",
+              "away": "sporting-cp",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "fk-dukla-prague"
+          ],
+          "winner": "real-sociedad",
+          "note": "Real Sociedad won on away goals",
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "real-sociedad",
+              "away": "fk-dukla-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fk-dukla-prague",
+              "away": "real-sociedad",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "union-luxembourg",
+            "rfc-liege"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "union-luxembourg",
+              "away": "rfc-liege",
+              "score": "1:7"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "rfc-liege",
+              "away": "union-luxembourg",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "ik-brage"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "inter-milan",
+              "away": "ik-brage",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "ik-brage",
+              "away": "inter-milan",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "ia-akranes",
+              "away": "ujpest-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "ujpest-fc",
+              "away": "ia-akranes",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "gks-katowice"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "rangers-fc",
+              "away": "gks-katowice",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "gks-katowice",
+              "away": "rangers-fc",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "aberdeen-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "sg-dynamo-dresden",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fc-dnipro",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:1"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-dnipro",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "osters-if",
+              "away": "fc-dac-1904",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fc-dac-1904",
+              "away": "osters-if",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tps-turku",
+            "linfield-fc"
+          ],
+          "winner": "tps-turku",
+          "note": "TPS won on away goals",
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "tps-turku",
+              "away": "linfield-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "linfield-fc",
+              "away": "tps-turku",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "ksv-waregem"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "molde-fk",
+              "away": "ksv-waregem",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "ksv-waregem",
+              "away": "molde-fk",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "malmo-ff",
+              "away": "fc-torpedo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fc-torpedo-moscow",
+              "away": "malmo-ff",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "first-vienna-fc",
+            "ikast-fs"
+          ],
+          "winner": "first-vienna-fc",
+          "note": "First Vienna won on away goals",
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "first-vienna-fc",
+              "away": "ikast-fs",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "ikast-fs",
+              "away": "first-vienna-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asc-otelul-galati",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "asc-otelul-galati",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-12",
+              "home": "juventus-fc",
+              "away": "asc-otelul-galati",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fk-velez-mostar",
+              "away": "apoel-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "apoel-fc",
+              "away": "fk-velez-mostar",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "aek-athens-fc",
+              "away": "athletic-bilbao",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "athletic-bilbao",
+              "away": "aek-athens-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "montpellier-hsc",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "montpellier-hsc",
+              "away": "sl-benfica",
+              "score": "0:3"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "sl-benfica",
+              "away": "montpellier-hsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "victoria-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "sliema-wanderers-fc",
+              "away": "victoria-bucuresti",
+              "score": "0:2"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "victoria-bucuresti",
+              "away": "sliema-wanderers-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "ssc-napoli",
+              "away": "paok-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "paok-fc",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "fk-partizan",
+              "away": "pfc-slavia-sofia",
+              "score": "5:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "pfc-slavia-sofia",
+              "away": "fk-partizan",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "servette-fc",
+              "away": "sk-sturm-graz",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "sk-sturm-graz",
+              "away": "servette-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "botev-plovdiv",
+              "away": "fc-dinamo-minsk",
+              "score": "1:2"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "fc-dinamo-minsk",
+              "away": "botev-plovdiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1988-09-07",
+              "home": "besiktas-jk",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-10-05",
+              "home": "gnk-dinamo-zagreb",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "fc-bayern-munich",
+              "away": "fc-dac-1904",
+              "score": "3:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "fc-dac-1904",
+              "away": "fc-bayern-munich",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "1-fc-koln",
+              "away": "rangers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "rangers-fc",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "gnk-dinamo-zagreb",
+              "away": "vfb-stuttgart",
+              "score": "1:3"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "vfb-stuttgart",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "as-roma"
+          ],
+          "winner": "as-roma",
+          "note": "Roma won on away goals",
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "fk-partizan",
+              "away": "as-roma",
+              "score": "4:2"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "as-roma",
+              "away": "fk-partizan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "fk-velez-mostar",
+              "away": "cf-os-belenenses",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "cf-os-belenenses",
+              "away": "fk-velez-mostar",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "FK Velež Mostar won 4:3 on penalties"
+            }
+          ],
+          "winner": "fk-velez-mostar"
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "sporting-cp",
+              "away": "real-sociedad",
+              "score": "1:2"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "real-sociedad",
+              "away": "sporting-cp",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "heart-of-midlothian-fc",
+              "away": "fk-austria-wien",
+              "score": "0:0"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "fk-austria-wien",
+              "away": "heart-of-midlothian-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "ssc-napoli",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "ujpest-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "ujpest-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "juventus-fc",
+              "away": "athletic-bilbao",
+              "score": "5:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "athletic-bilbao",
+              "away": "juventus-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "ksv-waregem"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "sg-dynamo-dresden",
+              "away": "ksv-waregem",
+              "score": "4:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "ksv-waregem",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "first-vienna-fc",
+            "tps-turku"
+          ],
+          "winner": "tps-turku",
+          "note": "TPS won on away goals",
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "first-vienna-fc",
+              "away": "tps-turku",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "tps-turku",
+              "away": "first-vienna-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "malmo-ff",
+              "away": "inter-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "inter-milan",
+              "away": "malmo-ff",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "rfc-liege",
+              "away": "sl-benfica",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "sl-benfica",
+              "away": "rfc-liege",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "fc-groningen",
+              "away": "servette-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "servette-fc",
+              "away": "fc-groningen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "victoria-bucuresti"
+          ],
+          "winner": "victoria-bucuresti",
+          "note": "Victoria București won on away goals",
+          "matches": [
+            {
+              "date": "1988-10-26",
+              "home": "fc-dinamo-minsk",
+              "away": "victoria-bucuresti",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-11-09",
+              "home": "victoria-bucuresti",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "inter-milan"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "fc-bayern-munich",
+              "away": "inter-milan",
+              "score": "0:2"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "inter-milan",
+              "away": "fc-bayern-munich",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "real-sociedad",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "1-fc-koln",
+              "away": "real-sociedad",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "fc-groningen",
+              "away": "vfb-stuttgart",
+              "score": "1:3"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "vfb-stuttgart",
+              "away": "fc-groningen",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "heart-of-midlothian-fc",
+              "away": "fk-velez-mostar",
+              "score": "3:0"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "fk-velez-mostar",
+              "away": "heart-of-midlothian-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "ssc-napoli",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "ssc-napoli",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "sg-dynamo-dresden",
+              "away": "as-roma",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "as-roma",
+              "away": "sg-dynamo-dresden",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "rfc-liege",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "juventus-fc",
+              "away": "rfc-liege",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "victoria-bucuresti",
+            "tps-turku"
+          ],
+          "winner": "victoria-bucuresti",
+          "note": "Victoria București won on away goals",
+          "matches": [
+            {
+              "date": "1988-11-23",
+              "home": "victoria-bucuresti",
+              "away": "tps-turku",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-12-07",
+              "home": "tps-turku",
+              "away": "victoria-bucuresti",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1989-02-28",
+              "home": "vfb-stuttgart",
+              "away": "real-sociedad",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-03-15",
+              "home": "real-sociedad",
+              "away": "vfb-stuttgart",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "VfB Stuttgart won 4:2 on penalties"
+            }
+          ],
+          "winner": "vfb-stuttgart"
+        },
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1989-02-28",
+              "home": "heart-of-midlothian-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-03-15",
+              "home": "fc-bayern-munich",
+              "away": "heart-of-midlothian-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1989-03-01",
+              "home": "juventus-fc",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            },
+            {
+              "date": "1989-03-15",
+              "home": "ssc-napoli",
+              "away": "juventus-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "victoria-bucuresti",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1989-02-28",
+              "home": "victoria-bucuresti",
+              "away": "sg-dynamo-dresden",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-03-15",
+              "home": "sg-dynamo-dresden",
+              "away": "victoria-bucuresti",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1989-04-05",
+              "home": "ssc-napoli",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            },
+            {
+              "date": "1989-04-19",
+              "home": "fc-bayern-munich",
+              "away": "ssc-napoli",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1989-04-05",
+              "home": "vfb-stuttgart",
+              "away": "sg-dynamo-dresden",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-04-19",
+              "home": "sg-dynamo-dresden",
+              "away": "vfb-stuttgart",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ssc-napoli",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1989-05-03",
+              "home": "ssc-napoli",
+              "away": "vfb-stuttgart",
+              "score": "2:1"
+            },
+            {
+              "date": "1989-05-17",
+              "home": "vfb-stuttgart",
+              "away": "ssc-napoli",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

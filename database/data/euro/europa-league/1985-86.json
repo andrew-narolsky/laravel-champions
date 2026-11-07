@@ -1,0 +1,1332 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1985-86",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-11",
+              "home": "fc-avenir-beggen",
+              "away": "psv-eindhoven",
+              "score": "0:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "psv-eindhoven",
+              "away": "fc-avenir-beggen",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "st-mirren-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-17",
+              "home": "sk-slavia-prague",
+              "away": "st-mirren-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "st-mirren-fc",
+              "away": "sk-slavia-prague",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-17",
+              "home": "valur",
+              "away": "fc-nantes",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-nantes",
+              "away": "valur",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chornomorets-odesa",
+            "sv-werder-bremen"
+          ],
+          "winner": "fc-chornomorets-odesa",
+          "note": "Chornomorets Odesa won on away goals",
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-chornomorets-odesa",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "sv-werder-bremen",
+              "away": "fc-chornomorets-odesa",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fk-vardar"
+          ],
+          "winner": "fk-vardar",
+          "note": "Vardar won on away goals",
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fk-vardar",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fk-vardar",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-erzgebirge-aue",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-erzgebirge-aue",
+              "away": "fc-dnipro",
+              "score": "1:3"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-dnipro",
+              "away": "fc-erzgebirge-aue",
+              "score": "2:1",
+              "note": "Played at Stadion Metalurh, Kryvyi Rih"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-dinamo-city",
+              "away": "hamrun-spartans-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "hamrun-spartans-fc",
+              "away": "fc-dinamo-city",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "coleraine-fc",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "coleraine-fc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "coleraine-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofc-pirin-blagoevgrad",
+            "hammarby-if"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "ofc-pirin-blagoevgrad",
+              "away": "hammarby-if",
+              "score": "1:3"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "hammarby-if",
+              "away": "ofc-pirin-blagoevgrad",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "fc-spartak-moscow",
+              "away": "tps-turku",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "tps-turku",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "malmo-ff"
+          ],
+          "winner": "videoton-fc-fehervar",
+          "note": "Videoton won on away goals",
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "videoton-fc-fehervar",
+              "away": "malmo-ff",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "malmo-ff",
+              "away": "videoton-fc-fehervar",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-metz"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "hnk-hajduk-split",
+              "away": "fc-metz",
+              "score": "5:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-metz",
+              "away": "hnk-hajduk-split",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "linzer-ask",
+              "away": "fc-banik-ostrava",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-10-01",
+              "home": "fc-banik-ostrava",
+              "away": "linzer-ask",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "apoel-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "apoel-fc",
+              "score": "4:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "aek-athens-fc",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "real-madrid-cf",
+              "away": "aek-athens-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "borussia-monchengladbach",
+              "away": "lech-poznan",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "lech-poznan",
+              "away": "borussia-monchengladbach",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "gyori-eto-fc",
+              "away": "bohemians-praha-1905",
+              "score": "3:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "bohemians-praha-1905",
+              "away": "gyori-eto-fc",
+              "score": "4:1",
+              "extra_time": true,
+              "note": "Played at Tehelné pole, Bratislava"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "sporting-de-gijon"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "1-fc-koln",
+              "away": "sporting-de-gijon",
+              "score": "0:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "sporting-de-gijon",
+              "away": "1-fc-koln",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "fc-wacker-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "rfc-liege",
+              "away": "fc-wacker-innsbruck",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-wacker-innsbruck",
+              "away": "rfc-liege",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "sparta-rotterdam",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "hamburger-sv",
+              "away": "sparta-rotterdam",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Sparta Rotterdam won 4:3 on penalties"
+            }
+          ],
+          "winner": "sparta-rotterdam"
+        },
+        {
+          "clubs": [
+            "ksv-waregem",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "ksv-waregem",
+              "away": "agf-aarhus",
+              "score": "5:2"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "agf-aarhus",
+              "away": "ksv-waregem",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "fc-sportul-studentesc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "neuchatel-xamax-fcs",
+              "away": "fc-sportul-studentesc",
+              "score": "3:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-sportul-studentesc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "4:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "legia-warsaw",
+              "away": "viking-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "viking-fk",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "athletic-bilbao",
+              "away": "besiktas-jk",
+              "score": "4:1"
+            },
+            {
+              "date": "1985-10-03",
+              "home": "besiktas-jk",
+              "away": "athletic-bilbao",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "aj-auxerre",
+              "away": "ac-milan",
+              "score": "3:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "ac-milan",
+              "away": "aj-auxerre",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-st-gallen"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "inter-milan",
+              "away": "fc-st-gallen",
+              "score": "5:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fc-st-gallen",
+              "away": "inter-milan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "rangers-fc",
+              "away": "ca-osasuna",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "ca-osasuna",
+              "away": "rangers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "torino-fc",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "panathinaikos-fc",
+              "away": "torino-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "bohemian-fc",
+              "away": "dundee-united-fc",
+              "score": "2:5"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "dundee-united-fc",
+              "away": "bohemian-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "portimonense-sc",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "portimonense-sc",
+              "away": "fk-partizan",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "fk-partizan",
+              "away": "portimonense-sc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-18",
+              "home": "sporting-cp",
+              "away": "feyenoord",
+              "score": "3:1"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "feyenoord",
+              "away": "sporting-cp",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1985-09-19",
+              "home": "boavista-fc",
+              "away": "club-brugge-kv",
+              "score": "4:3"
+            },
+            {
+              "date": "1985-10-02",
+              "home": "club-brugge-kv",
+              "away": "boavista-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "neuchatel-xamax-fcs"
+          ],
+          "winner": "neuchatel-xamax-fcs",
+          "note": "Neuchâtel Xamax won on away goals",
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "neuchatel-xamax-fcs",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-dinamo-city",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "sporting-cp",
+              "away": "fc-dinamo-city",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "videoton-fc-fehervar",
+              "away": "legia-warsaw",
+              "score": "0:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "legia-warsaw",
+              "away": "videoton-fc-fehervar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fc-spartak-moscow",
+              "away": "club-brugge-kv",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "club-brugge-kv",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "fk-partizan",
+              "away": "fc-nantes",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fc-nantes",
+              "away": "fk-partizan",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "st-mirren-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "hammarby-if",
+              "away": "st-mirren-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "st-mirren-fc",
+              "away": "hammarby-if",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "linzer-ask",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "inter-milan",
+              "away": "linzer-ask",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "psv-eindhoven",
+              "away": "fc-dnipro",
+              "score": "2:2"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fc-dnipro",
+              "away": "psv-eindhoven",
+              "score": "1:0",
+              "note": "Played at Stadion Metalurh, Kryvyi Rih"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "1-fc-koln",
+              "away": "bohemians-praha-1905",
+              "score": "4:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "bohemians-praha-1905",
+              "away": "1-fc-koln",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "rfc-liege",
+              "away": "athletic-bilbao",
+              "score": "0:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "athletic-bilbao",
+              "away": "rfc-liege",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "sparta-rotterdam",
+              "away": "borussia-monchengladbach",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "borussia-monchengladbach",
+              "away": "sparta-rotterdam",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksv-waregem",
+            "ca-osasuna"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "ksv-waregem",
+              "away": "ca-osasuna",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "ca-osasuna",
+              "away": "ksv-waregem",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "dundee-united-fc",
+              "away": "fk-vardar",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fk-vardar",
+              "away": "dundee-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "winner": "ac-milan",
+          "note": "Milan won on away goals",
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "ac-milan",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "2:0"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "ac-milan",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "torino-fc",
+              "away": "hnk-hajduk-split",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "hnk-hajduk-split",
+              "away": "torino-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "1985-10-23",
+              "home": "real-madrid-cf",
+              "away": "fc-chornomorets-odesa",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-11-06",
+              "home": "fc-chornomorets-odesa",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "fc-spartak-moscow",
+              "away": "fc-nantes",
+              "score": "0:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "fc-nantes",
+              "away": "fc-spartak-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "fc-dnipro",
+              "away": "hnk-hajduk-split",
+              "score": "0:1",
+              "note": "Played at Stadion Metalurh, Kryvyi Rih"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "hnk-hajduk-split",
+              "away": "fc-dnipro",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "hammarby-if",
+              "away": "1-fc-koln",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "1-fc-koln",
+              "away": "hammarby-if",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksv-waregem",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "ksv-waregem",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "ac-milan",
+              "away": "ksv-waregem",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "real-madrid-cf"
+          ],
+          "winner": "real-madrid-cf",
+          "note": "Real Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "borussia-monchengladbach",
+              "away": "real-madrid-cf",
+              "score": "5:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "real-madrid-cf",
+              "away": "borussia-monchengladbach",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "athletic-bilbao",
+              "away": "sporting-cp",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "sporting-cp",
+              "away": "athletic-bilbao",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "dundee-united-fc",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:1"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "neuchatel-xamax-fcs",
+              "away": "dundee-united-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1985-11-27",
+              "home": "inter-milan",
+              "away": "legia-warsaw",
+              "score": "0:0"
+            },
+            {
+              "date": "1985-12-11",
+              "home": "legia-warsaw",
+              "away": "inter-milan",
+              "score": "0:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sporting-cp",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-04",
+              "home": "sporting-cp",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-03-18",
+              "home": "1-fc-koln",
+              "away": "sporting-cp",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "ksv-waregem"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "hnk-hajduk-split",
+              "away": "ksv-waregem",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "ksv-waregem",
+              "away": "hnk-hajduk-split",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "KSV Waregem won 5:4 on penalties"
+            }
+          ],
+          "winner": "ksv-waregem"
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "inter-milan",
+              "away": "fc-nantes",
+              "score": "3:0"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "fc-nantes",
+              "away": "inter-milan",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1986-03-05",
+              "home": "real-madrid-cf",
+              "away": "neuchatel-xamax-fcs",
+              "score": "3:0"
+            },
+            {
+              "date": "1986-03-19",
+              "home": "neuchatel-xamax-fcs",
+              "away": "real-madrid-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-koln",
+            "ksv-waregem"
+          ],
+          "matches": [
+            {
+              "date": "1986-04-02",
+              "home": "1-fc-koln",
+              "away": "ksv-waregem",
+              "score": "4:0"
+            },
+            {
+              "date": "1986-04-16",
+              "home": "ksv-waregem",
+              "away": "1-fc-koln",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1986-04-02",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "1986-04-16",
+              "home": "real-madrid-cf",
+              "away": "inter-milan",
+              "score": "5:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1986-04-30",
+              "home": "real-madrid-cf",
+              "away": "1-fc-koln",
+              "score": "5:1"
+            },
+            {
+              "date": "1986-05-06",
+              "home": "1-fc-koln",
+              "away": "real-madrid-cf",
+              "score": "2:0",
+              "note": "Played at Olympiastadion, West Berlin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

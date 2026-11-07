@@ -1,0 +1,4492 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2017-18",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "kf-tirana",
+              "score": "2:0",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "kf-tirana",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mladost-lucani",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-mladost-lucani",
+              "away": "samaxi-fk",
+              "score": "0:3"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "samaxi-fk",
+              "away": "fk-mladost-lucani",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shirak",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-shirak",
+              "away": "nd-gorica",
+              "score": "0:2"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "nd-gorica",
+              "away": "fc-shirak",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "fc-dacia-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "kf-shkendija",
+              "away": "fc-dacia-chisinau",
+              "score": "3:0",
+              "note": "Played at Stadion Mladost, Strumica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-dacia-chisinau",
+              "away": "kf-shkendija",
+              "score": "0:4",
+              "note": "Played at Stadionul Moldova, Speia (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "fc-torpedo-kutaisi"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "as-trencin",
+              "away": "fc-torpedo-kutaisi",
+              "score": "5:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-torpedo-kutaisi",
+              "away": "as-trencin",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "fk-atlantas"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-kairat",
+              "away": "fk-atlantas",
+              "score": "6:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-atlantas",
+              "away": "fc-kairat",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-chikhura-sachkhere",
+            "sc-rheindorf-altach"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-chikhura-sachkhere",
+              "away": "sc-rheindorf-altach",
+              "score": "0:1",
+              "note": "Played at Boris Paichadze Dinamo Arena, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "sc-rheindorf-altach",
+              "away": "fc-chikhura-sachkhere",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zira-fk",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "zira-fk",
+              "away": "fc-differdange-03",
+              "score": "2:0",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-differdange-03",
+              "away": "zira-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "pfc-levski-sofia",
+              "away": "fk-sutjeska-niksic",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-sutjeska-niksic",
+              "away": "pfc-levski-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "fk-pelister"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "lech-poznan",
+              "away": "fk-pelister",
+              "score": "4:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-pelister",
+              "away": "lech-poznan",
+              "score": "0:3",
+              "note": "Played at Stadion Mladost, Strumica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "beitar-jerusalem-fc",
+              "away": "vasas-sc",
+              "score": "4:3",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria); played behind closed doors (UEFA punishment)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "vasas-sc",
+              "away": "beitar-jerusalem-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-fola-esch",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "cs-fola-esch",
+              "away": "fc-milsami-orhei",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-milsami-orhei",
+              "away": "cs-fola-esch",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "mfk-ruzomberok"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-vojvodina",
+              "away": "mfk-ruzomberok",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "mfk-ruzomberok",
+              "away": "fk-vojvodina",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-irtysh",
+            "fc-dunav-ruse"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-irtysh",
+              "away": "fc-dunav-ruse",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-dunav-ruse",
+              "away": "fc-irtysh",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-titograd",
+            "fc-gandzasar"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "ofk-titograd",
+              "away": "fc-gandzasar",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-gandzasar",
+              "away": "ofk-titograd",
+              "score": "0:3",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "fc-ordabasy"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "nk-siroki-brijeg",
+              "away": "fc-ordabasy",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-ordabasy",
+              "away": "nk-siroki-brijeg",
+              "score": "0:0",
+              "note": "Played at Central Stadium, Almaty (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-partizani",
+              "away": "botev-plovdiv",
+              "score": "1:3"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "botev-plovdiv",
+              "away": "fk-partizani",
+              "score": "1:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-pyunik",
+              "away": "sk-slovan-bratislava",
+              "score": "1:4"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-pyunik",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-dinamo-batumi",
+              "away": "jagiellonia-bialystok",
+              "score": "0:1",
+              "note": "Played at Ramaz Shengelia Stadium, Kutaisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "jagiellonia-bialystok",
+              "away": "fc-dinamo-batumi",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "balzan-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "videoton-fc-fehervar",
+              "away": "balzan-fc",
+              "score": "2:0",
+              "note": "Played at Pancho Aréna, Felcsút (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-04",
+              "home": "balzan-fc",
+              "away": "videoton-fc-fehervar",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "red-star-belgrade",
+              "away": "floriana-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "floriana-fc",
+              "away": "red-star-belgrade",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-santa-coloma",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "ue-santa-coloma",
+              "away": "nk-osijek",
+              "score": "0:2"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "nk-osijek",
+              "away": "ue-santa-coloma",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-tre-penne",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "sp-tre-penne",
+              "away": "fk-rabotnicki",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-rabotnicki",
+              "away": "sp-tre-penne",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "fk-zeta"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "fk-zeta",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-zeta",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:2",
+              "note": "Played at City Stadium, Podgorica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-josephs-fc",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "st-josephs-fc",
+              "away": "ael-limassol",
+              "score": "0:4",
+              "neutral": true,
+              "note": "Played at Estádio Algarve, Faro–Loulé (Portugal): no stadium in Gibraltar met UEFA criteria"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "ael-limassol",
+              "away": "st-josephs-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "ss-folgore-falciano"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "valletta-fc",
+              "away": "ss-folgore-falciano",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "ss-folgore-falciano",
+              "away": "valletta-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-balti",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-balti",
+              "away": "fk-sarajevo",
+              "score": "2:1",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-sarajevo",
+              "away": "fc-balti",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FC Bălți won 6:5 on penalties"
+            }
+          ],
+          "winner": "fc-balti"
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "rangers-fc",
+              "away": "fc-progres-niederkorn",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-04",
+              "home": "fc-progres-niederkorn",
+              "away": "rangers-fc",
+              "score": "2:0",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-larnaca-fc",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "aek-larnaca-fc",
+              "away": "lincoln-red-imps-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "lincoln-red-imps-fc",
+              "away": "aek-larnaca-fc",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Estádio Algarve, Faro–Loulé (Portugal): no stadium in Gibraltar met UEFA criteria"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-skenderbeu",
+            "ue-sant-julia"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "kf-skenderbeu",
+              "away": "ue-sant-julia",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "ue-sant-julia",
+              "away": "kf-skenderbeu",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-ventspils",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-ventspils",
+              "away": "valur",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "valur",
+              "away": "fk-ventspils",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bala-town-fc",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "bala-town-fc",
+              "away": "fc-vaduz",
+              "score": "1:2",
+              "note": "Played at Belle Vue, Rhyl (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-vaduz",
+              "away": "bala-town-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "nk-domzale",
+              "away": "fc-flora",
+              "score": "2:0",
+              "note": "Played at Arena Petrol, Celje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-flora",
+              "away": "nk-domzale",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-midtjylland",
+              "away": "derry-city-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "derry-city-fc",
+              "away": "fc-midtjylland",
+              "score": "1:4",
+              "note": "Played at The Showgrounds, Sligo (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-haugesund",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fk-haugesund",
+              "away": "coleraine-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "coleraine-fc",
+              "away": "fk-haugesund",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-johnstone-fc",
+            "fk-riteriai"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "st-johnstone-fc",
+              "away": "fk-riteriai",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-riteriai",
+              "away": "st-johnstone-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vps-vaasa",
+            "nk-olimpija-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "vps-vaasa",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "nk-olimpija-ljubljana",
+              "away": "vps-vaasa",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "fk-liepaja"
+          ],
+          "winner": "fk-liepaja",
+          "note": "Liepāja won on away goals",
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "crusaders-fc",
+              "away": "fk-liepaja",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-liepaja",
+              "away": "crusaders-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "nsi-runavik"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-dinamo-minsk",
+              "away": "nsi-runavik",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "nsi-runavik",
+              "away": "fc-dinamo-minsk",
+              "score": "0:2",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "stjarnan",
+              "away": "shamrock-rovers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "shamrock-rovers-fc",
+              "away": "stjarnan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odds-bk",
+            "ballymena-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "odds-bk",
+              "away": "ballymena-united-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "ballymena-united-fc",
+              "away": "odds-bk",
+              "score": "0:2",
+              "note": "Played at Seaview, Belfast (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "connahs-quay-nomads-fc",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "connahs-quay-nomads-fc",
+              "away": "hjk-helsinki",
+              "score": "1:0",
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "hjk-helsinki",
+              "away": "connahs-quay-nomads-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "nomme-kalju-fc",
+              "away": "b36-torshavn",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "b36-torshavn",
+              "away": "nomme-kalju-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fk-jelgava"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "ferencvarosi-tc",
+              "away": "fk-jelgava",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-jelgava",
+              "away": "ferencvarosi-tc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "fc-prishtina"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "ifk-norrkoping",
+              "away": "fc-prishtina",
+              "score": "5:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fc-prishtina",
+              "away": "ifk-norrkoping",
+              "score": "0:1",
+              "note": "Played at Adem Jashari Olympic Stadium, Mitrovica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "fk-suduva",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "fk-suduva",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "sjk-seinajoki"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "kr-reykjavik",
+              "away": "sjk-seinajoki",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "sjk-seinajoki",
+              "away": "kr-reykjavik",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "cork-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "fci-levadia-tallinn",
+              "away": "cork-city-fc",
+              "score": "0:2",
+              "note": "Played at Pärnu Rannastaadion, Pärnu (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "cork-city-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyngby-boldklub",
+            "bangor-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "lyngby-boldklub",
+              "away": "bangor-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "bangor-city-fc",
+              "away": "lyngby-boldklub",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2017-06-29",
+              "home": "ki-klaksvik",
+              "away": "aik-fotboll",
+              "score": "0:0",
+              "note": "Played at Gundadalur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-06",
+              "home": "aik-fotboll",
+              "away": "ki-klaksvik",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "beitar-jerusalem-fc",
+              "away": "botev-plovdiv",
+              "score": "1:1",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "botev-plovdiv",
+              "away": "beitar-jerusalem-fc",
+              "score": "4:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fc-balti"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "apollon-limassol-fc",
+              "away": "fc-balti",
+              "score": "3:0",
+              "note": "Played at AEK Arena – Georgios Karapatakis, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-balti",
+              "away": "apollon-limassol-fc",
+              "score": "1:2",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fk-rabotnicki",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-dinamo-minsk",
+              "away": "fk-rabotnicki",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "sk-slovan-bratislava",
+              "away": "lyngby-boldklub",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "lyngby-boldklub",
+              "away": "sk-slovan-bratislava",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "fk-mlada-boleslav"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "shamrock-rovers-fc",
+              "away": "fk-mlada-boleslav",
+              "score": "2:3"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fk-mlada-boleslav",
+              "away": "shamrock-rovers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "aik-fotboll",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "aik-fotboll",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-city-fc",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "cork-city-fc",
+              "away": "aek-larnaca-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "aek-larnaca-fc",
+              "away": "cork-city-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "kf-skenderbeu"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fc-kairat",
+              "away": "kf-skenderbeu",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "kf-skenderbeu",
+              "away": "fc-kairat",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panionios-fc",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "panionios-fc",
+              "away": "nd-gorica",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "nd-gorica",
+              "away": "panionios-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "zira-fk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fc-astra-giurgiu",
+              "away": "zira-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "zira-fk",
+              "away": "fc-astra-giurgiu",
+              "score": "0:0",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-haugesund",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fk-haugesund",
+              "away": "lech-poznan",
+              "score": "3:2"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "lech-poznan",
+              "away": "fk-haugesund",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "vps-vaasa"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "brondby-if",
+              "away": "vps-vaasa",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "vps-vaasa",
+              "away": "brondby-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "fk-riteriai"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "ifk-norrkoping",
+              "away": "fk-riteriai",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fk-riteriai",
+              "away": "ifk-norrkoping",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "FK Riteriai won 5:3 on penalties"
+            }
+          ],
+          "winner": "fk-riteriai"
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "hnk-hajduk-split",
+              "away": "pfc-levski-sofia",
+              "score": "1:0",
+              "note": "Played at Stadion Hrvatski vitezovi, Dugopolje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "pfc-levski-sofia",
+              "away": "hnk-hajduk-split",
+              "score": "1:2",
+              "note": "Played behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "nomme-kalju-fc",
+              "away": "videoton-fc-fehervar",
+              "score": "0:3"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "videoton-fc-fehervar",
+              "away": "nomme-kalju-fc",
+              "score": "1:1",
+              "note": "Played at Pancho Aréna, Felcsút (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "kr-reykjavik",
+              "score": "3:1",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "kr-reykjavik",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "valletta-fc",
+              "away": "fc-utrecht",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-utrecht",
+              "away": "valletta-fc",
+              "score": "3:1",
+              "note": "Played at Mandemakers Stadion, Waalwijk (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mfk-ruzomberok",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "mfk-ruzomberok",
+              "away": "sk-brann",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "sk-brann",
+              "away": "mfk-ruzomberok",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepaja",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fk-liepaja",
+              "away": "fk-suduva",
+              "score": "0:2"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fk-suduva",
+              "away": "fk-liepaja",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qabala-ik",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "qabala-ik",
+              "away": "jagiellonia-bialystok",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "jagiellonia-bialystok",
+              "away": "qabala-ik",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progres-niederkorn",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fc-progres-niederkorn",
+              "away": "ael-limassol",
+              "score": "0:1",
+              "note": "Played at Stade Municipal, Differdange (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "ael-limassol",
+              "away": "fc-progres-niederkorn",
+              "score": "2:1",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-rheindorf-altach",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "sc-rheindorf-altach",
+              "away": "fc-dynamo-brest",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-dynamo-brest",
+              "away": "sc-rheindorf-altach",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ostersunds-fk",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "ostersunds-fk",
+              "away": "galatasaray-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "galatasaray-sk",
+              "away": "ostersunds-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "samaxi-fk",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-12",
+              "home": "samaxi-fk",
+              "away": "cs-fola-esch",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "cs-fola-esch",
+              "away": "samaxi-fk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "odds-bk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fc-vaduz",
+              "away": "odds-bk",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "odds-bk",
+              "away": "fc-vaduz",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "nk-domzale"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "valur",
+              "away": "nk-domzale",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "nk-domzale",
+              "away": "valur",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-irtysh",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "fc-irtysh",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "red-star-belgrade",
+              "away": "fc-irtysh",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "aberdeen-fc",
+              "away": "nk-siroki-brijeg",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "nk-siroki-brijeg",
+              "away": "aberdeen-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "ferencvarosi-tc",
+              "away": "fc-midtjylland",
+              "score": "2:4"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-midtjylland",
+              "away": "ferencvarosi-tc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "ofk-titograd"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "sk-sturm-graz",
+              "away": "ofk-titograd",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "ofk-titograd",
+              "away": "sk-sturm-graz",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "kf-shkendija",
+              "away": "hjk-helsinki",
+              "score": "3:1",
+              "note": "Played at Stadion Mladost, Strumica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "hjk-helsinki",
+              "away": "kf-shkendija",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "bnei-yehuda-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "as-trencin",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "1:1",
+              "note": "Played at Stadium Myjava, Myjava (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "as-trencin",
+              "score": "2:0",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "fc-luzern"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-13",
+              "home": "nk-osijek",
+              "away": "fc-luzern",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-07-20",
+              "home": "fc-luzern",
+              "away": "nk-osijek",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "psv-eindhoven",
+              "away": "nk-osijek",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "nk-osijek",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-riteriai",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fk-riteriai",
+              "away": "kf-shkendija",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "kf-shkendija",
+              "away": "fk-riteriai",
+              "score": "3:0",
+              "note": "Played at Stadion Mladost, Strumica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-krasnodar",
+              "away": "lyngby-boldklub",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "lyngby-boldklub",
+              "away": "fc-krasnodar",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "sk-sturm-graz",
+              "away": "fenerbahce-sk",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "fenerbahce-sk",
+              "away": "sk-sturm-graz",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "qabala-ik"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "panathinaikos-fc",
+              "away": "qabala-ik",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "qabala-ik",
+              "away": "panathinaikos-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "kf-skenderbeu"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fk-mlada-boleslav",
+              "away": "kf-skenderbeu",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "kf-skenderbeu",
+              "away": "fk-mlada-boleslav",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria); KF Skënderbeu won 4:2 on penalties"
+            }
+          ],
+          "winner": "kf-skenderbeu"
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fk-austria-wien",
+              "away": "ael-limassol",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-02",
+              "home": "ael-limassol",
+              "away": "fk-austria-wien",
+              "score": "1:2",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "odds-bk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "gnk-dinamo-zagreb",
+              "away": "odds-bk",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "odds-bk",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-dinamo-bucuresti",
+              "away": "athletic-bilbao",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "athletic-bilbao",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-olimpik-donetsk",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-olimpik-donetsk",
+              "away": "paok-fc",
+              "score": "1:1",
+              "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "paok-fc",
+              "away": "fc-olimpik-donetsk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arka-gdynia",
+            "fc-midtjylland"
+          ],
+          "winner": "fc-midtjylland",
+          "note": "Midtjylland won on away goals",
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "arka-gdynia",
+              "away": "fc-midtjylland",
+              "score": "3:2"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "fc-midtjylland",
+              "away": "arka-gdynia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ostersunds-fk",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "ostersunds-fk",
+              "away": "cs-fola-esch",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "cs-fola-esch",
+              "away": "ostersunds-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "videoton-fc-fehervar"
+          ],
+          "winner": "videoton-fc-fehervar",
+          "note": "Videoton won on away goals",
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "videoton-fc-fehervar",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "videoton-fc-fehervar",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:0",
+              "note": "Played at Pancho Aréna, Felcsút (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "panionios-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "panionios-fc",
+              "score": "1:0",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "panionios-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "lech-poznan"
+          ],
+          "winner": "fc-utrecht",
+          "note": "Utrecht won on away goals",
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-utrecht",
+              "away": "lech-poznan",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "lech-poznan",
+              "away": "fc-utrecht",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "cs-universitatea-craiova",
+              "away": "ac-milan",
+              "score": "0:1",
+              "note": "Played at Stadionul Municipal, Drobeta-Turnu Severin (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "ac-milan",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "brondby-if",
+              "away": "hnk-hajduk-split",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "hnk-hajduk-split",
+              "away": "brondby-if",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "sc-rheindorf-altach"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "kaa-gent",
+              "away": "sc-rheindorf-altach",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "sc-rheindorf-altach",
+              "away": "kaa-gent",
+              "score": "3:1",
+              "note": "Played at Tivoli-Neu, Innsbruck (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "fc-oleksandriya"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fc-astra-giurgiu",
+              "away": "fc-oleksandriya",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "fc-oleksandriya",
+              "away": "fc-astra-giurgiu",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "mfk-ruzomberok"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "everton-fc",
+              "away": "mfk-ruzomberok",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "mfk-ruzomberok",
+              "away": "everton-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "aberdeen-fc",
+              "away": "apollon-limassol-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "apollon-limassol-fc",
+              "away": "aberdeen-fc",
+              "score": "2:0",
+              "note": "Played at AEK Arena – Georgios Karapatakis, Larnaca (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "red-star-belgrade",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "ac-sparta-prague",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "cs-maritimo"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "botev-plovdiv",
+              "away": "cs-maritimo",
+              "score": "0:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "cs-maritimo",
+              "away": "botev-plovdiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bnei-yehuda-tel-aviv-fc",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "bnei-yehuda-tel-aviv-fc",
+              "away": "fc-zenit",
+              "score": "0:2",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "fc-zenit",
+              "away": "bnei-yehuda-tel-aviv-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "kv-oostende"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "olympique-de-marseille",
+              "away": "kv-oostende",
+              "score": "4:2"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "kv-oostende",
+              "away": "olympique-de-marseille",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-freiburg",
+            "nk-domzale"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "sc-freiburg",
+              "away": "nk-domzale",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "nk-domzale",
+              "away": "sc-freiburg",
+              "score": "2:0",
+              "note": "Played at Stožice Stadium, Ljubljana (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-larnaca-fc",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "aek-larnaca-fc",
+              "away": "fc-dinamo-minsk",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "fc-dinamo-minsk",
+              "away": "aek-larnaca-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "aik-fotboll",
+              "away": "sc-braga",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-03",
+              "home": "sc-braga",
+              "away": "aik-fotboll",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "2017-07-27",
+              "home": "fk-suduva",
+              "away": "fc-sion",
+              "score": "3:0"
+            },
+            {
+              "date": "2017-08-02",
+              "home": "fc-sion",
+              "away": "fk-suduva",
+              "score": "1:1",
+              "note": "Played at Stade de Genève, Geneva (home ground did not meet UEFA criteria)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "ac-milan",
+              "away": "kf-shkendija",
+              "score": "6:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "kf-shkendija",
+              "away": "ac-milan",
+              "score": "0:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "fk-austria-wien"
+          ],
+          "winner": "fk-austria-wien",
+          "note": "Austria Wien won on away goals",
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "nk-osijek",
+              "away": "fk-austria-wien",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fk-austria-wien",
+              "away": "nk-osijek",
+              "score": "0:1",
+              "note": "Played at NV Arena, Sankt Pölten (the Franz Horr Stadium was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "red-star-belgrade"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fc-krasnodar",
+              "away": "red-star-belgrade",
+              "score": "3:2"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "red-star-belgrade",
+              "away": "fc-krasnodar",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "club-brugge-kv",
+              "away": "aek-athens-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "aek-athens-fc",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-maritimo",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "cs-maritimo",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-dynamo-kyiv",
+              "away": "cs-maritimo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "panathinaikos-fc",
+              "away": "athletic-bilbao",
+              "score": "2:3"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "athletic-bilbao",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "apollon-limassol-fc",
+              "away": "fc-midtjylland",
+              "score": "3:2",
+              "note": "Played at AEK Arena – Georgios Karapatakis, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-midtjylland",
+              "away": "apollon-limassol-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fh-hafnarfjardar",
+              "away": "sc-braga",
+              "score": "1:2"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "sc-braga",
+              "away": "fh-hafnarfjardar",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "everton-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "hnk-hajduk-split",
+              "away": "everton-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viitorul-constanta",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fc-viitorul-constanta",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:3"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-viitorul-constanta",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fk-vardar",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fenerbahce-sk",
+              "away": "fk-vardar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "afc-ajax",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "rosenborg-bk",
+              "away": "afc-ajax",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-rheindorf-altach",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "sc-rheindorf-altach",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:1",
+              "note": "Played at Tivoli-Neu, Innsbruck (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "sc-rheindorf-altach",
+              "score": "2:2",
+              "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bate-borisov",
+            "fc-oleksandriya"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fc-bate-borisov",
+              "away": "fc-oleksandriya",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-oleksandriya",
+              "away": "fc-bate-borisov",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "kf-skenderbeu"
+          ],
+          "winner": "kf-skenderbeu",
+          "note": "Skënderbeu won on away goals",
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "kf-skenderbeu",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "kf-skenderbeu",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "fk-suduva"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "fk-suduva",
+              "score": "2:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fk-suduva",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "nk-domzale",
+              "away": "olympique-de-marseille",
+              "score": "1:1",
+              "note": "Played at Stožice Stadium, Ljubljana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "olympique-de-marseille",
+              "away": "nk-domzale",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fk-partizan",
+              "away": "videoton-fc-fehervar",
+              "score": "0:0",
+              "note": "Played behind closed doors (UEFA punishment)"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "videoton-fc-fehervar",
+              "away": "fk-partizan",
+              "score": "0:4",
+              "note": "Played at Pancho Aréna, Felcsút (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-16",
+              "home": "fc-utrecht",
+              "away": "fc-zenit",
+              "score": "1:0"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-zenit",
+              "away": "fc-utrecht",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-sheriff-tiraspol"
+          ],
+          "winner": "fc-sheriff-tiraspol",
+          "note": "Sheriff Tiraspol won on away goals",
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "legia-warsaw",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "fc-sheriff-tiraspol",
+              "away": "legia-warsaw",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "fc-viktoria-plzen",
+              "away": "aek-larnaca-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "aek-larnaca-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "ostersunds-fk"
+          ],
+          "winner": "ostersunds-fk",
+          "note": "Östersund won on away goals",
+          "matches": [
+            {
+              "date": "2017-08-17",
+              "home": "paok-fc",
+              "away": "ostersunds-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2017-08-24",
+              "home": "ostersunds-fk",
+              "away": "paok-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2017-09-14",
+          "home": "villarreal-cf",
+          "away": "fc-astana",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "sk-slavia-prague",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-astana",
+          "away": "sk-slavia-prague",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "villarreal-cf",
+          "score": "0:0",
+          "group": "A",
+          "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-astana",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "villarreal-cf",
+          "away": "sk-slavia-prague",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "fc-astana",
+          "score": "0:1",
+          "group": "A",
+          "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "sk-slavia-prague",
+          "away": "villarreal-cf",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-astana",
+          "away": "villarreal-cf",
+          "score": "2:3",
+          "group": "A"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "sk-slavia-prague",
+          "score": "0:2",
+          "group": "A",
+          "note": "Played at Netanya Stadium, Netanya (Bloomfield Stadium was being renovated)"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "villarreal-cf",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "sk-slavia-prague",
+          "away": "fc-astana",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fc-dynamo-kyiv",
+          "away": "kf-skenderbeu",
+          "score": "3:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "bsc-young-boys",
+          "away": "fk-partizan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fk-partizan",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:3",
+          "group": "B",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "kf-skenderbeu",
+          "away": "bsc-young-boys",
+          "score": "1:1",
+          "group": "B",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "kf-skenderbeu",
+          "away": "fk-partizan",
+          "score": "0:0",
+          "group": "B",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-dynamo-kyiv",
+          "away": "bsc-young-boys",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fk-partizan",
+          "away": "kf-skenderbeu",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "bsc-young-boys",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "kf-skenderbeu",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:2",
+          "group": "B",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria); played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fk-partizan",
+          "away": "bsc-young-boys",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fc-dynamo-kyiv",
+          "away": "fk-partizan",
+          "score": "4:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "bsc-young-boys",
+          "away": "kf-skenderbeu",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "tsg-1899-hoffenheim",
+          "away": "sc-braga",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "istanbul-basaksehir-fk",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "tsg-1899-hoffenheim",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "sc-braga",
+          "away": "istanbul-basaksehir-fk",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "sc-braga",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "0:2",
+          "group": "C"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "tsg-1899-hoffenheim",
+          "away": "istanbul-basaksehir-fk",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "sc-braga",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "istanbul-basaksehir-fk",
+          "away": "tsg-1899-hoffenheim",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "sc-braga",
+          "away": "tsg-1899-hoffenheim",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "pfc-ludogorets-razgrad",
+          "away": "istanbul-basaksehir-fk",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "tsg-1899-hoffenheim",
+          "away": "pfc-ludogorets-razgrad",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "istanbul-basaksehir-fk",
+          "away": "sc-braga",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fk-austria-wien",
+          "away": "ac-milan",
+          "score": "1:5",
+          "group": "D"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "hnk-rijeka",
+          "away": "aek-athens-fc",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "aek-athens-fc",
+          "away": "fk-austria-wien",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "ac-milan",
+          "away": "hnk-rijeka",
+          "score": "3:2",
+          "group": "D"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "ac-milan",
+          "away": "aek-athens-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fk-austria-wien",
+          "away": "hnk-rijeka",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "aek-athens-fc",
+          "away": "ac-milan",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "hnk-rijeka",
+          "away": "fk-austria-wien",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "ac-milan",
+          "away": "fk-austria-wien",
+          "score": "5:1",
+          "group": "D"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "aek-athens-fc",
+          "away": "hnk-rijeka",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fk-austria-wien",
+          "away": "aek-athens-fc",
+          "score": "0:0",
+          "group": "D"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "hnk-rijeka",
+          "away": "ac-milan",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "atalanta-bc",
+          "away": "everton-fc",
+          "score": "3:0",
+          "group": "E",
+          "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "apollon-limassol-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "olympique-lyonnais",
+          "away": "atalanta-bc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "everton-fc",
+          "away": "apollon-limassol-fc",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "everton-fc",
+          "away": "olympique-lyonnais",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "atalanta-bc",
+          "away": "apollon-limassol-fc",
+          "score": "3:1",
+          "group": "E",
+          "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "olympique-lyonnais",
+          "away": "everton-fc",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "apollon-limassol-fc",
+          "away": "atalanta-bc",
+          "score": "1:1",
+          "group": "E",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "everton-fc",
+          "away": "atalanta-bc",
+          "score": "1:5",
+          "group": "E"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "olympique-lyonnais",
+          "away": "apollon-limassol-fc",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "atalanta-bc",
+          "away": "olympique-lyonnais",
+          "score": "1:0",
+          "group": "E",
+          "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "apollon-limassol-fc",
+          "away": "everton-fc",
+          "score": "0:3",
+          "group": "E",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fc-zlin",
+          "away": "fc-sheriff-tiraspol",
+          "score": "0:0",
+          "group": "F",
+          "note": "Played at Andrův stadion, Olomouc (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fc-copenhagen",
+          "away": "fc-lokomotiv-moscow",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-zlin",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-copenhagen",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-zlin",
+          "away": "fc-copenhagen",
+          "score": "1:1",
+          "group": "F",
+          "note": "Played at Andrův stadion, Olomouc (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-sheriff-tiraspol",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fc-copenhagen",
+          "away": "fc-zlin",
+          "score": "3:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-lokomotiv-moscow",
+          "away": "fc-copenhagen",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-sheriff-tiraspol",
+          "away": "fc-zlin",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fc-zlin",
+          "away": "fc-lokomotiv-moscow",
+          "score": "0:2",
+          "group": "F",
+          "note": "Played at Andrův stadion, Olomouc (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fc-copenhagen",
+          "away": "fc-sheriff-tiraspol",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "hapoel-beer-sheva-fc",
+          "away": "fc-lugano",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fcsb",
+          "away": "fc-viktoria-plzen",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-viktoria-plzen",
+          "away": "hapoel-beer-sheva-fc",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-lugano",
+          "away": "fcsb",
+          "score": "1:2",
+          "group": "G",
+          "note": "Played at Swissporarena, Lucerne (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-lugano",
+          "away": "fc-viktoria-plzen",
+          "score": "3:2",
+          "group": "G",
+          "note": "Played at Swissporarena, Lucerne (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "hapoel-beer-sheva-fc",
+          "away": "fcsb",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-lugano",
+          "score": "4:1",
+          "group": "G"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fcsb",
+          "away": "hapoel-beer-sheva-fc",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-lugano",
+          "away": "hapoel-beer-sheva-fc",
+          "score": "1:0",
+          "group": "G",
+          "note": "Played at Swissporarena, Lucerne (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-viktoria-plzen",
+          "away": "fcsb",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "hapoel-beer-sheva-fc",
+          "away": "fc-viktoria-plzen",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fcsb",
+          "away": "fc-lugano",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "red-star-belgrade",
+          "away": "fc-bate-borisov",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "arsenal-fc",
+          "away": "1-fc-koln",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "1-fc-koln",
+          "away": "red-star-belgrade",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-bate-borisov",
+          "away": "arsenal-fc",
+          "score": "2:4",
+          "group": "H"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-bate-borisov",
+          "away": "1-fc-koln",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "red-star-belgrade",
+          "away": "arsenal-fc",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "1-fc-koln",
+          "away": "fc-bate-borisov",
+          "score": "5:2",
+          "group": "H"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "arsenal-fc",
+          "away": "red-star-belgrade",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-bate-borisov",
+          "away": "red-star-belgrade",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "1-fc-koln",
+          "away": "arsenal-fc",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "red-star-belgrade",
+          "away": "1-fc-koln",
+          "score": "1:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "arsenal-fc",
+          "away": "fc-bate-borisov",
+          "score": "6:0",
+          "group": "H"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "olympique-de-marseille",
+          "away": "konyaspor",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "vitoria-sc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-red-bull-salzburg",
+          "away": "olympique-de-marseille",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "konyaspor",
+          "away": "vitoria-sc",
+          "score": "2:1",
+          "group": "I"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "konyaspor",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:2",
+          "group": "I"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "olympique-de-marseille",
+          "away": "vitoria-sc",
+          "score": "2:1",
+          "group": "I"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "fc-red-bull-salzburg",
+          "away": "konyaspor",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "vitoria-sc",
+          "away": "olympique-de-marseille",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "konyaspor",
+          "away": "olympique-de-marseille",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-red-bull-salzburg",
+          "away": "vitoria-sc",
+          "score": "3:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "olympique-de-marseille",
+          "away": "fc-red-bull-salzburg",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "vitoria-sc",
+          "away": "konyaspor",
+          "score": "1:1",
+          "group": "I"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fc-zorya-luhansk",
+          "away": "ostersunds-fk",
+          "score": "0:2",
+          "group": "J",
+          "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "hertha-bsc",
+          "away": "athletic-bilbao",
+          "score": "0:0",
+          "group": "J"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "athletic-bilbao",
+          "away": "fc-zorya-luhansk",
+          "score": "0:1",
+          "group": "J"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "ostersunds-fk",
+          "away": "hertha-bsc",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "ostersunds-fk",
+          "away": "athletic-bilbao",
+          "score": "2:2",
+          "group": "J"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-zorya-luhansk",
+          "away": "hertha-bsc",
+          "score": "2:1",
+          "group": "J",
+          "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "athletic-bilbao",
+          "away": "ostersunds-fk",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "hertha-bsc",
+          "away": "fc-zorya-luhansk",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "ostersunds-fk",
+          "away": "fc-zorya-luhansk",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "athletic-bilbao",
+          "away": "hertha-bsc",
+          "score": "3:2",
+          "group": "J"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fc-zorya-luhansk",
+          "away": "athletic-bilbao",
+          "score": "0:2",
+          "group": "J",
+          "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "hertha-bsc",
+          "away": "ostersunds-fk",
+          "score": "1:1",
+          "group": "J"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "sv-zulte-waregem",
+          "away": "ogc-nice",
+          "score": "1:5",
+          "group": "K"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "sbv-vitesse",
+          "away": "ss-lazio",
+          "score": "2:3",
+          "group": "K"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "ss-lazio",
+          "away": "sv-zulte-waregem",
+          "score": "2:0",
+          "group": "K",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "ogc-nice",
+          "away": "sbv-vitesse",
+          "score": "3:0",
+          "group": "K"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "ogc-nice",
+          "away": "ss-lazio",
+          "score": "1:3",
+          "group": "K"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "sv-zulte-waregem",
+          "away": "sbv-vitesse",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "ss-lazio",
+          "away": "ogc-nice",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "sbv-vitesse",
+          "away": "sv-zulte-waregem",
+          "score": "0:2",
+          "group": "K"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "ogc-nice",
+          "away": "sv-zulte-waregem",
+          "score": "3:1",
+          "group": "K"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "ss-lazio",
+          "away": "sbv-vitesse",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "sv-zulte-waregem",
+          "away": "ss-lazio",
+          "score": "3:2",
+          "group": "K"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "sbv-vitesse",
+          "away": "ogc-nice",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "fk-vardar",
+          "away": "fc-zenit",
+          "score": "0:5",
+          "group": "L"
+        },
+        {
+          "date": "2017-09-14",
+          "home": "real-sociedad",
+          "away": "rosenborg-bk",
+          "score": "4:0",
+          "group": "L"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "rosenborg-bk",
+          "away": "fk-vardar",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-09-28",
+          "home": "fc-zenit",
+          "away": "real-sociedad",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fc-zenit",
+          "away": "rosenborg-bk",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-10-19",
+          "home": "fk-vardar",
+          "away": "real-sociedad",
+          "score": "0:6",
+          "group": "L"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "rosenborg-bk",
+          "away": "fc-zenit",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-11-02",
+          "home": "real-sociedad",
+          "away": "fk-vardar",
+          "score": "3:0",
+          "group": "L"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "fc-zenit",
+          "away": "fk-vardar",
+          "score": "2:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-11-23",
+          "home": "rosenborg-bk",
+          "away": "real-sociedad",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "fk-vardar",
+          "away": "rosenborg-bk",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2017-12-07",
+          "home": "real-sociedad",
+          "away": "fc-zenit",
+          "score": "1:3",
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "borussia-dortmund",
+              "away": "atalanta-bc",
+              "score": "3:2"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "atalanta-bc",
+              "away": "borussia-dortmund",
+              "score": "1:1",
+              "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Atleti Azzurri d'Italia did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ogc-nice",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "ogc-nice",
+              "away": "fc-lokomotiv-moscow",
+              "score": "2:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "fc-lokomotiv-moscow",
+              "away": "ogc-nice",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "fc-copenhagen",
+              "away": "atletico-madrid",
+              "score": "1:4"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "atletico-madrid",
+              "away": "fc-copenhagen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "fc-spartak-moscow",
+              "away": "athletic-bilbao",
+              "score": "1:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "athletic-bilbao",
+              "away": "fc-spartak-moscow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "winner": "fc-dynamo-kyiv",
+          "note": "Dynamo Kyiv won on away goals",
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "aek-athens-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "fc-dynamo-kyiv",
+              "away": "aek-athens-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "celtic-fc",
+              "away": "fc-zenit",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "fc-zenit",
+              "away": "celtic-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "rb-leipzig"
+          ],
+          "winner": "rb-leipzig",
+          "note": "RB Leipzig won on away goals",
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "ssc-napoli",
+              "away": "rb-leipzig",
+              "score": "1:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "rb-leipzig",
+              "away": "ssc-napoli",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-13",
+              "home": "red-star-belgrade",
+              "away": "pfc-cska-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "2018-02-21",
+              "home": "pfc-cska-moscow",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "olympique-lyonnais",
+              "away": "villarreal-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "villarreal-cf",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "real-sociedad",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "fc-red-bull-salzburg",
+              "away": "real-sociedad",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "fk-partizan",
+              "away": "fc-viktoria-plzen",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "fc-viktoria-plzen",
+              "away": "fk-partizan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "fcsb",
+              "away": "ss-lazio",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "ss-lazio",
+              "away": "fcsb",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-ludogorets-razgrad",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "pfc-ludogorets-razgrad",
+              "away": "ac-milan",
+              "score": "0:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "ac-milan",
+              "away": "pfc-ludogorets-razgrad",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "fc-astana",
+              "away": "sporting-cp",
+              "score": "1:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "sporting-cp",
+              "away": "fc-astana",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ostersunds-fk",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "ostersunds-fk",
+              "away": "arsenal-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "arsenal-fc",
+              "away": "ostersunds-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2018-02-15",
+              "home": "olympique-de-marseille",
+              "away": "sc-braga",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-02-22",
+              "home": "sc-braga",
+              "away": "olympique-de-marseille",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "ss-lazio",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:2"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "fc-dynamo-kyiv",
+              "away": "ss-lazio",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rb-leipzig",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "rb-leipzig",
+              "away": "fc-zenit",
+              "score": "2:1"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "fc-zenit",
+              "away": "rb-leipzig",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "atletico-madrid",
+              "away": "fc-lokomotiv-moscow",
+              "score": "3:0"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "fc-lokomotiv-moscow",
+              "away": "atletico-madrid",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "olympique-lyonnais"
+          ],
+          "winner": "pfc-cska-moscow",
+          "note": "CSKA Moscow won on away goals",
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "pfc-cska-moscow",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "olympique-lyonnais",
+              "away": "pfc-cska-moscow",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "olympique-de-marseille",
+              "away": "athletic-bilbao",
+              "score": "3:1"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "athletic-bilbao",
+              "away": "olympique-de-marseille",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "sporting-cp",
+              "away": "fc-viktoria-plzen",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "fc-viktoria-plzen",
+              "away": "sporting-cp",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "borussia-dortmund",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:2"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "fc-red-bull-salzburg",
+              "away": "borussia-dortmund",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "2018-03-08",
+              "home": "ac-milan",
+              "away": "arsenal-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2018-03-15",
+              "home": "arsenal-fc",
+              "away": "ac-milan",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "rb-leipzig",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-05",
+              "home": "rb-leipzig",
+              "away": "olympique-de-marseille",
+              "score": "1:0"
+            },
+            {
+              "date": "2018-04-12",
+              "home": "olympique-de-marseille",
+              "away": "rb-leipzig",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-05",
+              "home": "arsenal-fc",
+              "away": "pfc-cska-moscow",
+              "score": "4:1"
+            },
+            {
+              "date": "2018-04-12",
+              "home": "pfc-cska-moscow",
+              "away": "arsenal-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-05",
+              "home": "atletico-madrid",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-04-12",
+              "home": "sporting-cp",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-05",
+              "home": "ss-lazio",
+              "away": "fc-red-bull-salzburg",
+              "score": "4:2"
+            },
+            {
+              "date": "2018-04-12",
+              "home": "fc-red-bull-salzburg",
+              "away": "ss-lazio",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-26",
+              "home": "olympique-de-marseille",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0"
+            },
+            {
+              "date": "2018-05-03",
+              "home": "fc-red-bull-salzburg",
+              "away": "olympique-de-marseille",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2018-04-26",
+              "home": "arsenal-fc",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "2018-05-03",
+              "home": "atletico-madrid",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2018-05-16",
+              "home": "olympique-de-marseille",
+              "away": "atletico-madrid",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Parc Olympique Lyonnais, Décines-Charpieu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

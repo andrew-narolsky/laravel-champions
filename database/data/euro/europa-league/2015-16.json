@@ -1,0 +1,4497 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2015-16",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "vikingur-reykjavik",
+              "away": "fc-koper",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-koper",
+              "away": "vikingur-reykjavik",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sheriff-tiraspol",
+            "odds-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-sheriff-tiraspol",
+              "away": "odds-bk",
+              "score": "0:3"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "odds-bk",
+              "away": "fc-sheriff-tiraspol",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kukesi",
+            "fc-torpedo-belaz-zhodino"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-kukesi",
+              "away": "fc-torpedo-belaz-zhodino",
+              "score": "2:0",
+              "note": "Played at Qemal Stafa National Stadium, Tirana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-torpedo-belaz-zhodino",
+              "away": "fk-kukesi",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-alashkert",
+            "st-johnstone-fc"
+          ],
+          "winner": "fc-alashkert",
+          "note": "Alashkert won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-alashkert",
+              "away": "st-johnstone-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "st-johnstone-fc",
+              "away": "fc-alashkert",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jelgava",
+            "fc-lovech"
+          ],
+          "winner": "fk-jelgava",
+          "note": "Jelgava won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-jelgava",
+              "away": "fc-lovech",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-lovech",
+              "away": "fk-jelgava",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newtown-afc",
+            "valletta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "newtown-afc",
+              "away": "valletta-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "valletta-fc",
+              "away": "newtown-afc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "qabala-ik"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-dinamo-tbilisi",
+              "away": "qabala-ik",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "qabala-ik",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-renova",
+            "fc-dacia-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2015-06-30",
+              "home": "kf-renova",
+              "away": "fc-dacia-chisinau",
+              "score": "0:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-dacia-chisinau",
+              "away": "kf-renova",
+              "score": "4:1",
+              "note": "Played at CSR Orhei, Orhei (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-olimpik",
+            "fc-spartak-trnava"
+          ],
+          "winner": "fc-spartak-trnava",
+          "note": "Spartak Trnava won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-olimpik",
+              "away": "fc-spartak-trnava",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-spartak-trnava",
+              "away": "fk-olimpik",
+              "score": "0:0",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "fc-lusitanos"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "west-ham-united-fc",
+              "away": "fc-lusitanos",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-lusitanos",
+              "away": "west-ham-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "glenavon-fc",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "glenavon-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "bala-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-differdange-03",
+              "away": "bala-town-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "bala-town-fc",
+              "away": "fc-differdange-03",
+              "score": "2:1",
+              "note": "Played at The Corbett Sports Stadium, Rhyl (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "aberdeen-fc"
+          ],
+          "winner": "aberdeen-fc",
+          "note": "Aberdeen won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "kf-shkendija",
+              "away": "aberdeen-fc",
+              "score": "1:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "aberdeen-fc",
+              "away": "kf-shkendija",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "vikingur-gota",
+              "away": "rosenborg-bk",
+              "score": "0:2",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "rosenborg-bk",
+              "away": "vikingur-gota",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sjk-seinajoki",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "sjk-seinajoki",
+              "away": "fh-hafnarfjardar",
+              "score": "0:1",
+              "note": "Played at Sonera Stadium, Helsinki (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fh-hafnarfjardar",
+              "away": "sjk-seinajoki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "nsi-runavik"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "linfield-fc",
+              "away": "nsi-runavik",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "nsi-runavik",
+              "away": "linfield-fc",
+              "score": "4:3",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "ac-juvenes-dogana"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "brondby-if",
+              "away": "ac-juvenes-dogana",
+              "score": "9:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "ac-juvenes-dogana",
+              "away": "brondby-if",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "mtk-budapest-fc",
+              "away": "fk-vojvodina",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-vojvodina",
+              "away": "mtk-budapest-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "skonto-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "st-patricks-athletic-fc",
+              "away": "skonto-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lahti",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-lahti",
+              "away": "if-elfsborg",
+              "score": "2:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "if-elfsborg",
+              "away": "fc-lahti",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-atlantas",
+            "pfc-beroe-stara-zagora"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-atlantas",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "fk-atlantas",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "fk-sutjeska-niksic"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "debreceni-vsc",
+              "away": "fk-sutjeska-niksic",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-sutjeska-niksic",
+              "away": "debreceni-vsc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ordabasy",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-ordabasy",
+              "away": "beitar-jerusalem-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "beitar-jerusalem-fc",
+              "away": "fc-ordabasy",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "balzan-fc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2015-06-30",
+              "home": "balzan-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "balzan-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-sillamae-kalev",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "jk-sillamae-kalev",
+              "away": "hnk-hajduk-split",
+              "score": "1:1",
+              "note": "Played at Rakvere linnastaadion, Rakvere (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "hnk-hajduk-split",
+              "away": "jk-sillamae-kalev",
+              "score": "6:2",
+              "note": "Played at Stadion Hrvatski vitezovi, Dugopolje (Stadion Poljud was hosting the Ultra Europe festival)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "fk-spartaks-jurmala"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-buducnost-podgorica",
+              "away": "fk-spartaks-jurmala",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-spartaks-jurmala",
+              "away": "fk-buducnost-podgorica",
+              "score": "0:0",
+              "note": "Played at Olympic Sports Center of Zemgale, Jelgava (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "red-star-belgrade",
+              "away": "fc-kairat",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-kairat",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-flora",
+              "away": "fk-rabotnicki",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-rabotnicki",
+              "away": "fc-flora",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-sant-julia",
+            "randers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "ue-sant-julia",
+              "away": "randers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "randers-fc",
+              "away": "ue-sant-julia",
+              "score": "3:0",
+              "note": "Played at Energi Viborg Arena, Viborg (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-saksan",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-saksan",
+              "away": "apollon-limassol-fc",
+              "score": "0:2",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "apollon-limassol-fc",
+              "away": "fc-saksan",
+              "score": "2:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-progres-niederkorn",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-06-30",
+              "home": "fc-progres-niederkorn",
+              "away": "shamrock-rovers-fc",
+              "score": "0:0",
+              "note": "Played at Stade Municipal, Differdange (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-07",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-progres-niederkorn",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-aktobe",
+              "away": "nomme-kalju-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "nomme-kalju-fc",
+              "away": "fc-aktobe",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-dinamo-batumi",
+              "away": "ac-omonia",
+              "score": "1:0",
+              "note": "Played at David Abashidze Stadium, Zestaponi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "ac-omonia",
+              "away": "fc-dinamo-batumi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kruoja-pakruojis",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-kruoja-pakruojis",
+              "away": "jagiellonia-bialystok",
+              "score": "0:1",
+              "note": "Played at Central Stadium, Šiauliai (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "jagiellonia-bialystok",
+              "away": "fk-kruoja-pakruojis",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shirak",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-shirak",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "hsk-zrinjski-mostar",
+              "away": "fc-shirak",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-city-fc",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "cork-city-fc",
+              "away": "kr-reykjavik",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "kr-reykjavik",
+              "away": "cork-city-fc",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "go-ahead-eagles",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "go-ahead-eagles",
+              "away": "ferencvarosi-tc",
+              "score": "1:1",
+              "note": "Played at JENS Vesting, Emmen (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "ferencvarosi-tc",
+              "away": "go-ahead-eagles",
+              "score": "4:1",
+              "note": "Played behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-riteriai",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fk-riteriai",
+              "away": "hb-torshavn",
+              "score": "3:0",
+              "note": "Played at Darius and Girėnas Stadium, Kaunas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "hb-torshavn",
+              "away": "fk-riteriai",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-laci",
+            "samaxi-fk"
+          ],
+          "winner": "samaxi-fk",
+          "note": "Inter Baku won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "kf-laci",
+              "away": "samaxi-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "samaxi-fk",
+              "away": "kf-laci",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vps-vaasa",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "vps-vaasa",
+              "away": "aik-fotboll",
+              "score": "2:2",
+              "note": "Played at Raatti Stadium, Oulu (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "aik-fotboll",
+              "away": "vps-vaasa",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "university-college-dublin-afc",
+            "f91-dudelange"
+          ],
+          "winner": "university-college-dublin-afc",
+          "note": "UCD won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "university-college-dublin-afc",
+              "away": "f91-dudelange",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "f91-dudelange",
+              "away": "university-college-dublin-afc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "fk-cukaricki"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "nk-domzale",
+              "away": "fk-cukaricki",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-cukaricki",
+              "away": "nk-domzale",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "glentoran-fc",
+              "away": "msk-zilina",
+              "score": "1:4"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "msk-zilina",
+              "away": "glentoran-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "stromsgodset",
+              "away": "fk-partizani",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fk-partizani",
+              "away": "stromsgodset",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "ofk-titograd"
+          ],
+          "winner": "ofk-titograd",
+          "note": "Mladost Podgorica won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "neftci-pfk",
+              "away": "ofk-titograd",
+              "score": "2:2"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "ofk-titograd",
+              "away": "neftci-pfk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "nk-celje",
+              "away": "slask-wroclaw",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "slask-wroclaw",
+              "away": "nk-celje",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-la-fiorita",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "sp-la-fiorita",
+              "away": "fc-vaduz",
+              "score": "0:5"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-vaduz",
+              "away": "sp-la-fiorita",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "ulisses-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "birkirkara-fc",
+              "away": "ulisses-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "ulisses-fc",
+              "away": "birkirkara-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "airbus-uk-broughton-fc",
+            "nk-lokomotiva-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "airbus-uk-broughton-fc",
+              "away": "nk-lokomotiva-zagreb",
+              "score": "1:3",
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "nk-lokomotiva-zagreb",
+              "away": "airbus-uk-broughton-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-botosani",
+            "fc-tskhinvali"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "fc-botosani",
+              "away": "fc-tskhinvali",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "fc-tskhinvali",
+              "away": "fc-botosani",
+              "score": "1:3",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (the club could not play in Tskhinvali because of the Georgian–Ossetian conflict)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "europa-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-02",
+              "home": "europa-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:6"
+            },
+            {
+              "date": "2015-07-09",
+              "home": "sk-slovan-bratislava",
+              "away": "europa-fc",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fk-kukesi",
+            "ofk-titograd"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fk-kukesi",
+              "away": "ofk-titograd",
+              "score": "0:1",
+              "note": "Played at Qemal Stafa National Stadium, Tirana (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "ofk-titograd",
+              "away": "fk-kukesi",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-lokomotiva-zagreb",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "nk-lokomotiva-zagreb",
+              "away": "paok-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "paok-fc",
+              "away": "nk-lokomotiva-zagreb",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "university-college-dublin-afc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "sk-slovan-bratislava",
+              "away": "university-college-dublin-afc",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "university-college-dublin-afc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "ferencvarosi-tc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "ferencvarosi-tc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-vaduz",
+              "away": "nomme-kalju-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "nomme-kalju-fc",
+              "away": "fc-vaduz",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "brondby-if",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "brondby-if",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "kr-reykjavik",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "rosenborg-bk",
+              "away": "kr-reykjavik",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "fc-shirak"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "aik-fotboll",
+              "away": "fc-shirak",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-shirak",
+              "away": "aik-fotboll",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-botosani"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "legia-warsaw",
+              "away": "fc-botosani",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-botosani",
+              "away": "legia-warsaw",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dacia-chisinau",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-dacia-chisinau",
+              "away": "msk-zilina",
+              "score": "1:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "msk-zilina",
+              "away": "fc-dacia-chisinau",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "odds-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "shamrock-rovers-fc",
+              "away": "odds-bk",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "odds-bk",
+              "away": "shamrock-rovers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "fc-thun",
+              "score": "1:1",
+              "note": "Played at Teddy Stadium, Jerusalem"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-thun",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "fc-alashkert"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-kairat",
+              "away": "fc-alashkert",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-alashkert",
+              "away": "fc-kairat",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "fk-spartaks-jurmala"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fk-vojvodina",
+              "away": "fk-spartaks-jurmala",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fk-spartaks-jurmala",
+              "away": "fk-vojvodina",
+              "score": "1:1",
+              "note": "Played at Olympic Sports Center of Zemgale, Jelgava (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "jagiellonia-bialystok",
+              "away": "ac-omonia",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "ac-omonia",
+              "away": "jagiellonia-bialystok",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jelgava",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fk-jelgava",
+              "away": "fk-rabotnicki",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fk-rabotnicki",
+              "away": "fk-jelgava",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cukaricki",
+            "qabala-ik"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fk-cukaricki",
+              "away": "qabala-ik",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "qabala-ik",
+              "away": "fk-cukaricki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "wolfsberger-ac"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "wolfsberger-ac",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "wolfsberger-ac",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "2:0",
+              "note": "Played at Wörthersee Stadion, Klagenfurt (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "trabzonspor",
+              "away": "fc-differdange-03",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-differdange-03",
+              "away": "trabzonspor",
+              "score": "1:2",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-charleroi-sc",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "r-charleroi-sc",
+              "away": "beitar-jerusalem-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "beitar-jerusalem-fc",
+              "away": "r-charleroi-sc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-fc",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "randers-fc",
+              "away": "if-elfsborg",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-21",
+              "home": "if-elfsborg",
+              "away": "randers-fc",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "stromsgodset"
+          ],
+          "winner": "stromsgodset",
+          "note": "Strømsgodset won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fk-mlada-boleslav",
+              "away": "stromsgodset",
+              "score": "1:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "stromsgodset",
+              "away": "fk-mlada-boleslav",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cherno-more-varna",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "pfc-cherno-more-varna",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1",
+              "note": "Played at Ludogorets Arena, Razgrad (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-dinamo-minsk",
+              "away": "pfc-cherno-more-varna",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "hnk-rijeka",
+              "away": "aberdeen-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "aberdeen-fc",
+              "away": "hnk-rijeka",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "west-ham-united-fc",
+              "away": "birkirkara-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "birkirkara-fc",
+              "away": "west-ham-united-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "West Ham United FC won 5:3 on penalties"
+            }
+          ],
+          "winner": "west-ham-united-fc"
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fk-riteriai"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "apollon-limassol-fc",
+              "away": "fk-riteriai",
+              "score": "4:0",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fk-riteriai",
+              "away": "apollon-limassol-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-koper",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-koper",
+              "away": "hnk-hajduk-split",
+              "score": "3:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "hnk-hajduk-split",
+              "away": "fc-koper",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fh-hafnarfjardar",
+              "away": "samaxi-fk",
+              "score": "1:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "samaxi-fk",
+              "away": "fh-hafnarfjardar",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inverness-ct-fc",
+            "fc-astra-giurgiu"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "inverness-ct-fc",
+              "away": "fc-astra-giurgiu",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "fc-astra-giurgiu",
+              "away": "inverness-ct-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-spartak-trnava",
+              "away": "linfield-fc",
+              "score": "2:1",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "linfield-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "newtown-afc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "fc-copenhagen",
+              "away": "newtown-afc",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "newtown-afc",
+              "away": "fc-copenhagen",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "slask-wroclaw",
+              "away": "ifk-goteborg",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "ifk-goteborg",
+              "away": "slask-wroclaw",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skonto-fc",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-16",
+              "home": "skonto-fc",
+              "away": "debreceni-vsc",
+              "score": "2:2"
+            },
+            {
+              "date": "2015-07-23",
+              "home": "debreceni-vsc",
+              "away": "skonto-fc",
+              "score": "9:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zurich",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-zurich",
+              "away": "fc-dinamo-minsk",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-zurich",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Played at OSK Brestskiy, Brest (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-kairat",
+              "away": "aberdeen-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "aberdeen-fc",
+              "away": "fc-kairat",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "fc-vorskla-poltava"
+          ],
+          "winner": "msk-zilina",
+          "note": "Žilina won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "msk-zilina",
+              "away": "fc-vorskla-poltava",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-vorskla-poltava",
+              "away": "msk-zilina",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "istanbul-basaksehir-fk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "az-alkmaar",
+              "away": "istanbul-basaksehir-fk",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "istanbul-basaksehir-fk",
+              "away": "az-alkmaar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "aek-larnaca-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "aek-larnaca-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "paok-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-spartak-trnava",
+              "away": "paok-fc",
+              "score": "1:1",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asa-2013-targu-mures",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "asa-2013-targu-mures",
+              "away": "as-saint-etienne",
+              "score": "0:3"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "as-saint-etienne",
+              "away": "asa-2013-targu-mures",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "debreceni-vsc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "debreceni-vsc",
+              "away": "rosenborg-bk",
+              "score": "2:3"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "rosenborg-bk",
+              "away": "debreceni-vsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "fc-copenhagen"
+          ],
+          "winner": "fk-jablonec",
+          "note": "Jablonec won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-29",
+              "home": "fk-jablonec",
+              "away": "fc-copenhagen",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-copenhagen",
+              "away": "fk-jablonec",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-thun",
+            "fc-vaduz"
+          ],
+          "winner": "fc-thun",
+          "note": "Thun won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-thun",
+              "away": "fc-vaduz",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-vaduz",
+              "away": "fc-thun",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cf-os-belenenses",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "cf-os-belenenses",
+              "away": "ifk-goteborg",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "ifk-goteborg",
+              "away": "cf-os-belenenses",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "uc-sampdoria",
+              "away": "fk-vojvodina",
+              "score": "0:4",
+              "note": "Played at Stadio Olimpico, Turin"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fk-vojvodina",
+              "away": "uc-sampdoria",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kukesi",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fk-kukesi",
+              "away": "legia-warsaw",
+              "score": "0:3",
+              "note": "Awarded 0:3 to Legia Warsaw: abandoned in the 52nd minute at 1:2 after a Legia player was hit by an object thrown from the crowd. Played at Qemal Stafa National Stadium, Tirana"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "legia-warsaw",
+              "away": "fk-kukesi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-charleroi-sc",
+            "fc-zorya-luhansk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "r-charleroi-sc",
+              "away": "fc-zorya-luhansk",
+              "score": "0:2"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-zorya-luhansk",
+              "away": "r-charleroi-sc",
+              "score": "3:0",
+              "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (clubs from the Donbas could not play at home because of the war)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "sk-sturm-graz",
+              "away": "fc-rubin-kazan",
+              "score": "2:3"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-rubin-kazan",
+              "away": "sk-sturm-graz",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "odds-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "if-elfsborg",
+              "away": "odds-bk",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "odds-bk",
+              "away": "if-elfsborg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "southampton-fc",
+              "away": "sbv-vitesse",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "sbv-vitesse",
+              "away": "southampton-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "hapoel-ironi-kiryat-shmona-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-slovan-liberec",
+              "away": "hapoel-ironi-kiryat-shmona-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "hapoel-ironi-kiryat-shmona-fc",
+              "away": "fc-slovan-liberec",
+              "score": "0:3",
+              "note": "Played at Netanya Stadium, Netanya (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "qabala-ik"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "apollon-limassol-fc",
+              "away": "qabala-ik",
+              "score": "1:1",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "qabala-ik",
+              "away": "apollon-limassol-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wolfsberger-ac",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "wolfsberger-ac",
+              "away": "borussia-dortmund",
+              "score": "0:1",
+              "note": "Played at Wörthersee Stadion, Klagenfurt (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "borussia-dortmund",
+              "away": "wolfsberger-ac",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "atromitos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "aik-fotboll",
+              "away": "atromitos-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "atromitos-fc",
+              "away": "aik-fotboll",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "r-standard-liege",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "r-standard-liege",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "fc-astra-giurgiu"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "west-ham-united-fc",
+              "away": "fc-astra-giurgiu",
+              "score": "2:2"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "fc-astra-giurgiu",
+              "away": "west-ham-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "athletic-bilbao",
+              "away": "samaxi-fk",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "samaxi-fk",
+              "away": "athletic-bilbao",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fk-rabotnicki",
+              "away": "trabzonspor",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "trabzonspor",
+              "away": "fk-rabotnicki",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "ac-omonia"
+          ],
+          "winner": "brondby-if",
+          "note": "Brøndby won on away goals",
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "brondby-if",
+              "away": "ac-omonia",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "ac-omonia",
+              "away": "brondby-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-rheindorf-altach",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "sc-rheindorf-altach",
+              "away": "vitoria-sc",
+              "score": "2:1",
+              "note": "Played at Tivoli-Neu, Innsbruck (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "vitoria-sc",
+              "away": "sc-rheindorf-altach",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "stromsgodset"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "hnk-hajduk-split",
+              "away": "stromsgodset",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "stromsgodset",
+              "away": "hnk-hajduk-split",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "2015-07-30",
+              "home": "fc-krasnodar",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-06",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-krasnodar",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "sc-rheindorf-altach",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "sc-rheindorf-altach",
+              "away": "cf-os-belenenses",
+              "score": "0:1",
+              "note": "Played at Tivoli-Neu, Innsbruck (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "cf-os-belenenses",
+              "away": "sc-rheindorf-altach",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "athletic-bilbao"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "msk-zilina",
+              "away": "athletic-bilbao",
+              "score": "3:2"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "athletic-bilbao",
+              "away": "msk-zilina",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fcsb",
+              "away": "rosenborg-bk",
+              "score": "0:3"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "rosenborg-bk",
+              "away": "fcsb",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-zorya-luhansk",
+              "away": "legia-warsaw",
+              "score": "0:1",
+              "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "legia-warsaw",
+              "away": "fc-zorya-luhansk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-viktoria-plzen",
+              "away": "fk-vojvodina",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fk-vojvodina",
+              "away": "fc-viktoria-plzen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-milsami-orhei",
+              "away": "as-saint-etienne",
+              "score": "1:1",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "as-saint-etienne",
+              "away": "fc-milsami-orhei",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fk-jablonec"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "afc-ajax",
+              "away": "fk-jablonec",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fk-jablonec",
+              "away": "afc-ajax",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "bsc-young-boys",
+              "away": "qarabag-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "qarabag-fk",
+              "away": "bsc-young-boys",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "r-standard-liege"
+          ],
+          "winner": "molde-fk",
+          "note": "Molde won on away goals",
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "molde-fk",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "r-standard-liege",
+              "away": "molde-fk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "paok-fc",
+              "away": "brondby-if",
+              "score": "5:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "brondby-if",
+              "away": "paok-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fc-kairat"
+          ],
+          "winner": "fc-girondins-de-bordeaux",
+          "note": "Bordeaux won on away goals",
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-kairat",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fc-kairat",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lech-poznan",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "lech-poznan",
+              "away": "videoton-fc-fehervar",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "videoton-fc-fehervar",
+              "away": "lech-poznan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0",
+              "note": "Played at OSK Brestskiy, Brest (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-dinamo-minsk",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "FC Dinamo Minsk won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-dinamo-minsk"
+        },
+        {
+          "clubs": [
+            "fk-rabotnicki",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fk-rabotnicki",
+              "away": "fc-rubin-kazan",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fc-rubin-kazan",
+              "away": "fk-rabotnicki",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slovan-liberec",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-slovan-liberec",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "hnk-hajduk-split",
+              "away": "fc-slovan-liberec",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atromitos-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "atromitos-fc",
+              "away": "fenerbahce-sk",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fenerbahce-sk",
+              "away": "atromitos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qabala-ik",
+            "panathinaikos-fc"
+          ],
+          "winner": "qabala-ik",
+          "note": "Gabala won on away goals",
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "qabala-ik",
+              "away": "panathinaikos-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "panathinaikos-fc",
+              "away": "qabala-ik",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "southampton-fc",
+              "away": "fc-midtjylland",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fc-midtjylland",
+              "away": "southampton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-astra-giurgiu",
+              "away": "az-alkmaar",
+              "score": "3:2"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "az-alkmaar",
+              "away": "fc-astra-giurgiu",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odds-bk",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "odds-bk",
+              "away": "borussia-dortmund",
+              "score": "3:4"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "borussia-dortmund",
+              "away": "odds-bk",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-krasnodar",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "fc-krasnodar",
+              "away": "hjk-helsinki",
+              "score": "5:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "hjk-helsinki",
+              "away": "fc-krasnodar",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fc-thun"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-20",
+              "home": "ac-sparta-prague",
+              "away": "fc-thun",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-08-27",
+              "home": "fc-thun",
+              "away": "ac-sparta-prague",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2015-09-17",
+          "home": "fenerbahce-sk",
+          "away": "molde-fk",
+          "score": "1:3",
+          "group": "A"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "afc-ajax",
+          "away": "celtic-fc",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "celtic-fc",
+          "away": "fenerbahce-sk",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "molde-fk",
+          "away": "afc-ajax",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "molde-fk",
+          "away": "celtic-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fenerbahce-sk",
+          "away": "afc-ajax",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "celtic-fc",
+          "away": "molde-fk",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "afc-ajax",
+          "away": "fenerbahce-sk",
+          "score": "0:0",
+          "group": "A"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "molde-fk",
+          "away": "fenerbahce-sk",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "celtic-fc",
+          "away": "afc-ajax",
+          "score": "1:2",
+          "group": "A"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fenerbahce-sk",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "afc-ajax",
+          "away": "molde-fk",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "liverpool-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-sion",
+          "away": "fc-rubin-kazan",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-rubin-kazan",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "liverpool-fc",
+          "away": "fc-sion",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "liverpool-fc",
+          "away": "fc-rubin-kazan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "fc-sion",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-rubin-kazan",
+          "away": "liverpool-fc",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-sion",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-rubin-kazan",
+          "away": "fc-sion",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "liverpool-fc",
+          "away": "fc-girondins-de-bordeaux",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-girondins-de-bordeaux",
+          "away": "fc-rubin-kazan",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-sion",
+          "away": "liverpool-fc",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "qabala-ik",
+          "away": "paok-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "borussia-dortmund",
+          "away": "fc-krasnodar",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-krasnodar",
+          "away": "qabala-ik",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "paok-fc",
+          "away": "borussia-dortmund",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "qabala-ik",
+          "away": "borussia-dortmund",
+          "score": "1:3",
+          "group": "C"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "paok-fc",
+          "away": "fc-krasnodar",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-krasnodar",
+          "away": "paok-fc",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "borussia-dortmund",
+          "away": "qabala-ik",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-krasnodar",
+          "away": "borussia-dortmund",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "paok-fc",
+          "away": "qabala-ik",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "qabala-ik",
+          "away": "fc-krasnodar",
+          "score": "0:3",
+          "group": "C"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "borussia-dortmund",
+          "away": "paok-fc",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-midtjylland",
+          "away": "legia-warsaw",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "ssc-napoli",
+          "away": "club-brugge-kv",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "club-brugge-kv",
+          "away": "fc-midtjylland",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "legia-warsaw",
+          "away": "ssc-napoli",
+          "score": "0:2",
+          "group": "D"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "legia-warsaw",
+          "away": "club-brugge-kv",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-midtjylland",
+          "away": "ssc-napoli",
+          "score": "1:4",
+          "group": "D"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "club-brugge-kv",
+          "away": "legia-warsaw",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "ssc-napoli",
+          "away": "fc-midtjylland",
+          "score": "5:0",
+          "group": "D"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "legia-warsaw",
+          "away": "fc-midtjylland",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "club-brugge-kv",
+          "away": "ssc-napoli",
+          "score": "0:1",
+          "group": "D",
+          "note": "Played behind closed doors because of the security situation in Belgium after the November 2015 Paris attacks"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-midtjylland",
+          "away": "club-brugge-kv",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "ssc-napoli",
+          "away": "legia-warsaw",
+          "score": "5:2",
+          "group": "D"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "sk-rapid-wien",
+          "away": "villarreal-cf",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-viktoria-plzen",
+          "away": "fc-dinamo-minsk",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-dinamo-minsk",
+          "away": "sk-rapid-wien",
+          "score": "0:1",
+          "group": "E",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "villarreal-cf",
+          "away": "fc-viktoria-plzen",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "villarreal-cf",
+          "away": "fc-dinamo-minsk",
+          "score": "4:0",
+          "group": "E"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "sk-rapid-wien",
+          "away": "fc-viktoria-plzen",
+          "score": "3:2",
+          "group": "E"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-dinamo-minsk",
+          "away": "villarreal-cf",
+          "score": "1:2",
+          "group": "E",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-viktoria-plzen",
+          "away": "sk-rapid-wien",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-dinamo-minsk",
+          "away": "fc-viktoria-plzen",
+          "score": "1:0",
+          "group": "E",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "villarreal-cf",
+          "away": "sk-rapid-wien",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "sk-rapid-wien",
+          "away": "fc-dinamo-minsk",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-viktoria-plzen",
+          "away": "villarreal-cf",
+          "score": "3:3",
+          "group": "E"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-slovan-liberec",
+          "away": "sc-braga",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-groningen",
+          "away": "olympique-de-marseille",
+          "score": "0:3",
+          "group": "F"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "olympique-de-marseille",
+          "away": "fc-slovan-liberec",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "sc-braga",
+          "away": "fc-groningen",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "sc-braga",
+          "away": "olympique-de-marseille",
+          "score": "3:2",
+          "group": "F"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-slovan-liberec",
+          "away": "fc-groningen",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "olympique-de-marseille",
+          "away": "sc-braga",
+          "score": "1:0",
+          "group": "F"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-groningen",
+          "away": "fc-slovan-liberec",
+          "score": "0:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "sc-braga",
+          "away": "fc-slovan-liberec",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "olympique-de-marseille",
+          "away": "fc-groningen",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-slovan-liberec",
+          "away": "olympique-de-marseille",
+          "score": "2:4",
+          "group": "F"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-groningen",
+          "away": "sc-braga",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fc-dnipro",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "G",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "as-saint-etienne",
+          "away": "rosenborg-bk",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "rosenborg-bk",
+          "away": "fc-dnipro",
+          "score": "0:1",
+          "group": "G"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "ss-lazio",
+          "away": "as-saint-etienne",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "ss-lazio",
+          "away": "rosenborg-bk",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-dnipro",
+          "away": "as-saint-etienne",
+          "score": "0:1",
+          "group": "G",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "rosenborg-bk",
+          "away": "ss-lazio",
+          "score": "0:2",
+          "group": "G"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "as-saint-etienne",
+          "away": "fc-dnipro",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "ss-lazio",
+          "away": "fc-dnipro",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "rosenborg-bk",
+          "away": "as-saint-etienne",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fc-dnipro",
+          "away": "rosenborg-bk",
+          "score": "3:0",
+          "group": "G"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "as-saint-etienne",
+          "away": "ss-lazio",
+          "score": "1:1",
+          "group": "G"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "sporting-cp",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:3",
+          "group": "H"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "kf-skenderbeu",
+          "away": "besiktas-jk",
+          "score": "0:1",
+          "group": "H",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "besiktas-jk",
+          "away": "sporting-cp",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-lokomotiv-moscow",
+          "away": "kf-skenderbeu",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-lokomotiv-moscow",
+          "away": "besiktas-jk",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "sporting-cp",
+          "away": "kf-skenderbeu",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "besiktas-jk",
+          "away": "fc-lokomotiv-moscow",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "kf-skenderbeu",
+          "away": "sporting-cp",
+          "score": "3:0",
+          "group": "H",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-lokomotiv-moscow",
+          "away": "sporting-cp",
+          "score": "2:4",
+          "group": "H"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "besiktas-jk",
+          "away": "kf-skenderbeu",
+          "score": "2:0",
+          "group": "H"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "sporting-cp",
+          "away": "besiktas-jk",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "kf-skenderbeu",
+          "away": "fc-lokomotiv-moscow",
+          "score": "0:3",
+          "group": "H",
+          "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "acf-fiorentina",
+          "away": "fc-basel",
+          "score": "1:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "lech-poznan",
+          "away": "cf-os-belenenses",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "cf-os-belenenses",
+          "away": "acf-fiorentina",
+          "score": "0:4",
+          "group": "I"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-basel",
+          "away": "lech-poznan",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-basel",
+          "away": "cf-os-belenenses",
+          "score": "1:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "acf-fiorentina",
+          "away": "lech-poznan",
+          "score": "1:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "cf-os-belenenses",
+          "away": "fc-basel",
+          "score": "0:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "lech-poznan",
+          "away": "acf-fiorentina",
+          "score": "0:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-basel",
+          "away": "acf-fiorentina",
+          "score": "2:2",
+          "group": "I"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "cf-os-belenenses",
+          "away": "lech-poznan",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "acf-fiorentina",
+          "away": "cf-os-belenenses",
+          "score": "1:0",
+          "group": "I"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "lech-poznan",
+          "away": "fc-basel",
+          "score": "0:1",
+          "group": "I"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "rsc-anderlecht",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "tottenham-hotspur-fc",
+          "away": "qarabag-fk",
+          "score": "3:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "qarabag-fk",
+          "away": "rsc-anderlecht",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "as-monaco-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "as-monaco-fc",
+          "away": "qarabag-fk",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "rsc-anderlecht",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "qarabag-fk",
+          "away": "as-monaco-fc",
+          "score": "1:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "tottenham-hotspur-fc",
+          "away": "rsc-anderlecht",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "as-monaco-fc",
+          "away": "rsc-anderlecht",
+          "score": "0:2",
+          "group": "J"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "qarabag-fk",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "rsc-anderlecht",
+          "away": "qarabag-fk",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "tottenham-hotspur-fc",
+          "away": "as-monaco-fc",
+          "score": "4:1",
+          "group": "J"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "apoel-fc",
+          "away": "fc-schalke-04",
+          "score": "0:3",
+          "group": "K"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "asteras-tripolis-fc",
+          "away": "ac-sparta-prague",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "ac-sparta-prague",
+          "away": "apoel-fc",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-schalke-04",
+          "away": "asteras-tripolis-fc",
+          "score": "4:0",
+          "group": "K"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fc-schalke-04",
+          "away": "ac-sparta-prague",
+          "score": "2:2",
+          "group": "K"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "apoel-fc",
+          "away": "asteras-tripolis-fc",
+          "score": "2:1",
+          "group": "K"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "ac-sparta-prague",
+          "away": "fc-schalke-04",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "asteras-tripolis-fc",
+          "away": "apoel-fc",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-schalke-04",
+          "away": "apoel-fc",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "ac-sparta-prague",
+          "away": "asteras-tripolis-fc",
+          "score": "1:0",
+          "group": "K"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "apoel-fc",
+          "away": "ac-sparta-prague",
+          "score": "1:3",
+          "group": "K"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "asteras-tripolis-fc",
+          "away": "fc-schalke-04",
+          "score": "0:4",
+          "group": "K"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "fk-partizan",
+          "away": "az-alkmaar",
+          "score": "3:2",
+          "group": "L"
+        },
+        {
+          "date": "2015-09-17",
+          "home": "athletic-bilbao",
+          "away": "fc-augsburg",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "fc-augsburg",
+          "away": "fk-partizan",
+          "score": "1:3",
+          "group": "L"
+        },
+        {
+          "date": "2015-10-01",
+          "home": "az-alkmaar",
+          "away": "athletic-bilbao",
+          "score": "2:1",
+          "group": "L"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "az-alkmaar",
+          "away": "fc-augsburg",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2015-10-22",
+          "home": "fk-partizan",
+          "away": "athletic-bilbao",
+          "score": "0:2",
+          "group": "L"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "fc-augsburg",
+          "away": "az-alkmaar",
+          "score": "4:1",
+          "group": "L"
+        },
+        {
+          "date": "2015-11-05",
+          "home": "athletic-bilbao",
+          "away": "fk-partizan",
+          "score": "5:1",
+          "group": "L"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "az-alkmaar",
+          "away": "fk-partizan",
+          "score": "1:2",
+          "group": "L"
+        },
+        {
+          "date": "2015-11-26",
+          "home": "fc-augsburg",
+          "away": "athletic-bilbao",
+          "score": "2:3",
+          "group": "L"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "fk-partizan",
+          "away": "fc-augsburg",
+          "score": "1:3",
+          "group": "L"
+        },
+        {
+          "date": "2015-12-10",
+          "home": "athletic-bilbao",
+          "away": "az-alkmaar",
+          "score": "2:2",
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "valencia-cf",
+              "away": "sk-rapid-wien",
+              "score": "6:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "sk-rapid-wien",
+              "away": "valencia-cf",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "acf-fiorentina",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "tottenham-hotspur-fc",
+              "away": "acf-fiorentina",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "borussia-dortmund",
+              "away": "fc-porto",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "fc-porto",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-16",
+              "home": "fenerbahce-sk",
+              "away": "fc-lokomotiv-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "fc-lokomotiv-moscow",
+              "away": "fenerbahce-sk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "rsc-anderlecht",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "olympiacos-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "fc-midtjylland",
+              "away": "manchester-united-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "manchester-united-fc",
+              "away": "fc-midtjylland",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-augsburg",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "fc-augsburg",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "liverpool-fc",
+              "away": "fc-augsburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "ac-sparta-prague",
+              "away": "fc-krasnodar",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "fc-krasnodar",
+              "away": "ac-sparta-prague",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "galatasaray-sk",
+              "away": "ss-lazio",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "ss-lazio",
+              "away": "galatasaray-sk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "fc-sion",
+              "away": "sc-braga",
+              "score": "1:2"
+            },
+            {
+              "date": "2016-02-24",
+              "home": "sc-braga",
+              "away": "fc-sion",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-schalke-04",
+              "score": "0:0",
+              "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "fc-schalke-04",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "olympique-de-marseille",
+              "away": "athletic-bilbao",
+              "score": "0:1"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "athletic-bilbao",
+              "away": "olympique-de-marseille",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "sevilla-fc",
+              "away": "molde-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "molde-fk",
+              "away": "sevilla-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "sporting-cp",
+              "away": "bayer-04-leverkusen",
+              "score": "0:1"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "bayer-04-leverkusen",
+              "away": "sporting-cp",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "villarreal-cf",
+              "away": "ssc-napoli",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "ssc-napoli",
+              "away": "villarreal-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "fc-basel"
+          ],
+          "winner": "fc-basel",
+          "note": "Basel won on away goals",
+          "matches": [
+            {
+              "date": "2016-02-18",
+              "home": "as-saint-etienne",
+              "away": "fc-basel",
+              "score": "3:2"
+            },
+            {
+              "date": "2016-02-25",
+              "home": "fc-basel",
+              "away": "as-saint-etienne",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "fc-shakhtar-donetsk",
+              "away": "rsc-anderlecht",
+              "score": "3:1",
+              "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "rsc-anderlecht",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "fc-basel",
+              "away": "sevilla-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "sevilla-fc",
+              "away": "fc-basel",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "villarreal-cf",
+              "away": "bayer-04-leverkusen",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "bayer-04-leverkusen",
+              "away": "villarreal-cf",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "valencia-cf"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "athletic-bilbao",
+              "away": "valencia-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "valencia-cf",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "liverpool-fc",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "manchester-united-fc",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "ac-sparta-prague",
+              "away": "ss-lazio",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "ss-lazio",
+              "away": "ac-sparta-prague",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "borussia-dortmund",
+              "away": "tottenham-hotspur-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "tottenham-hotspur-fc",
+              "away": "borussia-dortmund",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "2016-03-10",
+              "home": "fenerbahce-sk",
+              "away": "sc-braga",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-03-17",
+              "home": "sc-braga",
+              "away": "fenerbahce-sk",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sc-braga",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-07",
+              "home": "sc-braga",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:2"
+            },
+            {
+              "date": "2016-04-14",
+              "home": "fc-shakhtar-donetsk",
+              "away": "sc-braga",
+              "score": "4:0",
+              "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-07",
+              "home": "villarreal-cf",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "2016-04-14",
+              "home": "ac-sparta-prague",
+              "away": "villarreal-cf",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-07",
+              "home": "athletic-bilbao",
+              "away": "sevilla-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2016-04-14",
+              "home": "sevilla-fc",
+              "away": "athletic-bilbao",
+              "score": "1:2",
+              "extra_time": true,
+              "note": "Sevilla FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "sevilla-fc"
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-07",
+              "home": "borussia-dortmund",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2016-04-14",
+              "home": "liverpool-fc",
+              "away": "borussia-dortmund",
+              "score": "4:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-28",
+              "home": "fc-shakhtar-donetsk",
+              "away": "sevilla-fc",
+              "score": "2:2",
+              "note": "Played at Arena Lviv, Lviv (clubs from the Donbas could not play at home because of the war)"
+            },
+            {
+              "date": "2016-05-05",
+              "home": "sevilla-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-04-28",
+              "home": "villarreal-cf",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2016-05-05",
+              "home": "liverpool-fc",
+              "away": "villarreal-cf",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2016-05-18",
+              "home": "liverpool-fc",
+              "away": "sevilla-fc",
+              "score": "1:3",
+              "neutral": true,
+              "note": "St. Jakob-Park, Basel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

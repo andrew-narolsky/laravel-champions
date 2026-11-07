@@ -1,5 +1,11 @@
+@php
+    // per-competition banner: resources/assets/images/<slug>-banner.webp, otherwise the default one
+    $banner ??= isset($competition) && file_exists(public_path("build/images/{$competition->slug}-banner.webp"))
+        ? "{$competition->slug}-banner.webp"
+        : 'default-banner-1.webp';
+@endphp
 <section class="hero-section hero-section--inner hero-section--inner-competition">
-    <div class="hero-bg" style="background-image: url({{ asset('build/images/' . ($banner ?? 'champions-league-banner.webp')) }});"></div>
+    <div class="hero-bg" style="background-image: url({{ asset('build/images/' . $banner) }});"></div>
     <div class="hero-overlay"></div>
 
     <nav class="country-breadcrumb">

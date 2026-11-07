@@ -1,0 +1,1303 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1971-72",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "kf-vllaznia"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Walkover: Vllaznia withdrew after the Albanian authorities banned the club from international competition",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "fenerbahce-sk",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "ferencvarosi-tc",
+              "away": "fenerbahce-sk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ado-den-haag",
+            "fc-aris-bonnevoie"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "ado-den-haag",
+              "away": "fc-aris-bonnevoie",
+              "score": "5:0"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "fc-aris-bonnevoie",
+              "away": "ado-den-haag",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "keflavik",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "keflavik",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:6",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "tottenham-hotspur-fc",
+              "away": "keflavik",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "eintracht-braunschweig"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "glentoran-fc",
+              "away": "eintracht-braunschweig",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "eintracht-braunschweig",
+              "away": "glentoran-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "nimes-olympique"
+          ],
+          "winner": "vitoria-fc",
+          "note": "Vitória de Setúbal won on away goals",
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "vitoria-fc",
+              "away": "nimes-olympique",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "nimes-olympique",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "pfc-lokomotiv-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-carl-zeiss-jena",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-uta-arad",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-uta-arad",
+              "away": "fc-red-bull-salzburg",
+              "score": "4:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-red-bull-salzburg",
+              "away": "fc-uta-arad",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-beograd",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "ofk-beograd",
+              "away": "djurgardens-if",
+              "score": "4:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "djurgardens-if",
+              "away": "ofk-beograd",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "marsa-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "marsa-fc",
+              "away": "juventus-fc",
+              "score": "0:6"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "juventus-fc",
+              "away": "marsa-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "vasas-sc",
+              "away": "shelbourne-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "shelbourne-fc",
+              "away": "vasas-sc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zaglebie-walbrzych",
+            "fk-teplice"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "zaglebie-walbrzych",
+              "away": "fk-teplice",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fk-teplice",
+              "away": "zaglebie-walbrzych",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fc-vss-kosice"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-spartak-moscow",
+              "away": "fc-vss-kosice",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-vss-kosice",
+              "away": "fc-spartak-moscow",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "club-brugge-kv",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "club-brugge-kv",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "pofc-botev-vratsa"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "gnk-dinamo-zagreb",
+              "away": "pofc-botev-vratsa",
+              "score": "6:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "pofc-botev-vratsa",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "hamburger-sv",
+              "away": "st-johnstone-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "st-johnstone-fc",
+              "away": "hamburger-sv",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "hertha-bsc",
+              "away": "if-elfsborg",
+              "score": "3:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "if-elfsborg",
+              "away": "hertha-bsc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "hifk-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "rosenborg-bk",
+              "away": "hifk-fotboll",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "hifk-fotboll",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-basel",
+              "away": "real-madrid-cf",
+              "score": "1:2"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "real-madrid-cf",
+              "away": "fc-basel",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hallescher-fc",
+            "psv-eindhoven"
+          ],
+          "winner": "psv-eindhoven",
+          "note": "Chemie Halle withdrew before the second leg after the death of their player Wolfgang Hoffmann in the Eindhoven hotel fire ('t Silveren Seepaerd)",
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "hallescher-fc",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-lierse-sk",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "k-lierse-sk",
+              "away": "leeds-united-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "leeds-united-fc",
+              "away": "k-lierse-sk",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-celta-de-vigo",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "rc-celta-de-vigo",
+              "away": "aberdeen-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "aberdeen-fc",
+              "away": "rc-celta-de-vigo",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "as-saint-etienne",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "1-fc-koln",
+              "away": "as-saint-etienne",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-fc",
+            "akademisk-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "dundee-fc",
+              "away": "akademisk-boldklub",
+              "score": "4:2"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "akademisk-boldklub",
+              "away": "dundee-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lugano",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-lugano",
+              "away": "legia-warsaw",
+              "score": "1:3"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "legia-warsaw",
+              "away": "fc-lugano",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "southampton-fc",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "athletic-bilbao",
+              "away": "southampton-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wolverhampton-wanderers-fc",
+            "academica-de-coimbra"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "academica-de-coimbra",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "academica-de-coimbra",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "ssc-napoli",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-09-30",
+              "home": "fc-rapid-bucuresti",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bologna-fc",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "bologna-fc",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "rsc-anderlecht",
+              "away": "bologna-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-porto",
+              "away": "fc-nantes",
+              "score": "0:2"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-nantes",
+              "away": "fc-porto",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "panionios-fc"
+          ],
+          "winner": "panionios-fc",
+          "note": "Panionios won on away goals",
+          "matches": [
+            {
+              "date": "1971-09-16",
+              "home": "atletico-madrid",
+              "away": "panionios-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-10-06",
+              "home": "panionios-fc",
+              "away": "atletico-madrid",
+              "score": "1:0",
+              "note": "Played at Karaiskakis Stadium, Piraeus"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "digenis-akritas-morphou-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-22",
+              "home": "ac-milan",
+              "away": "digenis-akritas-morphou-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "digenis-akritas-morphou-fc",
+              "away": "ac-milan",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-19",
+              "home": "fc-rapid-bucuresti",
+              "away": "legia-warsaw",
+              "score": "4:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "legia-warsaw",
+              "away": "fc-rapid-bucuresti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "dundee-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-19",
+              "home": "1-fc-koln",
+              "away": "dundee-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "dundee-fc",
+              "away": "1-fc-koln",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zaglebie-walbrzych",
+            "fc-uta-arad"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "zaglebie-walbrzych",
+              "away": "fc-uta-arad",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fc-uta-arad",
+              "away": "zaglebie-walbrzych",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofk-beograd",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "ofk-beograd",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fc-carl-zeiss-jena",
+              "away": "ofk-beograd",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "sk-rapid-wien"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sk-rapid-wien",
+              "score": "2:2"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "sk-rapid-wien",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "bologna-fc"
+          ],
+          "winner": "fk-zeljeznicar-sarajevo",
+          "note": "Željezničar won on away goals",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "bologna-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "bologna-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "panionios-fc"
+          ],
+          "winner": "ferencvarosi-tc",
+          "note": "Second leg not played: Panionios were expelled after their fans attacked Ferencváros players and officials at the end of the first leg",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "ferencvarosi-tc",
+              "away": "panionios-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "eintracht-braunschweig",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "athletic-bilbao",
+              "away": "eintracht-braunschweig",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "k-lierse-sk"
+          ],
+          "winner": "k-lierse-sk",
+          "note": "Lierse won on away goals",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "rosenborg-bk",
+              "away": "k-lierse-sk",
+              "score": "4:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "k-lierse-sk",
+              "away": "rosenborg-bk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ado-den-haag",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "ado-den-haag",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "ado-den-haag",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "fc-nantes",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-11-02",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-nantes",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-johnstone-fc",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "st-johnstone-fc",
+              "away": "vasas-sc",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-11-02",
+              "home": "vasas-sc",
+              "away": "st-johnstone-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "ac-milan",
+              "away": "hertha-bsc",
+              "score": "4:2"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "hertha-bsc",
+              "away": "ac-milan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "psv-eindhoven"
+          ],
+          "winner": "psv-eindhoven",
+          "note": "PSV Eindhoven won on away goals",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "real-madrid-cf",
+              "away": "psv-eindhoven",
+              "score": "3:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "psv-eindhoven",
+              "away": "real-madrid-cf",
+              "score": "2:0",
+              "note": "Played at De Vliert, 's-Hertogenbosch (UEFA stadium ban on PSV)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-21",
+              "home": "fc-spartak-moscow",
+              "away": "vitoria-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-11-04",
+              "home": "vitoria-fc",
+              "away": "fc-spartak-moscow",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-21",
+              "home": "juventus-fc",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-11-04",
+              "home": "aberdeen-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-23",
+              "home": "fc-carl-zeiss-jena",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-uta-arad",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "fc-uta-arad",
+              "away": "vitoria-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "vitoria-fc",
+              "away": "fc-uta-arad",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "sk-rapid-wien",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "juventus-fc",
+              "away": "sk-rapid-wien",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "eintracht-braunschweig",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "ferencvarosi-tc",
+              "away": "eintracht-braunschweig",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "k-lierse-sk"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "psv-eindhoven",
+              "away": "k-lierse-sk",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "k-lierse-sk",
+              "away": "psv-eindhoven",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-johnstone-fc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "st-johnstone-fc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "st-johnstone-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "dundee-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-11-24",
+              "home": "ac-milan",
+              "away": "dundee-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-12-08",
+              "home": "dundee-fc",
+              "away": "ac-milan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1971-12-08",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-12-15",
+              "home": "fc-rapid-bucuresti",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "k-lierse-sk"
+          ],
+          "matches": [
+            {
+              "date": "1972-02-23",
+              "home": "ac-milan",
+              "away": "k-lierse-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-03-07",
+              "home": "k-lierse-sk",
+              "away": "ac-milan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-uta-arad",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-07",
+              "home": "fc-uta-arad",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1972-03-21",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-uta-arad",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-07",
+              "home": "juventus-fc",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "juventus-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-09",
+              "home": "ferencvarosi-tc",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "ferencvarosi-tc",
+              "score": "1:2",
+              "extra_time": true,
+              "note": "Ferencvárosi TC won 5:4 on penalties"
+            }
+          ],
+          "winner": "ferencvarosi-tc"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "ferencvarosi-tc",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1972-04-19",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "ferencvarosi-tc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "tottenham-hotspur-fc",
+              "away": "ac-milan",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-04-19",
+              "home": "ac-milan",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "wolverhampton-wanderers-fc",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-05-03",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-05-17",
+              "home": "tottenham-hotspur-fc",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

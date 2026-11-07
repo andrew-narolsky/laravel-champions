@@ -174,7 +174,12 @@ class EuroStatsService
                         $matches->first()->stage->value,
                     );
 
-                    return $matches->first()->stage === EuroStage::LEAGUE_PHASE
+                    // league phase and single round-robin groups (UEFA Cup 2004-09): no head-to-head
+                    $singleRoundRobin = $matches
+                        ->countBy(fn (EuroMatch $m) => collect([$m->home_club_id, $m->away_club_id])->sort()->join('-'))
+                        ->max() === 1;
+
+                    return $matches->first()->stage === EuroStage::LEAGUE_PHASE || $singleRoundRobin
                         ? $this->rankLeague($table, $matches, $season->points_for_win)
                         : $this->rankGroup(
                             $table,
@@ -187,7 +192,7 @@ class EuroStatsService
     }
 
     /**
-     * League phase order (from 2024-25), no head-to-head: points, goal difference, goals scored,
+     * League phase order (from 2024-25) and single round-robin groups, no head-to-head: points, goal difference, goals scored,
      * away goals, wins, away wins, then points, goal difference and goals of the opponents played.
      *
      * @param  Collection<int, EuroMatch>  $matches

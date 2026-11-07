@@ -1,0 +1,1321 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1976-77",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-08",
+              "home": "fc-porto",
+              "away": "fc-schalke-04",
+              "score": "2:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-schalke-04",
+              "away": "fc-porto",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "fram-reykjavik",
+              "away": "sk-slovan-bratislava",
+              "score": "0:3"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "sk-slovan-bratislava",
+              "away": "fram-reykjavik",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "glentoran-fc",
+              "away": "fc-basel",
+              "score": "3:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-basel",
+              "away": "glentoran-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "enosis-neon-paralimni-fc",
+            "1-fc-kaiserslautern"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "enosis-neon-paralimni-fc",
+              "away": "1-fc-kaiserslautern",
+              "score": "1:3"
+            },
+            {
+              "date": "1976-09-28",
+              "home": "1-fc-kaiserslautern",
+              "away": "enosis-neon-paralimni-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "aek-athens-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-dynamo-moscow",
+              "away": "aek-athens-fc",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "afc-ajax",
+              "away": "manchester-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "manchester-united-fc",
+              "away": "afc-ajax",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "adanaspor"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-red-bull-salzburg",
+              "away": "adanaspor",
+              "score": "5:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "adanaspor",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cf-os-belenenses",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "cf-os-belenenses",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-barcelona",
+              "away": "cf-os-belenenses",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "celtic-fc",
+              "away": "wisla-krakow",
+              "score": "2:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "wisla-krakow",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derby-county-fc",
+            "finn-harps-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "derby-county-fc",
+              "away": "finn-harps-fc",
+              "score": "12:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "finn-harps-fc",
+              "away": "derby-county-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-dinamo-bucuresti",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1976-09-30",
+              "home": "ac-milan",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "holbaek-bi"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "eintracht-braunschweig",
+              "away": "holbaek-bi",
+              "score": "7:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "holbaek-bi",
+              "away": "eintracht-braunschweig",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "ogc-nice"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "rcd-espanyol",
+              "away": "ogc-nice",
+              "score": "3:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ogc-nice",
+              "away": "rcd-espanyol",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "feyenoord",
+              "away": "djurgardens-if",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "djurgardens-if",
+              "away": "feyenoord",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fenerbahce-sk",
+              "away": "videoton-fc-fehervar",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "videoton-fc-fehervar",
+              "away": "fenerbahce-sk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "grasshopper-club",
+              "away": "hibernians-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "hibernians-fc",
+              "away": "grasshopper-club",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "fc-sochaux-montbeliard"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "hibernian-fc",
+              "away": "fc-sochaux-montbeliard",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-sochaux-montbeliard",
+              "away": "hibernian-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "inter-milan",
+              "away": "budapest-honved-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "budapest-honved-fc",
+              "away": "inter-milan",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "gks-tychy"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "1-fc-koln",
+              "away": "gks-tychy",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "gks-tychy",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "kups-kuopio",
+              "away": "osters-if",
+              "score": "3:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "osters-if",
+              "away": "kups-kuopio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "ac-cesena"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "1-fc-magdeburg",
+              "away": "ac-cesena",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ac-cesena",
+              "away": "1-fc-magdeburg",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "manchester-city-fc",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "juventus-fc",
+              "away": "manchester-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "naestved-boldklub",
+            "rwd-molenbeek"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "naestved-boldklub",
+              "away": "rwd-molenbeek",
+              "score": "0:3"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "rwd-molenbeek",
+              "away": "naestved-boldklub",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "queens-park-rangers-fc",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "queens-park-rangers-fc",
+              "away": "sk-brann",
+              "score": "4:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "sk-brann",
+              "away": "queens-park-rangers-fc",
+              "score": "0:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-boys-differdange",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "red-boys-differdange",
+              "away": "ksc-lokeren",
+              "score": "0:3"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ksc-lokeren",
+              "away": "red-boys-differdange",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "pfc-akademik-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "sk-slavia-prague",
+              "away": "pfc-akademik-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "pfc-akademik-sofia",
+              "away": "sk-slavia-prague",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-shakhtar-donetsk",
+              "away": "bfc-dynamo",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "bfc-dynamo",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sportul-studentesc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-sportul-studentesc",
+              "away": "olympiacos-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "olympiacos-fc",
+              "away": "fc-sportul-studentesc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "ik-start"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fc-wacker-innsbruck",
+              "away": "ik-start",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ik-start",
+              "away": "fc-wacker-innsbruck",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asa-targu-mures",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "asa-targu-mures",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "gnk-dinamo-zagreb",
+              "away": "asa-targu-mures",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "ujpest-fc",
+              "away": "athletic-bilbao",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "athletic-bilbao",
+              "away": "ujpest-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-lokomotiv-plovdiv",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-16",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-30",
+              "home": "red-star-belgrade",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "derby-county-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "aek-athens-fc",
+              "away": "derby-county-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "derby-county-fc",
+              "away": "aek-athens-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-akademik-sofia",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "pfc-akademik-sofia",
+              "away": "ac-milan",
+              "score": "4:3"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "ac-milan",
+              "away": "pfc-akademik-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "red-star-belgrade"
+          ],
+          "winner": "red-star-belgrade",
+          "note": "Red Star Belgrade won on away goals",
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-red-bull-salzburg",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "red-star-belgrade",
+              "away": "fc-red-bull-salzburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-barcelona",
+              "away": "ksc-lokeren",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-04",
+              "home": "ksc-lokeren",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-basel",
+              "away": "athletic-bilbao",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "athletic-bilbao",
+              "away": "fc-basel",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-braunschweig",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "eintracht-braunschweig",
+              "away": "rcd-espanyol",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "rcd-espanyol",
+              "away": "eintracht-braunschweig",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "osters-if"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "hibernian-fc",
+              "away": "osters-if",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "osters-if",
+              "away": "hibernian-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-wacker-innsbruck",
+              "away": "videoton-fc-fehervar",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "videoton-fc-fehervar",
+              "away": "fc-wacker-innsbruck",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "1-fc-kaiserslautern",
+              "away": "feyenoord",
+              "score": "2:2"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "feyenoord",
+              "away": "1-fc-kaiserslautern",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "1-fc-koln",
+              "away": "grasshopper-club",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "grasshopper-club",
+              "away": "1-fc-koln",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "1-fc-magdeburg",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "gnk-dinamo-zagreb",
+              "away": "1-fc-magdeburg",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "manchester-united-fc",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "juventus-fc",
+              "away": "manchester-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-shakhtar-donetsk",
+              "away": "budapest-honved-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "budapest-honved-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "queens-park-rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "sk-slovan-bratislava",
+              "away": "queens-park-rangers-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "queens-park-rangers-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sportul-studentesc",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-sportul-studentesc",
+              "away": "fc-schalke-04",
+              "score": "0:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "fc-schalke-04",
+              "away": "fc-sportul-studentesc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "rwd-molenbeek"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "wisla-krakow",
+              "away": "rwd-molenbeek",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "rwd-molenbeek",
+              "away": "wisla-krakow",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "RWD Molenbeek won 5:4 on penalties"
+            }
+          ],
+          "winner": "rwd-molenbeek"
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "red-star-belgrade"
+          ],
+          "winner": "aek-athens-fc",
+          "note": "AEK Athens won on away goals",
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "aek-athens-fc",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "red-star-belgrade",
+              "away": "aek-athens-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "athletic-bilbao",
+              "away": "ac-milan",
+              "score": "4:1"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "ac-milan",
+              "away": "athletic-bilbao",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "rcd-espanyol",
+              "away": "feyenoord",
+              "score": "0:1"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "feyenoord",
+              "away": "rcd-espanyol",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "juventus-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "fc-shakhtar-donetsk",
+              "away": "juventus-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "1-fc-magdeburg",
+              "away": "videoton-fc-fehervar",
+              "score": "5:0"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "videoton-fc-fehervar",
+              "away": "1-fc-magdeburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "osters-if",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "osters-if",
+              "away": "fc-barcelona",
+              "score": "0:3"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "fc-barcelona",
+              "away": "osters-if",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "queens-park-rangers-fc",
+            "1-fc-koln"
+          ],
+          "winner": "queens-park-rangers-fc",
+          "note": "Queens Park Rangers won on away goals",
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "queens-park-rangers-fc",
+              "away": "1-fc-koln",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-12-08",
+              "home": "1-fc-koln",
+              "away": "queens-park-rangers-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1976-11-24",
+              "home": "rwd-molenbeek",
+              "away": "fc-schalke-04",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-12-07",
+              "home": "fc-schalke-04",
+              "away": "rwd-molenbeek",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-03",
+              "home": "athletic-bilbao",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "fc-barcelona",
+              "away": "athletic-bilbao",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "rwd-molenbeek"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-03",
+              "home": "feyenoord",
+              "away": "rwd-molenbeek",
+              "score": "0:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "rwd-molenbeek",
+              "away": "feyenoord",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "1-fc-magdeburg",
+              "away": "juventus-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "juventus-fc",
+              "away": "1-fc-magdeburg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "queens-park-rangers-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-03",
+              "home": "queens-park-rangers-fc",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "aek-athens-fc",
+              "away": "queens-park-rangers-fc",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "AEK Athens FC won 7:6 on penalties"
+            }
+          ],
+          "winner": "aek-athens-fc"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "athletic-bilbao"
+          ],
+          "winner": "athletic-bilbao",
+          "note": "Athletic Bilbao won on away goals",
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "rwd-molenbeek",
+              "away": "athletic-bilbao",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "athletic-bilbao",
+              "away": "rwd-molenbeek",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "juventus-fc",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "aek-athens-fc",
+              "away": "juventus-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "athletic-bilbao"
+          ],
+          "winner": "juventus-fc",
+          "note": "Juventus won on away goals",
+          "matches": [
+            {
+              "date": "1977-05-04",
+              "home": "juventus-fc",
+              "away": "athletic-bilbao",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-05-18",
+              "home": "athletic-bilbao",
+              "away": "juventus-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

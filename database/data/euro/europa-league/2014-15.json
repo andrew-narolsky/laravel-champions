@@ -1,0 +1,4606 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "2014-15",
+  "competition_name": "UEFA Europa League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Europa_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-sioni-bolnisi",
+            "flamurtari-fc"
+          ],
+          "winner": "flamurtari-fc",
+          "note": "Flamurtari won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-sioni-bolnisi",
+              "away": "flamurtari-fc",
+              "score": "2:3",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "flamurtari-fc",
+              "away": "fc-sioni-bolnisi",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tiraspol",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-tiraspol",
+              "away": "samaxi-fk",
+              "score": "2:3"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "samaxi-fk",
+              "away": "fc-tiraspol",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "hibernians-fc",
+              "away": "fc-spartak-trnava",
+              "score": "2:4"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-spartak-trnava",
+              "away": "hibernians-fc",
+              "score": "5:0",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cukaricki",
+            "ue-sant-julia"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fk-cukaricki",
+              "away": "ue-sant-julia",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "ue-sant-julia",
+              "away": "fk-cukaricki",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-celik-niksic",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fk-celik-niksic",
+              "away": "fc-koper",
+              "score": "0:5"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-koper",
+              "away": "fk-celik-niksic",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-horizont-turnovo",
+            "fc-chikhura-sachkhere"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fk-horizont-turnovo",
+              "away": "fc-chikhura-sachkhere",
+              "score": "0:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-chikhura-sachkhere",
+              "away": "fk-horizont-turnovo",
+              "score": "3:1",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shirak",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-shirak",
+              "away": "fc-shakhter-karagandy",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-shakhter-karagandy",
+              "away": "fc-shirak",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qabala-ik",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "qabala-ik",
+              "away": "nk-siroki-brijeg",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "nk-siroki-brijeg",
+              "away": "qabala-ik",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "diosgyori-vtk",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "diosgyori-vtk",
+              "away": "birkirkara-fc",
+              "score": "2:1",
+              "note": "Played at Nagyerdei Stadion, Debrecen (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "birkirkara-fc",
+              "away": "diosgyori-vtk",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "europa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-vaduz",
+              "away": "europa-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "europa-fc",
+              "away": "fc-vaduz",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-veris-chisinau",
+            "fc-lovech"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-veris-chisinau",
+              "away": "fc-lovech",
+              "score": "0:0",
+              "note": "Played at CSR Orhei, Orhei (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-11",
+              "home": "fc-lovech",
+              "away": "fc-veris-chisinau",
+              "score": "3:0",
+              "note": "Played at Vasil Levski National Stadium, Sofia; moved from Lovech and postponed by a day"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-santa-coloma",
+            "fk-metalurg-skopje"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "ue-santa-coloma",
+              "away": "fk-metalurg-skopje",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-metalurg-skopje",
+              "away": "ue-santa-coloma",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "fk-kukesi"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-kairat",
+              "away": "fk-kukesi",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-kukesi",
+              "away": "fc-kairat",
+              "score": "0:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-folgore-falciano",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "ss-folgore-falciano",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-buducnost-podgorica",
+              "away": "ss-folgore-falciano",
+              "score": "3:0",
+              "note": "Played at Stadion kraj Bistrice, Nikšić (Podgorica City Stadium was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rnk-split",
+            "sc-mika"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "rnk-split",
+              "away": "sc-mika",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "sc-mika",
+              "away": "rnk-split",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "ac-libertas"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "botev-plovdiv",
+              "away": "ac-libertas",
+              "score": "4:0",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "ac-libertas",
+              "away": "botev-plovdiv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "fk-lovcen"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "fk-lovcen",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-lovcen",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "0:1",
+              "note": "Played at Stadion Pod Malim Brdom, Petrovac (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "fc-zimbru-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-01",
+              "home": "kf-shkendija",
+              "away": "fc-zimbru-chisinau",
+              "score": "2:1",
+              "note": "Played at Philip II Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-zimbru-chisinau",
+              "away": "kf-shkendija",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-01",
+              "home": "sliema-wanderers-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "ferencvarosi-tc",
+              "away": "sliema-wanderers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-pyunik",
+              "away": "fc-astana",
+              "score": "1:4"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-astana",
+              "away": "fc-pyunik",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-rudar-velenje",
+            "kf-laci"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "nk-rudar-velenje",
+              "away": "kf-laci",
+              "score": "1:1",
+              "note": "Played at Arena Petrol, Celje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "kf-laci",
+              "away": "nk-rudar-velenje",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "KF Laçi won 3:2 on penalties"
+            }
+          ],
+          "winner": "kf-laci"
+        },
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "fk-atlantas"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-differdange-03",
+              "away": "fk-atlantas",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-atlantas",
+              "away": "fc-differdange-03",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vps-vaasa",
+            "if-brommapojkarna"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "vps-vaasa",
+              "away": "if-brommapojkarna",
+              "score": "2:1",
+              "note": "Played at Tehtaan kenttä, Valkeakoski (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "if-brommapojkarna",
+              "away": "vps-vaasa",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b36-torshavn",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "b36-torshavn",
+              "away": "linfield-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-07-08",
+              "home": "linfield-fc",
+              "away": "b36-torshavn",
+              "score": "1:1",
+              "note": "Played at Mourneview Park, Lurgan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fram-reykjavik",
+              "away": "nomme-kalju-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "nomme-kalju-fc",
+              "away": "fram-reykjavik",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fk-jelgava"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "rosenborg-bk",
+              "away": "fk-jelgava",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-jelgava",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "aberystwyth-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "derry-city-fc",
+              "away": "aberystwyth-town-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "aberystwyth-town-fc",
+              "away": "derry-city-fc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fk-daugava-riga"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "aberdeen-fc",
+              "away": "fk-daugava-riga",
+              "score": "5:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-daugava-riga",
+              "away": "aberdeen-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-santos-tartu",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fc-santos-tartu",
+              "away": "tromso-il",
+              "score": "0:7"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "tromso-il",
+              "away": "fc-santos-tartu",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "fk-ekranas"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "crusaders-fc",
+              "away": "fk-ekranas",
+              "score": "3:1"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-ekranas",
+              "away": "crusaders-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "bangor-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "stjarnan",
+              "away": "bangor-city-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "bangor-city-fc",
+              "away": "stjarnan",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-01",
+              "home": "jeunesse-esch",
+              "away": "dundalk-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "dundalk-fc",
+              "away": "jeunesse-esch",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "if-fuglafjardar"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "mypa-myllykoski",
+              "away": "if-fuglafjardar",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "if-fuglafjardar",
+              "away": "mypa-myllykoski",
+              "score": "0:0",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "glenavon-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fh-hafnarfjardar",
+              "away": "glenavon-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "glenavon-fc",
+              "away": "fh-hafnarfjardar",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-sillamae-kalev",
+            "fc-honka"
+          ],
+          "winner": "jk-sillamae-kalev",
+          "note": "Sillamäe Kalev won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "jk-sillamae-kalev",
+              "away": "fc-honka",
+              "score": "2:1",
+              "note": "Played at Rakvere linnastaadion, Rakvere (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-honka",
+              "away": "jk-sillamae-kalev",
+              "score": "3:2",
+              "extra_time": true,
+              "note": "Played at ISS Stadion, Vantaa (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-banga-gargzdai",
+            "sligo-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "fk-banga-gargzdai",
+              "away": "sligo-rovers-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "sligo-rovers-fc",
+              "away": "fk-banga-gargzdai",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "fc-daugava"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "vikingur-gota",
+              "away": "fc-daugava",
+              "score": "2:1",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fc-daugava",
+              "away": "vikingur-gota",
+              "score": "1:1",
+              "note": "Played at Slokas Stadium, Jūrmala (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "ifk-goteborg",
+              "away": "cs-fola-esch",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "cs-fola-esch",
+              "away": "ifk-goteborg",
+              "score": "0:2",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "airbus-uk-broughton-fc",
+            "fk-haugesund"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-03",
+              "home": "airbus-uk-broughton-fc",
+              "away": "fk-haugesund",
+              "score": "1:1",
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-10",
+              "home": "fk-haugesund",
+              "away": "airbus-uk-broughton-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "gyori-eto-fc",
+              "away": "ifk-goteborg",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "ifk-goteborg",
+              "away": "gyori-eto-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "nd-gorica"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "molde-fk",
+              "away": "nd-gorica",
+              "score": "4:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "nd-gorica",
+              "away": "molde-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-metalurg-skopje",
+            "fk-zeljeznicar-sarajevo"
+          ],
+          "winner": "fk-metalurg-skopje",
+          "note": "Metalurg Skopje won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-metalurg-skopje",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-22",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "fk-metalurg-skopje",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "nomme-kalju-fc",
+              "away": "lech-poznan",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "lech-poznan",
+              "away": "nomme-kalju-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "mypa-myllykoski"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-dinamo-minsk",
+              "away": "mypa-myllykoski",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "mypa-myllykoski",
+              "away": "fc-dinamo-minsk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-neman-grodno",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-neman-grodno",
+              "away": "fh-hafnarfjardar",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fh-hafnarfjardar",
+              "away": "fc-neman-grodno",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rnk-split",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "rnk-split",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "rnk-split",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Played at GSZ Stadium, Larnaca (Cyprus): UEFA ordered Israeli clubs to play home matches abroad because of the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-vss-kosice",
+              "away": "fc-slovan-liberec",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-slovan-liberec",
+              "away": "fc-vss-kosice",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "vikingur-gota",
+              "away": "tromso-il",
+              "score": "0:0",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "tromso-il",
+              "away": "vikingur-gota",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrolul-ploiesti",
+            "flamurtari-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-petrolul-ploiesti",
+              "away": "flamurtari-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "flamurtari-fc",
+              "away": "fc-petrolul-ploiesti",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cukaricki",
+            "sv-grodig"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-cukaricki",
+              "away": "sv-grodig",
+              "score": "0:4"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "sv-grodig",
+              "away": "fk-cukaricki",
+              "score": "1:2",
+              "note": "Played at Red Bull Arena, Wals-Siezenheim (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "fk-jagodina"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "cfr-cluj",
+              "away": "fk-jagodina",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fk-jagodina",
+              "away": "cfr-cluj",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "motherwell-fc",
+            "stjarnan"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "motherwell-fc",
+              "away": "stjarnan",
+              "score": "2:2"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "stjarnan",
+              "away": "motherwell-fc",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zestaponi",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-zestaponi",
+              "away": "fc-spartak-trnava",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-spartak-trnava",
+              "away": "fc-zestaponi",
+              "score": "3:0",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-brommapojkarna",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "if-brommapojkarna",
+              "away": "crusaders-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "crusaders-fc",
+              "away": "if-brommapojkarna",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-groningen"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "aberdeen-fc",
+              "away": "fc-groningen",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-groningen",
+              "away": "aberdeen-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bursaspor",
+            "fc-chikhura-sachkhere"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "bursaspor",
+              "away": "fc-chikhura-sachkhere",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-chikhura-sachkhere",
+              "away": "bursaspor",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria); FC Chikhura Sachkhere won 4:1 on penalties"
+            }
+          ],
+          "winner": "fc-chikhura-sachkhere"
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "neftci-pfk",
+              "away": "fc-koper",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-koper",
+              "away": "neftci-pfk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "linfield-fc",
+              "away": "aik-fotboll",
+              "score": "1:0",
+              "note": "Played at Mourneview Park, Lurgan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "aik-fotboll",
+              "away": "linfield-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "hnk-rijeka",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "ferencvarosi-tc",
+              "away": "hnk-rijeka",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-buducnost-podgorica",
+              "away": "ac-omonia",
+              "score": "0:2",
+              "note": "Played at Stadion kraj Bistrice, Nikšić (Podgorica City Stadium was being renovated)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "ac-omonia",
+              "away": "fk-buducnost-podgorica",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "nk-siroki-brijeg"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-mlada-boleslav",
+              "away": "nk-siroki-brijeg",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "nk-siroki-brijeg",
+              "away": "fk-mlada-boleslav",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-luzern",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-luzern",
+              "away": "st-johnstone-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "st-johnstone-fc",
+              "away": "fc-luzern",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "St Johnstone FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "st-johnstone-fc"
+        },
+        {
+          "clubs": [
+            "kf-laci",
+            "fc-zorya-luhansk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "kf-laci",
+              "away": "fc-zorya-luhansk",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-zorya-luhansk",
+              "away": "kf-laci",
+              "score": "2:1",
+              "note": "Played at Obolon Arena, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "sligo-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "rosenborg-bk",
+              "away": "sligo-rovers-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "sligo-rovers-fc",
+              "away": "rosenborg-bk",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-atlantas",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-atlantas",
+              "away": "fc-shakhter-karagandy",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-shakhter-karagandy",
+              "away": "fk-atlantas",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fk-haugesund"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fk-sarajevo",
+              "away": "fk-haugesund",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fk-haugesund",
+              "away": "fk-sarajevo",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-zulte-waregem",
+            "zawisza-bydgoszcz"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "sv-zulte-waregem",
+              "away": "zawisza-bydgoszcz",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "zawisza-bydgoszcz",
+              "away": "sv-zulte-waregem",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-sillamae-kalev",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "jk-sillamae-kalev",
+              "away": "fc-krasnodar",
+              "score": "0:4",
+              "note": "Played at A. Le Coq Arena, Tallinn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-krasnodar",
+              "away": "jk-sillamae-kalev",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-zimbru-chisinau"
+          ],
+          "winner": "fc-zimbru-chisinau",
+          "note": "Zimbru Chișinău won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "pfc-cska-sofia",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-zimbru-chisinau",
+              "away": "pfc-cska-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "derry-city-fc",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "derry-city-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "ruch-chorzow",
+              "away": "fc-vaduz",
+              "score": "3:2",
+              "note": "Played at Stadion Piast, Gliwice (Stadion Śląski was being rebuilt)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fc-vaduz",
+              "away": "ruch-chorzow",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "hapoel-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-astana",
+              "away": "hapoel-tel-aviv-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "hapoel-tel-aviv-fc",
+              "away": "fc-astana",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (Cyprus): UEFA ordered Israeli clubs to play home matches abroad because of the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "as-trencin",
+              "away": "fk-vojvodina",
+              "score": "4:0",
+              "note": "Played at Mestský štadión, Dubnica nad Váhom (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "fk-vojvodina",
+              "away": "as-trencin",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lovech",
+            "diosgyori-vtk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-lovech",
+              "away": "diosgyori-vtk",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "diosgyori-vtk",
+              "away": "fc-lovech",
+              "score": "1:2",
+              "note": "Played at Városi Stadion, Nyíregyháza (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "skn-st-polten"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "botev-plovdiv",
+              "away": "skn-st-polten",
+              "score": "2:1",
+              "note": "Played at Lazur Stadium, Burgas (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "skn-st-polten",
+              "away": "botev-plovdiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rops-rovaniemi",
+            "asteras-tripolis-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "rops-rovaniemi",
+              "away": "asteras-tripolis-fc",
+              "score": "1:1",
+              "note": "Played at Raatti Stadium, Oulu (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "asteras-tripolis-fc",
+              "away": "rops-rovaniemi",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "dundalk-fc",
+              "away": "hnk-hajduk-split",
+              "score": "0:2"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "hnk-hajduk-split",
+              "away": "dundalk-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kairat",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "fc-kairat",
+              "away": "esbjerg-fb",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "esbjerg-fb",
+              "away": "fc-kairat",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-17",
+              "home": "if-elfsborg",
+              "away": "samaxi-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-07-24",
+              "home": "samaxi-fk",
+              "away": "if-elfsborg",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "IF Elfsborg won 4:3 on penalties"
+            }
+          ],
+          "winner": "if-elfsborg"
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "kardemir-karabukspor",
+            "rosenborg-bk"
+          ],
+          "winner": "kardemir-karabukspor",
+          "note": "Karabükspor won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "kardemir-karabukspor",
+              "away": "rosenborg-bk",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "rosenborg-bk",
+              "away": "kardemir-karabukspor",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rnk-split",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "rnk-split",
+              "away": "fc-chornomorets-odesa",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-chornomorets-odesa",
+              "away": "rnk-split",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-johnstone-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "st-johnstone-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-spartak-trnava",
+              "away": "st-johnstone-fc",
+              "score": "1:1",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fsv-mainz-05",
+            "asteras-tripolis-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "1-fsv-mainz-05",
+              "away": "asteras-tripolis-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "asteras-tripolis-fc",
+              "away": "1-fsv-mainz-05",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "diosgyori-vtk",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "diosgyori-vtk",
+              "away": "fc-krasnodar",
+              "score": "1:5",
+              "note": "Played at Nagyerdei Stadion, Debrecen (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-krasnodar",
+              "away": "diosgyori-vtk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fk-mlada-boleslav",
+              "away": "olympique-lyonnais",
+              "score": "1:4"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "olympique-lyonnais",
+              "away": "fk-mlada-boleslav",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-trencin",
+            "hull-city-afc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "as-trencin",
+              "away": "hull-city-afc",
+              "score": "0:0",
+              "note": "Played at Štadión pod Dubňom, Žilina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "hull-city-afc",
+              "away": "as-trencin",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fk-metalurg-skopje"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "ac-omonia",
+              "away": "fk-metalurg-skopje",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fk-metalurg-skopje",
+              "away": "ac-omonia",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-brommapojkarna",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "if-brommapojkarna",
+              "away": "torino-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "torino-fc",
+              "away": "if-brommapojkarna",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "skn-st-polten"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "psv-eindhoven",
+              "away": "skn-st-polten",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "skn-st-polten",
+              "away": "psv-eindhoven",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "stjarnan",
+              "away": "lech-poznan",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "lech-poznan",
+              "away": "stjarnan",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-zorya-luhansk",
+              "away": "molde-fk",
+              "score": "1:1",
+              "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "molde-fk",
+              "away": "fc-zorya-luhansk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "atromitos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fk-sarajevo",
+              "away": "atromitos-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "atromitos-fc",
+              "away": "fk-sarajevo",
+              "score": "1:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "real-sociedad",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "aberdeen-fc",
+              "away": "real-sociedad",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-astana",
+              "away": "aik-fotboll",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "aik-fotboll",
+              "away": "fc-astana",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-zulte-waregem",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "sv-zulte-waregem",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "2:5"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "sv-zulte-waregem",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-grodig",
+            "fc-zimbru-chisinau"
+          ],
+          "winner": "fc-zimbru-chisinau",
+          "note": "Zimbru Chișinău won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "sv-grodig",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:2",
+              "note": "Played at Red Bull Arena, Wals-Siezenheim (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-zimbru-chisinau",
+              "away": "sv-grodig",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astra-giurgiu",
+            "fc-slovan-liberec"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-astra-giurgiu",
+              "away": "fc-slovan-liberec",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-slovan-liberec",
+              "away": "fc-astra-giurgiu",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "esbjerg-fb"
+          ],
+          "winner": "ruch-chorzow",
+          "note": "Ruch Chorzów won on away goals",
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "ruch-chorzow",
+              "away": "esbjerg-fb",
+              "score": "0:0",
+              "note": "Played at Stadion Piast, Gliwice (Stadion Śląski was being rebuilt)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "esbjerg-fb",
+              "away": "ruch-chorzow",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "hapoel-ironi-kiryat-shmona-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-dynamo-moscow",
+              "away": "hapoel-ironi-kiryat-shmona-fc",
+              "score": "1:1",
+              "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "hapoel-ironi-kiryat-shmona-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at GSP Stadium, Nicosia (Cyprus): UEFA ordered Israeli clubs to play home matches abroad because of the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "ermis-aradippou-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "bsc-young-boys",
+              "away": "ermis-aradippou-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "ermis-aradippou-fc",
+              "away": "bsc-young-boys",
+              "score": "0:2",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "fh-hafnarfjardar"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "if-elfsborg",
+              "away": "fh-hafnarfjardar",
+              "score": "4:1"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fh-hafnarfjardar",
+              "away": "if-elfsborg",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrolul-ploiesti",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-petrolul-ploiesti",
+              "away": "fc-viktoria-plzen",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-petrolul-ploiesti",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "vikingur-gota",
+              "away": "hnk-rijeka",
+              "score": "1:5",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "hnk-rijeka",
+              "away": "vikingur-gota",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-dinamo-minsk",
+              "away": "cfr-cluj",
+              "score": "1:0",
+              "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "cfr-cluj",
+              "away": "fc-dinamo-minsk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "fc-chikhura-sachkhere"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "neftci-pfk",
+              "away": "fc-chikhura-sachkhere",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "fc-chikhura-sachkhere",
+              "away": "neftci-pfk",
+              "score": "2:3",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "rio-ave-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "ifk-goteborg",
+              "away": "rio-ave-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "rio-ave-fc",
+              "away": "ifk-goteborg",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "club-brugge-kv",
+              "away": "brondby-if",
+              "score": "3:0"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "brondby-if",
+              "away": "club-brugge-kv",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhter-karagandy",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2014-07-31",
+              "home": "fc-shakhter-karagandy",
+              "away": "hnk-hajduk-split",
+              "score": "4:2"
+            },
+            {
+              "date": "2014-08-07",
+              "home": "hnk-hajduk-split",
+              "away": "fc-shakhter-karagandy",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fk-sarajevo",
+              "away": "borussia-monchengladbach",
+              "score": "2:3"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "borussia-monchengladbach",
+              "away": "fk-sarajevo",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "apollon-limassol-fc",
+              "away": "fc-lokomotiv-moscow",
+              "score": "1:1",
+              "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-lokomotiv-moscow",
+              "away": "apollon-limassol-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "villarreal-cf"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-astana",
+              "away": "villarreal-cf",
+              "score": "0:3"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "villarreal-cf",
+              "away": "fc-astana",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "debreceni-vsc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "bsc-young-boys",
+              "away": "debreceni-vsc",
+              "score": "3:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "debreceni-vsc",
+              "away": "bsc-young-boys",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pec-zwolle",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "pec-zwolle",
+              "away": "ac-sparta-prague",
+              "score": "1:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "ac-sparta-prague",
+              "away": "pec-zwolle",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-spartak-trnava",
+              "away": "fc-zurich",
+              "score": "1:3",
+              "note": "Played at Štadión FC ViOn, Zlaté Moravce (the Štadión Antona Malatinského was being rebuilt)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-zurich",
+              "away": "fc-spartak-trnava",
+              "score": "1:1",
+              "note": "Played at AFG Arena, St. Gallen (the Letzigrund was hosting the European Athletics Championships)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "asteras-tripolis-fc",
+            "maccabi-tel-aviv-fc"
+          ],
+          "winner": "asteras-tripolis-fc",
+          "note": "Asteras Tripolis won on away goals",
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "asteras-tripolis-fc",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "asteras-tripolis-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (Cyprus): UEFA ordered Israeli clubs to play home matches abroad because of the 2014 Israel–Gaza conflict"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "ael-limassol",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:2",
+              "note": "Played at Antonis Papadopoulos Stadium, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "tottenham-hotspur-fc",
+              "away": "ael-limassol",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "fc-dnipro",
+              "away": "hnk-hajduk-split",
+              "score": "2:1",
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "hnk-hajduk-split",
+              "away": "fc-dnipro",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "cd-nacional"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-dinamo-minsk",
+              "away": "cd-nacional",
+              "score": "2:0",
+              "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "cd-nacional",
+              "away": "fc-dinamo-minsk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-twente"
+          ],
+          "winner": "qarabag-fk",
+          "note": "Qarabağ won on away goals",
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "qarabag-fk",
+              "away": "fc-twente",
+              "score": "0:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-twente",
+              "away": "qarabag-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrolul-ploiesti",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-petrolul-ploiesti",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:3"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-petrolul-ploiesti",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "hjk-helsinki",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "sk-rapid-wien",
+              "away": "hjk-helsinki",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "fc-rostov"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "trabzonspor",
+              "away": "fc-rostov",
+              "score": "2:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-rostov",
+              "away": "trabzonspor",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-zimbru-chisinau",
+              "away": "paok-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "paok-fc",
+              "away": "fc-zimbru-chisinau",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rnk-split",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "rnk-split",
+              "away": "torino-fc",
+              "score": "0:0",
+              "note": "Played at Stadion Hrvatski vitezovi, Dugopolje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "torino-fc",
+              "away": "rnk-split",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-dynamo-moscow",
+              "away": "ac-omonia",
+              "score": "2:2",
+              "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "ac-omonia",
+              "away": "fc-dynamo-moscow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-aktobe",
+              "away": "legia-warsaw",
+              "score": "0:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "legia-warsaw",
+              "away": "fc-aktobe",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "fc-astra-giurgiu"
+          ],
+          "winner": "fc-astra-giurgiu",
+          "note": "Astra Giurgiu won on away goals",
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "olympique-lyonnais",
+              "away": "fc-astra-giurgiu",
+              "score": "1:2"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-astra-giurgiu",
+              "away": "olympique-lyonnais",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksc-lokeren",
+            "hull-city-afc"
+          ],
+          "winner": "ksc-lokeren",
+          "note": "Lokeren won on away goals",
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "ksc-lokeren",
+              "away": "hull-city-afc",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "hull-city-afc",
+              "away": "ksc-lokeren",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fk-partizan",
+              "away": "neftci-pfk",
+              "score": "3:2"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "neftci-pfk",
+              "away": "fk-partizan",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "fc-metalist-kharkiv"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "ruch-chorzow",
+              "away": "fc-metalist-kharkiv",
+              "score": "0:0",
+              "note": "Played at Stadion Piast, Gliwice (Stadion Śląski was being rebuilt)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-metalist-kharkiv",
+              "away": "ruch-chorzow",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "rio-ave-fc"
+          ],
+          "winner": "rio-ave-fc",
+          "note": "Rio Ave won on away goals",
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "if-elfsborg",
+              "away": "rio-ave-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "rio-ave-fc",
+              "away": "if-elfsborg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-shakhtyor-soligorsk"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "psv-eindhoven",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "psv-eindhoven",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kardemir-karabukspor",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "kardemir-karabukspor",
+              "away": "as-saint-etienne",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "as-saint-etienne",
+              "away": "kardemir-karabukspor",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "AS Saint-Étienne won 4:3 on penalties"
+            }
+          ],
+          "winner": "as-saint-etienne"
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-20",
+              "home": "stjarnan",
+              "away": "inter-milan",
+              "score": "0:3",
+              "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "inter-milan",
+              "away": "stjarnan",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "fc-midtjylland"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "panathinaikos-fc",
+              "away": "fc-midtjylland",
+              "score": "4:1"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-midtjylland",
+              "away": "panathinaikos-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zorya-luhansk",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "fc-zorya-luhansk",
+              "away": "feyenoord",
+              "score": "1:1",
+              "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "feyenoord",
+              "away": "fc-zorya-luhansk",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "grasshopper-club",
+              "away": "club-brugge-kv",
+              "score": "1:2",
+              "note": "Played at AFG Arena, St. Gallen (the Letzigrund was hosting the European Athletics Championships)"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "club-brugge-kv",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "fc-krasnodar"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "real-sociedad",
+              "away": "fc-krasnodar",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-krasnodar",
+              "away": "real-sociedad",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2014-08-21",
+              "home": "hnk-rijeka",
+              "away": "fc-sheriff-tiraspol",
+              "score": "1:0"
+            },
+            {
+              "date": "2014-08-28",
+              "home": "fc-sheriff-tiraspol",
+              "away": "hnk-rijeka",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2014-09-18",
+          "home": "borussia-monchengladbach",
+          "away": "villarreal-cf",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "apollon-limassol-fc",
+          "away": "fc-zurich",
+          "score": "3:2",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-zurich",
+          "away": "borussia-monchengladbach",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "villarreal-cf",
+          "away": "apollon-limassol-fc",
+          "score": "4:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "villarreal-cf",
+          "away": "fc-zurich",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "borussia-monchengladbach",
+          "away": "apollon-limassol-fc",
+          "score": "5:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "fc-zurich",
+          "away": "villarreal-cf",
+          "score": "3:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "apollon-limassol-fc",
+          "away": "borussia-monchengladbach",
+          "score": "0:2",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "villarreal-cf",
+          "away": "borussia-monchengladbach",
+          "score": "2:2",
+          "group": "A"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-zurich",
+          "away": "apollon-limassol-fc",
+          "score": "3:1",
+          "group": "A"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "borussia-monchengladbach",
+          "away": "fc-zurich",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "apollon-limassol-fc",
+          "away": "villarreal-cf",
+          "score": "0:2",
+          "group": "A",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "club-brugge-kv",
+          "away": "torino-fc",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fc-copenhagen",
+          "away": "hjk-helsinki",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "hjk-helsinki",
+          "away": "club-brugge-kv",
+          "score": "0:3",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "torino-fc",
+          "away": "fc-copenhagen",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "torino-fc",
+          "away": "hjk-helsinki",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "club-brugge-kv",
+          "away": "fc-copenhagen",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "hjk-helsinki",
+          "away": "torino-fc",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "fc-copenhagen",
+          "away": "club-brugge-kv",
+          "score": "0:4",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "torino-fc",
+          "away": "club-brugge-kv",
+          "score": "0:0",
+          "group": "B"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "hjk-helsinki",
+          "away": "fc-copenhagen",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "club-brugge-kv",
+          "away": "hjk-helsinki",
+          "score": "2:1",
+          "group": "B"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fc-copenhagen",
+          "away": "torino-fc",
+          "score": "1:5",
+          "group": "B"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fk-partizan",
+          "away": "tottenham-hotspur-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "besiktas-jk",
+          "away": "asteras-tripolis-fc",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "asteras-tripolis-fc",
+          "away": "fk-partizan",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "tottenham-hotspur-fc",
+          "away": "besiktas-jk",
+          "score": "1:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "tottenham-hotspur-fc",
+          "away": "asteras-tripolis-fc",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fk-partizan",
+          "away": "besiktas-jk",
+          "score": "0:4",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "asteras-tripolis-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:2",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "besiktas-jk",
+          "away": "fk-partizan",
+          "score": "2:1",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "tottenham-hotspur-fc",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "asteras-tripolis-fc",
+          "away": "besiktas-jk",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fk-partizan",
+          "away": "asteras-tripolis-fc",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "besiktas-jk",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:0",
+          "group": "C"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fc-red-bull-salzburg",
+          "away": "celtic-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-astra-giurgiu",
+          "score": "5:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-astra-giurgiu",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:2",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "celtic-fc",
+          "away": "gnk-dinamo-zagreb",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "celtic-fc",
+          "away": "fc-astra-giurgiu",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fc-red-bull-salzburg",
+          "away": "gnk-dinamo-zagreb",
+          "score": "4:2",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "fc-astra-giurgiu",
+          "away": "celtic-fc",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "gnk-dinamo-zagreb",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:5",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "celtic-fc",
+          "away": "fc-red-bull-salzburg",
+          "score": "1:3",
+          "group": "D"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-astra-giurgiu",
+          "away": "gnk-dinamo-zagreb",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fc-red-bull-salzburg",
+          "away": "fc-astra-giurgiu",
+          "score": "5:1",
+          "group": "D"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "gnk-dinamo-zagreb",
+          "away": "celtic-fc",
+          "score": "4:3",
+          "group": "D"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "psv-eindhoven",
+          "away": "gd-estoril-praia",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "panathinaikos-fc",
+          "away": "fc-dynamo-moscow",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-dynamo-moscow",
+          "away": "psv-eindhoven",
+          "score": "1:0",
+          "group": "E",
+          "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "gd-estoril-praia",
+          "away": "panathinaikos-fc",
+          "score": "2:0",
+          "group": "E"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "gd-estoril-praia",
+          "away": "fc-dynamo-moscow",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "psv-eindhoven",
+          "away": "panathinaikos-fc",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "fc-dynamo-moscow",
+          "away": "gd-estoril-praia",
+          "score": "1:0",
+          "group": "E",
+          "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "panathinaikos-fc",
+          "away": "psv-eindhoven",
+          "score": "2:3",
+          "group": "E"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-dynamo-moscow",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": "E",
+          "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "gd-estoril-praia",
+          "away": "psv-eindhoven",
+          "score": "3:3",
+          "group": "E",
+          "note": "Abandoned at half-time because of heavy rain and completed the next day from the point of abandonment"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "psv-eindhoven",
+          "away": "fc-dynamo-moscow",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "panathinaikos-fc",
+          "away": "gd-estoril-praia",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "qarabag-fk",
+          "away": "as-saint-etienne",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fc-dnipro",
+          "away": "inter-milan",
+          "score": "0:1",
+          "group": "F",
+          "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "as-saint-etienne",
+          "away": "fc-dnipro",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "inter-milan",
+          "away": "qarabag-fk",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "inter-milan",
+          "away": "as-saint-etienne",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fc-dnipro",
+          "away": "qarabag-fk",
+          "score": "0:1",
+          "group": "F",
+          "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "qarabag-fk",
+          "away": "fc-dnipro",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "as-saint-etienne",
+          "away": "inter-milan",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "inter-milan",
+          "away": "fc-dnipro",
+          "score": "2:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "as-saint-etienne",
+          "away": "qarabag-fk",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fc-dnipro",
+          "away": "as-saint-etienne",
+          "score": "1:0",
+          "group": "F",
+          "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "qarabag-fk",
+          "away": "inter-milan",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "r-standard-liege",
+          "away": "hnk-rijeka",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "sevilla-fc",
+          "away": "feyenoord",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "feyenoord",
+          "away": "r-standard-liege",
+          "score": "2:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "hnk-rijeka",
+          "away": "sevilla-fc",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "hnk-rijeka",
+          "away": "feyenoord",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "r-standard-liege",
+          "away": "sevilla-fc",
+          "score": "0:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "feyenoord",
+          "away": "hnk-rijeka",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "sevilla-fc",
+          "away": "r-standard-liege",
+          "score": "3:1",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "hnk-rijeka",
+          "away": "r-standard-liege",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "feyenoord",
+          "away": "sevilla-fc",
+          "score": "2:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "r-standard-liege",
+          "away": "feyenoord",
+          "score": "0:3",
+          "group": "G"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "sevilla-fc",
+          "away": "hnk-rijeka",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "lille-osc",
+          "away": "fc-krasnodar",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "everton-fc",
+          "away": "vfl-wolfsburg",
+          "score": "4:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-krasnodar",
+          "away": "everton-fc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "vfl-wolfsburg",
+          "away": "lille-osc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fc-krasnodar",
+          "away": "vfl-wolfsburg",
+          "score": "2:4",
+          "group": "H"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "lille-osc",
+          "away": "everton-fc",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "vfl-wolfsburg",
+          "away": "fc-krasnodar",
+          "score": "5:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "everton-fc",
+          "away": "lille-osc",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-krasnodar",
+          "away": "lille-osc",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "vfl-wolfsburg",
+          "away": "everton-fc",
+          "score": "0:2",
+          "group": "H"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "lille-osc",
+          "away": "vfl-wolfsburg",
+          "score": "0:3",
+          "group": "H"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "everton-fc",
+          "away": "fc-krasnodar",
+          "score": "0:1",
+          "group": "H"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "bsc-young-boys",
+          "away": "sk-slovan-bratislava",
+          "score": "5:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "ssc-napoli",
+          "away": "ac-sparta-prague",
+          "score": "3:1",
+          "group": "I"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "ac-sparta-prague",
+          "away": "bsc-young-boys",
+          "score": "3:1",
+          "group": "I"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "sk-slovan-bratislava",
+          "away": "ssc-napoli",
+          "score": "0:2",
+          "group": "I"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "sk-slovan-bratislava",
+          "away": "ac-sparta-prague",
+          "score": "0:3",
+          "group": "I"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "bsc-young-boys",
+          "away": "ssc-napoli",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "ac-sparta-prague",
+          "away": "sk-slovan-bratislava",
+          "score": "4:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "ssc-napoli",
+          "away": "bsc-young-boys",
+          "score": "3:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "sk-slovan-bratislava",
+          "away": "bsc-young-boys",
+          "score": "1:3",
+          "group": "I"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "ac-sparta-prague",
+          "away": "ssc-napoli",
+          "score": "0:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "bsc-young-boys",
+          "away": "ac-sparta-prague",
+          "score": "2:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "ssc-napoli",
+          "away": "sk-slovan-bratislava",
+          "score": "3:0",
+          "group": "I"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fcsb",
+          "away": "aab-fodbold",
+          "score": "6:0",
+          "group": "J",
+          "note": "Played behind closed doors (UEFA punishment)"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "rio-ave-fc",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:3",
+          "group": "J"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-dynamo-kyiv",
+          "away": "fcsb",
+          "score": "3:1",
+          "group": "J"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "aab-fodbold",
+          "away": "rio-ave-fc",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "aab-fodbold",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fcsb",
+          "away": "rio-ave-fc",
+          "score": "2:1",
+          "group": "J"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "fc-dynamo-kyiv",
+          "away": "aab-fodbold",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "rio-ave-fc",
+          "away": "fcsb",
+          "score": "2:2",
+          "group": "J"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "aab-fodbold",
+          "away": "fcsb",
+          "score": "1:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-dynamo-kyiv",
+          "away": "rio-ave-fc",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fcsb",
+          "away": "fc-dynamo-kyiv",
+          "score": "0:2",
+          "group": "J"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "rio-ave-fc",
+          "away": "aab-fodbold",
+          "score": "2:0",
+          "group": "J"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "paok-fc",
+          "away": "fc-dinamo-minsk",
+          "score": "6:1",
+          "group": "K"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "acf-fiorentina",
+          "away": "en-avant-guingamp",
+          "score": "3:0",
+          "group": "K"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "en-avant-guingamp",
+          "away": "paok-fc",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "fc-dinamo-minsk",
+          "away": "acf-fiorentina",
+          "score": "0:3",
+          "group": "K",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "fc-dinamo-minsk",
+          "away": "en-avant-guingamp",
+          "score": "0:0",
+          "group": "K",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "paok-fc",
+          "away": "acf-fiorentina",
+          "score": "0:1",
+          "group": "K"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "en-avant-guingamp",
+          "away": "fc-dinamo-minsk",
+          "score": "2:0",
+          "group": "K"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "acf-fiorentina",
+          "away": "paok-fc",
+          "score": "1:1",
+          "group": "K"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "fc-dinamo-minsk",
+          "away": "paok-fc",
+          "score": "0:2",
+          "group": "K",
+          "note": "Played at Borisov Arena, Barysaw (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "en-avant-guingamp",
+          "away": "acf-fiorentina",
+          "score": "1:2",
+          "group": "K"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "paok-fc",
+          "away": "en-avant-guingamp",
+          "score": "1:2",
+          "group": "K"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "acf-fiorentina",
+          "away": "fc-dinamo-minsk",
+          "score": "1:2",
+          "group": "K"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "fc-metalist-kharkiv",
+          "away": "trabzonspor",
+          "score": "1:2",
+          "group": "L",
+          "note": "Played at Arena Lviv, Lviv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-09-18",
+          "home": "legia-warsaw",
+          "away": "ksc-lokeren",
+          "score": "1:0",
+          "group": "L"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "ksc-lokeren",
+          "away": "fc-metalist-kharkiv",
+          "score": "1:0",
+          "group": "L"
+        },
+        {
+          "date": "2014-10-02",
+          "home": "trabzonspor",
+          "away": "legia-warsaw",
+          "score": "0:1",
+          "group": "L"
+        },
+        {
+          "date": "2014-10-22",
+          "home": "fc-metalist-kharkiv",
+          "away": "legia-warsaw",
+          "score": "0:1",
+          "group": "L",
+          "note": "Played at Valeriy Lobanovskyi Dynamo Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-10-23",
+          "home": "trabzonspor",
+          "away": "ksc-lokeren",
+          "score": "2:0",
+          "group": "L"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "ksc-lokeren",
+          "away": "trabzonspor",
+          "score": "1:1",
+          "group": "L"
+        },
+        {
+          "date": "2014-11-06",
+          "home": "legia-warsaw",
+          "away": "fc-metalist-kharkiv",
+          "score": "2:1",
+          "group": "L"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "trabzonspor",
+          "away": "fc-metalist-kharkiv",
+          "score": "3:1",
+          "group": "L"
+        },
+        {
+          "date": "2014-11-27",
+          "home": "ksc-lokeren",
+          "away": "legia-warsaw",
+          "score": "1:0",
+          "group": "L"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "fc-metalist-kharkiv",
+          "away": "ksc-lokeren",
+          "score": "0:1",
+          "group": "L",
+          "note": "Played at Arena Lviv, Lviv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+        },
+        {
+          "date": "2014-12-11",
+          "home": "legia-warsaw",
+          "away": "trabzonspor",
+          "score": "2:0",
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "stage": "round_of_32",
+      "ties": [
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "bsc-young-boys",
+              "away": "everton-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "everton-fc",
+              "away": "bsc-young-boys",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "torino-fc",
+              "away": "athletic-bilbao",
+              "score": "2:2"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "athletic-bilbao",
+              "away": "torino-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "sevilla-fc",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "borussia-monchengladbach",
+              "away": "sevilla-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfl-wolfsburg",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "vfl-wolfsburg",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "sporting-cp",
+              "away": "vfl-wolfsburg",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "afc-ajax",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "legia-warsaw",
+              "away": "afc-ajax",
+              "score": "0:3",
+              "note": "Played behind closed doors (UEFA punishment)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "aab-fodbold",
+              "away": "club-brugge-kv",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "club-brugge-kv",
+              "away": "aab-fodbold",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "rsc-anderlecht",
+              "away": "fc-dynamo-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "fc-dynamo-moscow",
+              "away": "rsc-anderlecht",
+              "score": "3:1",
+              "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "fc-dnipro",
+              "away": "olympiacos-fc",
+              "score": "2:0",
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "olympiacos-fc",
+              "away": "fc-dnipro",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "trabzonspor",
+              "away": "ssc-napoli",
+              "score": "0:4"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "ssc-napoli",
+              "away": "trabzonspor",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "en-avant-guingamp",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "en-avant-guingamp",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "fc-dynamo-kyiv",
+              "away": "en-avant-guingamp",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "villarreal-cf",
+              "away": "fc-red-bull-salzburg",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "fc-red-bull-salzburg",
+              "away": "villarreal-cf",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "as-roma",
+              "away": "feyenoord",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "feyenoord",
+              "away": "as-roma",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "psv-eindhoven",
+              "away": "fc-zenit",
+              "score": "0:1"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "fc-zenit",
+              "away": "psv-eindhoven",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "liverpool-fc",
+              "away": "besiktas-jk",
+              "score": "1:0"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "besiktas-jk",
+              "away": "liverpool-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Beşiktaş JK won 5:4 on penalties"
+            }
+          ],
+          "winner": "besiktas-jk"
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "tottenham-hotspur-fc",
+              "away": "acf-fiorentina",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "acf-fiorentina",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2015-02-19",
+              "home": "celtic-fc",
+              "away": "inter-milan",
+              "score": "3:3"
+            },
+            {
+              "date": "2015-02-26",
+              "home": "inter-milan",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "everton-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "everton-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "fc-dynamo-kyiv",
+              "away": "everton-fc",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "afc-ajax"
+          ],
+          "winner": "fc-dnipro",
+          "note": "Dnipro Dnipropetrovsk won on away goals",
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "fc-dnipro",
+              "away": "afc-ajax",
+              "score": "1:0",
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "afc-ajax",
+              "away": "fc-dnipro",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zenit",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "fc-zenit",
+              "away": "torino-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "torino-fc",
+              "away": "fc-zenit",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfl-wolfsburg",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "vfl-wolfsburg",
+              "away": "inter-milan",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "inter-milan",
+              "away": "vfl-wolfsburg",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "villarreal-cf",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "villarreal-cf",
+              "away": "sevilla-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "sevilla-fc",
+              "away": "villarreal-cf",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "ssc-napoli",
+              "away": "fc-dynamo-moscow",
+              "score": "3:1"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "fc-dynamo-moscow",
+              "away": "ssc-napoli",
+              "score": "0:0",
+              "note": "Played at Arena Khimki, Khimki (Dynamo Stadium was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "club-brugge-kv",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "besiktas-jk",
+              "away": "club-brugge-kv",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2015-03-12",
+              "home": "acf-fiorentina",
+              "away": "as-roma",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-03-19",
+              "home": "as-roma",
+              "away": "acf-fiorentina",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sevilla-fc",
+            "fc-zenit"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-16",
+              "home": "sevilla-fc",
+              "away": "fc-zenit",
+              "score": "2:1"
+            },
+            {
+              "date": "2015-04-23",
+              "home": "fc-zenit",
+              "away": "sevilla-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-16",
+              "home": "club-brugge-kv",
+              "away": "fc-dnipro",
+              "score": "0:0"
+            },
+            {
+              "date": "2015-04-23",
+              "home": "fc-dnipro",
+              "away": "club-brugge-kv",
+              "score": "1:0",
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-16",
+              "home": "fc-dynamo-kyiv",
+              "away": "acf-fiorentina",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-04-23",
+              "home": "acf-fiorentina",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfl-wolfsburg",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "2015-04-16",
+              "home": "vfl-wolfsburg",
+              "away": "ssc-napoli",
+              "score": "1:4"
+            },
+            {
+              "date": "2015-04-23",
+              "home": "ssc-napoli",
+              "away": "vfl-wolfsburg",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ssc-napoli",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "2015-05-07",
+              "home": "ssc-napoli",
+              "away": "fc-dnipro",
+              "score": "1:1"
+            },
+            {
+              "date": "2015-05-14",
+              "home": "fc-dnipro",
+              "away": "ssc-napoli",
+              "score": "1:0",
+              "note": "Played at Olympic Stadium, Kyiv (Ukrainian clubs from the east could not play at home because of the war in Donbas)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2015-05-07",
+              "home": "sevilla-fc",
+              "away": "acf-fiorentina",
+              "score": "3:0"
+            },
+            {
+              "date": "2015-05-14",
+              "home": "acf-fiorentina",
+              "away": "sevilla-fc",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dnipro",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-05-27",
+              "home": "fc-dnipro",
+              "away": "sevilla-fc",
+              "score": "2:3",
+              "neutral": true,
+              "note": "National Stadium, Warsaw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

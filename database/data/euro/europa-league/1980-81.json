@@ -1,0 +1,1325 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1980-81",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "fc-stahl-linz"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-zbrojovka-brno",
+              "away": "fc-stahl-linz",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-stahl-linz",
+              "away": "fc-zbrojovka-brno",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "rsc-anderlecht"
+          ],
+          "winner": "1-fc-kaiserslautern",
+          "note": "Kaiserslautern won on away goals",
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "1-fc-kaiserslautern",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "rsc-anderlecht",
+              "away": "1-fc-kaiserslautern",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "moss-fk"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "1-fc-magdeburg",
+              "away": "moss-fk",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "moss-fk",
+              "away": "1-fc-magdeburg",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "red-boys-differdange"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "az-alkmaar",
+              "away": "red-boys-differdange",
+              "score": "6:0"
+            },
+            {
+              "date": "1980-09-30",
+              "home": "red-boys-differdange",
+              "away": "az-alkmaar",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ballymena-united-fc",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ballymena-united-fc",
+              "away": "1-fc-frankfurt",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "1-fc-frankfurt",
+              "away": "ballymena-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "fk-napredak-krusevac"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "sg-dynamo-dresden",
+              "away": "fk-napredak-krusevac",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fk-napredak-krusevac",
+              "away": "sg-dynamo-dresden",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arges-pitesti",
+            "fc-utrecht"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-arges-pitesti",
+              "away": "fc-utrecht",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-utrecht",
+              "away": "fc-arges-pitesti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemians-praha-1905",
+            "sporting-de-gijon"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "bohemians-praha-1905",
+              "away": "sporting-de-gijon",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "sporting-de-gijon",
+              "away": "bohemians-praha-1905",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "pfc-levski-sofia"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski Sofia won on away goals",
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-dynamo-kyiv",
+              "away": "pfc-levski-sofia",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "pfc-levski-sofia",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-shakhtar-donetsk",
+              "away": "eintracht-frankfurt",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "eintracht-frankfurt",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-sochaux-montbeliard",
+              "away": "servette-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "servette-fc",
+              "away": "fc-sochaux-montbeliard",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-twente",
+              "away": "ifk-goteborg",
+              "score": "5:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "ifk-goteborg",
+              "away": "fc-twente",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "pfc-beroe-stara-zagora"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fenerbahce-sk",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "fenerbahce-sk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-porto",
+              "away": "dundalk-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "dundalk-fc",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "kjobenhavns-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "grasshopper-club",
+              "away": "kjobenhavns-boldklub",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "kjobenhavns-boldklub",
+              "away": "grasshopper-club",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "hamburger-sv",
+              "away": "fk-sarajevo",
+              "score": "4:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fk-sarajevo",
+              "away": "hamburger-sv",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "st-mirren-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "if-elfsborg",
+              "away": "st-mirren-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "st-mirren-fc",
+              "away": "if-elfsborg",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ipswich-town-fc",
+              "away": "aris-thessaloniki-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "aris-thessaloniki-fc",
+              "away": "ipswich-town-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "ia-akranes",
+              "away": "1-fc-koln",
+              "score": "0:4"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "1-fc-koln",
+              "away": "ia-akranes",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "juventus-fc",
+              "away": "panathinaikos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "panathinaikos-fc",
+              "away": "juventus-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksc-lokeren",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ksc-lokeren",
+              "away": "fc-dynamo-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-dynamo-moscow",
+              "away": "ksc-lokeren",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "kups-kuopio",
+              "away": "as-saint-etienne",
+              "score": "0:7"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "as-saint-etienne",
+              "away": "kups-kuopio",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "fk-radnicki-nis"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "linzer-ask",
+              "away": "fk-radnicki-nis",
+              "score": "1:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fk-radnicki-nis",
+              "away": "linzer-ask",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "widzew-lodz"
+          ],
+          "winner": "widzew-lodz",
+          "note": "Widzew Łódź won on away goals",
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "manchester-united-fc",
+              "away": "widzew-lodz",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "widzew-lodz",
+              "away": "manchester-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "psv-eindhoven",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rwd-molenbeek",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "rwd-molenbeek",
+              "away": "torino-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "torino-fc",
+              "away": "rwd-molenbeek",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "slask-wroclaw",
+              "away": "dundee-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "dundee-united-fc",
+              "away": "slask-wroclaw",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-barcelona",
+              "away": "sliema-wanderers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "r-standard-liege",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fcsb",
+              "away": "r-standard-liege",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "ujpest-fc",
+              "away": "real-sociedad",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "real-sociedad",
+              "away": "ujpest-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "vasas-sc",
+              "away": "boavista-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "boavista-fc",
+              "away": "vasas-sc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "pezoporikos-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "vfb-stuttgart",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1980-09-24",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "vfb-stuttgart",
+              "score": "1:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-zbrojovka-brno",
+              "away": "real-sociedad",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "real-sociedad",
+              "away": "fc-zbrojovka-brno",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "1-fc-kaiserslautern",
+              "away": "r-standard-liege",
+              "score": "1:2"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "r-standard-liege",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "1-fc-koln",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "fc-barcelona",
+              "away": "1-fc-koln",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "ksc-lokeren"
+          ],
+          "winner": "ksc-lokeren",
+          "note": "Lokeren won on away goals",
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "dundee-united-fc",
+              "away": "ksc-lokeren",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "ksc-lokeren",
+              "away": "dundee-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-utrecht",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-utrecht",
+              "away": "eintracht-frankfurt",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "eintracht-frankfurt",
+              "away": "fc-utrecht",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-sochaux-montbeliard",
+              "away": "boavista-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "boavista-fc",
+              "away": "fc-sochaux-montbeliard",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "sg-dynamo-dresden"
+          ],
+          "winner": "sg-dynamo-dresden",
+          "note": "Dynamo Dresden won on away goals",
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-twente",
+              "away": "sg-dynamo-dresden",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "sg-dynamo-dresden",
+              "away": "fc-twente",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-porto",
+              "away": "grasshopper-club",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "grasshopper-club",
+              "away": "fc-porto",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "bohemians-praha-1905"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "ipswich-town-fc",
+              "away": "bohemians-praha-1905",
+              "score": "3:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "bohemians-praha-1905",
+              "away": "ipswich-town-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "fk-radnicki-nis"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "fk-radnicki-nis",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "fk-radnicki-nis",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-21",
+              "home": "pfc-levski-sofia",
+              "away": "az-alkmaar",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-11-04",
+              "home": "az-alkmaar",
+              "away": "pfc-levski-sofia",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "psv-eindhoven",
+              "away": "hamburger-sv",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "hamburger-sv",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-mirren-fc",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "st-mirren-fc",
+              "away": "as-saint-etienne",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "as-saint-etienne",
+              "away": "st-mirren-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "torino-fc",
+              "away": "1-fc-magdeburg",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "1-fc-magdeburg",
+              "away": "torino-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "vfb-stuttgart",
+              "away": "1-fc-frankfurt",
+              "score": "5:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "1-fc-frankfurt",
+              "away": "vfb-stuttgart",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "widzew-lodz",
+              "away": "juventus-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "juventus-fc",
+              "away": "widzew-lodz",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Widzew Łódź won 4:1 on penalties"
+            }
+          ],
+          "winner": "widzew-lodz"
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-sochaux-montbeliard"
+          ],
+          "winner": "fc-sochaux-montbeliard",
+          "note": "Sochaux won on away goals",
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "eintracht-frankfurt",
+              "away": "fc-sochaux-montbeliard",
+              "score": "4:2"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "fc-sochaux-montbeliard",
+              "away": "eintracht-frankfurt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "grasshopper-club",
+              "away": "torino-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "torino-fc",
+              "away": "grasshopper-club",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Grasshopper Club won 4:3 on penalties"
+            }
+          ],
+          "winner": "grasshopper-club"
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "as-saint-etienne"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "hamburger-sv",
+              "away": "as-saint-etienne",
+              "score": "0:5"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "as-saint-etienne",
+              "away": "hamburger-sv",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "widzew-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "ipswich-town-fc",
+              "away": "widzew-lodz",
+              "score": "5:0"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "widzew-lodz",
+              "away": "ipswich-town-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksc-lokeren",
+            "real-sociedad"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "ksc-lokeren",
+              "away": "real-sociedad",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "real-sociedad",
+              "away": "ksc-lokeren",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-nis",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "fk-radnicki-nis",
+              "away": "az-alkmaar",
+              "score": "2:2"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "az-alkmaar",
+              "away": "fk-radnicki-nis",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "r-standard-liege",
+              "away": "sg-dynamo-dresden",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "sg-dynamo-dresden",
+              "away": "r-standard-liege",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1980-11-26",
+              "home": "vfb-stuttgart",
+              "away": "1-fc-koln",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-12-10",
+              "home": "1-fc-koln",
+              "away": "vfb-stuttgart",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "ipswich-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "as-saint-etienne",
+              "away": "ipswich-town-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "ipswich-town-fc",
+              "away": "as-saint-etienne",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "ksc-lokeren"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "az-alkmaar",
+              "away": "ksc-lokeren",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "ksc-lokeren",
+              "away": "az-alkmaar",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-sochaux-montbeliard"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "grasshopper-club",
+              "away": "fc-sochaux-montbeliard",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "fc-sochaux-montbeliard",
+              "away": "grasshopper-club",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "r-standard-liege",
+              "away": "1-fc-koln",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "1-fc-koln",
+              "away": "r-standard-liege",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-sochaux-montbeliard",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "fc-sochaux-montbeliard",
+              "away": "az-alkmaar",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "az-alkmaar",
+              "away": "fc-sochaux-montbeliard",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "ipswich-town-fc",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "1-fc-koln",
+              "away": "ipswich-town-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ipswich-town-fc",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1981-05-06",
+              "home": "ipswich-town-fc",
+              "away": "az-alkmaar",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-05-20",
+              "home": "az-alkmaar",
+              "away": "ipswich-town-fc",
+              "score": "4:2",
+              "note": "Played at Olympic Stadium, Amsterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2099 @@
+{
+  "competition": {
+    "name": "UEFA Europa League",
+    "slug": "europa-league",
+    "description": "Formerly the UEFA Cup"
+  },
+  "season": "1997-98",
+  "competition_name": "UEFA Cup",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-22",
+              "home": "birkirkara-fc",
+              "away": "fc-spartak-trnava",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-spartak-trnava",
+              "away": "birkirkara-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "fc-kolkheti-1913-poti"
+          ],
+          "winner": "fc-dinamo-minsk",
+          "note": "Dinamo Minsk won on away goals",
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "fc-dinamo-minsk",
+              "away": "fc-kolkheti-1913-poti",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-kolkheti-1913-poti",
+              "away": "fc-dinamo-minsk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-petah-tikva-fc",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "hapoel-petah-tikva-fc",
+              "away": "fc-flora",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-flora",
+              "away": "hapoel-petah-tikva-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dnipro",
+            "fc-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "fc-dnipro",
+              "away": "fc-yerevan",
+              "score": "6:1"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-yerevan",
+              "away": "fc-dnipro",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inkaras-kaunas",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "fk-inkaras-kaunas",
+              "away": "fc-zbrojovka-brno",
+              "score": "3:1"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-zbrojovka-brno",
+              "away": "fk-inkaras-kaunas",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mypa-myllykoski",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "mypa-myllykoski",
+              "away": "apollon-limassol-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "apollon-limassol-fc",
+              "away": "mypa-myllykoski",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-cardiff-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "inter-cardiff-fc",
+              "away": "celtic-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1997-07-29",
+              "home": "celtic-fc",
+              "away": "inter-cardiff-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "cs-tiligul-tiras-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "neuchatel-xamax-fcs",
+              "away": "cs-tiligul-tiras-tiraspol",
+              "score": "7:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "cs-tiligul-tiras-tiraspol",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-grevenmacher",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "cs-grevenmacher",
+              "away": "hnk-hajduk-split",
+              "score": "1:4"
+            },
+            {
+              "date": "1997-07-29",
+              "home": "hnk-hajduk-split",
+              "away": "cs-grevenmacher",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "grasshopper-club",
+              "away": "coleraine-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "coleraine-fc",
+              "away": "grasshopper-club",
+              "score": "1:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "fk-vojvodina",
+              "away": "viking-fk",
+              "score": "0:2"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "viking-fk",
+              "away": "fk-vojvodina",
+              "score": "0:2",
+              "extra_time": true,
+              "note": "Viking FK won 5:4 on penalties"
+            }
+          ],
+          "winner": "viking-fk"
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "kr-reykjavik",
+              "away": "fc-dinamo-bucuresti",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-dinamo-bucuresti",
+              "away": "kr-reykjavik",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "bohemian-fc",
+              "away": "ferencvarosi-tc",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-07-29",
+              "home": "ferencvarosi-tc",
+              "away": "bohemian-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "fk-jablonec",
+              "away": "qarabag-fk",
+              "score": "5:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "qarabag-fk",
+              "away": "fk-jablonec",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odra-wodzislaw-slaski",
+            "fk-pobeda"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "odra-wodzislaw-slaski",
+              "away": "fk-pobeda",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fk-pobeda",
+              "away": "odra-wodzislaw-slaski",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torpedo-riga",
+            "fc-vorskla-poltava"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "torpedo-riga",
+              "away": "fc-vorskla-poltava",
+              "score": "1:3"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "fc-vorskla-poltava",
+              "away": "torpedo-riga",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "pfc-neftochimic-burgas"
+          ],
+          "winner": "sk-brann",
+          "note": "Brann won on away goals",
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "sk-brann",
+              "away": "pfc-neftochimic-burgas",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "pfc-neftochimic-burgas",
+              "away": "sk-brann",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ce-principat",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "ce-principat",
+              "away": "dundee-united-fc",
+              "score": "0:8"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "dundee-united-fc",
+              "away": "ce-principat",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "asc-otelul-galati"
+          ],
+          "winner": "nd-gorica",
+          "note": "Gorica won on away goals",
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "nd-gorica",
+              "away": "asc-otelul-galati",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "asc-otelul-galati",
+              "away": "nd-gorica",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "1997-07-23",
+              "home": "ujpest-fc",
+              "away": "ki-klaksvik",
+              "score": "6:0"
+            },
+            {
+              "date": "1997-07-30",
+              "home": "ki-klaksvik",
+              "away": "ujpest-fc",
+              "score": "2:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "hnk-hajduk-split",
+              "away": "malmo-ff",
+              "score": "3:2"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "malmo-ff",
+              "away": "hnk-hajduk-split",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-vorskla-poltava"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "rsc-anderlecht",
+              "away": "fc-vorskla-poltava",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "fc-vorskla-poltava",
+              "away": "rsc-anderlecht",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neuchatel-xamax-fcs",
+            "viking-fk"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "neuchatel-xamax-fcs",
+              "away": "viking-fk",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "viking-fk",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rotor-volgograd",
+            "odra-wodzislaw-slaski"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "fc-rotor-volgograd",
+              "away": "odra-wodzislaw-slaski",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "odra-wodzislaw-slaski",
+              "away": "fc-rotor-volgograd",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "trabzonspor",
+              "away": "dundee-united-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "dundee-united-fc",
+              "away": "trabzonspor",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "sk-rapid-wien",
+              "away": "fc-zbrojovka-brno",
+              "score": "6:1"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "fc-zbrojovka-brno",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "fc-tirol-innsbruck",
+              "away": "celtic-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "celtic-fc",
+              "away": "fc-tirol-innsbruck",
+              "score": "6:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "helsingborgs-if",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "helsingborgs-if",
+              "away": "ferencvarosi-tc",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "ferencvarosi-tc",
+              "away": "helsingborgs-if",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Helsingborgs IF won 4:3 on penalties"
+            }
+          ],
+          "winner": "helsingborgs-if"
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "hapoel-petah-tikva-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "vejle-boldklub",
+              "away": "hapoel-petah-tikva-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "hapoel-petah-tikva-fc",
+              "away": "vejle-boldklub",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "grasshopper-club",
+              "away": "sk-brann",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "sk-brann",
+              "away": "grasshopper-club",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nd-gorica",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "nd-gorica",
+              "away": "club-brugge-kv",
+              "score": "3:5"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "club-brugge-kv",
+              "away": "nd-gorica",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "paok-fc",
+              "away": "fc-spartak-trnava",
+              "score": "5:3"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "fc-spartak-trnava",
+              "away": "paok-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "ofi-crete-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "kr-reykjavik",
+              "away": "ofi-crete-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "ofi-crete-fc",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "orebro-sk"
+          ],
+          "winner": "orebro-sk",
+          "note": "Örebro won on away goals",
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "fk-jablonec",
+              "away": "orebro-sk",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "orebro-sk",
+              "away": "fk-jablonec",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "re-mouscron"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "apollon-limassol-fc",
+              "away": "re-mouscron",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "re-mouscron",
+              "away": "apollon-limassol-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "fc-dinamo-minsk",
+              "away": "lillestrom-sk",
+              "score": "0:2"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "lillestrom-sk",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "ujpest-fc",
+              "away": "agf-aarhus",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "agf-aarhus",
+              "away": "ujpest-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-vladikavkaz",
+            "fc-dnipro"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-12",
+              "home": "fc-spartak-vladikavkaz",
+              "away": "fc-dnipro",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-08-26",
+              "home": "fc-dnipro",
+              "away": "fc-spartak-vladikavkaz",
+              "score": "1:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "deportivo-de-la-coruna",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "deportivo-de-la-coruna",
+              "away": "aj-auxerre",
+              "score": "1:2"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "aj-auxerre",
+              "away": "deportivo-de-la-coruna",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-red-bull-salzburg",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-red-bull-salzburg",
+              "away": "rsc-anderlecht",
+              "score": "4:3"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "rsc-anderlecht",
+              "away": "fc-red-bull-salzburg",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "paok-fc",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "arsenal-fc",
+              "away": "paok-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "widzew-lodz",
+            "udinese-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "widzew-lodz",
+              "away": "udinese-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "udinese-calcio",
+              "away": "widzew-lodz",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "nk-maribor",
+              "away": "afc-ajax",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "afc-ajax",
+              "away": "nk-maribor",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "olympique-lyonnais",
+              "away": "brondby-if",
+              "score": "4:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "brondby-if",
+              "away": "olympique-lyonnais",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-slavia-mozyr",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-slavia-mozyr",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-slavia-mozyr",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-valladolid",
+            "skonto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "real-valladolid",
+              "away": "skonto-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "skonto-fc",
+              "away": "real-valladolid",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "vitoria-sc",
+              "away": "ss-lazio",
+              "score": "0:4"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "ss-lazio",
+              "away": "vitoria-sc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "rc-strasbourg",
+              "away": "rangers-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "rangers-fc",
+              "away": "rc-strasbourg",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "fc-spartak-vladikavkaz"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "mtk-budapest-fc",
+              "away": "fc-spartak-vladikavkaz",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "fc-spartak-vladikavkaz",
+              "away": "mtk-budapest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-schalke-04",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "hnk-hajduk-split",
+              "away": "fc-schalke-04",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "sc-bastia",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "sl-benfica",
+              "away": "sc-bastia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-sion",
+              "away": "fc-spartak-moscow",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-10-15",
+              "home": "fc-spartak-moscow",
+              "away": "fc-sion",
+              "score": "5:1",
+              "note": "Replay of the match of 30 September (2:2), annulled because the goalposts were 8 cm too short"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofi-crete-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "ofi-crete-fc",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "ferencvarosi-tc",
+              "away": "ofi-crete-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "uc-sampdoria",
+              "away": "athletic-bilbao",
+              "score": "1:2"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "athletic-bilbao",
+              "away": "uc-sampdoria",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "aston-villa-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fcsb",
+              "away": "fenerbahce-sk",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "fenerbahce-sk",
+              "away": "fcsb",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rotor-volgograd",
+            "orebro-sk"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-rotor-volgograd",
+              "away": "orebro-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "orebro-sk",
+              "away": "fc-rotor-volgograd",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-jazz",
+            "tsv-1860-munich"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-jazz",
+              "away": "tsv-1860-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "tsv-1860-munich",
+              "away": "fc-jazz",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "vfl-bochum"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "trabzonspor",
+              "away": "vfl-bochum",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "vfl-bochum",
+              "away": "trabzonspor",
+              "score": "5:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "gnk-dinamo-zagreb",
+              "away": "grasshopper-club",
+              "score": "4:4"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "grasshopper-club",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "sbv-vitesse",
+              "away": "sc-braga",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "sc-braga",
+              "away": "sbv-vitesse",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "hapoel-petah-tikva-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "sk-rapid-wien",
+              "away": "hapoel-petah-tikva-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "hapoel-petah-tikva-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "inter-milan",
+              "away": "neuchatel-xamax-fcs",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "neuchatel-xamax-fcs",
+              "away": "inter-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "liverpool-fc"
+          ],
+          "winner": "liverpool-fc",
+          "note": "Liverpool won on away goals",
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "celtic-fc",
+              "away": "liverpool-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "liverpool-fc",
+              "away": "celtic-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "re-mouscron",
+            "fc-metz"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "re-mouscron",
+              "away": "fc-metz",
+              "score": "0:2"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "fc-metz",
+              "away": "re-mouscron",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "lillestrom-sk"
+          ],
+          "winner": "fc-twente",
+          "note": "Twente won on away goals",
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "fc-twente",
+              "away": "lillestrom-sk",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "lillestrom-sk",
+              "away": "fc-twente",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "beitar-jerusalem-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "beitar-jerusalem-fc",
+              "away": "club-brugge-kv",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "club-brugge-kv",
+              "away": "beitar-jerusalem-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "leicester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "atletico-madrid",
+              "away": "leicester-city-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "leicester-city-fc",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "agf-aarhus",
+              "away": "fc-nantes",
+              "score": "2:2"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "fc-nantes",
+              "away": "agf-aarhus",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karlsruher-sc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-16",
+              "home": "karlsruher-sc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-09-30",
+              "home": "anorthosis-famagusta-fc",
+              "away": "karlsruher-sc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "rc-strasbourg",
+              "away": "liverpool-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "liverpool-fc",
+              "away": "rc-strasbourg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "inter-milan",
+              "away": "olympique-lyonnais",
+              "score": "1:2"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "olympique-lyonnais",
+              "away": "inter-milan",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "sc-braga",
+              "away": "fc-dinamo-tbilisi",
+              "score": "4:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "fc-dinamo-tbilisi",
+              "away": "sc-braga",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "fc-schalke-04",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "rsc-anderlecht",
+              "away": "fc-schalke-04",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "udinese-calcio"
+          ],
+          "winner": "afc-ajax",
+          "note": "Ajax won on away goals",
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "afc-ajax",
+              "away": "udinese-calcio",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "udinese-calcio",
+              "away": "afc-ajax",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "vfl-bochum"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "club-brugge-kv",
+              "away": "vfl-bochum",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "vfl-bochum",
+              "away": "club-brugge-kv",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-metz",
+            "karlsruher-sc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "fc-metz",
+              "away": "karlsruher-sc",
+              "score": "0:2"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "karlsruher-sc",
+              "away": "fc-metz",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "real-valladolid"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "fc-spartak-moscow",
+              "away": "real-valladolid",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "real-valladolid",
+              "away": "fc-spartak-moscow",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "mtk-budapest-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "gnk-dinamo-zagreb",
+              "away": "mtk-budapest-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "atletico-madrid",
+              "away": "paok-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "paok-fc",
+              "away": "atletico-madrid",
+              "score": "4:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "sc-bastia"
+          ],
+          "winner": "fcsb",
+          "note": "Steaua București won on away goals",
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "fcsb",
+              "away": "sc-bastia",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "sc-bastia",
+              "away": "fcsb",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "athletic-bilbao",
+              "away": "aston-villa-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "aston-villa-fc",
+              "away": "athletic-bilbao",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rotor-volgograd",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "fc-rotor-volgograd",
+              "away": "ss-lazio",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "ss-lazio",
+              "away": "fc-rotor-volgograd",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "fc-twente"
+          ],
+          "winner": "fc-twente",
+          "note": "Twente won on away goals",
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "agf-aarhus",
+              "away": "fc-twente",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "fc-twente",
+              "away": "agf-aarhus",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aj-auxerre",
+            "ofi-crete-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-21",
+              "home": "aj-auxerre",
+              "away": "ofi-crete-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "ofi-crete-fc",
+              "away": "aj-auxerre",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "tsv-1860-munich"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-22",
+              "home": "sk-rapid-wien",
+              "away": "tsv-1860-munich",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-11-04",
+              "home": "tsv-1860-munich",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "rc-strasbourg",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "inter-milan",
+              "away": "rc-strasbourg",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-braga",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "sc-braga",
+              "away": "fc-schalke-04",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "fc-schalke-04",
+              "away": "sc-braga",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "vfl-bochum"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "afc-ajax",
+              "away": "vfl-bochum",
+              "score": "4:2"
+            },
+            {
+              "date": "1997-12-11",
+              "home": "vfl-bochum",
+              "away": "afc-ajax",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "karlsruher-sc",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "karlsruher-sc",
+              "away": "fc-spartak-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "fc-spartak-moscow",
+              "away": "karlsruher-sc",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "gnk-dinamo-zagreb",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "atletico-madrid",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "fcsb",
+              "away": "aston-villa-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "aston-villa-fc",
+              "away": "fcsb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "sk-rapid-wien",
+              "away": "ss-lazio",
+              "score": "0:2"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "ss-lazio",
+              "away": "sk-rapid-wien",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-twente",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1997-11-25",
+              "home": "fc-twente",
+              "away": "aj-auxerre",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-12-09",
+              "home": "aj-auxerre",
+              "away": "fc-twente",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-03",
+              "home": "inter-milan",
+              "away": "fc-schalke-04",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-03-17",
+              "home": "fc-schalke-04",
+              "away": "inter-milan",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-03",
+              "home": "afc-ajax",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            },
+            {
+              "date": "1998-03-17",
+              "home": "fc-spartak-moscow",
+              "away": "afc-ajax",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "aston-villa-fc"
+          ],
+          "winner": "atletico-madrid",
+          "note": "Atlético Madrid won on away goals",
+          "matches": [
+            {
+              "date": "1998-03-03",
+              "home": "atletico-madrid",
+              "away": "aston-villa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-03-17",
+              "home": "aston-villa-fc",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-03",
+              "home": "ss-lazio",
+              "away": "aj-auxerre",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-03-17",
+              "home": "aj-auxerre",
+              "away": "ss-lazio",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-31",
+              "home": "inter-milan",
+              "away": "fc-spartak-moscow",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-04-14",
+              "home": "fc-spartak-moscow",
+              "away": "inter-milan",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-31",
+              "home": "atletico-madrid",
+              "away": "ss-lazio",
+              "score": "0:1"
+            },
+            {
+              "date": "1998-04-14",
+              "home": "ss-lazio",
+              "away": "atletico-madrid",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ss-lazio",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1998-05-06",
+              "home": "ss-lazio",
+              "away": "inter-milan",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Parc des Princes, Paris"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

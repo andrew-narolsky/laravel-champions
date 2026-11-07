@@ -341,15 +341,35 @@
         "city": "Vaslui"
     },
     {
-        "name": "SR Brașov",
-        "description": "Romania · Founded: 2017",
+        "name": "FC Brașov",
+        "description": "Romania · Founded: 1936",
         "country_id": 43,
         "nickname": "Stegarii",
-        "content": "<p>SR Brașov is a Romanian football club based in the city of Brașov, founded in 2017 by supporters after the dissolution of the historic FC Brașov. The club was created as a fan-owned project with the goal of continuing the football tradition in the city under the name “Steagul Roșu,” a historic identity closely linked to Brașov football. It started from the lower leagues and was built on community involvement, local support, and a strong desire to preserve the city’s football heritage.</p><p>In its early years, SR Brașov competed in the lower tiers of Romanian football and quickly became one of the more followed supporter-run clubs in the country. The team achieved promotion from the county leagues and established itself in Liga III, where it has been competing regularly. The club is known for its passionate fanbase, who actively participate in its management and strongly identify with the traditional colors and symbols of Brașov football.</p><p>SR Brașov also emerged in a complex local football landscape where multiple clubs claimed the legacy of the old FC Brașov, leading to divided support in the city. Despite these challenges, SR Brașov has maintained a stable identity as a supporter-owned team and continues to aim for sporting progression while keeping its focus on tradition and community involvement in Romanian football.</p>",
-        "founded_at": "2017-00-00",
-        "destroyed_at": "",
+        "content": "<p>FC Brașov was a Romanian football club from Brașov, founded in 1936 as Uzinele Astra Brașov, the team of the local aircraft and railway works. In 1948 it was renamed Steagul Roșu Brașov, the name under which it became best known, and the former international Silviu Ploeșteanu took charge as coach for two decades. Playing in yellow and black at the stadium that now bears Ploeșteanu's name, the club reached the top flight in 1957.</p><p>The Flag-bearers spent forty-one seasons in the Romanian first division between 1957 and 2015. Their best league finish was second place in 1959–60, and in 1960–61 they won the Balkans Cup. The club also represented Romania several times in the UEFA Cup, beginning in the 1970s.</p><p>After relegation in 2015 the club fell into financial trouble and was dissolved in 2017. Two new clubs later claimed its heritage: SR Brașov, founded by supporters in 2017, and FC Brașov – Steagul Renaște, established in 2021 with the support of the local authorities.</p>",
+        "founded_at": "1936-00-00",
+        "destroyed_at": "2017-00-00",
         "stadium": "Silviu Ploeșteanu, Cap. 8,800",
-        "city": "Brașov"
+        "city": "Brașov",
+        "names": [
+            {
+                "name": "Uzinele Astra Brașov",
+                "from_year": 1936,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Steagul Roșu Brașov",
+                "from_year": 1948,
+                "to_year": 1990,
+                "note": null
+            },
+            {
+                "name": "FC Brașov",
+                "from_year": 1990,
+                "to_year": 2017,
+                "note": null
+            }
+        ]
     },
     {
         "name": "CFR Timișoara",
