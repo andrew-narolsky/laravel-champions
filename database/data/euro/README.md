@@ -1,7 +1,7 @@
 # European competitions — season JSON
 
 Files: one folder per competition, one file per season — `database/data/euro/<competition-slug>/<season>.json`
-(e.g. `champions-league/1955-56.json`, `europa-league/1971-72.json`).
+(e.g. `champions-league/1955-56.json`, `europa-league/1971-72.json`, `conference-league/2021-22.json`).
 
 Import: `php artisan euro:import database/data/euro/champions-league/1955-56.json [--force]`
 

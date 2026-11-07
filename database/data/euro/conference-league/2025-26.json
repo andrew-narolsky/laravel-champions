@@ -1,0 +1,3984 @@
+{
+  "competition": {
+    "name": "UEFA Conference League",
+    "slug": "conference-league",
+    "description": "Formerly the UEFA Europa Conference League"
+  },
+  "season": "2025-26",
+  "competition_name": "UEFA Conference League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Conference_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "nsi-runavik",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "nsi-runavik",
+              "away": "hjk-helsinki",
+              "score": "4:0",
+              "note": "Played at Við Djúpumýrar, Klaksvík (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "hjk-helsinki",
+              "away": "nsi-runavik",
+              "score": "5:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "fc-ordabasy"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fc-torpedo-kutaisi",
+              "away": "fc-ordabasy",
+              "score": "4:3"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-ordabasy",
+              "away": "fc-torpedo-kutaisi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "fc-koper",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-koper",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sjk-seinajoki",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "sjk-seinajoki",
+              "away": "ki-klaksvik",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "ki-klaksvik",
+              "away": "sjk-seinajoki",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nomme-kalju-fc",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "nomme-kalju-fc",
+              "away": "fk-partizani",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fk-partizani",
+              "away": "nomme-kalju-fc",
+              "score": "0:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tre-fiori-fc",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "tre-fiori-fc",
+              "away": "fc-pyunik",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-pyunik",
+              "away": "tre-fiori-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "fc-hegelmann"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "st-patricks-athletic-fc",
+              "away": "fc-hegelmann",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-hegelmann",
+              "away": "st-patricks-athletic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-decic",
+            "fk-sileks"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-decic",
+              "away": "fk-sileks",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fk-sileks",
+              "away": "fk-decic",
+              "score": "2:1",
+              "note": "Played at Petar Miloševski Training Centre, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-dynamo-brest",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-dynamo-brest",
+              "away": "fk-sutjeska-niksic",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at ZTE Arena, Zalaegerszeg (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "larne-fc",
+            "fk-auda"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "larne-fc",
+              "away": "fk-auda",
+              "score": "0:0",
+              "note": "Played at Ballymena Showgrounds, Ballymena (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-16",
+              "home": "fk-auda",
+              "away": "larne-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Larne FC won 4:2 on penalties"
+            }
+          ],
+          "winner": "larne-fc"
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "haverfordwest-county-afc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "floriana-fc",
+              "away": "haverfordwest-county-afc",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "haverfordwest-county-afc",
+              "away": "floriana-fc",
+              "score": "2:3",
+              "note": "Played at Parc y Scarlets, Llanelli (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-belaz-zhodino",
+            "fk-rabotnicki"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fc-torpedo-belaz-zhodino",
+              "away": "fk-rabotnicki",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Haladás Sportkomplexum, Szombathely (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fk-rabotnicki",
+              "away": "fc-torpedo-belaz-zhodino",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-magpies",
+            "paide-linnameeskond"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fc-magpies",
+              "away": "paide-linnameeskond",
+              "score": "2:3"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "paide-linnameeskond",
+              "away": "fc-magpies",
+              "score": "4:1",
+              "note": "Played at Pärnu Rannastaadion, Pärnu (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "fc-petrocub-hincesti"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "birkirkara-fc",
+              "away": "fc-petrocub-hincesti",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-petrocub-hincesti",
+              "away": "birkirkara-fc",
+              "score": "3:0",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletic-club-descaldes",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "atletic-club-descaldes",
+              "away": "f91-dudelange",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "f91-dudelange",
+              "away": "atletic-club-descaldes",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "valur",
+              "away": "fc-flora",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-flora",
+              "away": "valur",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-malisheva",
+            "vikingur-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "kf-malisheva",
+              "away": "vikingur-reykjavik",
+              "score": "0:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "vikingur-reykjavik",
+              "away": "kf-malisheva",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "racing-fc-union-luxembourg",
+            "fc-dila-gori"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "racing-fc-union-luxembourg",
+              "away": "fc-dila-gori",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-dila-gori",
+              "away": "racing-fc-union-luxembourg",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "bfc-daugavpils"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "kf-vllaznia",
+              "away": "bfc-daugavpils",
+              "score": "0:1",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "bfc-daugavpils",
+              "away": "kf-vllaznia",
+              "score": "2:4",
+              "note": "Played at LNK Sporta Parks, Riga (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-urartu",
+            "fc-neman-grodno"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fc-urartu",
+              "away": "fc-neman-grodno",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-neman-grodno",
+              "away": "fc-urartu",
+              "score": "4:0",
+              "neutral": true,
+              "note": "Played at Ménfői úti Stadion, Győr (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "sp-la-fiorita"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-vardar",
+              "away": "sp-la-fiorita",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "sp-la-fiorita",
+              "away": "fk-vardar",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kauno-zalgiris",
+            "penybont-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-kauno-zalgiris",
+              "away": "penybont-fc",
+              "score": "3:0",
+              "note": "Played at Central Stadium of Jonava, Jonava (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "penybont-fc",
+              "away": "fk-kauno-zalgiris",
+              "score": "1:1",
+              "note": "Played at Cardiff International Sports Campus, Cardiff (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-josephs-fc",
+            "cliftonville-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-08",
+              "home": "st-josephs-fc",
+              "away": "cliftonville-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "cliftonville-fc",
+              "away": "st-josephs-fc",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-borac-banja-luka",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-10",
+              "home": "fk-borac-banja-luka",
+              "away": "fc-santa-coloma",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-07-17",
+              "home": "fc-santa-coloma",
+              "away": "fk-borac-banja-luka",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "fc-iberia-1999"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-iberia-1999",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "fc-iberia-1999",
+              "away": "fci-levadia-tallinn",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-zalgiris",
+              "away": "linfield-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "linfield-fc",
+              "away": "fk-zalgiris",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "the-new-saints-fc",
+              "away": "fc-differdange-03",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "fc-differdange-03",
+              "away": "the-new-saints-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "inter-club-descaldes"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "nk-olimpija-ljubljana",
+              "away": "inter-club-descaldes",
+              "score": "4:2"
+            },
+            {
+              "date": "2025-07-29",
+              "home": "inter-club-descaldes",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-buducnost-podgorica",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "fk-buducnost-podgorica",
+              "away": "fc-milsami-orhei",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-milsami-orhei",
+              "away": "fk-buducnost-podgorica",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "kf-egnatia"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-dinamo-minsk",
+              "away": "kf-egnatia",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "kf-egnatia",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "fc-una-strassen"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "dundee-united-fc",
+              "away": "fc-una-strassen",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-una-strassen",
+              "away": "dundee-united-fc",
+              "score": "0:1",
+              "note": "Played at Stade Municipal de la Ville de Differdange, Differdange (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "larne-fc",
+            "fc-prishtina"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "larne-fc",
+              "away": "fc-prishtina",
+              "score": "0:0",
+              "note": "Played at Ballymena Showgrounds, Ballymena (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-prishtina",
+              "away": "larne-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Larne FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "larne-fc"
+        },
+        {
+          "clubs": [
+            "fc-kosice",
+            "fc-neman-grodno"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-kosice",
+              "away": "fc-neman-grodno",
+              "score": "2:3"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-neman-grodno",
+              "away": "fc-kosice",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Szent Gellért Fórum, Szeged (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "dungannon-swifts-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-vaduz",
+              "away": "dungannon-swifts-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "dungannon-swifts-fc",
+              "away": "fc-vaduz",
+              "score": "0:3",
+              "extra_time": true,
+              "note": "Played at Solitude, Belfast (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "silkeborg-if",
+            "ka-akureyri"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "silkeborg-if",
+              "away": "ka-akureyri",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "ka-akureyri",
+              "away": "silkeborg-if",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fk-banga-gargzdai"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "rosenborg-bk",
+              "away": "fk-banga-gargzdai",
+              "score": "5:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fk-banga-gargzdai",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletic-club-descaldes",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "atletic-club-descaldes",
+              "away": "fc-dinamo-city",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-dinamo-city",
+              "away": "atletic-club-descaldes",
+              "score": "1:1",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-spaeri"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-austria-wien",
+              "away": "fc-spaeri",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-spaeri",
+              "away": "fk-austria-wien",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "floriana-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-22",
+              "home": "fc-ballkani",
+              "away": "floriana-fc",
+              "score": "4:2",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "floriana-fc",
+              "away": "fc-ballkani",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "fc-koper"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "viking-fk",
+              "away": "fc-koper",
+              "score": "7:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-koper",
+              "away": "viking-fk",
+              "score": "3:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "aek-athens-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "aek-athens-fc",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Played at Nagyerdei Stadion, Debrecen (Hungary): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-pyunik",
+              "away": "gyori-eto-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "gyori-eto-fc",
+              "away": "fc-pyunik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "fc-dila-gori"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "riga-fc",
+              "away": "fc-dila-gori",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-dila-gori",
+              "away": "riga-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "rakow-czestochowa",
+              "away": "msk-zilina",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "msk-zilina",
+              "away": "rakow-czestochowa",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrocub-hincesti",
+            "sabah-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-petrocub-hincesti",
+              "away": "sabah-fk",
+              "score": "0:2",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "sabah-fk",
+              "away": "fc-petrocub-hincesti",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-armenia",
+            "fc-universitatea-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-ararat-armenia",
+              "away": "fc-universitatea-cluj",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-universitatea-cluj",
+              "away": "fc-ararat-armenia",
+              "score": "1:2",
+              "extra_time": true,
+              "note": "Played at Sibiu Municipal Stadium, Sibiu (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-varazdin",
+            "cd-santa-clara"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "nk-varazdin",
+              "away": "cd-santa-clara",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "cd-santa-clara",
+              "away": "nk-varazdin",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kauno-zalgiris",
+            "valur"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-kauno-zalgiris",
+              "away": "valur",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "valur",
+              "away": "fk-kauno-zalgiris",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paksi-fc",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "paksi-fc",
+              "away": "nk-maribor",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "nk-maribor",
+              "away": "paksi-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "vikingur-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "kf-vllaznia",
+              "away": "vikingur-reykjavik",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "vikingur-reykjavik",
+              "away": "kf-vllaznia",
+              "score": "4:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "r-charleroi-sc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "hammarby-if",
+              "away": "r-charleroi-sc",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "r-charleroi-sc",
+              "away": "hammarby-if",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-1923",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-radnicki-1923",
+              "away": "ki-klaksvik",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "ki-klaksvik",
+              "away": "fk-radnicki-1923",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-novi-pazar",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-novi-pazar",
+              "away": "jagiellonia-bialystok",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "jagiellonia-bialystok",
+              "away": "fk-novi-pazar",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-polissya-zhytomyr",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-polissya-zhytomyr",
+              "away": "fc-santa-coloma",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Futbal Tatran Arena, Prešov (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-santa-coloma",
+              "away": "fc-polissya-zhytomyr",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vardar",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-vardar",
+              "away": "fc-lausanne-sport",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-lausanne-sport",
+              "away": "fk-vardar",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hb-torshavn",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "hb-torshavn",
+              "away": "brondby-if",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "brondby-if",
+              "away": "hb-torshavn",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-oleksandriya",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-oleksandriya",
+              "away": "fk-partizan",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Arena Katowice, Katowice (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fk-partizan",
+              "away": "fc-oleksandriya",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "hibernians-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-spartak-trnava",
+              "away": "hibernians-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "nomme-kalju-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "st-patricks-athletic-fc",
+              "away": "nomme-kalju-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "nomme-kalju-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paide-linnameeskond",
+            "aik-fotboll"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "paide-linnameeskond",
+              "away": "aik-fotboll",
+              "score": "0:2",
+              "note": "Played at Kadriorg Stadium, Tallinn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "aik-fotboll",
+              "away": "paide-linnameeskond",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-sarajevo",
+              "away": "cs-universitatea-craiova",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "cs-universitatea-craiova",
+              "away": "fk-sarajevo",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-limassol-fc",
+            "puskas-akademia-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "aris-limassol-fc",
+              "away": "puskas-akademia-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "puskas-akademia-fc",
+              "away": "aris-limassol-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-josephs-fc",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "st-josephs-fc",
+              "away": "shamrock-rovers-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "shamrock-rovers-fc",
+              "away": "st-josephs-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-ilves",
+              "away": "az-alkmaar",
+              "score": "4:3"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "az-alkmaar",
+              "away": "fc-ilves",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zira-fk",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-23",
+              "home": "zira-fk",
+              "away": "hnk-hajduk-split",
+              "score": "1:1",
+              "note": "Played at Neftçi Arena, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "hnk-hajduk-split",
+              "away": "zira-fk",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-arda-kardzhali",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-arda-kardzhali",
+              "away": "hjk-helsinki",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "hjk-helsinki",
+              "away": "fc-arda-kardzhali",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "FC Arda Kardzhali won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-arda-kardzhali"
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-aktobe",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "ac-sparta-prague",
+              "away": "fc-aktobe",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "fc-zimbru-chisinau"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-astana",
+              "away": "fc-zimbru-chisinau",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-astana",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-decic",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-decic",
+              "away": "sk-rapid-wien",
+              "score": "0:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "sk-rapid-wien",
+              "away": "fk-decic",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-belaz-zhodino",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fc-torpedo-belaz-zhodino",
+              "away": "maccabi-haifa-fc",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Haladás Sportkomplexum, Szombathely (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-torpedo-belaz-zhodino",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Várkerti Stadion, Kisvárda (Hungary): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "araz-naxcivan-pfk",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "araz-naxcivan-pfk",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:1",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "aris-thessaloniki-fc",
+              "away": "araz-naxcivan-pfk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-torpedo-kutaisi"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "ac-omonia",
+              "away": "fc-torpedo-kutaisi",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "fc-torpedo-kutaisi",
+              "away": "ac-omonia",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cherno-more-varna",
+            "istanbul-basaksehir-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "pfc-cherno-more-varna",
+              "away": "istanbul-basaksehir-fk",
+              "score": "0:1",
+              "note": "Played at Huvepharma Arena, Razgrad (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "istanbul-basaksehir-fk",
+              "away": "pfc-cherno-more-varna",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-07-24",
+              "home": "fk-sutjeska-niksic",
+              "away": "beitar-jerusalem-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-07-31",
+              "home": "beitar-jerusalem-fc",
+              "away": "fk-sutjeska-niksic",
+              "score": "5:2",
+              "neutral": true,
+              "note": "Played at Ilie Oană Stadium, Ploiești (Romania): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "kf-egnatia"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "nk-olimpija-ljubljana",
+              "away": "kf-egnatia",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "kf-egnatia",
+              "away": "nk-olimpija-ljubljana",
+              "score": "2:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "ac-virtus"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-milsami-orhei",
+              "away": "ac-virtus",
+              "score": "3:2",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "ac-virtus",
+              "away": "fc-milsami-orhei",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-differdange-03",
+              "away": "fci-levadia-tallinn",
+              "score": "2:3"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fci-levadia-tallinn",
+              "away": "fc-differdange-03",
+              "score": "1:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-gota",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "vikingur-gota",
+              "away": "linfield-fc",
+              "score": "2:1",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "linfield-fc",
+              "away": "vikingur-gota",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "sk-rapid-wien",
+              "away": "dundee-united-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "dundee-united-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "SK Rapid Wien won 5:4 on penalties"
+            }
+          ],
+          "winner": "sk-rapid-wien"
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fc-ararat-armenia"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "ac-sparta-prague",
+              "away": "fc-ararat-armenia",
+              "score": "4:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-ararat-armenia",
+              "away": "ac-sparta-prague",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "az-alkmaar",
+              "away": "fc-vaduz",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-vaduz",
+              "away": "az-alkmaar",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lugano",
+            "nk-celje"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-lugano",
+              "away": "nk-celje",
+              "score": "0:5",
+              "note": "Played at Stockhorn Arena, Thun (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "nk-celje",
+              "away": "fc-lugano",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "fc-neman-grodno"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-05",
+              "home": "ki-klaksvik",
+              "away": "fc-neman-grodno",
+              "score": "2:0",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-neman-grodno",
+              "away": "ki-klaksvik",
+              "score": "2:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Played at Szent Gellért Fórum, Szeged (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine; FC Neman Grodno won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-neman-grodno"
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "beitar-jerusalem-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "riga-fc",
+              "away": "beitar-jerusalem-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "beitar-jerusalem-fc",
+              "away": "riga-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Played at Ilie Oană Stadium, Ploiești (Romania): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "vikingur-reykjavik",
+              "away": "brondby-if",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "brondby-if",
+              "away": "vikingur-reykjavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "hnk-hajduk-split",
+              "away": "fc-dinamo-city",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-dinamo-city",
+              "away": "hnk-hajduk-split",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "rsc-anderlecht",
+              "away": "fc-sheriff-tiraspol",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-sheriff-tiraspol",
+              "away": "rsc-anderlecht",
+              "score": "1:1",
+              "note": "Played at Zimbru Stadium, Chișinău (Sheriff could not play in Tiraspol because of Transnistria's involvement in the Russian invasion of Ukraine)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-lausanne-sport",
+              "away": "fc-astana",
+              "score": "3:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-astana",
+              "away": "fc-lausanne-sport",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "larne-fc",
+            "cd-santa-clara"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "larne-fc",
+              "away": "cd-santa-clara",
+              "score": "0:3",
+              "note": "Played at Ballymena Showgrounds, Ballymena (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "cd-santa-clara",
+              "away": "larne-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-limassol-fc",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "aris-limassol-fc",
+              "away": "aek-athens-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "aek-athens-fc",
+              "away": "aris-limassol-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "istanbul-basaksehir-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "viking-fk",
+              "away": "istanbul-basaksehir-fk",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-08-13",
+              "home": "istanbul-basaksehir-fk",
+              "away": "viking-fk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "araz-naxcivan-pfk",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "araz-naxcivan-pfk",
+              "away": "ac-omonia",
+              "score": "0:4",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "ac-omonia",
+              "away": "araz-naxcivan-pfk",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-ballkani",
+              "away": "shamrock-rovers-fc",
+              "score": "1:0",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-ballkani",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "rakow-czestochowa",
+              "away": "maccabi-haifa-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "maccabi-haifa-fc",
+              "away": "rakow-czestochowa",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Nagyerdei Stadion, Debrecen (Hungary): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "aik-fotboll",
+              "away": "gyori-eto-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "gyori-eto-fc",
+              "away": "aik-fotboll",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "cs-universitatea-craiova",
+              "away": "fc-spartak-trnava",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-spartak-trnava",
+              "away": "cs-universitatea-craiova",
+              "score": "4:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-polissya-zhytomyr",
+            "paksi-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-polissya-zhytomyr",
+              "away": "paksi-fc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Futbal Tatran Arena, Prešov (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "paksi-fc",
+              "away": "fc-polissya-zhytomyr",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "sabah-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "pfc-levski-sofia",
+              "away": "sabah-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "sabah-fk",
+              "away": "pfc-levski-sofia",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "silkeborg-if",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "silkeborg-if",
+              "away": "jagiellonia-bialystok",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "jagiellonia-bialystok",
+              "away": "silkeborg-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fk-partizan",
+              "away": "hibernian-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "hibernian-fc",
+              "away": "fk-partizan",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fc-banik-ostrava",
+              "away": "fk-austria-wien",
+              "score": "4:3"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fk-austria-wien",
+              "away": "fc-banik-ostrava",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "hammarby-if"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "rosenborg-bk",
+              "away": "hammarby-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "hammarby-if",
+              "away": "rosenborg-bk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "st-patricks-athletic-fc",
+              "away": "besiktas-jk",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "besiktas-jk",
+              "away": "st-patricks-athletic-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kauno-zalgiris",
+            "fc-arda-kardzhali"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-07",
+              "home": "fk-kauno-zalgiris",
+              "away": "fc-arda-kardzhali",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-08-14",
+              "home": "fc-arda-kardzhali",
+              "away": "fk-kauno-zalgiris",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "hamrun-spartans-fc",
+            "fk-rfs"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "hamrun-spartans-fc",
+              "away": "fk-rfs",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fk-rfs",
+              "away": "hamrun-spartans-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "shelbourne-fc",
+              "away": "linfield-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "linfield-fc",
+              "away": "shelbourne-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "ac-virtus"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "breidablik",
+              "away": "ac-virtus",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "ac-virtus",
+              "away": "breidablik",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "fc-differdange-03"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "fc-drita",
+              "away": "fc-differdange-03",
+              "score": "2:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fc-differdange-03",
+              "away": "fc-drita",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "fc-noah"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fc-noah",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fc-noah",
+              "away": "nk-olimpija-ljubljana",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "brondby-if"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "rc-strasbourg",
+              "away": "brondby-if",
+              "score": "0:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "brondby-if",
+              "away": "rc-strasbourg",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "jagiellonia-bialystok",
+              "away": "fc-dinamo-city",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fc-dinamo-city",
+              "away": "jagiellonia-bialystok",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "fc-shakhtar-donetsk",
+              "away": "servette-fc",
+              "score": "1:1",
+              "neutral": true,
+              "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "servette-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "rsc-anderlecht",
+              "away": "aek-athens-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "aek-athens-fc",
+              "away": "rsc-anderlecht",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "istanbul-basaksehir-fk",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "istanbul-basaksehir-fk",
+              "away": "cs-universitatea-craiova",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "cs-universitatea-craiova",
+              "away": "istanbul-basaksehir-fk",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crystal-palace-fc",
+            "fredrikstad-fk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "crystal-palace-fc",
+              "away": "fredrikstad-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fredrikstad-fk",
+              "away": "crystal-palace-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "nk-celje",
+              "away": "fc-banik-ostrava",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fc-banik-ostrava",
+              "away": "nk-celje",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "fc-arda-kardzhali"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "rakow-czestochowa",
+              "away": "fc-arda-kardzhali",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "fc-arda-kardzhali",
+              "away": "rakow-czestochowa",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "hibernian-fc",
+              "away": "legia-warsaw",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "legia-warsaw",
+              "away": "hibernian-fc",
+              "score": "3:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "pfc-levski-sofia",
+              "away": "az-alkmaar",
+              "score": "0:2"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "az-alkmaar",
+              "away": "pfc-levski-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-polissya-zhytomyr",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "fc-polissya-zhytomyr",
+              "away": "acf-fiorentina",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Futbal Tatran Arena, Prešov (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "acf-fiorentina",
+              "away": "fc-polissya-zhytomyr",
+              "score": "3:2",
+              "note": "Played at Mapei Stadium – Città del Tricolore, Reggio Emilia (the Stadio Artemio Franchi was being renovated)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "gyori-eto-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "sk-rapid-wien",
+              "away": "gyori-eto-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-neman-grodno",
+            "rayo-vallecano"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "fc-neman-grodno",
+              "away": "rayo-vallecano",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Szent Gellért Fórum, Szeged (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "rayo-vallecano",
+              "away": "fc-neman-grodno",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "fc-lausanne-sport",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "besiktas-jk",
+              "away": "fc-lausanne-sport",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-santa-clara",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "cd-santa-clara",
+              "away": "shamrock-rovers-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "shamrock-rovers-fc",
+              "away": "cd-santa-clara",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "1-fsv-mainz-05"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "rosenborg-bk",
+              "away": "1-fsv-mainz-05",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "1-fsv-mainz-05",
+              "away": "rosenborg-bk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "riga-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "ac-sparta-prague",
+              "away": "riga-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-08-27",
+              "home": "riga-fc",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "bk-hacken",
+              "away": "cfr-cluj",
+              "score": "7:2"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "cfr-cluj",
+              "away": "bk-hacken",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wolfsberger-ac",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "2025-08-21",
+              "home": "wolfsberger-ac",
+              "away": "ac-omonia",
+              "score": "2:1",
+              "note": "Played at Wörthersee Stadion, Klagenfurt (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-08-28",
+              "home": "ac-omonia",
+              "away": "wolfsberger-ac",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "AC Omonia won 5:4 on penalties"
+            }
+          ],
+          "winner": "ac-omonia"
+        }
+      ]
+    },
+    {
+      "stage": "league_phase",
+      "matches": [
+        {
+          "date": "2025-10-02",
+          "home": "fc-dynamo-kyiv",
+          "away": "crystal-palace-fc",
+          "score": "0:2",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Arena Lublin, Lublin (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-10-02",
+          "home": "fc-lausanne-sport",
+          "away": "breidablik",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "fc-noah",
+          "away": "hnk-rijeka",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-02",
+          "home": "hsk-zrinjski-mostar",
+          "away": "lincoln-red-imps-fc",
+          "score": "5:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "jagiellonia-bialystok",
+          "away": "hamrun-spartans-fc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "lech-poznan",
+          "away": "sk-rapid-wien",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "kups-kuopio",
+          "away": "fc-drita",
+          "score": "1:1",
+          "group": null,
+          "note": "Played at Tammelan Stadion, Tampere (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-02",
+          "home": "ac-omonia",
+          "away": "1-fsv-mainz-05",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "rayo-vallecano",
+          "away": "kf-shkendija",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "aberdeen-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "2:3",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "ac-sparta-prague",
+          "away": "shamrock-rovers-fc",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "acf-fiorentina",
+          "away": "sk-sigma-olomouc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "aek-larnaca-fc",
+          "away": "az-alkmaar",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "legia-warsaw",
+          "away": "samsunspor",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "nk-celje",
+          "away": "aek-athens-fc",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "rakow-czestochowa",
+          "away": "cs-universitatea-craiova",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Zagłębie Sports Park, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-02",
+          "home": "shelbourne-fc",
+          "away": "bk-hacken",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-02",
+          "home": "sk-slovan-bratislava",
+          "away": "rc-strasbourg",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "aek-athens-fc",
+          "away": "aberdeen-fc",
+          "score": "6:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "bk-hacken",
+          "away": "rayo-vallecano",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "breidablik",
+          "away": "kups-kuopio",
+          "score": "0:0",
+          "group": null,
+          "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-23",
+          "home": "fc-shakhtar-donetsk",
+          "away": "legia-warsaw",
+          "score": "1:2",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-10-23",
+          "home": "fc-drita",
+          "away": "ac-omonia",
+          "score": "1:1",
+          "group": null,
+          "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-23",
+          "home": "hnk-rijeka",
+          "away": "ac-sparta-prague",
+          "score": "1:0",
+          "group": null,
+          "note": "Abandoned at half-time because of bad weather and completed the next day from the point of abandonment"
+        },
+        {
+          "date": "2025-10-23",
+          "home": "kf-shkendija",
+          "away": "shelbourne-fc",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-10-23",
+          "home": "rc-strasbourg",
+          "away": "jagiellonia-bialystok",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "sk-rapid-wien",
+          "away": "acf-fiorentina",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "az-alkmaar",
+          "away": "sk-slovan-bratislava",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "1-fsv-mainz-05",
+          "away": "hsk-zrinjski-mostar",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "crystal-palace-fc",
+          "away": "aek-larnaca-fc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "hamrun-spartans-fc",
+          "away": "fc-lausanne-sport",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "lincoln-red-imps-fc",
+          "away": "lech-poznan",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "samsunspor",
+          "away": "fc-dynamo-kyiv",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "shamrock-rovers-fc",
+          "away": "nk-celje",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "sk-sigma-olomouc",
+          "away": "rakow-czestochowa",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-10-23",
+          "home": "cs-universitatea-craiova",
+          "away": "fc-noah",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "1-fsv-mainz-05",
+          "away": "acf-fiorentina",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "ac-sparta-prague",
+          "away": "rakow-czestochowa",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "aek-athens-fc",
+          "away": "shamrock-rovers-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "aek-larnaca-fc",
+          "away": "aberdeen-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "fc-shakhtar-donetsk",
+          "away": "breidablik",
+          "score": "2:0",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-11-06",
+          "home": "fc-noah",
+          "away": "sk-sigma-olomouc",
+          "score": "1:2",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-06",
+          "home": "kups-kuopio",
+          "away": "sk-slovan-bratislava",
+          "score": "3:1",
+          "group": null,
+          "note": "Played at Tammelan Stadion, Tampere (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-06",
+          "home": "nk-celje",
+          "away": "legia-warsaw",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "samsunspor",
+          "away": "hamrun-spartans-fc",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "bk-hacken",
+          "away": "rc-strasbourg",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "crystal-palace-fc",
+          "away": "az-alkmaar",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "fc-lausanne-sport",
+          "away": "ac-omonia",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "fc-dynamo-kyiv",
+          "away": "hsk-zrinjski-mostar",
+          "score": "6:0",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Arena Lublin, Lublin (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-11-06",
+          "home": "kf-shkendija",
+          "away": "jagiellonia-bialystok",
+          "score": "1:1",
+          "group": null,
+          "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-06",
+          "home": "lincoln-red-imps-fc",
+          "away": "hnk-rijeka",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "rayo-vallecano",
+          "away": "lech-poznan",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "shelbourne-fc",
+          "away": "fc-drita",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-06",
+          "home": "sk-rapid-wien",
+          "away": "cs-universitatea-craiova",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "az-alkmaar",
+          "away": "shelbourne-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "hamrun-spartans-fc",
+          "away": "lincoln-red-imps-fc",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "hsk-zrinjski-mostar",
+          "away": "bk-hacken",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "lech-poznan",
+          "away": "fc-lausanne-sport",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "ac-omonia",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "rakow-czestochowa",
+          "away": "sk-rapid-wien",
+          "score": "4:1",
+          "group": null,
+          "note": "Played at Zagłębie Sports Park, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-27",
+          "home": "sk-sigma-olomouc",
+          "away": "nk-celje",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "cs-universitatea-craiova",
+          "away": "1-fsv-mainz-05",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "sk-slovan-bratislava",
+          "away": "rayo-vallecano",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "aberdeen-fc",
+          "away": "fc-noah",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "acf-fiorentina",
+          "away": "aek-athens-fc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "breidablik",
+          "away": "samsunspor",
+          "score": "2:2",
+          "group": null,
+          "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-27",
+          "home": "fc-drita",
+          "away": "kf-shkendija",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-11-27",
+          "home": "hnk-rijeka",
+          "away": "aek-larnaca-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "jagiellonia-bialystok",
+          "away": "kups-kuopio",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "legia-warsaw",
+          "away": "ac-sparta-prague",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "rc-strasbourg",
+          "away": "crystal-palace-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-11-27",
+          "home": "shamrock-rovers-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "acf-fiorentina",
+          "away": "fc-dynamo-kyiv",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "bk-hacken",
+          "away": "aek-larnaca-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "breidablik",
+          "away": "shamrock-rovers-fc",
+          "score": "3:1",
+          "group": null,
+          "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "fc-drita",
+          "away": "az-alkmaar",
+          "score": "0:3",
+          "group": null,
+          "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "fc-noah",
+          "away": "legia-warsaw",
+          "score": "2:1",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "jagiellonia-bialystok",
+          "away": "rayo-vallecano",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "kf-shkendija",
+          "away": "sk-slovan-bratislava",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "samsunspor",
+          "away": "aek-athens-fc",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "cs-universitatea-craiova",
+          "away": "ac-sparta-prague",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "aberdeen-fc",
+          "away": "rc-strasbourg",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "hamrun-spartans-fc",
+          "away": "fc-shakhtar-donetsk",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "hnk-rijeka",
+          "away": "nk-celje",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "lech-poznan",
+          "away": "1-fsv-mainz-05",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "kups-kuopio",
+          "away": "fc-lausanne-sport",
+          "score": "0:0",
+          "group": null,
+          "note": "Played at Tammelan Stadion, Tampere (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "lincoln-red-imps-fc",
+          "away": "sk-sigma-olomouc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "rakow-czestochowa",
+          "away": "hsk-zrinjski-mostar",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Zagłębie Sports Park, Sosnowiec (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2025-12-11",
+          "home": "shelbourne-fc",
+          "away": "crystal-palace-fc",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2025-12-11",
+          "home": "sk-rapid-wien",
+          "away": "ac-omonia",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "1-fsv-mainz-05",
+          "away": "samsunspor",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "ac-sparta-prague",
+          "away": "aberdeen-fc",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "aek-athens-fc",
+          "away": "cs-universitatea-craiova",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "aek-larnaca-fc",
+          "away": "kf-shkendija",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "az-alkmaar",
+          "away": "jagiellonia-bialystok",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "crystal-palace-fc",
+          "away": "kups-kuopio",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "fc-shakhtar-donetsk",
+          "away": "hnk-rijeka",
+          "score": "0:0",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-12-18",
+          "home": "fc-dynamo-kyiv",
+          "away": "fc-noah",
+          "score": "2:0",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Arena Lublin, Lublin (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2025-12-18",
+          "home": "fc-lausanne-sport",
+          "away": "acf-fiorentina",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "hsk-zrinjski-mostar",
+          "away": "sk-rapid-wien",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "legia-warsaw",
+          "away": "lincoln-red-imps-fc",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "nk-celje",
+          "away": "shelbourne-fc",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "ac-omonia",
+          "away": "rakow-czestochowa",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "rc-strasbourg",
+          "away": "breidablik",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "rayo-vallecano",
+          "away": "fc-drita",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "shamrock-rovers-fc",
+          "away": "hamrun-spartans-fc",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "sk-sigma-olomouc",
+          "away": "lech-poznan",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2025-12-18",
+          "home": "sk-slovan-bratislava",
+          "away": "bk-hacken",
+          "score": "1:0",
+          "group": null
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "kups-kuopio",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "kups-kuopio",
+              "away": "lech-poznan",
+              "score": "0:2",
+              "note": "Played at Tammelan Stadion, Tampere (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "lech-poznan",
+              "away": "kups-kuopio",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "fc-noah",
+              "away": "az-alkmaar",
+              "score": "1:0",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "az-alkmaar",
+              "away": "fc-noah",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "crystal-palace-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "hsk-zrinjski-mostar",
+              "away": "crystal-palace-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "crystal-palace-fc",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "jagiellonia-bialystok",
+              "away": "acf-fiorentina",
+              "score": "0:3"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "acf-fiorentina",
+              "away": "jagiellonia-bialystok",
+              "score": "2:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkendija",
+            "samsunspor"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "kf-shkendija",
+              "away": "samsunspor",
+              "score": "0:1",
+              "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "samsunspor",
+              "away": "kf-shkendija",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "nk-celje"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "fc-drita",
+              "away": "nk-celje",
+              "score": "2:3",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "nk-celje",
+              "away": "fc-drita",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "sk-sigma-olomouc",
+              "away": "fc-lausanne-sport",
+              "score": "1:1"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "fc-lausanne-sport",
+              "away": "sk-sigma-olomouc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2026-02-19",
+              "home": "ac-omonia",
+              "away": "hnk-rijeka",
+              "score": "0:1"
+            },
+            {
+              "date": "2026-02-26",
+              "home": "hnk-rijeka",
+              "away": "ac-omonia",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "lech-poznan",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "lech-poznan",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:3"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "fc-shakhtar-donetsk",
+              "away": "lech-poznan",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "az-alkmaar",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "ac-sparta-prague",
+              "away": "az-alkmaar",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crystal-palace-fc",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "crystal-palace-fc",
+              "away": "aek-larnaca-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "aek-larnaca-fc",
+              "away": "crystal-palace-fc",
+              "score": "1:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "rakow-czestochowa"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "acf-fiorentina",
+              "away": "rakow-czestochowa",
+              "score": "2:1"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "rakow-czestochowa",
+              "away": "acf-fiorentina",
+              "score": "1:2",
+              "note": "Played at Zagłębie Sports Park, Sosnowiec (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "samsunspor",
+            "rayo-vallecano"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "samsunspor",
+              "away": "rayo-vallecano",
+              "score": "1:3"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "rayo-vallecano",
+              "away": "samsunspor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "nk-celje",
+              "away": "aek-athens-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "aek-athens-fc",
+              "away": "nk-celje",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sigma-olomouc",
+            "1-fsv-mainz-05"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "sk-sigma-olomouc",
+              "away": "1-fsv-mainz-05",
+              "score": "0:0"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "1-fsv-mainz-05",
+              "away": "sk-sigma-olomouc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "2026-03-12",
+              "home": "hnk-rijeka",
+              "away": "rc-strasbourg",
+              "score": "1:2"
+            },
+            {
+              "date": "2026-03-19",
+              "home": "rc-strasbourg",
+              "away": "hnk-rijeka",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-09",
+              "home": "fc-shakhtar-donetsk",
+              "away": "az-alkmaar",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2026-04-16",
+              "home": "az-alkmaar",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crystal-palace-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-09",
+              "home": "crystal-palace-fc",
+              "away": "acf-fiorentina",
+              "score": "3:0"
+            },
+            {
+              "date": "2026-04-16",
+              "home": "acf-fiorentina",
+              "away": "crystal-palace-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rayo-vallecano",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-09",
+              "home": "rayo-vallecano",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2026-04-16",
+              "home": "aek-athens-fc",
+              "away": "rayo-vallecano",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fsv-mainz-05",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-09",
+              "home": "1-fsv-mainz-05",
+              "away": "rc-strasbourg",
+              "score": "2:0"
+            },
+            {
+              "date": "2026-04-16",
+              "home": "rc-strasbourg",
+              "away": "1-fsv-mainz-05",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "crystal-palace-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-30",
+              "home": "fc-shakhtar-donetsk",
+              "away": "crystal-palace-fc",
+              "score": "1:3",
+              "neutral": true,
+              "note": "Played at Henryk Reyman Municipal Stadium, Kraków (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2026-05-07",
+              "home": "crystal-palace-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rayo-vallecano",
+            "rc-strasbourg"
+          ],
+          "matches": [
+            {
+              "date": "2026-04-30",
+              "home": "rayo-vallecano",
+              "away": "rc-strasbourg",
+              "score": "1:0"
+            },
+            {
+              "date": "2026-05-07",
+              "home": "rc-strasbourg",
+              "away": "rayo-vallecano",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "crystal-palace-fc",
+            "rayo-vallecano"
+          ],
+          "matches": [
+            {
+              "date": "2026-05-27",
+              "home": "crystal-palace-fc",
+              "away": "rayo-vallecano",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Red Bull Arena, Leipzig"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

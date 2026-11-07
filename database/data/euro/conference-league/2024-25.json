@@ -1,0 +1,3981 @@
+{
+  "competition": {
+    "name": "UEFA Conference League",
+    "slug": "conference-league",
+    "description": "Formerly the UEFA Europa Conference League"
+  },
+  "season": "2024-25",
+  "competition_name": "UEFA Conference League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Conference_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "inter-club-descaldes"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-10",
+              "home": "fk-velez-mostar",
+              "away": "inter-club-descaldes",
+              "score": "1:1",
+              "note": "Played at Stadion Grbavica, Sarajevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "inter-club-descaldes",
+              "away": "fk-velez-mostar",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "sp-tre-penne"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "floriana-fc",
+              "away": "sp-tre-penne",
+              "score": "3:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "sp-tre-penne",
+              "away": "floriana-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-belaz-zhodino",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-torpedo-belaz-zhodino",
+              "away": "fc-milsami-orhei",
+              "score": "2:4",
+              "neutral": true,
+              "note": "Played at Kiraly Sportcentre, Szombathely (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fc-milsami-orhei",
+              "away": "fc-torpedo-belaz-zhodino",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fa-siauliai",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fa-siauliai",
+              "away": "fci-levadia-tallinn",
+              "score": "0:2"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fci-levadia-tallinn",
+              "away": "fa-siauliai",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bala-town-fc",
+            "paide-linnameeskond"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "bala-town-fc",
+              "away": "paide-linnameeskond",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Park Hall, Oswestry (England) (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "paide-linnameeskond",
+              "away": "bala-town-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Played at Pärnu Rannastaadion, Pärnu (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-la-fiorita",
+            "fc-isloch-minsk-raion"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "sp-la-fiorita",
+              "away": "fc-isloch-minsk-raion",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fc-isloch-minsk-raion",
+              "away": "sp-la-fiorita",
+              "score": "0:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Played at Mezőkövesdi Városi Stadion, Mezőkövesd (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine; SP La Fiorita won 4:2 on penalties"
+            }
+          ],
+          "winner": "sp-la-fiorita"
+        },
+        {
+          "clubs": [
+            "caernarfon-town-fc",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "caernarfon-town-fc",
+              "away": "crusaders-fc",
+              "score": "2:0",
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-17",
+              "home": "crusaders-fc",
+              "away": "caernarfon-town-fc",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Caernarfon Town FC won 8:7 on penalties"
+            }
+          ],
+          "winner": "caernarfon-town-fc"
+        },
+        {
+          "clubs": [
+            "jk-tallinna-kalev",
+            "fc-urartu"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "jk-tallinna-kalev",
+              "away": "fc-urartu",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fc-urartu",
+              "away": "jk-tallinna-kalev",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "valur",
+              "away": "kf-vllaznia",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "kf-vllaznia",
+              "away": "valur",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-magpies",
+            "derry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-magpies",
+              "away": "derry-city-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "derry-city-fc",
+              "away": "fc-magpies",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-malisheva",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "kf-malisheva",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:0",
+              "note": "Played at Zahir Pajaziti Stadium, Podujevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fk-buducnost-podgorica",
+              "away": "kf-malisheva",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletic-club-descaldes",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "atletic-club-descaldes",
+              "away": "f91-dudelange",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "f91-dudelange",
+              "away": "atletic-club-descaldes",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "marsaxlokk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fk-partizani",
+              "away": "marsaxlokk-fc",
+              "score": "1:1",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "marsaxlokk-fc",
+              "away": "fk-partizani",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-auda",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-10",
+              "home": "fk-auda",
+              "away": "b36-torshavn",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-07-17",
+              "home": "b36-torshavn",
+              "away": "fk-auda",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "stjarnan",
+              "away": "linfield-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "linfield-fc",
+              "away": "stjarnan",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-kutaisi",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-torpedo-kutaisi",
+              "away": "kf-tirana",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "kf-tirana",
+              "away": "fc-torpedo-kutaisi",
+              "score": "0:1",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "st-josephs-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "shelbourne-fc",
+              "away": "st-josephs-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "st-josephs-fc",
+              "away": "shelbourne-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aktobe",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-aktobe",
+              "away": "fk-sarajevo",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fk-sarajevo",
+              "away": "fc-aktobe",
+              "score": "2:3",
+              "extra_time": true,
+              "note": "FK Sarajevo won 4:3 on penalties"
+            }
+          ],
+          "winner": "fk-sarajevo"
+        },
+        {
+          "clubs": [
+            "nk-bravo",
+            "connahs-quay-nomads-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "nk-bravo",
+              "away": "connahs-quay-nomads-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "connahs-quay-nomads-fc",
+              "away": "nk-bravo",
+              "score": "0:2",
+              "extra_time": true,
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepaja",
+            "vikingur-gota"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fk-liepaja",
+              "away": "vikingur-gota",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "vikingur-gota",
+              "away": "fk-liepaja",
+              "score": "2:0",
+              "note": "Played at Við Djúpumýrar, Klaksvík (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-noah",
+              "away": "kf-shkendija",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "kf-shkendija",
+              "away": "fc-noah",
+              "score": "1:2",
+              "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gfk-tikvesh",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "gfk-tikvesh",
+              "away": "breidablik",
+              "score": "3:2",
+              "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "breidablik",
+              "away": "gfk-tikvesh",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mornar",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fk-mornar",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:1",
+              "note": "Played at DG Arena, Podgorica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fk-mornar",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-una-strassen",
+            "kups-kuopio"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "fc-una-strassen",
+              "away": "kups-kuopio",
+              "score": "0:0",
+              "note": "Played at Stade Municipal de la Ville de Differdange, Differdange (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "kups-kuopio",
+              "away": "fc-una-strassen",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vps-vaasa",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-11",
+              "home": "vps-vaasa",
+              "away": "fk-zalgiris",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-07-18",
+              "home": "fk-zalgiris",
+              "away": "vps-vaasa",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-differdange-03",
+            "fc-ordabasy"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-23",
+              "home": "fc-differdange-03",
+              "away": "fc-ordabasy",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-ordabasy",
+              "away": "fc-differdange-03",
+              "score": "4:3",
+              "extra_time": true,
+              "note": "FC Ordabasy won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-ordabasy"
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "kf-egnatia"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "vikingur-reykjavik",
+              "away": "kf-egnatia",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "kf-egnatia",
+              "away": "vikingur-reykjavik",
+              "score": "0:2",
+              "note": "Played at Loro Boriçi Stadium, Shkodër (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-virtus",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-23",
+              "home": "ac-virtus",
+              "away": "fc-flora",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-07-30",
+              "home": "fc-flora",
+              "away": "ac-virtus",
+              "score": "5:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-struga",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-24",
+              "home": "fc-struga",
+              "away": "fc-pyunik",
+              "score": "2:1",
+              "note": "Played at SRC Biljanini Izvori, Ohrid (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-30",
+              "home": "fc-pyunik",
+              "away": "fc-struga",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "fk-decic"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-24",
+              "home": "fc-dinamo-batumi",
+              "away": "fk-decic",
+              "score": "0:2"
+            },
+            {
+              "date": "2024-07-30",
+              "home": "fk-decic",
+              "away": "fc-dinamo-batumi",
+              "score": "0:0",
+              "note": "Played at Camp FSCG, Podgorica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-23",
+              "home": "fc-ballkani",
+              "away": "hamrun-spartans-fc",
+              "score": "0:0",
+              "note": "Played at Zahir Pajaziti Stadium, Podujevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-30",
+              "home": "hamrun-spartans-fc",
+              "away": "fc-ballkani",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "go-ahead-eagles",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "go-ahead-eagles",
+              "away": "sk-brann",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "sk-brann",
+              "away": "go-ahead-eagles",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "fc-torpedo-kutaisi"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "ac-omonia",
+              "away": "fc-torpedo-kutaisi",
+              "score": "3:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-torpedo-kutaisi",
+              "away": "ac-omonia",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "fc-drita"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "breidablik",
+              "away": "fc-drita",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-07-30",
+              "home": "fc-drita",
+              "away": "breidablik",
+              "score": "1:0",
+              "note": "Played at Zahir Pajaziti Stadium, Podujevo (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "nk-osijek",
+              "away": "fci-levadia-tallinn",
+              "score": "5:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fci-levadia-tallinn",
+              "away": "nk-osijek",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "fc-polissya-zhytomyr"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fc-polissya-zhytomyr",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-polissya-zhytomyr",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Piotr Wieczorek Municipal Stadium, Gliwice (Poland): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "inter-club-descaldes"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-24",
+              "home": "aek-athens-fc",
+              "away": "inter-club-descaldes",
+              "score": "4:3"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "inter-club-descaldes",
+              "away": "aek-athens-fc",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "kups-kuopio",
+              "away": "tromso-il",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "tromso-il",
+              "away": "kups-kuopio",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "st-mirren-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "valur",
+              "away": "st-mirren-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "st-mirren-fc",
+              "away": "valur",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sumgayit-fk",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "sumgayit-fk",
+              "away": "videoton-fc-fehervar",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "videoton-fc-fehervar",
+              "away": "sumgayit-fk",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-ilves",
+              "away": "fk-austria-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "fk-austria-wien",
+              "away": "fc-ilves",
+              "score": "4:3",
+              "extra_time": true,
+              "note": "FC Ilves won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-ilves"
+        },
+        {
+          "clubs": [
+            "fc-cska-1948-sofia",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-cska-1948-sofia",
+              "away": "fk-buducnost-podgorica",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fk-buducnost-podgorica",
+              "away": "fc-cska-1948-sofia",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zira-fk",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "zira-fk",
+              "away": "fc-dac-1904",
+              "score": "4:0",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-dac-1904",
+              "away": "zira-fk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "nk-maribor",
+              "away": "cs-universitatea-craiova",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "cs-universitatea-craiova",
+              "away": "nk-maribor",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "st-patricks-athletic-fc",
+              "away": "fc-vaduz",
+              "score": "3:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-vaduz",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-magpies",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-magpies",
+              "away": "fc-copenhagen",
+              "score": "0:3"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-copenhagen",
+              "away": "fc-magpies",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "istanbul-basaksehir-fk",
+            "sp-la-fiorita"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "istanbul-basaksehir-fk",
+              "away": "sp-la-fiorita",
+              "score": "6:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "sp-la-fiorita",
+              "away": "istanbul-basaksehir-fk",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "caernarfon-town-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "legia-warsaw",
+              "away": "caernarfon-town-fc",
+              "score": "6:0",
+              "note": "Played behind closed doors"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "caernarfon-town-fc",
+              "away": "legia-warsaw",
+              "score": "0:5",
+              "note": "Played at Nantporth, Bangor (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-dnipro-1",
+            "puskas-akademia-fc"
+          ],
+          "winner": "puskas-akademia-fc",
+          "note": "Walkover (both matches awarded 0:3): Dnipro-1 withdrew because of bankruptcy",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fk-zalgiris",
+              "away": "pafos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "pafos-fc",
+              "away": "fk-zalgiris",
+              "score": "3:0",
+              "extra_time": true,
+              "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "fc-progres-niederkorn"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "djurgardens-if",
+              "away": "fc-progres-niederkorn",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-progres-niederkorn",
+              "away": "djurgardens-if",
+              "score": "1:0",
+              "note": "Played at Stade Municipal de la Ville de Differdange, Differdange (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "vikingur-gota"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "kaa-gent",
+              "away": "vikingur-gota",
+              "score": "4:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "vikingur-gota",
+              "away": "kaa-gent",
+              "score": "0:3",
+              "note": "Played at Við Djúpumýrar, Klaksvík (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "f91-dudelange",
+              "away": "bk-hacken",
+              "score": "2:6"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "bk-hacken",
+              "away": "f91-dudelange",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "pfc-cherno-more-varna"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "pfc-cherno-more-varna",
+              "score": "0:0",
+              "neutral": true,
+              "note": "Played at Gradski stadion, Lovech (Bulgaria): Israeli clubs played home matches abroad because of the Gaza war"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "pfc-cherno-more-varna",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "1:2",
+              "note": "Played at Huvepharma Arena, Razgrad (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "hnk-hajduk-split",
+              "away": "hb-torshavn",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "hb-torshavn",
+              "away": "hnk-hajduk-split",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hsk-zrinjski-mostar",
+            "nk-bravo"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "hsk-zrinjski-mostar",
+              "away": "nk-bravo",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "nk-bravo",
+              "away": "hsk-zrinjski-mostar",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-24",
+              "home": "riga-fc",
+              "away": "slask-wroclaw",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "slask-wroclaw",
+              "away": "riga-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "floriana-fc",
+              "away": "vitoria-sc",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "vitoria-sc",
+              "away": "floriana-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "paide-linnameeskond"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "stjarnan",
+              "away": "paide-linnameeskond",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "paide-linnameeskond",
+              "away": "stjarnan",
+              "score": "4:0",
+              "note": "Played at Pärnu Rannastaadion, Pärnu (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "fk-auda"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-24",
+              "home": "cliftonville-fc",
+              "away": "fk-auda",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "fk-auda",
+              "away": "cliftonville-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "fc-tobol"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-st-gallen",
+              "away": "fc-tobol",
+              "score": "4:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-tobol",
+              "away": "fc-st-gallen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "fk-transinvest"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fk-mlada-boleslav",
+              "away": "fk-transinvest",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fk-transinvest",
+              "away": "fk-mlada-boleslav",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-noah",
+              "away": "sliema-wanderers-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "sliema-wanderers-fc",
+              "away": "fc-noah",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "fc-urartu"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-banik-ostrava",
+              "away": "fc-urartu",
+              "score": "5:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-urartu",
+              "away": "fc-banik-ostrava",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-zurich",
+              "away": "shelbourne-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "shelbourne-fc",
+              "away": "fc-zurich",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "kf-llapi"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "brondby-if",
+              "away": "kf-llapi",
+              "score": "6:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "kf-llapi",
+              "away": "brondby-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "fc-neman-grodno"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "cfr-cluj",
+              "away": "fc-neman-grodno",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-neman-grodno",
+              "away": "cfr-cluj",
+              "score": "0:5",
+              "neutral": true,
+              "note": "Played at Alcufer Stadion, Győr (Hungary): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "fc-ararat-armenia"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-ararat-armenia",
+              "score": "0:3"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-ararat-armenia",
+              "away": "fc-zimbru-chisinau",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-radnicki-1923",
+            "fk-mornar"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fk-radnicki-1923",
+              "away": "fk-mornar",
+              "score": "1:0",
+              "note": "Played at Dubočica Stadium, Leskovac (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "fk-mornar",
+              "away": "fk-radnicki-1923",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at DG Arena, Podgorica (home ground did not meet UEFA criteria); FK Mornar won 4:3 on penalties"
+            }
+          ],
+          "winner": "fk-mornar"
+        },
+        {
+          "clubs": [
+            "fk-sarajevo",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fk-sarajevo",
+              "away": "fc-spartak-trnava",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-07-31",
+              "home": "fc-spartak-trnava",
+              "away": "fk-sarajevo",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "sabah-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "maccabi-haifa-fc",
+              "away": "sabah-fk",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Played at Kisvárdai Stadion, Kisvárda (Hungary): Israeli clubs played home matches abroad because of the Gaza war"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "sabah-fk",
+              "away": "maccabi-haifa-fc",
+              "score": "3:6",
+              "extra_time": true,
+              "note": "Sabah FK won 3:2 on penalties"
+            }
+          ],
+          "winner": "sabah-fk"
+        },
+        {
+          "clubs": [
+            "paksi-fc",
+            "aek-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "paksi-fc",
+              "away": "aek-larnaca-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "aek-larnaca-fc",
+              "away": "paksi-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-iberia-1999",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-iberia-1999",
+              "away": "fk-partizani",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fk-partizani",
+              "away": "fc-iberia-1999",
+              "score": "0:0",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2024-07-25",
+              "home": "fc-milsami-orhei",
+              "away": "fc-astana",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-01",
+              "home": "fc-astana",
+              "away": "fc-milsami-orhei",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "fc-flora"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "vikingur-reykjavik",
+              "away": "fc-flora",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fc-flora",
+              "away": "vikingur-reykjavik",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ordabasy",
+            "fc-pyunik"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-ordabasy",
+              "away": "fc-pyunik",
+              "score": "0:1",
+              "note": "Played at Almaty Central Stadium, Almaty (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fc-pyunik",
+              "away": "fc-ordabasy",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ballkani",
+            "larne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-ballkani",
+              "away": "larne-fc",
+              "score": "0:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "larne-fc",
+              "away": "fc-ballkani",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Larne FC won 4:1 on penalties"
+            }
+          ],
+          "winner": "larne-fc"
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "fk-decic"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "hjk-helsinki",
+              "away": "fk-decic",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fk-decic",
+              "away": "hjk-helsinki",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Played at Podgorica City Stadium, Podgorica (home ground did not meet UEFA criteria); HJK Helsinki won 4:3 on penalties"
+            }
+          ],
+          "winner": "hjk-helsinki"
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fk-mlada-boleslav",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "fk-mlada-boleslav",
+              "score": "2:4",
+              "neutral": true,
+              "note": "Played at Gradski stadion, Lovech (Bulgaria): Israeli clubs played home matches abroad because of the Gaza war"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kilmarnock-fc",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "kilmarnock-fc",
+              "away": "tromso-il",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "tromso-il",
+              "away": "kilmarnock-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ararat-armenia",
+            "puskas-akademia-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-ararat-armenia",
+              "away": "puskas-akademia-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "puskas-akademia-fc",
+              "away": "fc-ararat-armenia",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-zurich",
+              "away": "vitoria-sc",
+              "score": "0:3"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "vitoria-sc",
+              "away": "fc-zurich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paksi-fc",
+            "fk-mornar"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-07",
+              "home": "paksi-fc",
+              "away": "fk-mornar",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-13",
+              "home": "fk-mornar",
+              "away": "paksi-fc",
+              "score": "2:2",
+              "note": "Played at Gradski stadion, Nikšić (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "paide-linnameeskond"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-07",
+              "home": "bk-hacken",
+              "away": "paide-linnameeskond",
+              "score": "6:1"
+            },
+            {
+              "date": "2024-08-13",
+              "home": "paide-linnameeskond",
+              "away": "bk-hacken",
+              "score": "1:1",
+              "note": "Played at Lilleküla Stadium, Tallinn (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "nk-maribor",
+              "away": "fk-vojvodina",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fk-vojvodina",
+              "away": "nk-maribor",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at TSC Arena, Bačka Topola (home ground did not meet UEFA criteria); NK Maribor won 4:2 on penalties"
+            }
+          ],
+          "winner": "nk-maribor"
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "wisla-krakow"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-spartak-trnava",
+              "away": "wisla-krakow",
+              "score": "3:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "wisla-krakow",
+              "away": "fc-spartak-trnava",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Wisła Kraków won 12:11 on penalties"
+            }
+          ],
+          "winner": "wisla-krakow"
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "sabah-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "st-patricks-athletic-fc",
+              "away": "sabah-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "sabah-fk",
+              "away": "st-patricks-athletic-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-mirren-fc",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "st-mirren-fc",
+              "away": "sk-brann",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "sk-brann",
+              "away": "st-mirren-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-cska-1948-sofia",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-cska-1948-sofia",
+              "away": "pafos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "pafos-fc",
+              "away": "fc-cska-1948-sofia",
+              "score": "4:0",
+              "extra_time": true,
+              "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-ilves",
+              "away": "djurgardens-if",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "djurgardens-if",
+              "away": "fc-ilves",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-corvinul-hunedoara",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-corvinul-hunedoara",
+              "away": "fc-astana",
+              "score": "1:2",
+              "note": "Played at Sibiu Municipal Stadium, Sibiu (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-14",
+              "home": "fc-astana",
+              "away": "fc-corvinul-hunedoara",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mfk-ruzomberok",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "mfk-ruzomberok",
+              "away": "hnk-hajduk-split",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "hnk-hajduk-split",
+              "away": "mfk-ruzomberok",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-06",
+              "home": "fc-noah",
+              "away": "aek-athens-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "aek-athens-fc",
+              "away": "fc-noah",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-auda",
+            "fc-drita"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fk-auda",
+              "away": "fc-drita",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fc-drita",
+              "away": "fk-auda",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-iberia-1999",
+            "istanbul-basaksehir-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "fc-iberia-1999",
+              "away": "istanbul-basaksehir-fk",
+              "score": "0:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "istanbul-basaksehir-fk",
+              "away": "fc-iberia-1999",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "brondby-if",
+              "away": "legia-warsaw",
+              "score": "2:3"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "legia-warsaw",
+              "away": "brondby-if",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-petah-tikva-fc",
+            "cfr-cluj"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "maccabi-petah-tikva-fc",
+              "away": "cfr-cluj",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Stadion Georgi Asparuhov, Sofia (Bulgaria): Israeli clubs played home matches abroad because of the Gaza war"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "cfr-cluj",
+              "away": "maccabi-petah-tikva-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "silkeborg-if",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "silkeborg-if",
+              "away": "kaa-gent",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "kaa-gent",
+              "away": "silkeborg-if",
+              "score": "3:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-osijek",
+            "zira-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "nk-osijek",
+              "away": "zira-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "zira-fk",
+              "away": "nk-osijek",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria); Zira FK won 2:1 on penalties"
+            }
+          ],
+          "winner": "zira-fk"
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-07",
+              "home": "fc-st-gallen",
+              "away": "slask-wroclaw",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "slask-wroclaw",
+              "away": "fc-st-gallen",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "botev-plovdiv",
+              "away": "hsk-zrinjski-mostar",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "hsk-zrinjski-mostar",
+              "away": "botev-plovdiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "videoton-fc-fehervar"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "ac-omonia",
+              "away": "videoton-fc-fehervar",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-14",
+              "home": "videoton-fc-fehervar",
+              "away": "ac-omonia",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-07",
+              "home": "fc-copenhagen",
+              "away": "fc-banik-ostrava",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fc-banik-ostrava",
+              "away": "fc-copenhagen",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Copenhagen won 2:1 on penalties"
+            }
+          ],
+          "winner": "fc-copenhagen"
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "fc-sheriff-tiraspol"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-08",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fc-sheriff-tiraspol",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-15",
+              "home": "fc-sheriff-tiraspol",
+              "away": "nk-olimpija-ljubljana",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "lincoln-red-imps-fc",
+            "larne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "lincoln-red-imps-fc",
+              "away": "larne-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Estádio Algarve, Faro–Loulé (Portugal) (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "larne-fc",
+              "away": "lincoln-red-imps-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pyunik",
+            "nk-celje"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fc-pyunik",
+              "away": "nk-celje",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "nk-celje",
+              "away": "fc-pyunik",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "ue-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "vikingur-reykjavik",
+              "away": "ue-santa-coloma",
+              "score": "5:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "ue-santa-coloma",
+              "away": "vikingur-reykjavik",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-panevezys",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fk-panevezys",
+              "away": "the-new-saints-fc",
+              "score": "0:3",
+              "note": "Played at LFF Stadium, Vilnius (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "the-new-saints-fc",
+              "away": "fk-panevezys",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ki-klaksvik",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "ki-klaksvik",
+              "away": "hjk-helsinki",
+              "score": "2:2",
+              "note": "Played at Tórsvøllur, Tórshavn (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "hjk-helsinki",
+              "away": "ki-klaksvik",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "zira-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "ac-omonia",
+              "away": "zira-fk",
+              "score": "6:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "zira-fk",
+              "away": "ac-omonia",
+              "score": "1:0",
+              "note": "Played at Dalga Arena, Baku (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-st-gallen",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fc-st-gallen",
+              "away": "trabzonspor",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "trabzonspor",
+              "away": "fc-st-gallen",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC St. Gallen won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-st-gallen"
+        },
+        {
+          "clubs": [
+            "rc-lens",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "rc-lens",
+              "away": "panathinaikos-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "panathinaikos-fc",
+              "away": "rc-lens",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bk-hacken",
+            "1-fc-heidenheim"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "bk-hacken",
+              "away": "1-fc-heidenheim",
+              "score": "1:2"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "1-fc-heidenheim",
+              "away": "bk-hacken",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "kilmarnock-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fc-copenhagen",
+              "away": "kilmarnock-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "kilmarnock-fc",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "hsk-zrinjski-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-21",
+              "home": "vitoria-sc",
+              "away": "hsk-zrinjski-mostar",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "hsk-zrinjski-mostar",
+              "away": "vitoria-sc",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "sk-brann",
+              "away": "fc-astana",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "fc-astana",
+              "away": "sk-brann",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-drita"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "legia-warsaw",
+              "away": "fc-drita",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "fc-drita",
+              "away": "legia-warsaw",
+              "score": "0:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "nk-olimpija-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "hnk-rijeka",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:1"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "nk-olimpija-ljubljana",
+              "away": "hnk-rijeka",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "puskas-akademia-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "acf-fiorentina",
+              "away": "puskas-akademia-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "puskas-akademia-fc",
+              "away": "acf-fiorentina",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "ACF Fiorentina won 5:4 on penalties"
+            }
+          ],
+          "winner": "acf-fiorentina"
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "djurgardens-if",
+              "away": "nk-maribor",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "nk-maribor",
+              "away": "djurgardens-if",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wisla-krakow",
+            "cercle-brugge-ksv"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "wisla-krakow",
+              "away": "cercle-brugge-ksv",
+              "score": "1:6"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "cercle-brugge-ksv",
+              "away": "wisla-krakow",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-mlada-boleslav",
+            "paksi-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fk-mlada-boleslav",
+              "away": "paksi-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "paksi-fc",
+              "away": "fk-mlada-boleslav",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-patricks-athletic-fc",
+            "istanbul-basaksehir-fk"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "st-patricks-athletic-fc",
+              "away": "istanbul-basaksehir-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2024-08-28",
+              "home": "istanbul-basaksehir-fk",
+              "away": "st-patricks-athletic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "chelsea-fc",
+              "away": "servette-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "servette-fc",
+              "away": "chelsea-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cfr-cluj",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "cfr-cluj",
+              "away": "pafos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "pafos-fc",
+              "away": "cfr-cluj",
+              "score": "3:0",
+              "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fk-partizan",
+              "away": "kaa-gent",
+              "score": "0:1",
+              "note": "Played behind closed doors"
+            },
+            {
+              "date": "2024-08-28",
+              "home": "kaa-gent",
+              "away": "fk-partizan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kryvbas-kryvyi-rih",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-22",
+              "home": "fc-kryvbas-kryvyi-rih",
+              "away": "real-betis",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Played at Košická futbalová aréna, Košice (Slovakia): Ukrainian clubs played home matches abroad because of the Russian invasion of Ukraine"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "real-betis",
+              "away": "fc-kryvbas-kryvyi-rih",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "mfk-ruzomberok"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-20",
+              "home": "fc-noah",
+              "away": "mfk-ruzomberok",
+              "score": "3:0"
+            },
+            {
+              "date": "2024-08-29",
+              "home": "mfk-ruzomberok",
+              "away": "fc-noah",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "league_phase",
+      "matches": [
+        {
+          "date": "2024-10-02",
+          "home": "istanbul-basaksehir-fk",
+          "away": "sk-rapid-wien",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-02",
+          "home": "vitoria-sc",
+          "away": "nk-celje",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "1-fc-heidenheim",
+          "away": "nk-olimpija-ljubljana",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "cercle-brugge-ksv",
+          "away": "fc-st-gallen",
+          "score": "6:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-astana",
+          "away": "fk-tsc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-dinamo-minsk",
+          "away": "heart-of-midlothian-fc",
+          "score": "1:2",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Sumgayit City Stadium, Sumgait (Azerbaijan): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-noah",
+          "away": "fk-mlada-boleslav",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-03",
+          "home": "legia-warsaw",
+          "away": "real-betis",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "molde-fk",
+          "away": "larne-fc",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "ac-omonia",
+          "away": "vikingur-reykjavik",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "acf-fiorentina",
+          "away": "the-new-saints-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "chelsea-fc",
+          "away": "kaa-gent",
+          "score": "4:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-copenhagen",
+          "away": "jagiellonia-bialystok",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-lugano",
+          "away": "hjk-helsinki",
+          "score": "3:0",
+          "group": null,
+          "note": "Played at Stockhorn Arena, Thun (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fc-petrocub-hincesti",
+          "away": "pafos-fc",
+          "score": "1:4",
+          "group": null,
+          "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-03",
+          "home": "fk-borac-banja-luka",
+          "away": "panathinaikos-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "linzer-ask",
+          "away": "djurgardens-if",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-03",
+          "home": "shamrock-rovers-fc",
+          "away": "apoel-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "vikingur-reykjavik",
+          "away": "cercle-brugge-ksv",
+          "score": "3:1",
+          "group": null,
+          "note": "Played at Kópavogsvöllur, Kópavogur (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-24",
+          "home": "apoel-fc",
+          "away": "fk-borac-banja-luka",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "djurgardens-if",
+          "away": "vitoria-sc",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "fc-st-gallen",
+          "away": "acf-fiorentina",
+          "score": "2:4",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "heart-of-midlothian-fc",
+          "away": "ac-omonia",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "jagiellonia-bialystok",
+          "away": "fc-petrocub-hincesti",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "kaa-gent",
+          "away": "molde-fk",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "larne-fc",
+          "away": "shamrock-rovers-fc",
+          "score": "1:4",
+          "group": null,
+          "note": "Played at Windsor Park, Belfast (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-24",
+          "home": "nk-celje",
+          "away": "istanbul-basaksehir-fk",
+          "score": "5:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "panathinaikos-fc",
+          "away": "chelsea-fc",
+          "score": "1:4",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "sk-rapid-wien",
+          "away": "fc-noah",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "fk-mlada-boleslav",
+          "away": "fc-lugano",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "fk-tsc",
+          "away": "legia-warsaw",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "hjk-helsinki",
+          "away": "fc-dinamo-minsk",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "nk-olimpija-ljubljana",
+          "away": "linzer-ask",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "pafos-fc",
+          "away": "1-fc-heidenheim",
+          "score": "0:1",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-10-24",
+          "home": "real-betis",
+          "away": "fc-copenhagen",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-10-24",
+          "home": "the-new-saints-fc",
+          "away": "fc-astana",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at New Meadow, Shrewsbury, England (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-07",
+          "home": "vikingur-reykjavik",
+          "away": "fk-borac-banja-luka",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Kópavogsvöllur, Kópavogur (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-07",
+          "home": "fc-petrocub-hincesti",
+          "away": "sk-rapid-wien",
+          "score": "0:3",
+          "group": null,
+          "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-07",
+          "home": "fk-tsc",
+          "away": "fc-lugano",
+          "score": "4:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "hjk-helsinki",
+          "away": "nk-olimpija-ljubljana",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "kaa-gent",
+          "away": "ac-omonia",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "legia-warsaw",
+          "away": "fc-dinamo-minsk",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "pafos-fc",
+          "away": "fc-astana",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-07",
+          "home": "shamrock-rovers-fc",
+          "away": "the-new-saints-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "apoel-fc",
+          "away": "acf-fiorentina",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "chelsea-fc",
+          "away": "fc-noah",
+          "score": "8:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "djurgardens-if",
+          "away": "panathinaikos-fc",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "fc-copenhagen",
+          "away": "istanbul-basaksehir-fk",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "heart-of-midlothian-fc",
+          "away": "1-fc-heidenheim",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "jagiellonia-bialystok",
+          "away": "molde-fk",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "larne-fc",
+          "away": "fc-st-gallen",
+          "score": "1:2",
+          "group": null,
+          "note": "Played at Windsor Park, Belfast (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-07",
+          "home": "linzer-ask",
+          "away": "cercle-brugge-ksv",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "real-betis",
+          "away": "nk-celje",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-07",
+          "home": "vitoria-sc",
+          "away": "fk-mlada-boleslav",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-27",
+          "home": "istanbul-basaksehir-fk",
+          "away": "fc-petrocub-hincesti",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fc-astana",
+          "away": "vitoria-sc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "1-fc-heidenheim",
+          "away": "chelsea-fc",
+          "score": "0:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "cercle-brugge-ksv",
+          "away": "heart-of-midlothian-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fc-dinamo-minsk",
+          "away": "fc-copenhagen",
+          "score": "1:2",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Sumgayit City Stadium, Sumgait (Azerbaijan): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fc-noah",
+          "away": "vikingur-reykjavik",
+          "score": "0:0",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fc-st-gallen",
+          "away": "fk-tsc",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fk-borac-banja-luka",
+          "away": "linzer-ask",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "molde-fk",
+          "away": "apoel-fc",
+          "score": "0:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "nk-celje",
+          "away": "jagiellonia-bialystok",
+          "score": "3:3",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "panathinaikos-fc",
+          "away": "hjk-helsinki",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "the-new-saints-fc",
+          "away": "djurgardens-if",
+          "score": "0:1",
+          "group": null,
+          "note": "Played at New Meadow, Shrewsbury, England (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-28",
+          "home": "acf-fiorentina",
+          "away": "pafos-fc",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fc-lugano",
+          "away": "kaa-gent",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Stockhorn Arena, Thun (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-11-28",
+          "home": "fk-mlada-boleslav",
+          "away": "real-betis",
+          "score": "2:1",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "nk-olimpija-ljubljana",
+          "away": "larne-fc",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "ac-omonia",
+          "away": "legia-warsaw",
+          "score": "0:3",
+          "group": null
+        },
+        {
+          "date": "2024-11-28",
+          "home": "sk-rapid-wien",
+          "away": "shamrock-rovers-fc",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "vikingur-reykjavik",
+          "away": "djurgardens-if",
+          "score": "1:2",
+          "group": null,
+          "note": "Played at Kópavogsvöllur, Kópavogur (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-astana",
+          "away": "chelsea-fc",
+          "score": "1:3",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "acf-fiorentina",
+          "away": "linzer-ask",
+          "score": "7:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-copenhagen",
+          "away": "heart-of-midlothian-fc",
+          "score": "2:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-dinamo-minsk",
+          "away": "larne-fc",
+          "score": "2:0",
+          "group": null,
+          "neutral": true,
+          "note": "Played at Sumgayit City Stadium, Sumgait (Azerbaijan): Belarusian clubs had to play home matches at neutral venues behind closed doors because of Belarus's involvement in the Russian invasion of Ukraine"
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-noah",
+          "away": "apoel-fc",
+          "score": "1:3",
+          "group": null,
+          "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-petrocub-hincesti",
+          "away": "real-betis",
+          "score": "0:1",
+          "group": null,
+          "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-12",
+          "home": "hjk-helsinki",
+          "away": "molde-fk",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "istanbul-basaksehir-fk",
+          "away": "1-fc-heidenheim",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "legia-warsaw",
+          "away": "fc-lugano",
+          "score": "1:2",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "nk-olimpija-ljubljana",
+          "away": "cercle-brugge-ksv",
+          "score": "1:4",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fc-st-gallen",
+          "away": "vitoria-sc",
+          "score": "1:4",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "fk-mlada-boleslav",
+          "away": "jagiellonia-bialystok",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "kaa-gent",
+          "away": "fk-tsc",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "ac-omonia",
+          "away": "sk-rapid-wien",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "pafos-fc",
+          "away": "nk-celje",
+          "score": "2:0",
+          "group": null,
+          "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-12",
+          "home": "shamrock-rovers-fc",
+          "away": "fk-borac-banja-luka",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-12",
+          "home": "the-new-saints-fc",
+          "away": "panathinaikos-fc",
+          "score": "0:2",
+          "group": null,
+          "note": "Played at New Meadow, Shrewsbury, England (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-19",
+          "home": "1-fc-heidenheim",
+          "away": "fc-st-gallen",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "apoel-fc",
+          "away": "fc-astana",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "cercle-brugge-ksv",
+          "away": "istanbul-basaksehir-fk",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "chelsea-fc",
+          "away": "shamrock-rovers-fc",
+          "score": "5:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "djurgardens-if",
+          "away": "legia-warsaw",
+          "score": "3:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "fc-lugano",
+          "away": "pafos-fc",
+          "score": "2:2",
+          "group": null,
+          "note": "Played at Stockhorn Arena, Thun (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-19",
+          "home": "fk-borac-banja-luka",
+          "away": "ac-omonia",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "fk-tsc",
+          "away": "fc-noah",
+          "score": "4:3",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "heart-of-midlothian-fc",
+          "away": "fc-petrocub-hincesti",
+          "score": "2:2",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "jagiellonia-bialystok",
+          "away": "nk-olimpija-ljubljana",
+          "score": "0:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "larne-fc",
+          "away": "kaa-gent",
+          "score": "1:0",
+          "group": null,
+          "note": "Played at Windsor Park, Belfast (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2024-12-19",
+          "home": "linzer-ask",
+          "away": "vikingur-reykjavik",
+          "score": "1:1",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "molde-fk",
+          "away": "fk-mlada-boleslav",
+          "score": "4:3",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "nk-celje",
+          "away": "the-new-saints-fc",
+          "score": "3:2",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "panathinaikos-fc",
+          "away": "fc-dinamo-minsk",
+          "score": "4:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "real-betis",
+          "away": "hjk-helsinki",
+          "score": "1:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "sk-rapid-wien",
+          "away": "fc-copenhagen",
+          "score": "3:0",
+          "group": null
+        },
+        {
+          "date": "2024-12-19",
+          "home": "vitoria-sc",
+          "away": "acf-fiorentina",
+          "score": "1:1",
+          "group": null
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "kaa-gent",
+            "real-betis"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "kaa-gent",
+              "away": "real-betis",
+              "score": "0:3"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "real-betis",
+              "away": "kaa-gent",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-tsc",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "fk-tsc",
+              "away": "jagiellonia-bialystok",
+              "score": "1:3"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "jagiellonia-bialystok",
+              "away": "fk-tsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "nk-celje",
+              "away": "apoel-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "apoel-fc",
+              "away": "nk-celje",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "vikingur-reykjavik",
+              "away": "panathinaikos-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Played at Bolt Arena, Helsinki (Finland) (no stadium in Iceland met UEFA criteria in winter)"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "panathinaikos-fc",
+              "away": "vikingur-reykjavik",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "1-fc-heidenheim"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "fc-copenhagen",
+              "away": "1-fc-heidenheim",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "1-fc-heidenheim",
+              "away": "fc-copenhagen",
+              "score": "1:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "molde-fk",
+              "away": "shamrock-rovers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "shamrock-rovers-fc",
+              "away": "molde-fk",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Molde FK won 5:4 on penalties"
+            }
+          ],
+          "winner": "molde-fk"
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "pafos-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "ac-omonia",
+              "away": "pafos-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "pafos-fc",
+              "away": "ac-omonia",
+              "score": "2:1",
+              "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-borac-banja-luka",
+            "nk-olimpija-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2025-02-13",
+              "home": "fk-borac-banja-luka",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-02-20",
+              "home": "nk-olimpija-ljubljana",
+              "away": "fk-borac-banja-luka",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "real-betis",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "real-betis",
+              "away": "vitoria-sc",
+              "score": "2:2"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "vitoria-sc",
+              "away": "real-betis",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jagiellonia-bialystok",
+            "cercle-brugge-ksv"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "jagiellonia-bialystok",
+              "away": "cercle-brugge-ksv",
+              "score": "3:0"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "cercle-brugge-ksv",
+              "away": "jagiellonia-bialystok",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "fc-lugano"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "nk-celje",
+              "away": "fc-lugano",
+              "score": "1:0"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "fc-lugano",
+              "away": "nk-celje",
+              "score": "5:4",
+              "extra_time": true,
+              "note": "Played at Stockhorn Arena, Thun (home ground did not meet UEFA criteria); NK Celje won 3:1 on penalties"
+            }
+          ],
+          "winner": "nk-celje"
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "panathinaikos-fc",
+              "away": "acf-fiorentina",
+              "score": "3:2"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "acf-fiorentina",
+              "away": "panathinaikos-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "fc-copenhagen",
+              "away": "chelsea-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "chelsea-fc",
+              "away": "fc-copenhagen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "molde-fk",
+              "away": "legia-warsaw",
+              "score": "3:2"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "legia-warsaw",
+              "away": "molde-fk",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pafos-fc",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "pafos-fc",
+              "away": "djurgardens-if",
+              "score": "1:0",
+              "note": "Played at Alphamega Stadium, Limassol (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "djurgardens-if",
+              "away": "pafos-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-borac-banja-luka",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2025-03-06",
+              "home": "fk-borac-banja-luka",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "2025-03-13",
+              "home": "sk-rapid-wien",
+              "away": "fk-borac-banja-luka",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-betis",
+            "jagiellonia-bialystok"
+          ],
+          "matches": [
+            {
+              "date": "2025-04-10",
+              "home": "real-betis",
+              "away": "jagiellonia-bialystok",
+              "score": "2:0"
+            },
+            {
+              "date": "2025-04-17",
+              "home": "jagiellonia-bialystok",
+              "away": "real-betis",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2025-04-10",
+              "home": "nk-celje",
+              "away": "acf-fiorentina",
+              "score": "1:2"
+            },
+            {
+              "date": "2025-04-17",
+              "home": "acf-fiorentina",
+              "away": "nk-celje",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-04-10",
+              "home": "legia-warsaw",
+              "away": "chelsea-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "2025-04-17",
+              "home": "chelsea-fc",
+              "away": "legia-warsaw",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "2025-04-10",
+              "home": "djurgardens-if",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            },
+            {
+              "date": "2025-04-17",
+              "home": "sk-rapid-wien",
+              "away": "djurgardens-if",
+              "score": "1:4",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-betis",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "2025-05-01",
+              "home": "real-betis",
+              "away": "acf-fiorentina",
+              "score": "2:1"
+            },
+            {
+              "date": "2025-05-08",
+              "home": "acf-fiorentina",
+              "away": "real-betis",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "djurgardens-if",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-05-01",
+              "home": "djurgardens-if",
+              "away": "chelsea-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "2025-05-08",
+              "home": "chelsea-fc",
+              "away": "djurgardens-if",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-betis",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "2025-05-28",
+              "home": "real-betis",
+              "away": "chelsea-fc",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Wrocław Stadium, Wrocław"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

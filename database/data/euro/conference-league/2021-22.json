@@ -1,0 +1,4154 @@
+{
+  "competition": {
+    "name": "UEFA Conference League",
+    "slug": "conference-league",
+    "description": "Formerly the UEFA Europa Conference League"
+  },
+  "season": "2021-22",
+  "competition_name": "UEFA Europa Conference League",
+  "points_for_win": 3,
+  "source": "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Europa_Conference_League",
+  "stages": [
+    {
+      "stage": "qualifying_1",
+      "ties": [
+        {
+          "clubs": [
+            "fci-levadia-tallinn",
+            "st-josephs-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fci-levadia-tallinn",
+              "away": "st-josephs-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "st-josephs-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-inter-turku",
+            "puskas-akademia-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fc-inter-turku",
+              "away": "puskas-akademia-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "puskas-akademia-fc",
+              "away": "fc-inter-turku",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "fk-decic"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fc-drita",
+              "away": "fk-decic",
+              "score": "2:1",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria); played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fk-decic",
+              "away": "fc-drita",
+              "score": "0:1",
+              "note": "Played at Stadion pod Goricom, Podgorica (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "valmiera-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-suduva",
+              "away": "valmiera-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "valmiera-fc",
+              "away": "fk-suduva",
+              "score": "0:0",
+              "note": "Played at Daugava Stadium, Riga (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birkirkara-fc",
+            "sp-la-fiorita"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "birkirkara-fc",
+              "away": "sp-la-fiorita",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "sp-la-fiorita",
+              "away": "birkirkara-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mons-calpe-sc",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "mons-calpe-sc",
+              "away": "fc-santa-coloma",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-santa-coloma",
+              "away": "mons-calpe-sc",
+              "score": "4:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-velez-mostar",
+              "away": "coleraine-fc",
+              "score": "2:1",
+              "note": "Played at Stadion Grbavica, Sarajevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "coleraine-fc",
+              "away": "fk-velez-mostar",
+              "score": "1:2",
+              "note": "Played at Mourneview Park, Lurgan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "fc-swift-hesperange"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "nk-domzale",
+              "away": "fc-swift-hesperange",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-swift-hesperange",
+              "away": "nk-domzale",
+              "score": "1:1",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-shkupi",
+            "kf-llapi"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "kf-shkupi",
+              "away": "kf-llapi",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "kf-llapi",
+              "away": "kf-shkupi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sp-tre-penne",
+            "fc-dinamo-batumi"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "sp-tre-penne",
+              "away": "fc-dinamo-batumi",
+              "score": "0:4"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-dinamo-batumi",
+              "away": "sp-tre-penne",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "fc-sfintul-gheorghe"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-partizani",
+              "away": "fc-sfintul-gheorghe",
+              "score": "5:2",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-sfintul-gheorghe",
+              "away": "fk-partizani",
+              "score": "2:3",
+              "note": "Played at CSR Orhei, Orhei (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fc-urartu"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "nk-maribor",
+              "away": "fc-urartu",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-urartu",
+              "away": "nk-maribor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-podgorica",
+            "kf-laci"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "fk-podgorica",
+              "away": "kf-laci",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "kf-laci",
+              "away": "fk-podgorica",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-milsami-orhei",
+            "fk-sarajevo"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fc-milsami-orhei",
+              "away": "fk-sarajevo",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fk-sarajevo",
+              "away": "fc-milsami-orhei",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-noah",
+            "kups-kuopio"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fc-noah",
+              "away": "kups-kuopio",
+              "score": "1:0",
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "kups-kuopio",
+              "away": "fc-noah",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "fc-dila-gori"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "msk-zilina",
+              "away": "fc-dila-gori",
+              "score": "5:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-dila-gori",
+              "away": "msk-zilina",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "sligo-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fh-hafnarfjardar",
+              "away": "sligo-rovers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "sligo-rovers-fc",
+              "away": "fh-hafnarfjardar",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paide-linnameeskond",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "paide-linnameeskond",
+              "away": "slask-wroclaw",
+              "score": "1:2",
+              "note": "Played at Pärnu Rannastaadion, Pärnu (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "slask-wroclaw",
+              "away": "paide-linnameeskond",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rfs",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-rfs",
+              "away": "ki-klaksvik",
+              "score": "2:3",
+              "note": "Played at Slokas Stadium, Jūrmala (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "ki-klaksvik",
+              "away": "fk-rfs",
+              "score": "2:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bala-town-fc",
+            "larne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "bala-town-fc",
+              "away": "larne-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Park Hall, Oswestry (England) (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "larne-fc",
+              "away": "bala-town-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "videoton-fc-fehervar",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "videoton-fc-fehervar",
+              "away": "fc-ararat-yerevan",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-ararat-yerevan",
+              "away": "videoton-fc-fehervar",
+              "score": "2:0",
+              "note": "Played at Gyumri City Stadium, Gyumri (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "fc-gagra"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-sutjeska-niksic",
+              "away": "fc-gagra",
+              "score": "1:0",
+              "note": "Played at DG Arena, Podgorica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-gagra",
+              "away": "fk-sutjeska-niksic",
+              "score": "1:1",
+              "note": "Played at Mikheil Meskhi Stadium, Tbilisi (Gagra, in Abkhazia, could not host matches)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sileks",
+            "fc-petrocub-hincesti"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-sileks",
+              "away": "fc-petrocub-hincesti",
+              "score": "1:1",
+              "note": "Played at Petar Miloševski Training Centre, Skopje (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-petrocub-hincesti",
+              "away": "fk-sileks",
+              "score": "1:0",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-siroki-brijeg",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "nk-siroki-brijeg",
+              "away": "kf-vllaznia",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "kf-vllaznia",
+              "away": "nk-siroki-brijeg",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stjarnan",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "stjarnan",
+              "away": "bohemian-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "bohemian-fc",
+              "away": "stjarnan",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "glentoran-fc",
+              "away": "the-new-saints-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "the-new-saints-fc",
+              "away": "glentoran-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ue-sant-julia",
+            "gzira-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "ue-sant-julia",
+              "away": "gzira-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "gzira-united-fc",
+              "away": "ue-sant-julia",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Gżira United FC won 5:3 on penalties"
+            }
+          ],
+          "winner": "gzira-united-fc"
+        },
+        {
+          "clubs": [
+            "europa-fc",
+            "fk-kauno-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "europa-fc",
+              "away": "fk-kauno-zalgiris",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fk-kauno-zalgiris",
+              "away": "europa-fc",
+              "score": "2:0",
+              "note": "Played at Sūduva Stadium, Marijampolė (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "newtown-afc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "dundalk-fc",
+              "away": "newtown-afc",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-07-13",
+              "home": "newtown-afc",
+              "away": "dundalk-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Park Hall, Oswestry (England) (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mosta-fc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-06",
+              "home": "mosta-fc",
+              "away": "fc-spartak-trnava",
+              "score": "3:2"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-spartak-trnava",
+              "away": "mosta-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepaja",
+            "fc-struga"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fk-liepaja",
+              "away": "fc-struga",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "fc-struga",
+              "away": "fk-liepaja",
+              "score": "1:4",
+              "note": "Played at Petar Miloševski Training Centre, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "racing-fc-union-luxembourg",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "racing-fc-union-luxembourg",
+              "away": "breidablik",
+              "score": "2:3"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "breidablik",
+              "away": "racing-fc-union-luxembourg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-honka",
+            "nsi-runavik"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-08",
+              "home": "fc-honka",
+              "away": "nsi-runavik",
+              "score": "0:0",
+              "note": "Played at Bolt Arena, Helsinki (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-15",
+              "home": "nsi-runavik",
+              "away": "fc-honka",
+              "score": "1:3",
+              "note": "Played at Svangaskarð, Toftir (home ground did not meet UEFA criteria)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_2",
+      "ties": [
+        {
+          "clubs": [
+            "kf-teuta",
+            "inter-club-descaldes"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "kf-teuta",
+              "away": "inter-club-descaldes",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "inter-club-descaldes",
+              "away": "kf-teuta",
+              "score": "0:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "kf-shkendija"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "riga-fc",
+              "away": "kf-shkendija",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "kf-shkendija",
+              "away": "riga-fc",
+              "score": "0:1",
+              "note": "Played at Toše Proeski Arena, Skopje (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-dinamo-tbilisi",
+              "away": "maccabi-haifa-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hb-torshavn",
+            "fk-buducnost-podgorica"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "hb-torshavn",
+              "away": "fk-buducnost-podgorica",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "fk-buducnost-podgorica",
+              "away": "hb-torshavn",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "fk-borac-banja-luka"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "linfield-fc",
+              "away": "fk-borac-banja-luka",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fk-borac-banja-luka",
+              "away": "linfield-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtyor-soligorsk",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-shakhtyor-soligorsk",
+              "away": "cs-fola-esch",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Diósgyőri Stadion, Miskolc (Hungary) because of travel restrictions; played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "cs-fola-esch",
+              "away": "fc-shakhtyor-soligorsk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-folgore-falciano",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "ss-folgore-falciano",
+              "away": "hibernians-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "2021-07-27",
+              "home": "hibernians-fc",
+              "away": "ss-folgore-falciano",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-prishtina",
+            "connahs-quay-nomads-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "fc-prishtina",
+              "away": "connahs-quay-nomads-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "connahs-quay-nomads-fc",
+              "away": "fc-prishtina",
+              "score": "4:2",
+              "note": "Played at Park Avenue, Aberystwyth (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "valur",
+              "away": "fk-bodoglimt",
+              "score": "0:3"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fk-bodoglimt",
+              "away": "valur",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-vorskla-poltava"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "kups-kuopio",
+              "away": "fc-vorskla-poltava",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-vorskla-poltava",
+              "away": "kups-kuopio",
+              "score": "2:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fcsb",
+              "away": "fc-shakhter-karagandy",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-shakhter-karagandy",
+              "away": "fcsb",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Played at Vazgen Sargsyan Republican Stadium, Yerevan (Armenia) because of COVID-19 travel restrictions; played behind closed doors because of the COVID-19 pandemic; FC Shakhter Karagandy won 5:3 on penalties"
+            }
+          ],
+          "winner": "fc-shakhter-karagandy"
+        },
+        {
+          "clubs": [
+            "fc-arda-kardzhali",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-arda-kardzhali",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "fc-arda-kardzhali",
+              "score": "4:0",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apollon-limassol-fc",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "apollon-limassol-fc",
+              "away": "msk-zilina",
+              "score": "1:3",
+              "note": "Played at AEK Arena – Georgios Karapatakis, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "msk-zilina",
+              "away": "apollon-limassol-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cukaricki",
+            "sumgayit-fk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-21",
+              "home": "fk-cukaricki",
+              "away": "sumgayit-fk",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "sumgayit-fk",
+              "away": "fk-cukaricki",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sutjeska-niksic",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-sutjeska-niksic",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:0",
+              "note": "Played at DG Arena, Podgorica (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fk-sutjeska-niksic",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-astana",
+            "aris-thessaloniki-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-astana",
+              "away": "aris-thessaloniki-fc",
+              "score": "2:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "aris-thessaloniki-fc",
+              "away": "fc-astana",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-petrocub-hincesti",
+            "sivasspor"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-petrocub-hincesti",
+              "away": "sivasspor",
+              "score": "0:1",
+              "note": "Played at Zimbru Stadium, Chișinău (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "sivasspor",
+              "away": "fc-petrocub-hincesti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "kf-vllaznia"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "ael-limassol",
+              "away": "kf-vllaznia",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "kf-vllaznia",
+              "away": "ael-limassol",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-sochi",
+            "samaxi-fk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "pfc-sochi",
+              "away": "samaxi-fk",
+              "score": "3:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "samaxi-fk",
+              "away": "pfc-sochi",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "fc-milsami-orhei"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "if-elfsborg",
+              "away": "fc-milsami-orhei",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-milsami-orhei",
+              "away": "if-elfsborg",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-rfs",
+            "puskas-akademia-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-rfs",
+              "away": "puskas-akademia-fc",
+              "score": "3:0",
+              "note": "Played at Slokas Stadium, Jūrmala (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "puskas-akademia-fc",
+              "away": "fk-rfs",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "fc-bate-borisov"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-dinamo-batumi",
+              "away": "fc-bate-borisov",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-bate-borisov",
+              "away": "fc-dinamo-batumi",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-partizan",
+              "away": "fc-dac-1904",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-dac-1904",
+              "away": "fk-partizan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundalk-fc",
+            "fci-levadia-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "dundalk-fc",
+              "away": "fci-levadia-tallinn",
+              "score": "2:2",
+              "note": "Played at Tallaght Stadium, Tallaght (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fci-levadia-tallinn",
+              "away": "dundalk-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gzira-united-fc",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "gzira-united-fc",
+              "away": "hnk-rijeka",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "hnk-rijeka",
+              "away": "gzira-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "fc-dynamo-brest"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-dynamo-brest",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-dynamo-brest",
+              "away": "fc-viktoria-plzen",
+              "score": "1:2",
+              "neutral": true,
+              "note": "Played at Technical Center-Academy of the Football Federation of Armenia, Yerevan (Armenia) because of travel restrictions; played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-kauno-zalgiris",
+            "the-new-saints-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "fk-kauno-zalgiris",
+              "away": "the-new-saints-fc",
+              "score": "0:5",
+              "note": "Played at Sūduva Stadium, Marijampolė (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "the-new-saints-fc",
+              "away": "fk-kauno-zalgiris",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-domzale",
+            "fc-honka"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-20",
+              "home": "nk-domzale",
+              "away": "fc-honka",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-honka",
+              "away": "nk-domzale",
+              "score": "0:1",
+              "note": "Played at Bolt Arena, Helsinki (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fk-liepaja"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "pfc-cska-sofia",
+              "away": "fk-liepaja",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fk-liepaja",
+              "away": "pfc-cska-sofia",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "PFC CSKA Sofia won 3:1 on penalties"
+            }
+          ],
+          "winner": "pfc-cska-sofia"
+        },
+        {
+          "clubs": [
+            "kf-shkupi",
+            "cd-santa-clara"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "kf-shkupi",
+              "away": "cd-santa-clara",
+              "score": "0:3"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "cd-santa-clara",
+              "away": "kf-shkupi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "fc-santa-coloma"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "hibernian-fc",
+              "away": "fc-santa-coloma",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-santa-coloma",
+              "away": "hibernian-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "larne-fc",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "larne-fc",
+              "away": "agf-aarhus",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "agf-aarhus",
+              "away": "larne-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "valerenga-fotball"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "kaa-gent",
+              "away": "valerenga-fotball",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "valerenga-fotball",
+              "away": "kaa-gent",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "f91-dudelange",
+              "away": "bohemian-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "bohemian-fc",
+              "away": "f91-dudelange",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-velez-mostar",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-velez-mostar",
+              "away": "aek-athens-fc",
+              "score": "2:1",
+              "note": "Played at Stadion Grbavica, Sarajevo (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "aek-athens-fc",
+              "away": "fk-velez-mostar",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FK Velež Mostar won 3:2 on penalties"
+            }
+          ],
+          "winner": "fk-velez-mostar"
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "fc-ashdod"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "qarabag-fk",
+              "away": "fc-ashdod",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-ashdod",
+              "away": "qarabag-fk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-lokomotiv-plovdiv",
+            "1-fc-slovacko"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "1-fc-slovacko",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "1-fc-slovacko",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "PFC Lokomotiv Plovdiv won 3:2 on penalties"
+            }
+          ],
+          "winner": "pfc-lokomotiv-plovdiv"
+        },
+        {
+          "clubs": [
+            "fc-ararat-yerevan",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-ararat-yerevan",
+              "away": "slask-wroclaw",
+              "score": "2:4",
+              "note": "Played at Gyumri City Stadium, Gyumri (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "slask-wroclaw",
+              "away": "fc-ararat-yerevan",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-laci",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "kf-laci",
+              "away": "cs-universitatea-craiova",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "cs-universitatea-craiova",
+              "away": "kf-laci",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-drita",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-drita",
+              "away": "feyenoord",
+              "score": "0:0",
+              "note": "Played at Fadil Vokrri Stadium, Pristina (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "feyenoord",
+              "away": "fc-drita",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-basel",
+              "away": "fk-partizani",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fk-partizani",
+              "away": "fc-basel",
+              "score": "0:2",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pogon-szczecin",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "pogon-szczecin",
+              "away": "nk-osijek",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "nk-osijek",
+              "away": "pogon-szczecin",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "breidablik"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-austria-wien",
+              "away": "breidablik",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "breidablik",
+              "away": "fk-austria-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija-ljubljana",
+            "birkirkara-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "nk-olimpija-ljubljana",
+              "away": "birkirkara-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "birkirkara-fc",
+              "away": "nk-olimpija-ljubljana",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "NK Olimpija Ljubljana won 5:4 on penalties"
+            }
+          ],
+          "winner": "nk-olimpija-ljubljana"
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "hammarby-if",
+              "away": "nk-maribor",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "nk-maribor",
+              "away": "hammarby-if",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "molde-fk",
+              "away": "servette-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "servette-fc",
+              "away": "molde-fk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-vaduz"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "ujpest-fc",
+              "away": "fc-vaduz",
+              "score": "2:1",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-vaduz",
+              "away": "ujpest-fc",
+              "score": "1:3",
+              "note": "Played at Sportpark, Eschen (home ground did not meet UEFA criteria); played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-suduva",
+            "rakow-czestochowa"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-suduva",
+              "away": "rakow-czestochowa",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "rakow-czestochowa",
+              "away": "fk-suduva",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at BBOSiR Stadium, Bielsko-Biała (home ground did not meet UEFA criteria); Raków Częstochowa won 4:3 on penalties"
+            }
+          ],
+          "winner": "rakow-czestochowa"
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "sepsi-osk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-spartak-trnava",
+              "away": "sepsi-osk",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "sepsi-osk",
+              "away": "fc-spartak-trnava",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "FC Spartak Trnava won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-spartak-trnava"
+        },
+        {
+          "clubs": [
+            "fh-hafnarfjardar",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fh-hafnarfjardar",
+              "away": "rosenborg-bk",
+              "score": "0:2"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "rosenborg-bk",
+              "away": "fh-hafnarfjardar",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-torpedo-belaz-zhodino"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fc-copenhagen",
+              "away": "fc-torpedo-belaz-zhodino",
+              "score": "4:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-torpedo-belaz-zhodino",
+              "away": "fc-copenhagen",
+              "score": "0:5",
+              "neutral": true,
+              "note": "Played at Central Stadium, Kazan (Russia) because of travel restrictions; played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-panevezys",
+            "fk-vojvodina"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "fk-panevezys",
+              "away": "fk-vojvodina",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fk-vojvodina",
+              "away": "fk-panevezys",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fc-tobol"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "hnk-hajduk-split",
+              "away": "fc-tobol",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "fc-tobol",
+              "away": "hnk-hajduk-split",
+              "score": "4:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "bk-hacken"
+          ],
+          "matches": [
+            {
+              "date": "2021-07-22",
+              "home": "aberdeen-fc",
+              "away": "bk-hacken",
+              "score": "5:1"
+            },
+            {
+              "date": "2021-07-29",
+              "home": "bk-hacken",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "qualifying_3",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "maccabi-haifa-fc",
+              "away": "hb-torshavn",
+              "score": "7:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hb-torshavn",
+              "away": "maccabi-haifa-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linfield-fc",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "linfield-fc",
+              "away": "cs-fola-esch",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "cs-fola-esch",
+              "away": "linfield-fc",
+              "score": "2:1",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "kf-teuta"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "shamrock-rovers-fc",
+              "away": "kf-teuta",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "kf-teuta",
+              "away": "shamrock-rovers-fc",
+              "score": "0:2",
+              "note": "Played at Elbasan Arena, Elbasan (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "riga-fc",
+              "away": "hibernians-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hibernians-fc",
+              "away": "riga-fc",
+              "score": "1:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-prishtina",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-prishtina",
+              "away": "fk-bodoglimt",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fk-bodoglimt",
+              "away": "fc-prishtina",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "sivasspor"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-dinamo-batumi",
+              "away": "sivasspor",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "sivasspor",
+              "away": "fc-dinamo-batumi",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-astana"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "kups-kuopio",
+              "away": "fc-astana",
+              "score": "1:1",
+              "note": "Played at Helsinki Olympic Stadium, Helsinki (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-astana",
+              "away": "kups-kuopio",
+              "score": "3:4",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-sochi",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "pfc-sochi",
+              "away": "fk-partizan",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fk-partizan",
+              "away": "pfc-sochi",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "FK Partizan won 4:2 on penalties"
+            }
+          ],
+          "winner": "fk-partizan"
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "slask-wroclaw",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "slask-wroclaw",
+              "score": "4:0",
+              "note": "Played at HaMoshava Stadium, Petah Tikva (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-santa-clara",
+            "nk-olimpija-ljubljana"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "cd-santa-clara",
+              "away": "nk-olimpija-ljubljana",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "nk-olimpija-ljubljana",
+              "away": "cd-santa-clara",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "ujpest-fc",
+              "away": "fc-basel",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-basel",
+              "away": "ujpest-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "if-elfsborg",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "if-elfsborg",
+              "away": "fk-velez-mostar",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fk-velez-mostar",
+              "away": "if-elfsborg",
+              "score": "1:4",
+              "note": "Played at Stadion Grbavica, Sarajevo (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-kolos-kovalivka",
+            "fc-shakhter-karagandy"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-kolos-kovalivka",
+              "away": "fc-shakhter-karagandy",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "fc-shakhter-karagandy",
+              "away": "fc-kolos-kovalivka",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Played at Astana Arena, Nur-Sultan (home ground did not meet UEFA criteria); played behind closed doors because of the COVID-19 pandemic; FC Shakhter Karagandy won 3:1 on penalties"
+            }
+          ],
+          "winner": "fc-shakhter-karagandy"
+        },
+        {
+          "clubs": [
+            "fc-pacos-de-ferreira",
+            "larne-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-pacos-de-ferreira",
+              "away": "larne-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "larne-fc",
+              "away": "fc-pacos-de-ferreira",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-luzern",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-luzern",
+              "away": "feyenoord",
+              "score": "0:3"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "feyenoord",
+              "away": "fc-luzern",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "fk-rfs"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "kaa-gent",
+              "away": "fk-rfs",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fk-rfs",
+              "away": "kaa-gent",
+              "score": "0:1",
+              "note": "Played at Slokas Stadium, Jūrmala (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "hibernian-fc",
+              "away": "hnk-rijeka",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hnk-rijeka",
+              "away": "hibernian-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "breidablik",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "breidablik",
+              "away": "aberdeen-fc",
+              "score": "2:3",
+              "note": "Played at Laugardalsvöllur, Reykjavík (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "aberdeen-fc",
+              "away": "breidablik",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "trabzonspor",
+              "away": "molde-fk",
+              "score": "3:3"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "molde-fk",
+              "away": "trabzonspor",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Trabzonspor won 4:3 on penalties"
+            }
+          ],
+          "winner": "trabzonspor"
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-03",
+              "home": "bohemian-fc",
+              "away": "paok-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "paok-fc",
+              "away": "bohemian-fc",
+              "score": "2:0",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "the-new-saints-fc",
+            "fc-viktoria-plzen"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "the-new-saints-fc",
+              "away": "fc-viktoria-plzen",
+              "score": "4:2",
+              "note": "Played at Cardiff City Stadium, Cardiff (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-viktoria-plzen",
+              "away": "the-new-saints-fc",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "FC Viktoria Plzeň won 4:1 on penalties"
+            }
+          ],
+          "winner": "fc-viktoria-plzen"
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "fc-rubin-kazan"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "rakow-czestochowa",
+              "away": "fc-rubin-kazan",
+              "score": "0:0",
+              "note": "Played at BBOSiR Stadium, Bielsko-Biała (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-rubin-kazan",
+              "away": "rakow-czestochowa",
+              "score": "0:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-lokomotiv-plovdiv",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "fc-copenhagen",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "fc-copenhagen",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-cukaricki",
+            "hammarby-if"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fk-cukaricki",
+              "away": "hammarby-if",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "hammarby-if",
+              "away": "fk-cukaricki",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tobol",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-tobol",
+              "away": "msk-zilina",
+              "score": "0:1",
+              "note": "Played at Astana Arena, Nur-Sultan (home ground did not meet UEFA criteria); played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "msk-zilina",
+              "away": "fc-tobol",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "nk-osijek"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "pfc-cska-sofia",
+              "away": "nk-osijek",
+              "score": "4:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "nk-osijek",
+              "away": "pfc-cska-sofia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-vojvodina",
+            "linzer-ask"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fk-vojvodina",
+              "away": "linzer-ask",
+              "score": "0:1"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "linzer-ask",
+              "away": "fk-vojvodina",
+              "score": "6:1",
+              "note": "Played at Wörthersee Stadion, Klagenfurt (the Linzer Stadion was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ael-limassol",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "ael-limassol",
+              "away": "qarabag-fk",
+              "score": "1:1",
+              "note": "Played at AEK Arena, Larnaca (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "qarabag-fk",
+              "away": "ael-limassol",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "fc-spartak-trnava",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-spartak-trnava",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "nk-domzale"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "rosenborg-bk",
+              "away": "nk-domzale",
+              "score": "6:1"
+            },
+            {
+              "date": "2021-08-10",
+              "home": "nk-domzale",
+              "away": "rosenborg-bk",
+              "score": "1:2",
+              "note": "Played at Stožice Stadium, Ljubljana (home ground did not meet UEFA criteria)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-laci",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "kf-laci",
+              "away": "rsc-anderlecht",
+              "score": "0:3"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "rsc-anderlecht",
+              "away": "kf-laci",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-05",
+              "home": "sbv-vitesse",
+              "away": "dundalk-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-08-12",
+              "home": "dundalk-fc",
+              "away": "sbv-vitesse",
+              "score": "1:2",
+              "note": "Played at Tallaght Stadium, Tallaght (home ground did not meet UEFA criteria)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "playoff",
+      "ties": [
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fk-zalgiris",
+              "away": "fk-bodoglimt",
+              "score": "2:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fk-bodoglimt",
+              "away": "fk-zalgiris",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "neftci-pfk",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "neftci-pfk",
+              "away": "maccabi-haifa-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "maccabi-haifa-fc",
+              "away": "neftci-pfk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-flora",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fc-flora",
+              "away": "shamrock-rovers-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-flora",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "riga-fc",
+            "lincoln-red-imps-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "riga-fc",
+              "away": "lincoln-red-imps-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "lincoln-red-imps-fc",
+              "away": "riga-fc",
+              "score": "3:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-fola-esch",
+            "fc-kairat"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "cs-fola-esch",
+              "away": "fc-kairat",
+              "score": "1:4",
+              "note": "Played at Stade Josy Barthel, Luxembourg City (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fc-kairat",
+              "away": "cs-fola-esch",
+              "score": "3:1",
+              "note": "Played behind closed doors because of the COVID-19 pandemic"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "qarabag-fk",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "qarabag-fk",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "aberdeen-fc",
+              "away": "qarabag-fk",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "hammarby-if"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fc-basel",
+              "away": "hammarby-if",
+              "score": "3:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "hammarby-if",
+              "away": "fc-basel",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "FC Basel won 4:3 on penalties"
+            }
+          ],
+          "winner": "fc-basel"
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fc-viktoria-plzen",
+              "away": "pfc-cska-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "pfc-cska-sofia",
+              "away": "fc-viktoria-plzen",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-pacos-de-ferreira",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fc-pacos-de-ferreira",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-pacos-de-ferreira",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-rennais-fc",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "stade-rennais-fc",
+              "away": "rosenborg-bk",
+              "score": "2:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "rosenborg-bk",
+              "away": "stade-rennais-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "rsc-anderlecht",
+              "away": "sbv-vitesse",
+              "score": "3:3"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "sbv-vitesse",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "st-johnstone-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "linzer-ask",
+              "away": "st-johnstone-fc",
+              "score": "1:1",
+              "note": "Played at Wörthersee Stadion, Klagenfurt (the Linzer Stadion was being rebuilt)"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "st-johnstone-fc",
+              "away": "linzer-ask",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhter-karagandy",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fc-shakhter-karagandy",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:2",
+              "note": "Played at Astana Arena, Nur-Sultan (home ground did not meet UEFA criteria); played behind closed doors because of the COVID-19 pandemic"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "fc-shakhter-karagandy",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "paok-fc",
+              "away": "hnk-rijeka",
+              "score": "1:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "hnk-rijeka",
+              "away": "paok-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "1-fc-union-berlin"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "kups-kuopio",
+              "away": "1-fc-union-berlin",
+              "score": "0:4",
+              "note": "Played at Helsinki Olympic Stadium, Helsinki (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "1-fc-union-berlin",
+              "away": "kups-kuopio",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "if-elfsborg"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "feyenoord",
+              "away": "if-elfsborg",
+              "score": "5:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "if-elfsborg",
+              "away": "feyenoord",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rakow-czestochowa",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "rakow-czestochowa",
+              "away": "kaa-gent",
+              "score": "1:0",
+              "note": "Played at BBOSiR Stadium, Bielsko-Biała (home ground did not meet UEFA criteria)"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "kaa-gent",
+              "away": "rakow-czestochowa",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sivasspor",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "sivasspor",
+              "away": "fc-copenhagen",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fc-copenhagen",
+              "away": "sivasspor",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cd-santa-clara",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "cd-santa-clara",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "fk-partizan",
+              "away": "cd-santa-clara",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "trabzonspor",
+              "away": "as-roma",
+              "score": "1:2"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "as-roma",
+              "away": "trabzonspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "anorthosis-famagusta-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "anorthosis-famagusta-fc",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-jablonec",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "2021-08-19",
+              "home": "fk-jablonec",
+              "away": "msk-zilina",
+              "score": "5:1"
+            },
+            {
+              "date": "2021-08-26",
+              "home": "msk-zilina",
+              "away": "fk-jablonec",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "date": "2021-09-14",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "fc-alashkert",
+          "score": "4:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "hjk-helsinki",
+          "away": "linzer-ask",
+          "score": "0:2",
+          "group": "A"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "linzer-ask",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "1:1",
+          "group": "A",
+          "note": "Played at Wörthersee Stadion, Klagenfurt (the Linzer Stadion was being rebuilt)"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fc-alashkert",
+          "away": "hjk-helsinki",
+          "score": "2:4",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "hjk-helsinki",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "0:5",
+          "group": "A"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fc-alashkert",
+          "away": "linzer-ask",
+          "score": "0:3",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "linzer-ask",
+          "away": "fc-alashkert",
+          "score": "2:0",
+          "group": "A",
+          "note": "Played at Wörthersee Stadion, Klagenfurt (the Linzer Stadion was being rebuilt)"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "hjk-helsinki",
+          "score": "3:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "hjk-helsinki",
+          "away": "fc-alashkert",
+          "score": "1:0",
+          "group": "A"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "maccabi-tel-aviv-fc",
+          "away": "linzer-ask",
+          "score": "0:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fc-alashkert",
+          "away": "maccabi-tel-aviv-fc",
+          "score": "1:1",
+          "group": "A"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "linzer-ask",
+          "away": "hjk-helsinki",
+          "score": "3:0",
+          "group": "A",
+          "note": "Played at Wörthersee Stadion, Klagenfurt (the Linzer Stadion was being rebuilt); played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fc-flora",
+          "away": "kaa-gent",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "anorthosis-famagusta-fc",
+          "away": "fk-partizan",
+          "score": "0:2",
+          "group": "B",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "kaa-gent",
+          "away": "anorthosis-famagusta-fc",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fk-partizan",
+          "away": "fc-flora",
+          "score": "2:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "anorthosis-famagusta-fc",
+          "away": "fc-flora",
+          "score": "2:2",
+          "group": "B",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fk-partizan",
+          "away": "kaa-gent",
+          "score": "0:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "fc-flora",
+          "away": "anorthosis-famagusta-fc",
+          "score": "2:2",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "kaa-gent",
+          "away": "fk-partizan",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fc-flora",
+          "away": "fk-partizan",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "anorthosis-famagusta-fc",
+          "away": "kaa-gent",
+          "score": "1:0",
+          "group": "B",
+          "note": "Played at GSP Stadium, Nicosia (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fk-partizan",
+          "away": "anorthosis-famagusta-fc",
+          "score": "1:1",
+          "group": "B"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "kaa-gent",
+          "away": "fc-flora",
+          "score": "1:0",
+          "group": "B"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "as-roma",
+          "away": "pfc-cska-sofia",
+          "score": "5:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fk-bodoglimt",
+          "away": "fc-zorya-luhansk",
+          "score": "3:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fc-zorya-luhansk",
+          "away": "as-roma",
+          "score": "0:3",
+          "group": "C",
+          "note": "Played at Slavutych-Arena, Zaporizhzhia (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "pfc-cska-sofia",
+          "away": "fk-bodoglimt",
+          "score": "0:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fk-bodoglimt",
+          "away": "as-roma",
+          "score": "6:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "pfc-cska-sofia",
+          "away": "fc-zorya-luhansk",
+          "score": "0:1",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "fc-zorya-luhansk",
+          "away": "pfc-cska-sofia",
+          "score": "2:0",
+          "group": "C",
+          "note": "Played at Slavutych-Arena, Zaporizhzhia (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "as-roma",
+          "away": "fk-bodoglimt",
+          "score": "2:2",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fk-bodoglimt",
+          "away": "pfc-cska-sofia",
+          "score": "2:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "as-roma",
+          "away": "fc-zorya-luhansk",
+          "score": "4:0",
+          "group": "C"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fc-zorya-luhansk",
+          "away": "fk-bodoglimt",
+          "score": "1:1",
+          "group": "C",
+          "note": "Played at Slavutych-Arena, Zaporizhzhia (clubs from the Donbas could not play at home because of the war)"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "pfc-cska-sofia",
+          "away": "as-roma",
+          "score": "2:3",
+          "group": "C"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fk-jablonec",
+          "away": "cfr-cluj",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "randers-fc",
+          "away": "az-alkmaar",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "az-alkmaar",
+          "away": "fk-jablonec",
+          "score": "1:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "cfr-cluj",
+          "away": "randers-fc",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fk-jablonec",
+          "away": "randers-fc",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "cfr-cluj",
+          "away": "az-alkmaar",
+          "score": "0:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "az-alkmaar",
+          "away": "cfr-cluj",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "randers-fc",
+          "away": "fk-jablonec",
+          "score": "2:2",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fk-jablonec",
+          "away": "az-alkmaar",
+          "score": "1:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "randers-fc",
+          "away": "cfr-cluj",
+          "score": "2:1",
+          "group": "D"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "az-alkmaar",
+          "away": "randers-fc",
+          "score": "1:0",
+          "group": "D",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "cfr-cluj",
+          "away": "fk-jablonec",
+          "score": "2:0",
+          "group": "D"
+        },
+        {
+          "date": "2021-09-14",
+          "home": "maccabi-haifa-fc",
+          "away": "feyenoord",
+          "score": "0:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "sk-slavia-prague",
+          "away": "1-fc-union-berlin",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "feyenoord",
+          "away": "sk-slavia-prague",
+          "score": "2:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "1-fc-union-berlin",
+          "away": "maccabi-haifa-fc",
+          "score": "3:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "maccabi-haifa-fc",
+          "away": "sk-slavia-prague",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "feyenoord",
+          "away": "1-fc-union-berlin",
+          "score": "3:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "sk-slavia-prague",
+          "away": "maccabi-haifa-fc",
+          "score": "1:0",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "1-fc-union-berlin",
+          "away": "feyenoord",
+          "score": "1:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "maccabi-haifa-fc",
+          "away": "1-fc-union-berlin",
+          "score": "0:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "sk-slavia-prague",
+          "away": "feyenoord",
+          "score": "2:2",
+          "group": "E"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "feyenoord",
+          "away": "maccabi-haifa-fc",
+          "score": "2:1",
+          "group": "E",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "1-fc-union-berlin",
+          "away": "sk-slavia-prague",
+          "score": "1:1",
+          "group": "E"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "sk-slovan-bratislava",
+          "away": "fc-copenhagen",
+          "score": "1:3",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "lincoln-red-imps-fc",
+          "away": "paok-fc",
+          "score": "0:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fc-copenhagen",
+          "away": "lincoln-red-imps-fc",
+          "score": "3:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "paok-fc",
+          "away": "sk-slovan-bratislava",
+          "score": "1:1",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fc-copenhagen",
+          "away": "paok-fc",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "sk-slovan-bratislava",
+          "away": "lincoln-red-imps-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "lincoln-red-imps-fc",
+          "away": "sk-slovan-bratislava",
+          "score": "1:4",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "paok-fc",
+          "away": "fc-copenhagen",
+          "score": "1:2",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "sk-slovan-bratislava",
+          "away": "paok-fc",
+          "score": "0:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "lincoln-red-imps-fc",
+          "away": "fc-copenhagen",
+          "score": "0:4",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "paok-fc",
+          "away": "lincoln-red-imps-fc",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fc-copenhagen",
+          "away": "sk-slovan-bratislava",
+          "score": "2:0",
+          "group": "F"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "stade-rennais-fc",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "ns-mura",
+          "away": "sbv-vitesse",
+          "score": "0:2",
+          "group": "G",
+          "note": "Played at Ljudski vrt, Maribor (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "tottenham-hotspur-fc",
+          "away": "ns-mura",
+          "score": "5:1",
+          "group": "G"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "sbv-vitesse",
+          "away": "stade-rennais-fc",
+          "score": "1:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "ns-mura",
+          "away": "stade-rennais-fc",
+          "score": "1:2",
+          "group": "G",
+          "note": "Played at Ljudski vrt, Maribor (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "sbv-vitesse",
+          "away": "tottenham-hotspur-fc",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "stade-rennais-fc",
+          "away": "ns-mura",
+          "score": "1:0",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "tottenham-hotspur-fc",
+          "away": "sbv-vitesse",
+          "score": "3:2",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "stade-rennais-fc",
+          "away": "sbv-vitesse",
+          "score": "3:3",
+          "group": "G"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "ns-mura",
+          "away": "tottenham-hotspur-fc",
+          "score": "2:1",
+          "group": "G",
+          "note": "Played at Ljudski vrt, Maribor (home ground did not meet UEFA criteria)"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "tottenham-hotspur-fc",
+          "away": "stade-rennais-fc",
+          "score": "0:3",
+          "group": "G",
+          "note": "Awarded 0:3 to Rennes: the match was not played because of COVID-19 cases in the Tottenham squad"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "sbv-vitesse",
+          "away": "ns-mura",
+          "score": "3:1",
+          "group": "G",
+          "note": "Played behind closed doors because of the COVID-19 pandemic"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "fc-kairat",
+          "away": "ac-omonia",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-16",
+          "home": "qarabag-fk",
+          "away": "fc-basel",
+          "score": "0:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "fc-basel",
+          "away": "fc-kairat",
+          "score": "4:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-09-30",
+          "home": "ac-omonia",
+          "away": "qarabag-fk",
+          "score": "1:4",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "qarabag-fk",
+          "away": "fc-kairat",
+          "score": "2:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-10-21",
+          "home": "fc-basel",
+          "away": "ac-omonia",
+          "score": "3:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "fc-kairat",
+          "away": "qarabag-fk",
+          "score": "1:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-04",
+          "home": "ac-omonia",
+          "away": "fc-basel",
+          "score": "1:1",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "fc-kairat",
+          "away": "fc-basel",
+          "score": "2:3",
+          "group": "H"
+        },
+        {
+          "date": "2021-11-25",
+          "home": "qarabag-fk",
+          "away": "ac-omonia",
+          "score": "2:2",
+          "group": "H"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "fc-basel",
+          "away": "qarabag-fk",
+          "score": "3:0",
+          "group": "H"
+        },
+        {
+          "date": "2021-12-09",
+          "home": "ac-omonia",
+          "away": "fc-kairat",
+          "score": "0:0",
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "stage": "knockout_playoff",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "qarabag-fk"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "olympique-de-marseille",
+              "away": "qarabag-fk",
+              "score": "3:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "qarabag-fk",
+              "away": "olympique-de-marseille",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "psv-eindhoven",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "psv-eindhoven",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fenerbahce-sk",
+              "away": "sk-slavia-prague",
+              "score": "2:3"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "sk-slavia-prague",
+              "away": "fenerbahce-sk",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-midtjylland",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "fc-midtjylland",
+              "away": "paok-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "paok-fc",
+              "away": "fc-midtjylland",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "PAOK FC won 5:3 on penalties"
+            }
+          ],
+          "winner": "paok-fc"
+        },
+        {
+          "clubs": [
+            "leicester-city-fc",
+            "randers-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "leicester-city-fc",
+              "away": "randers-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "randers-fc",
+              "away": "leicester-city-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fk-bodoglimt"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "celtic-fc",
+              "away": "fk-bodoglimt",
+              "score": "1:3"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "fk-bodoglimt",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "ac-sparta-prague",
+              "away": "fk-partizan",
+              "score": "0:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "fk-partizan",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "sbv-vitesse"
+          ],
+          "matches": [
+            {
+              "date": "2022-02-17",
+              "home": "sk-rapid-wien",
+              "away": "sbv-vitesse",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-02-24",
+              "home": "sbv-vitesse",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_of_16",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "fc-basel"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "olympique-de-marseille",
+              "away": "fc-basel",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "fc-basel",
+              "away": "olympique-de-marseille",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leicester-city-fc",
+            "stade-rennais-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "leicester-city-fc",
+              "away": "stade-rennais-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "stade-rennais-fc",
+              "away": "leicester-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "paok-fc",
+              "away": "kaa-gent",
+              "score": "1:0"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "kaa-gent",
+              "away": "paok-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sbv-vitesse",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "sbv-vitesse",
+              "away": "as-roma",
+              "score": "0:1"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "as-roma",
+              "away": "sbv-vitesse",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "psv-eindhoven",
+              "away": "fc-copenhagen",
+              "score": "4:4"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "fc-copenhagen",
+              "away": "psv-eindhoven",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "linzer-ask"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "sk-slavia-prague",
+              "away": "linzer-ask",
+              "score": "4:1"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "linzer-ask",
+              "away": "sk-slavia-prague",
+              "score": "4:3",
+              "note": "Played at NV Arena, Sankt Pölten (the Linzer Stadion was being rebuilt)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "fk-bodoglimt",
+              "away": "az-alkmaar",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "az-alkmaar",
+              "away": "fk-bodoglimt",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2022-03-10",
+              "home": "fk-partizan",
+              "away": "feyenoord",
+              "score": "2:5"
+            },
+            {
+              "date": "2022-03-17",
+              "home": "feyenoord",
+              "away": "fk-partizan",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "fk-bodoglimt",
+              "away": "as-roma",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "as-roma",
+              "away": "fk-bodoglimt",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "sk-slavia-prague"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "feyenoord",
+              "away": "sk-slavia-prague",
+              "score": "3:3"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "sk-slavia-prague",
+              "away": "feyenoord",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "olympique-de-marseille",
+              "away": "paok-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "paok-fc",
+              "away": "olympique-de-marseille",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leicester-city-fc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-07",
+              "home": "leicester-city-fc",
+              "away": "psv-eindhoven",
+              "score": "0:0"
+            },
+            {
+              "date": "2022-04-14",
+              "home": "psv-eindhoven",
+              "away": "leicester-city-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "leicester-city-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-28",
+              "home": "leicester-city-fc",
+              "away": "as-roma",
+              "score": "1:1"
+            },
+            {
+              "date": "2022-05-05",
+              "home": "as-roma",
+              "away": "leicester-city-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "2022-04-28",
+              "home": "feyenoord",
+              "away": "olympique-de-marseille",
+              "score": "3:2"
+            },
+            {
+              "date": "2022-05-05",
+              "home": "olympique-de-marseille",
+              "away": "feyenoord",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "as-roma",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "2022-05-25",
+              "home": "as-roma",
+              "away": "feyenoord",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Arena Kombëtare, Tirana"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
