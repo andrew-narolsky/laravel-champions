@@ -1,0 +1,215 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1960-61",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "ruda-hvezda-brno"
+          ],
+          "matches": [
+            {
+              "date": "1960-08-01",
+              "home": "1-fc-frankfurt",
+              "away": "ruda-hvezda-brno",
+              "score": "2:1",
+              "note": "Played at Stadion der Freundschaft, Frankfurt (Oder)"
+            },
+            {
+              "date": "1960-08-11",
+              "home": "ruda-hvezda-brno",
+              "away": "1-fc-frankfurt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-28",
+              "home": "rangers-fc",
+              "away": "ferencvarosi-tc",
+              "score": "4:2"
+            },
+            {
+              "date": "1960-10-12",
+              "home": "ferencvarosi-tc",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ruda-hvezda-brno",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-28",
+              "home": "ruda-hvezda-brno",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            },
+            {
+              "date": "1960-11-30",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ruda-hvezda-brno",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-12",
+              "home": "fk-austria-wien",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1960-11-30",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "fk-austria-wien",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-15",
+              "home": "borussia-monchengladbach",
+              "away": "rangers-fc",
+              "score": "0:3",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            },
+            {
+              "date": "1960-11-30",
+              "home": "rangers-fc",
+              "away": "borussia-monchengladbach",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-luzern",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-23",
+              "home": "fc-luzern",
+              "away": "acf-fiorentina",
+              "score": "0:3"
+            },
+            {
+              "date": "1960-12-28",
+              "home": "acf-fiorentina",
+              "away": "fc-luzern",
+              "score": "6:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-22",
+              "home": "acf-fiorentina",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0"
+            },
+            {
+              "date": "1961-04-12",
+              "home": "gnk-dinamo-zagreb",
+              "away": "acf-fiorentina",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "wolverhampton-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-29",
+              "home": "rangers-fc",
+              "away": "wolverhampton-wanderers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1961-04-19",
+              "home": "wolverhampton-wanderers-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rangers-fc",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1961-05-17",
+              "home": "rangers-fc",
+              "away": "acf-fiorentina",
+              "score": "0:2"
+            },
+            {
+              "date": "1961-05-27",
+              "home": "acf-fiorentina",
+              "away": "rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

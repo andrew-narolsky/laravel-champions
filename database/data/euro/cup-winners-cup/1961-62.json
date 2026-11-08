@@ -1,0 +1,490 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1961-62",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-16",
+              "home": "swansea-city-afc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:2",
+              "neutral": true,
+              "note": "Played at Linzer Stadion, Linz (Austria): the East German club was refused visas"
+            },
+            {
+              "date": "1961-10-18",
+              "home": "fc-carl-zeiss-jena",
+              "away": "swansea-city-afc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-la-chaux-de-fonds",
+            "leixoes-sc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-07",
+              "home": "fc-la-chaux-de-fonds",
+              "away": "leixoes-sc",
+              "score": "6:2"
+            },
+            {
+              "date": "1961-10-05",
+              "home": "leixoes-sc",
+              "away": "fc-la-chaux-de-fonds",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "leicester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "glenavon-fc",
+              "away": "leicester-city-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "leicester-city-fc",
+              "away": "glenavon-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-sedan-ardennes",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "cs-sedan-ardennes",
+              "away": "atletico-madrid",
+              "score": "2:3"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "atletico-madrid",
+              "away": "cs-sedan-ardennes",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-spartak-varna"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "sk-rapid-wien",
+              "away": "fc-spartak-varna",
+              "score": "0:0"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "fc-spartak-varna",
+              "away": "sk-rapid-wien",
+              "score": "2:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-17",
+              "home": "floriana-fc",
+              "away": "ujpest-fc",
+              "score": "2:5"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "ujpest-fc",
+              "away": "floriana-fc",
+              "score": "10:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "st-patricks-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-12",
+              "home": "dunfermline-athletic-fc",
+              "away": "st-patricks-athletic-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "st-patricks-athletic-fc",
+              "away": "dunfermline-athletic-fc",
+              "score": "0:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "alliance-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "1961-12-17",
+              "home": "fc-carl-zeiss-jena",
+              "away": "alliance-dudelange",
+              "score": "7:0"
+            },
+            {
+              "date": "1961-12-19",
+              "home": "alliance-dudelange",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:2",
+              "note": "Played at Georgij-Dimitroff-Stadion, Erfurt (East Germany): both legs were played in East Germany"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leixoes-sc",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-23",
+              "home": "leixoes-sc",
+              "away": "fc-progresul-bucuresti",
+              "score": "1:1",
+              "note": "Played at Estádio José Alvalade, Lisbon"
+            },
+            {
+              "date": "1961-11-30",
+              "home": "fc-progresul-bucuresti",
+              "away": "leixoes-sc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "agf-aarhus"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-25",
+              "home": "sv-werder-bremen",
+              "away": "agf-aarhus",
+              "score": "2:0"
+            },
+            {
+              "date": "1961-11-01",
+              "home": "agf-aarhus",
+              "away": "sv-werder-bremen",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leicester-city-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-25",
+              "home": "leicester-city-fc",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1961-11-15",
+              "home": "atletico-madrid",
+              "away": "leicester-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "msk-zilina"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-22",
+              "home": "olympiacos-fc",
+              "away": "msk-zilina",
+              "score": "2:3"
+            },
+            {
+              "date": "1961-11-30",
+              "home": "msk-zilina",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-25",
+              "home": "acf-fiorentina",
+              "away": "sk-rapid-wien",
+              "score": "3:1"
+            },
+            {
+              "date": "1961-11-22",
+              "home": "sk-rapid-wien",
+              "away": "acf-fiorentina",
+              "score": "2:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-02",
+              "home": "afc-ajax",
+              "away": "ujpest-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1961-11-29",
+              "home": "ujpest-fc",
+              "away": "afc-ajax",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "fk-vardar"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-25",
+              "home": "dunfermline-athletic-fc",
+              "away": "fk-vardar",
+              "score": "5:0"
+            },
+            {
+              "date": "1961-11-08",
+              "home": "fk-vardar",
+              "away": "dunfermline-athletic-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "leixoes-sc"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-22",
+              "home": "fc-carl-zeiss-jena",
+              "away": "leixoes-sc",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-02-25",
+              "home": "leixoes-sc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:3",
+              "note": "Played at Stadion der Freundschaft, Gera (East Germany): both legs were played in East Germany"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1962-01-17",
+              "home": "sv-werder-bremen",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-02-28",
+              "home": "atletico-madrid",
+              "away": "sv-werder-bremen",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "msk-zilina",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-21",
+              "home": "msk-zilina",
+              "away": "acf-fiorentina",
+              "score": "3:2"
+            },
+            {
+              "date": "1962-02-27",
+              "home": "acf-fiorentina",
+              "away": "msk-zilina",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "dunfermline-athletic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-13",
+              "home": "ujpest-fc",
+              "away": "dunfermline-athletic-fc",
+              "score": "4:3"
+            },
+            {
+              "date": "1962-02-20",
+              "home": "dunfermline-athletic-fc",
+              "away": "ujpest-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1962-03-28",
+              "home": "fc-carl-zeiss-jena",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            },
+            {
+              "date": "1962-04-11",
+              "home": "atletico-madrid",
+              "away": "fc-carl-zeiss-jena",
+              "score": "4:0",
+              "neutral": true,
+              "note": "Played at Malmö Stadion, Malmö (Sweden): the East German club was refused visas"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-03-21",
+              "home": "acf-fiorentina",
+              "away": "ujpest-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1962-04-11",
+              "home": "ujpest-fc",
+              "away": "acf-fiorentina",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1962-05-10",
+              "home": "atletico-madrid",
+              "away": "acf-fiorentina",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Hampden Park, Glasgow"
+            },
+            {
+              "date": "1962-09-05",
+              "home": "atletico-madrid",
+              "away": "acf-fiorentina",
+              "score": "3:0",
+              "neutral": true,
+              "note": "Replay, Neckarstadion, Stuttgart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

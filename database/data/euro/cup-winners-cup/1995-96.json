@@ -1,0 +1,997 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1995-96",
+  "competition_name": "UEFA Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "cs-grevenmacher",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-09",
+              "home": "cs-grevenmacher",
+              "away": "kr-reykjavik",
+              "score": "3:2"
+            },
+            {
+              "date": "1995-08-22",
+              "home": "kr-reykjavik",
+              "away": "cs-grevenmacher",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-tiligul-tiras-tiraspol",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "cs-tiligul-tiras-tiraspol",
+              "away": "fc-sion",
+              "score": "0:0",
+              "note": "Played at Stadionul Republican, Chișinău"
+            },
+            {
+              "date": "1995-08-23",
+              "home": "fc-sion",
+              "away": "cs-tiligul-tiras-tiraspol",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vac-fc",
+            "fk-sileks"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "vac-fc",
+              "away": "fk-sileks",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fk-sileks",
+              "away": "vac-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tps-turku",
+            "kf-teuta"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "tps-turku",
+              "away": "kf-teuta",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "kf-teuta",
+              "away": "tps-turku",
+              "score": "3:0",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "fc-hradec-kralove"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fc-vaduz",
+              "away": "fc-hradec-kralove",
+              "score": "0:5",
+              "note": "Played at Sportpark Eschen-Mauren, Eschen"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-hradec-kralove",
+              "away": "fc-vaduz",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "neftci-pfk"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "apoel-fc",
+              "away": "neftci-pfk",
+              "score": "3:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "neftci-pfk",
+              "away": "apoel-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wrexham-afc",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "wrexham-afc",
+              "away": "fc-petrolul-ploiesti",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-petrolul-ploiesti",
+              "away": "wrexham-afc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fk-inter-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "valletta-fc",
+              "away": "fk-inter-bratislava",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fk-inter-bratislava",
+              "away": "valletta-fc",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fc-shakhtar-donetsk",
+              "away": "linfield-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "linfield-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "nk-mura"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fk-zalgiris",
+              "away": "nk-mura",
+              "score": "2:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "nk-mura",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "gks-katowice",
+              "away": "fc-ararat-yerevan",
+              "score": "2:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-ararat-yerevan",
+              "away": "gks-katowice",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "FC Ararat Yerevan won 5:4 on penalties"
+            }
+          ],
+          "winner": "fc-ararat-yerevan"
+        },
+        {
+          "clubs": [
+            "fk-obilic",
+            "fc-dinamo-batumi"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fk-obilic",
+              "away": "fc-dinamo-batumi",
+              "score": "0:1"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-dinamo-batumi",
+              "away": "fk-obilic",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "derry-city-fc",
+            "fc-lokomotiv-1929-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "derry-city-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "derry-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "ki-klaksvik"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "maccabi-haifa-fc",
+              "away": "ki-klaksvik",
+              "score": "4:0"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "ki-klaksvik",
+              "away": "maccabi-haifa-fc",
+              "score": "3:2",
+              "note": "Played at Svangaskarð, Toftir"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-93-minsk",
+            "molde-fk"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fc-dinamo-93-minsk",
+              "away": "molde-fk",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "molde-fk",
+              "away": "fc-dinamo-93-minsk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "fc-lantana-tallinn"
+          ],
+          "matches": [
+            {
+              "date": "1995-08-10",
+              "home": "fk-liepajas-metalurgs",
+              "away": "fc-lantana-tallinn",
+              "score": "3:0",
+              "note": "Played at Daugava Stadium, Riga; finished 1:2, awarded 3:0 to DAG Liepāja because Lantana Tallinn fielded an ineligible player"
+            },
+            {
+              "date": "1995-08-24",
+              "home": "fc-lantana-tallinn",
+              "away": "fk-liepajas-metalurgs",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fk-zalgiris",
+              "away": "trabzonspor",
+              "score": "2:2"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "trabzonspor",
+              "away": "fk-zalgiris",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "apoel-fc",
+              "away": "deportivo-de-la-coruna",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "deportivo-de-la-coruna",
+              "away": "apoel-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-inter-bratislava",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fk-inter-bratislava",
+              "away": "real-zaragoza",
+              "score": "0:2"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "real-zaragoza",
+              "away": "fk-inter-bratislava",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "club-brugge-kv",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fc-shakhtar-donetsk",
+              "away": "club-brugge-kv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "halmstads-bk"
+          ],
+          "winner": "halmstads-bk",
+          "note": "Halmstad won on away goals",
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "halmstads-bk",
+              "score": "3:1"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "halmstads-bk",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-teuta",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "kf-teuta",
+              "away": "parma-calcio",
+              "score": "0:2",
+              "note": "Played at Qemal Stafa Stadium, Tirana"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "parma-calcio",
+              "away": "kf-teuta",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "molde-fk",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "molde-fk",
+              "away": "paris-saint-germain-fc",
+              "score": "2:3",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "paris-saint-germain-fc",
+              "away": "molde-fk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fc-dinamo-batumi",
+              "away": "celtic-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "celtic-fc",
+              "away": "fc-dinamo-batumi",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "fk-sileks"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "borussia-monchengladbach",
+              "away": "fk-sileks",
+              "score": "3:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fk-sileks",
+              "away": "borussia-monchengladbach",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "aek-athens-fc",
+              "away": "fc-sion",
+              "score": "2:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fc-sion",
+              "away": "aek-athens-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "kr-reykjavik",
+              "away": "everton-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "everton-fc",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-liepajas-metalurgs",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fk-liepajas-metalurgs",
+              "away": "feyenoord",
+              "score": "0:7"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "feyenoord",
+              "away": "fk-liepajas-metalurgs",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fc-dynamo-moscow",
+              "away": "fc-ararat-yerevan",
+              "score": "3:1"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fc-ararat-yerevan",
+              "away": "fc-dynamo-moscow",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-hradec-kralove",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "fc-hradec-kralove",
+              "away": "fc-copenhagen",
+              "score": "5:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fc-copenhagen",
+              "away": "fc-hradec-kralove",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "sporting-cp",
+              "away": "maccabi-haifa-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "maccabi-haifa-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1995-09-14",
+              "home": "sk-rapid-wien",
+              "away": "fc-petrolul-ploiesti",
+              "score": "3:1"
+            },
+            {
+              "date": "1995-09-28",
+              "home": "fc-petrolul-ploiesti",
+              "away": "sk-rapid-wien",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "trabzonspor",
+            "deportivo-de-la-coruna"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "trabzonspor",
+              "away": "deportivo-de-la-coruna",
+              "score": "0:1"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "deportivo-de-la-coruna",
+              "away": "trabzonspor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-zaragoza",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "real-zaragoza",
+              "away": "club-brugge-kv",
+              "score": "2:1"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "club-brugge-kv",
+              "away": "real-zaragoza",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "halmstads-bk",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "halmstads-bk",
+              "away": "parma-calcio",
+              "score": "3:0",
+              "note": "Played at Gamla Ullevi, Gothenburg"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "parma-calcio",
+              "away": "halmstads-bk",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "paris-saint-germain-fc",
+              "away": "celtic-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "celtic-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "aek-athens-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "borussia-monchengladbach",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "aek-athens-fc",
+              "away": "borussia-monchengladbach",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "everton-fc",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "everton-fc",
+              "away": "feyenoord",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "feyenoord",
+              "away": "everton-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "fc-hradec-kralove"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "fc-dynamo-moscow",
+              "away": "fc-hradec-kralove",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "fc-hradec-kralove",
+              "away": "fc-dynamo-moscow",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Played at Stadion Letná, Prague; FC Dynamo Moscow won 3:1 on penalties"
+            }
+          ],
+          "winner": "fc-dynamo-moscow"
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1995-10-19",
+              "home": "sporting-cp",
+              "away": "sk-rapid-wien",
+              "score": "2:0"
+            },
+            {
+              "date": "1995-11-02",
+              "home": "sk-rapid-wien",
+              "away": "sporting-cp",
+              "score": "4:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "deportivo-de-la-coruna",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-07",
+              "home": "deportivo-de-la-coruna",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-03-21",
+              "home": "real-zaragoza",
+              "away": "deportivo-de-la-coruna",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-07",
+              "home": "parma-calcio",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1996-03-21",
+              "home": "paris-saint-germain-fc",
+              "away": "parma-calcio",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-07",
+              "home": "borussia-monchengladbach",
+              "away": "feyenoord",
+              "score": "2:2",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            },
+            {
+              "date": "1996-03-21",
+              "home": "feyenoord",
+              "away": "borussia-monchengladbach",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1996-03-07",
+              "home": "fc-dynamo-moscow",
+              "away": "sk-rapid-wien",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-03-21",
+              "home": "sk-rapid-wien",
+              "away": "fc-dynamo-moscow",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "deportivo-de-la-coruna",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1996-04-04",
+              "home": "deportivo-de-la-coruna",
+              "away": "paris-saint-germain-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1996-04-18",
+              "home": "paris-saint-germain-fc",
+              "away": "deportivo-de-la-coruna",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1996-04-04",
+              "home": "feyenoord",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-04-18",
+              "home": "sk-rapid-wien",
+              "away": "feyenoord",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1996-05-08",
+              "home": "paris-saint-germain-fc",
+              "away": "sk-rapid-wien",
+              "score": "1:0",
+              "neutral": true,
+              "note": "King Baudouin Stadium, Brussels"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

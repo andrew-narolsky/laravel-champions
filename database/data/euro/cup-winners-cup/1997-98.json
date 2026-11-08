@@ -1,0 +1,972 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1997-98",
+  "competition_name": "UEFA Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "hb-torshavn",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-13",
+              "home": "hb-torshavn",
+              "away": "apoel-fc",
+              "score": "1:1",
+              "note": "Played at Svangaskarð, Toftir"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "apoel-fc",
+              "away": "hb-torshavn",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "ibv-vestmannaeyjar"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "hibernians-fc",
+              "away": "ibv-vestmannaeyjar",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-08-27",
+              "home": "ibv-vestmannaeyjar",
+              "away": "hibernians-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "glenavon-fc",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "legia-warsaw",
+              "away": "glenavon-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cwmbran-town-afc",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "cwmbran-town-afc",
+              "away": "fc-progresul-bucuresti",
+              "score": "2:5"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "fc-progresul-bucuresti",
+              "away": "cwmbran-town-afc",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "hapoel-beer-sheva-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "fk-zalgiris",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "fk-zalgiris",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zimbru-chisinau",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "fc-zimbru-chisinau",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-zimbru-chisinau",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dinaburg-fc",
+            "kapaz-pfk"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "dinaburg-fc",
+              "away": "kapaz-pfk",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "kapaz-pfk",
+              "away": "dinaburg-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kilmarnock-fc",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "kilmarnock-fc",
+              "away": "shelbourne-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "shelbourne-fc",
+              "away": "kilmarnock-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hjk-helsinki",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "hjk-helsinki",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "red-star-belgrade",
+              "away": "hjk-helsinki",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-sloga-jugomagnat",
+            "nk-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "fk-sloga-jugomagnat",
+              "away": "nk-zagreb",
+              "score": "1:2"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "nk-zagreb",
+              "away": "fk-sloga-jugomagnat",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-balzers",
+            "budapesti-vsc"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "fc-balzers",
+              "away": "budapesti-vsc",
+              "score": "1:3"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "budapesti-vsc",
+              "away": "fc-balzers",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jk-tallinna-sadam",
+            "fc-belshina-bobruisk"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "jk-tallinna-sadam",
+              "away": "fc-belshina-bobruisk",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "fc-belshina-bobruisk",
+              "away": "jk-tallinna-sadam",
+              "score": "4:1",
+              "note": "Played at Dinamo Stadium, Minsk"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-primorje",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "nk-primorje",
+              "away": "union-luxembourg",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "union-luxembourg",
+              "away": "nk-primorje",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-14",
+              "home": "pfc-levski-sofia",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "sk-slovan-bratislava",
+              "away": "pfc-levski-sofia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-batumi",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1997-08-15",
+              "home": "fc-dinamo-batumi",
+              "away": "fc-ararat-yerevan",
+              "score": "0:3",
+              "note": "Finished 4:2; awarded 3:0 to Ararat Yerevan because Dinamo Batumi fielded an ineligible player"
+            },
+            {
+              "date": "1997-08-28",
+              "home": "fc-ararat-yerevan",
+              "away": "fc-dinamo-batumi",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "kocaelispor",
+            "fc-progresul-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "kocaelispor",
+              "away": "fc-progresul-bucuresti",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "fc-progresul-bucuresti",
+              "away": "kocaelispor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "apoel-fc",
+              "away": "sk-sturm-graz",
+              "score": "0:1"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "sk-sturm-graz",
+              "away": "apoel-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "ibv-vestmannaeyjar",
+              "away": "vfb-stuttgart",
+              "score": "1:3",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "vfb-stuttgart",
+              "away": "ibv-vestmannaeyjar",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "boavista-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:3"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "fc-shakhtar-donetsk",
+              "away": "boavista-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "k-beerschot-vac",
+              "away": "red-star-belgrade",
+              "score": "3:2"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "red-star-belgrade",
+              "away": "k-beerschot-vac",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "nk-primorje"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "aik-fotboll",
+              "away": "nk-primorje",
+              "score": "0:1",
+              "note": "Played at Råsunda Stadium, Solna"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "nk-primorje",
+              "away": "aik-fotboll",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "dinaburg-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "aek-athens-fc",
+              "away": "dinaburg-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "dinaburg-fc",
+              "away": "aek-athens-fc",
+              "score": "2:4",
+              "note": "Played at Daugava Stadium, Riga"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "fc-luzern"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "sk-slavia-prague",
+              "away": "fc-luzern",
+              "score": "4:2"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "fc-luzern",
+              "away": "sk-slavia-prague",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hapoel-beer-sheva-fc",
+            "roda-jc-kerkrade"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "hapoel-beer-sheva-fc",
+              "away": "roda-jc-kerkrade",
+              "score": "1:4"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "roda-jc-kerkrade",
+              "away": "hapoel-beer-sheva-fc",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-zagreb",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "nk-zagreb",
+              "away": "tromso-il",
+              "score": "3:2"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "tromso-il",
+              "away": "nk-zagreb",
+              "score": "4:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-copenhagen",
+            "fc-ararat-yerevan"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "fc-copenhagen",
+              "away": "fc-ararat-yerevan",
+              "score": "3:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "fc-ararat-yerevan",
+              "away": "fc-copenhagen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-belshina-bobruisk",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "fc-belshina-bobruisk",
+              "away": "fc-lokomotiv-moscow",
+              "score": "1:2",
+              "note": "Played at Dinamo Stadium, Minsk"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "fc-lokomotiv-moscow",
+              "away": "fc-belshina-bobruisk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "chelsea-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "sk-slovan-bratislava",
+              "away": "chelsea-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ogc-nice",
+            "kilmarnock-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "ogc-nice",
+              "away": "kilmarnock-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "kilmarnock-fc",
+              "away": "ogc-nice",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "budapesti-vsc"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "real-betis",
+              "away": "budapesti-vsc",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "budapesti-vsc",
+              "away": "real-betis",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lr-vicenza",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1997-09-18",
+              "home": "lr-vicenza",
+              "away": "legia-warsaw",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-10-02",
+              "home": "legia-warsaw",
+              "away": "lr-vicenza",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "tromso-il",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "tromso-il",
+              "away": "chelsea-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "chelsea-fc",
+              "away": "tromso-il",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "k-beerschot-vac",
+              "away": "vfb-stuttgart",
+              "score": "0:4"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "vfb-stuttgart",
+              "away": "k-beerschot-vac",
+              "score": "2:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-moscow",
+            "kocaelispor"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "fc-lokomotiv-moscow",
+              "away": "kocaelispor",
+              "score": "2:1"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "kocaelispor",
+              "away": "fc-lokomotiv-moscow",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "lr-vicenza"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "fc-shakhtar-donetsk",
+              "away": "lr-vicenza",
+              "score": "1:3"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "lr-vicenza",
+              "away": "fc-shakhtar-donetsk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "fc-copenhagen"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "real-betis",
+              "away": "fc-copenhagen",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "fc-copenhagen",
+              "away": "real-betis",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "aek-athens-fc",
+              "away": "sk-sturm-graz",
+              "score": "2:0"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "sk-sturm-graz",
+              "away": "aek-athens-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ogc-nice",
+            "sk-slavia-prague"
+          ],
+          "winner": "sk-slavia-prague",
+          "note": "Slavia Prague won on away goals",
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "ogc-nice",
+              "away": "sk-slavia-prague",
+              "score": "2:2"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "sk-slavia-prague",
+              "away": "ogc-nice",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-primorje",
+            "roda-jc-kerkrade"
+          ],
+          "matches": [
+            {
+              "date": "1997-10-23",
+              "home": "nk-primorje",
+              "away": "roda-jc-kerkrade",
+              "score": "0:2",
+              "note": "Played at Stadion Bežigrad, Ljubljana"
+            },
+            {
+              "date": "1997-11-06",
+              "home": "roda-jc-kerkrade",
+              "away": "nk-primorje",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "roda-jc-kerkrade",
+            "lr-vicenza"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-05",
+              "home": "roda-jc-kerkrade",
+              "away": "lr-vicenza",
+              "score": "1:4"
+            },
+            {
+              "date": "1998-03-19",
+              "home": "lr-vicenza",
+              "away": "roda-jc-kerkrade",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-05",
+              "home": "sk-slavia-prague",
+              "away": "vfb-stuttgart",
+              "score": "1:1"
+            },
+            {
+              "date": "1998-03-19",
+              "home": "vfb-stuttgart",
+              "away": "sk-slavia-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-05",
+              "home": "aek-athens-fc",
+              "away": "fc-lokomotiv-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "1998-03-19",
+              "home": "fc-lokomotiv-moscow",
+              "away": "aek-athens-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-betis",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-03-05",
+              "home": "real-betis",
+              "away": "chelsea-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1998-03-19",
+              "home": "chelsea-fc",
+              "away": "real-betis",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "lr-vicenza",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1998-04-02",
+              "home": "lr-vicenza",
+              "away": "chelsea-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1998-04-16",
+              "home": "chelsea-fc",
+              "away": "lr-vicenza",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "fc-lokomotiv-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1998-04-02",
+              "home": "vfb-stuttgart",
+              "away": "fc-lokomotiv-moscow",
+              "score": "2:1"
+            },
+            {
+              "date": "1998-04-16",
+              "home": "fc-lokomotiv-moscow",
+              "away": "vfb-stuttgart",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1998-05-13",
+              "home": "chelsea-fc",
+              "away": "vfb-stuttgart",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Råsunda Stadium, Stockholm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

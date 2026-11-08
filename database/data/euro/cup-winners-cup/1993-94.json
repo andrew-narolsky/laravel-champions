@@ -1,0 +1,895 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1993-94",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fc-balzers",
+            "kf-albpetrol"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-15",
+              "home": "fc-balzers",
+              "away": "kf-albpetrol",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-08-31",
+              "home": "kf-albpetrol",
+              "away": "fc-balzers",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "raf-jelgava",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-17",
+              "home": "raf-jelgava",
+              "away": "hb-torshavn",
+              "score": "1:0",
+              "note": "Played at Daugava Stadium, Riga"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "hb-torshavn",
+              "away": "raf-jelgava",
+              "score": "3:0",
+              "note": "Awarded 3:0 to HB Tórshavn: the match was never played because RAF Jelgava's flight was cancelled"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "f91-dudelange",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-17",
+              "home": "f91-dudelange",
+              "away": "maccabi-haifa-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "maccabi-haifa-fc",
+              "away": "f91-dudelange",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-karpaty-lviv",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-karpaty-lviv",
+              "away": "shelbourne-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "shelbourne-fc",
+              "away": "fc-karpaty-lviv",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-celje",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "nk-celje",
+              "away": "odense-boldklub",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "odense-boldklub",
+              "away": "nk-celje",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-vss-kosice",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "fk-zalgiris",
+              "away": "fc-vss-kosice",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "degerfors-if"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "sliema-wanderers-fc",
+              "away": "degerfors-if",
+              "score": "1:3"
+            },
+            {
+              "date": "1993-09-02",
+              "home": "degerfors-if",
+              "away": "sliema-wanderers-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "mypa-myllykoski"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "valur",
+              "away": "mypa-myllykoski",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "mypa-myllykoski",
+              "away": "valur",
+              "score": "0:1",
+              "note": "Played at Lahden kisapuisto, Lahti"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tvmk",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-tvmk",
+              "away": "lillestrom-sk",
+              "score": "0:4"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "lillestrom-sk",
+              "away": "fc-tvmk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "bangor-fc",
+              "away": "apoel-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "apoel-fc",
+              "away": "bangor-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lugano",
+            "fc-neman-grodno"
+          ],
+          "matches": [
+            {
+              "date": "1993-08-18",
+              "home": "fc-lugano",
+              "away": "fc-neman-grodno",
+              "score": "5:0"
+            },
+            {
+              "date": "1993-09-01",
+              "home": "fc-neman-grodno",
+              "away": "fc-lugano",
+              "score": "2:1",
+              "note": "Played at Dinamo Stadium, Minsk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "bayer-04-leverkusen",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "bayer-04-leverkusen",
+              "away": "fc-zbrojovka-brno",
+              "score": "2:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-zbrojovka-brno",
+              "away": "bayer-04-leverkusen",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "degerfors-if",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "degerfors-if",
+              "away": "parma-calcio",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "parma-calcio",
+              "away": "degerfors-if",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "apoel-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "paris-saint-germain-fc",
+              "away": "apoel-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-14",
+              "home": "valur",
+              "away": "aberdeen-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "aberdeen-fc",
+              "away": "valur",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "hb-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "cs-universitatea-craiova",
+              "away": "hb-torshavn",
+              "score": "4:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "hb-torshavn",
+              "away": "cs-universitatea-craiova",
+              "score": "0:3",
+              "note": "Played at Svangaskarð, Toftir"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vss-kosice",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-vss-kosice",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "besiktas-jk",
+              "away": "fc-vss-kosice",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-balzers"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "pfc-cska-sofia",
+              "away": "fc-balzers",
+              "score": "8:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-balzers",
+              "away": "pfc-cska-sofia",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "maccabi-haifa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-torpedo-moscow",
+              "away": "maccabi-haifa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "maccabi-haifa-fc",
+              "away": "fc-torpedo-moscow",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "lillestrom-sk",
+              "away": "torino-fc",
+              "score": "0:2",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "torino-fc",
+              "away": "lillestrom-sk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "odense-boldklub",
+              "away": "arsenal-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "arsenal-fc",
+              "away": "odense-boldklub",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "gks-katowice"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "sl-benfica",
+              "away": "gks-katowice",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "gks-katowice",
+              "away": "sl-benfica",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "shelbourne-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "panathinaikos-fc",
+              "away": "shelbourne-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "shelbourne-fc",
+              "away": "panathinaikos-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "fc-tirol-innsbruck",
+              "away": "ferencvarosi-tc",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "ferencvarosi-tc",
+              "away": "fc-tirol-innsbruck",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "cardiff-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "r-standard-liege",
+              "away": "cardiff-city-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1993-09-28",
+              "home": "cardiff-city-fc",
+              "away": "r-standard-liege",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-lugano"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-15",
+              "home": "real-madrid-cf",
+              "away": "fc-lugano",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "fc-lugano",
+              "away": "real-madrid-cf",
+              "score": "1:3",
+              "note": "Played at Letzigrund, Zürich"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1993-09-17",
+              "home": "hnk-hajduk-split",
+              "away": "afc-ajax",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Bežigrad Stadium, Ljubljana (Slovenia)"
+            },
+            {
+              "date": "1993-09-29",
+              "home": "afc-ajax",
+              "away": "hnk-hajduk-split",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "sl-benfica",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "sl-benfica",
+              "away": "pfc-cska-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "pfc-cska-sofia",
+              "away": "sl-benfica",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "maccabi-haifa-fc",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "maccabi-haifa-fc",
+              "away": "parma-calcio",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "parma-calcio",
+              "away": "maccabi-haifa-fc",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "Parma Calcio won 3:1 on penalties"
+            }
+          ],
+          "winner": "parma-calcio"
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "cs-universitatea-craiova"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "paris-saint-germain-fc",
+              "away": "cs-universitatea-craiova",
+              "score": "4:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "cs-universitatea-craiova",
+              "away": "paris-saint-germain-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-tirol-innsbruck",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "fc-tirol-innsbruck",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "real-madrid-cf",
+              "away": "fc-tirol-innsbruck",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "besiktas-jk"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "afc-ajax",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "besiktas-jk",
+              "away": "afc-ajax",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "arsenal-fc",
+              "away": "r-standard-liege",
+              "score": "3:0"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "r-standard-liege",
+              "away": "arsenal-fc",
+              "score": "0:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "torino-fc",
+              "away": "aberdeen-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1993-11-03",
+              "home": "aberdeen-fc",
+              "away": "torino-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "bayer-04-leverkusen"
+          ],
+          "matches": [
+            {
+              "date": "1993-10-20",
+              "home": "panathinaikos-fc",
+              "away": "bayer-04-leverkusen",
+              "score": "1:4"
+            },
+            {
+              "date": "1993-11-02",
+              "home": "bayer-04-leverkusen",
+              "away": "panathinaikos-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sl-benfica",
+            "bayer-04-leverkusen"
+          ],
+          "winner": "sl-benfica",
+          "note": "Benfica won on away goals",
+          "matches": [
+            {
+              "date": "1994-03-01",
+              "home": "sl-benfica",
+              "away": "bayer-04-leverkusen",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-03-15",
+              "home": "bayer-04-leverkusen",
+              "away": "sl-benfica",
+              "score": "4:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-02",
+              "home": "torino-fc",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-03-15",
+              "home": "arsenal-fc",
+              "away": "torino-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-03",
+              "home": "afc-ajax",
+              "away": "parma-calcio",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-03-16",
+              "home": "parma-calcio",
+              "away": "afc-ajax",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-03",
+              "home": "real-madrid-cf",
+              "away": "paris-saint-germain-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-03-15",
+              "home": "paris-saint-germain-fc",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-03-29",
+              "home": "paris-saint-germain-fc",
+              "away": "arsenal-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-04-12",
+              "home": "arsenal-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "parma-calcio"
+          ],
+          "winner": "parma-calcio",
+          "note": "Parma won on away goals",
+          "matches": [
+            {
+              "date": "1994-03-29",
+              "home": "sl-benfica",
+              "away": "parma-calcio",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-04-13",
+              "home": "parma-calcio",
+              "away": "sl-benfica",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1994-05-04",
+              "home": "arsenal-fc",
+              "away": "parma-calcio",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Parken Stadium, Copenhagen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

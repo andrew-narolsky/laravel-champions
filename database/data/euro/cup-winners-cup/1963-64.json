@@ -1,0 +1,657 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1963-64",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "shelbourne-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-24",
+              "home": "shelbourne-fc",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "1963-10-15",
+              "home": "fc-barcelona",
+              "away": "shelbourne-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "hamburger-sv",
+              "away": "union-luxembourg",
+              "score": "4:0"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "union-luxembourg",
+              "away": "hamburger-sv",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "boldklubben-1913"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-09",
+              "home": "olympique-lyonnais",
+              "away": "boldklubben-1913",
+              "score": "3:1"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "boldklubben-1913",
+              "away": "olympique-lyonnais",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "zaglebie-sosnowiec"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "olympiacos-fc",
+              "away": "zaglebie-sosnowiec",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "zaglebie-sosnowiec",
+              "away": "olympiacos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-23",
+              "home": "olympiacos-fc",
+              "away": "zaglebie-sosnowiec",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Play-off, Praterstadion, Vienna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "willem-ii",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "willem-ii",
+              "away": "manchester-united-fc",
+              "score": "1:1",
+              "note": "Played at De Kuip, Rotterdam"
+            },
+            {
+              "date": "1963-10-15",
+              "home": "manchester-united-fc",
+              "away": "willem-ii",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-04",
+              "home": "atalanta-bc",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "sporting-cp",
+              "away": "atalanta-bc",
+              "score": "3:1"
+            },
+            {
+              "date": "1963-10-14",
+              "home": "sporting-cp",
+              "away": "atalanta-bc",
+              "score": "3:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Estadi de Sarrià, Barcelona"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "sk-gjovik-lyn"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-08",
+              "home": "apoel-fc",
+              "away": "sk-gjovik-lyn",
+              "score": "6:0"
+            },
+            {
+              "date": "1963-09-29",
+              "home": "sk-gjovik-lyn",
+              "away": "apoel-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-basel",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-17",
+              "home": "fc-basel",
+              "away": "celtic-fc",
+              "score": "1:5"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "celtic-fc",
+              "away": "fc-basel",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "linzer-ask",
+            "gnk-dinamo-zagreb"
+          ],
+          "winner": "gnk-dinamo-zagreb",
+          "note": "Dinamo Zagreb won on a coin toss after a 1:1 draw in the play-off",
+          "matches": [
+            {
+              "date": "1963-10-09",
+              "home": "linzer-ask",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "gnk-dinamo-zagreb",
+              "away": "linzer-ask",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-23",
+              "home": "linzer-ask",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": false,
+              "note": "Play-off, Linzer Stadion, Linz; Dinamo Zagreb won on a coin toss"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "borough-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-15",
+              "home": "sliema-wanderers-fc",
+              "away": "borough-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-10-03",
+              "home": "borough-united-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hps-helsinki",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-15",
+              "home": "hps-helsinki",
+              "away": "sk-slovan-bratislava",
+              "score": "1:4"
+            },
+            {
+              "date": "1963-10-19",
+              "home": "sk-slovan-bratislava",
+              "away": "hps-helsinki",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-02",
+              "home": "mtk-budapest-fc",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "pfc-slavia-sofia",
+              "away": "mtk-budapest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "fc-petrolul-ploiesti"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-12",
+              "home": "fenerbahce-sk",
+              "away": "fc-petrolul-ploiesti",
+              "score": "4:1"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "fc-petrolul-ploiesti",
+              "away": "fenerbahce-sk",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-20",
+              "home": "fc-barcelona",
+              "away": "hamburger-sv",
+              "score": "4:4"
+            },
+            {
+              "date": "1963-12-11",
+              "home": "hamburger-sv",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-12-18",
+              "home": "hamburger-sv",
+              "away": "fc-barcelona",
+              "score": "3:2",
+              "neutral": true,
+              "note": "Play-off, Stade Olympique de la Pontaise, Lausanne"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-20",
+              "home": "olympique-lyonnais",
+              "away": "olympiacos-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1963-12-04",
+              "home": "olympiacos-fc",
+              "away": "olympique-lyonnais",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-12-03",
+              "home": "tottenham-hotspur-fc",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-12-10",
+              "home": "manchester-united-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "sporting-cp",
+              "away": "apoel-fc",
+              "score": "16:1"
+            },
+            {
+              "date": "1963-11-20",
+              "home": "apoel-fc",
+              "away": "sporting-cp",
+              "score": "0:2",
+              "note": "Played at Estádio José Alvalade, Lisbon: both legs were played in Lisbon"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1963-12-04",
+              "home": "celtic-fc",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0"
+            },
+            {
+              "date": "1963-12-11",
+              "home": "gnk-dinamo-zagreb",
+              "away": "celtic-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borough-united-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1963-12-11",
+              "home": "borough-united-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:1"
+            },
+            {
+              "date": "1963-12-15",
+              "home": "sk-slovan-bratislava",
+              "away": "borough-united-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fsv-zwickau",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-20",
+              "home": "fsv-zwickau",
+              "away": "mtk-budapest-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-11-30",
+              "home": "mtk-budapest-fc",
+              "away": "fsv-zwickau",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fenerbahce-sk",
+            "linfield-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "fenerbahce-sk",
+              "away": "linfield-fc",
+              "score": "4:1"
+            },
+            {
+              "date": "1963-12-11",
+              "home": "linfield-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "1964-03-04",
+              "home": "hamburger-sv",
+              "away": "olympique-lyonnais",
+              "score": "1:1"
+            },
+            {
+              "date": "1964-03-18",
+              "home": "olympique-lyonnais",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1964-02-26",
+              "home": "manchester-united-fc",
+              "away": "sporting-cp",
+              "score": "4:1"
+            },
+            {
+              "date": "1964-03-18",
+              "home": "sporting-cp",
+              "away": "manchester-united-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1964-02-26",
+              "home": "celtic-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-03-04",
+              "home": "sk-slovan-bratislava",
+              "away": "celtic-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1964-02-27",
+              "home": "mtk-budapest-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1964-03-06",
+              "home": "fenerbahce-sk",
+              "away": "mtk-budapest-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1964-03-18",
+              "home": "mtk-budapest-fc",
+              "away": "fenerbahce-sk",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Stadio Flaminio, Rome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1964-04-08",
+              "home": "olympique-lyonnais",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "1964-04-21",
+              "home": "sporting-cp",
+              "away": "olympique-lyonnais",
+              "score": "1:1"
+            },
+            {
+              "date": "1964-05-05",
+              "home": "sporting-cp",
+              "away": "olympique-lyonnais",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Estadio Metropolitano de Madrid, Madrid"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-04-15",
+              "home": "celtic-fc",
+              "away": "mtk-budapest-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1964-04-29",
+              "home": "mtk-budapest-fc",
+              "away": "celtic-fc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sporting-cp",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-05-13",
+              "home": "sporting-cp",
+              "away": "mtk-budapest-fc",
+              "score": "3:3",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels"
+            },
+            {
+              "date": "1964-05-15",
+              "home": "sporting-cp",
+              "away": "mtk-budapest-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Replay, Bosuil Stadium, Antwerp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

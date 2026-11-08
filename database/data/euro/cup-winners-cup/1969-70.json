@@ -1,0 +1,709 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1969-70",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-torpedo-moscow"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1969-08-28",
+              "home": "sk-rapid-wien",
+              "away": "fc-torpedo-moscow",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-09-03",
+              "home": "fc-torpedo-moscow",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "fk-dukla-prague",
+              "away": "olympique-de-marseille",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "olympique-de-marseille",
+              "away": "fk-dukla-prague",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sk-slovan-bratislava",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "sk-slovan-bratislava",
+              "away": "gnk-dinamo-zagreb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "ifk-norrkoping",
+              "away": "sliema-wanderers-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1969-09-30",
+              "home": "sliema-wanderers-fc",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-schalke-04",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "fc-schalke-04",
+              "away": "shamrock-rovers-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "1-fc-magdeburg",
+              "away": "mtk-budapest-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "mtk-budapest-fc",
+              "away": "1-fc-magdeburg",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "academica-de-coimbra",
+            "kups-kuopio"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "academica-de-coimbra",
+              "away": "kups-kuopio",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "kups-kuopio",
+              "away": "academica-de-coimbra",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-lierse-sk",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "k-lierse-sk",
+              "away": "apoel-fc",
+              "score": "10:1"
+            },
+            {
+              "date": "1969-09-24",
+              "home": "apoel-fc",
+              "away": "k-lierse-sk",
+              "score": "0:1",
+              "note": "Played at Herman Vanderpoortenstadion, Lier (Belgium): both legs were played in Belgium"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athletic-bilbao",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "athletic-bilbao",
+              "away": "manchester-city-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "manchester-city-fc",
+              "away": "athletic-bilbao",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ards-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "ards-fc",
+              "away": "as-roma",
+              "score": "0:0",
+              "note": "Played at The Oval, Belfast"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "as-roma",
+              "away": "ards-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "sk-rapid-wien",
+              "away": "psv-eindhoven",
+              "score": "1:2"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "psv-eindhoven",
+              "away": "sk-rapid-wien",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "goztepe-sk",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "goztepe-sk",
+              "away": "union-luxembourg",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "union-luxembourg",
+              "away": "goztepe-sk",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mjondalen-if-fotball",
+            "cardiff-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "mjondalen-if-fotball",
+              "away": "cardiff-city-fc",
+              "score": "1:7"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "cardiff-city-fc",
+              "away": "mjondalen-if-fotball",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1969-08-30",
+              "home": "ibv-vestmannaeyjar",
+              "away": "pfc-levski-sofia",
+              "score": "0:4"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "pfc-levski-sofia",
+              "away": "ibv-vestmannaeyjar",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-frem",
+            "fc-st-gallen"
+          ],
+          "winner": "fc-st-gallen",
+          "note": "St. Gallen won on away goals",
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "boldklubben-frem",
+              "away": "fc-st-gallen",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "fc-st-gallen",
+              "away": "boldklubben-frem",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "olympiacos-fc",
+              "away": "gornik-zabrze",
+              "score": "2:2"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "gornik-zabrze",
+              "away": "olympiacos-fc",
+              "score": "5:0",
+              "note": "Played at Silesian Stadium, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1969-09-17",
+              "home": "rangers-fc",
+              "away": "fcsb",
+              "score": "2:0"
+            },
+            {
+              "date": "1969-10-01",
+              "home": "fcsb",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "olympique-de-marseille",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:1"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "gnk-dinamo-zagreb",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "ifk-norrkoping",
+              "away": "fc-schalke-04",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "fc-schalke-04",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "academica-de-coimbra"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "1-fc-magdeburg",
+              "away": "academica-de-coimbra",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "academica-de-coimbra",
+              "away": "1-fc-magdeburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-lierse-sk",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "k-lierse-sk",
+              "away": "manchester-city-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "manchester-city-fc",
+              "away": "k-lierse-sk",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "psv-eindhoven"
+          ],
+          "winner": "as-roma",
+          "note": "Roma won on a coin toss",
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "as-roma",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "psv-eindhoven",
+              "away": "as-roma",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "goztepe-sk",
+            "cardiff-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "goztepe-sk",
+              "away": "cardiff-city-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "cardiff-city-fc",
+              "away": "goztepe-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fc-st-gallen"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "pfc-levski-sofia",
+              "away": "fc-st-gallen",
+              "score": "4:0"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "fc-st-gallen",
+              "away": "pfc-levski-sofia",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-11-12",
+              "home": "gornik-zabrze",
+              "away": "rangers-fc",
+              "score": "3:1",
+              "note": "Played at Silesian Stadium, Chorzów"
+            },
+            {
+              "date": "1969-11-26",
+              "home": "rangers-fc",
+              "away": "gornik-zabrze",
+              "score": "1:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-schalke-04",
+              "score": "1:3"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "fc-schalke-04",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "academica-de-coimbra",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "academica-de-coimbra",
+              "away": "manchester-city-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "manchester-city-fc",
+              "away": "academica-de-coimbra",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "goztepe-sk"
+          ],
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "as-roma",
+              "away": "goztepe-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "goztepe-sk",
+              "away": "as-roma",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "gornik-zabrze"
+          ],
+          "winner": "gornik-zabrze",
+          "note": "Górnik Zabrze won on away goals",
+          "matches": [
+            {
+              "date": "1970-03-04",
+              "home": "pfc-levski-sofia",
+              "away": "gornik-zabrze",
+              "score": "3:2"
+            },
+            {
+              "date": "1970-03-18",
+              "home": "gornik-zabrze",
+              "away": "pfc-levski-sofia",
+              "score": "2:1",
+              "note": "Played at Silesian Stadium, Chorzów"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-04-01",
+              "home": "fc-schalke-04",
+              "away": "manchester-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-04-15",
+              "home": "manchester-city-fc",
+              "away": "fc-schalke-04",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "gornik-zabrze"
+          ],
+          "winner": "gornik-zabrze",
+          "note": "Górnik Zabrze won on a coin toss after a 1:1 draw in the play-off",
+          "matches": [
+            {
+              "date": "1970-04-01",
+              "home": "as-roma",
+              "away": "gornik-zabrze",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-04-15",
+              "home": "gornik-zabrze",
+              "away": "as-roma",
+              "score": "2:2",
+              "extra_time": true,
+              "note": "Played at Silesian Stadium, Chorzów"
+            },
+            {
+              "date": "1970-04-22",
+              "home": "gornik-zabrze",
+              "away": "as-roma",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Play-off, Stade de la Meinau, Strasbourg; Górnik Zabrze won on a coin toss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1970-04-29",
+              "home": "manchester-city-fc",
+              "away": "gornik-zabrze",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Praterstadion, Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

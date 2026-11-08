@@ -1,0 +1,705 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1980-81",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "celtic-fc",
+            "diosgyori-vtk"
+          ],
+          "matches": [
+            {
+              "date": "1980-08-20",
+              "home": "celtic-fc",
+              "away": "diosgyori-vtk",
+              "score": "6:0"
+            },
+            {
+              "date": "1980-09-03",
+              "home": "diosgyori-vtk",
+              "away": "celtic-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "altay-sk",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1980-08-20",
+              "home": "altay-sk",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-09-03",
+              "home": "sl-benfica",
+              "away": "altay-sk",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "pfc-slavia-sofia",
+              "away": "legia-warsaw",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "legia-warsaw",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newport-county-afc",
+            "crusaders-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "newport-county-afc",
+              "away": "crusaders-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "crusaders-fc",
+              "away": "newport-county-afc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ca-spora-luxembourg",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-16",
+              "home": "ca-spora-luxembourg",
+              "away": "ac-sparta-prague",
+              "score": "0:6"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "ac-sparta-prague",
+              "away": "ca-spora-luxembourg",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-politehnica-timisoara"
+          ],
+          "winner": "fc-politehnica-timisoara",
+          "note": "Politehnica Timișoara won on away goals",
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "celtic-fc",
+              "away": "fc-politehnica-timisoara",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-politehnica-timisoara",
+              "away": "celtic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fortuna-dusseldorf",
+            "fc-red-bull-salzburg"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fortuna-dusseldorf",
+              "away": "fc-red-bull-salzburg",
+              "score": "5:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-red-bull-salzburg",
+              "away": "fortuna-dusseldorf",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kastoria-1980-fc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "kastoria-1980-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:0",
+              "note": "Played at Kaftanzoglio Stadium, Thessaloniki"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-dinamo-tbilisi",
+              "away": "kastoria-1980-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hvidovre-if",
+            "fram-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "hvidovre-if",
+              "away": "fram-reykjavik",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fram-reykjavik",
+              "away": "hvidovre-if",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "valencia-cf",
+              "away": "as-monaco-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "as-monaco-fc",
+              "away": "valencia-cf",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-castilla",
+            "west-ham-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "real-madrid-castilla",
+              "away": "west-ham-united-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "west-ham-united-fc",
+              "away": "real-madrid-castilla",
+              "score": "5:1",
+              "extra_time": true,
+              "note": "Played behind closed doors (UEFA punishment for crowd trouble by West Ham fans in Madrid)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "as-roma",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fc-carl-zeiss-jena",
+              "away": "as-roma",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "k-waterschei-sv-thor"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "ac-omonia",
+              "away": "k-waterschei-sv-thor",
+              "score": "1:3"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "k-waterschei-sv-thor",
+              "away": "ac-omonia",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "waterford-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "hibernians-fc",
+              "away": "waterford-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "waterford-fc",
+              "away": "hibernians-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "gnk-dinamo-zagreb",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "sl-benfica",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-ilves",
+              "away": "feyenoord",
+              "score": "1:3"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "feyenoord",
+              "away": "fc-ilves",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "sk-haugar"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "fc-sion",
+              "away": "sk-haugar",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "sk-haugar",
+              "away": "fc-sion",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "1980-09-17",
+              "home": "malmo-ff",
+              "away": "fk-partizani",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-10-01",
+              "home": "fk-partizani",
+              "away": "malmo-ff",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "fc-politehnica-timisoara"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "west-ham-united-fc",
+              "away": "fc-politehnica-timisoara",
+              "score": "4:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "fc-politehnica-timisoara",
+              "away": "west-ham-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "waterford-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "fc-dinamo-tbilisi",
+              "away": "waterford-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "ac-sparta-prague",
+              "away": "pfc-slavia-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "pfc-slavia-sofia",
+              "away": "ac-sparta-prague",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hvidovre-if",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "hvidovre-if",
+              "away": "feyenoord",
+              "score": "1:2",
+              "note": "Played at Idrætsparken, Copenhagen"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "feyenoord",
+              "away": "hvidovre-if",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "fc-carl-zeiss-jena",
+              "away": "valencia-cf",
+              "score": "3:1"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "valencia-cf",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-haugar",
+            "newport-county-afc"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "sk-haugar",
+              "away": "newport-county-afc",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-11-04",
+              "home": "newport-county-afc",
+              "away": "sk-haugar",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-waterschei-sv-thor",
+            "fortuna-dusseldorf"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "k-waterschei-sv-thor",
+              "away": "fortuna-dusseldorf",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "fortuna-dusseldorf",
+              "away": "k-waterschei-sv-thor",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1980-10-22",
+              "home": "malmo-ff",
+              "away": "sl-benfica",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-11-05",
+              "home": "sl-benfica",
+              "away": "malmo-ff",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "west-ham-united-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:4"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "fc-dinamo-tbilisi",
+              "away": "west-ham-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "pfc-slavia-sofia",
+              "away": "feyenoord",
+              "score": "3:2"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "feyenoord",
+              "away": "pfc-slavia-sofia",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "newport-county-afc"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "fc-carl-zeiss-jena",
+              "away": "newport-county-afc",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "newport-county-afc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fortuna-dusseldorf",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1981-03-04",
+              "home": "fortuna-dusseldorf",
+              "away": "sl-benfica",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-03-18",
+              "home": "sl-benfica",
+              "away": "fortuna-dusseldorf",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "fc-dinamo-tbilisi",
+              "away": "feyenoord",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "feyenoord",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1981-04-08",
+              "home": "fc-carl-zeiss-jena",
+              "away": "sl-benfica",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-04-22",
+              "home": "sl-benfica",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1981-05-13",
+              "home": "fc-dinamo-tbilisi",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Rheinstadion, Düsseldorf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1973-74",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "vasas-sc",
+            "sunderland-afc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "vasas-sc",
+              "away": "sunderland-afc",
+              "score": "0:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "sunderland-afc",
+              "away": "vasas-sc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "cardiff-city-fc",
+              "away": "sporting-cp",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "sporting-cp",
+              "away": "cardiff-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-zurich"
+          ],
+          "winner": "fc-zurich",
+          "note": "Zürich won on away goals",
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "rsc-anderlecht",
+              "away": "fc-zurich",
+              "score": "3:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "fc-zurich",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pezoporikos-larnaca-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "malmo-ff",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "malmo-ff",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "11:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nac-breda",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "nac-breda",
+              "away": "1-fc-magdeburg",
+              "score": "0:0",
+              "note": "Played at De Kuip, Rotterdam"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "1-fc-magdeburg",
+              "away": "nac-breda",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "cork-hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "fc-banik-ostrava",
+              "away": "cork-hibernians-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "cork-hibernians-fc",
+              "away": "fc-banik-ostrava",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "cs-fola-esch"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-13",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "cs-fola-esch",
+              "score": "7:0"
+            },
+            {
+              "date": "1973-09-22",
+              "home": "cs-fola-esch",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "1:4",
+              "note": "Played at Beroe Stadium, Stara Zagora (Bulgaria): both legs were played in Bulgaria"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "fc-torpedo-moscow",
+              "away": "athletic-bilbao",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "athletic-bilbao",
+              "away": "fc-torpedo-moscow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "ac-milan",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "gnk-dinamo-zagreb",
+              "away": "ac-milan",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-sportsklub-freja",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "randers-sportsklub-freja",
+              "away": "sk-rapid-wien",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "sk-rapid-wien",
+              "away": "randers-sportsklub-freja",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "reipas-lahti",
+              "away": "olympique-lyonnais",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "olympique-lyonnais",
+              "away": "reipas-lahti",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "legia-warsaw",
+              "away": "paok-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "paok-fc",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gzira-united-fc",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "gzira-united-fc",
+              "away": "sk-brann",
+              "score": "0:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "sk-brann",
+              "away": "gzira-united-fc",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chimia-ramnicu-valcea",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "chimia-ramnicu-valcea",
+              "away": "glentoran-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "glentoran-fc",
+              "away": "chimia-ramnicu-valcea",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-20",
+              "home": "ibv-vestmannaeyjar",
+              "away": "borussia-monchengladbach",
+              "score": "0:7",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "borussia-monchengladbach",
+              "away": "ibv-vestmannaeyjar",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mke-ankaragucu",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-09-19",
+              "home": "mke-ankaragucu",
+              "away": "rangers-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1973-10-03",
+              "home": "rangers-fc",
+              "away": "mke-ankaragucu",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "sunderland-afc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "sunderland-afc",
+              "away": "sporting-cp",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "sporting-cp",
+              "away": "sunderland-afc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "malmo-ff"
+          ],
+          "winner": "fc-zurich",
+          "note": "Zürich won on away goals",
+          "matches": [
+            {
+              "date": "1973-10-23",
+              "home": "fc-zurich",
+              "away": "malmo-ff",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-11-04",
+              "home": "malmo-ff",
+              "away": "fc-zurich",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-banik-ostrava",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "fc-banik-ostrava",
+              "away": "1-fc-magdeburg",
+              "score": "2:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "1-fc-magdeburg",
+              "away": "fc-banik-ostrava",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "athletic-bilbao",
+              "score": "3:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "athletic-bilbao",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "ac-milan",
+              "away": "sk-rapid-wien",
+              "score": "0:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "sk-rapid-wien",
+              "away": "ac-milan",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "olympique-lyonnais",
+              "away": "paok-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "paok-fc",
+              "away": "olympique-lyonnais",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "glentoran-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "sk-brann",
+              "away": "glentoran-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "glentoran-fc",
+              "away": "sk-brann",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-monchengladbach",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-10-24",
+              "home": "borussia-monchengladbach",
+              "away": "rangers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1973-11-07",
+              "home": "rangers-fc",
+              "away": "borussia-monchengladbach",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-06",
+              "home": "sporting-cp",
+              "away": "fc-zurich",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "fc-zurich",
+              "away": "sporting-cp",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "pfc-beroe-stara-zagora"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-06",
+              "home": "1-fc-magdeburg",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "1-fc-magdeburg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-13",
+              "home": "ac-milan",
+              "away": "paok-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "paok-fc",
+              "away": "ac-milan",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1974-03-05",
+              "home": "glentoran-fc",
+              "away": "borussia-monchengladbach",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-03-20",
+              "home": "borussia-monchengladbach",
+              "away": "glentoran-fc",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "sporting-cp",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1974-04-10",
+              "home": "sporting-cp",
+              "away": "1-fc-magdeburg",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-04-24",
+              "home": "1-fc-magdeburg",
+              "away": "sporting-cp",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "borussia-monchengladbach"
+          ],
+          "matches": [
+            {
+              "date": "1974-04-10",
+              "home": "ac-milan",
+              "away": "borussia-monchengladbach",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-04-24",
+              "home": "borussia-monchengladbach",
+              "away": "ac-milan",
+              "score": "1:0",
+              "note": "Played at Rheinstadion, Düsseldorf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1974-05-08",
+              "home": "1-fc-magdeburg",
+              "away": "ac-milan",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Feijenoord Stadion, Rotterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

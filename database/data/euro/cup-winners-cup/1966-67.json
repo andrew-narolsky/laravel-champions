@@ -1,0 +1,667 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1966-67",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "valur",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1966-08-22",
+              "home": "valur",
+              "away": "r-standard-liege",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-08-31",
+              "home": "r-standard-liege",
+              "away": "valur",
+              "score": "8:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "ofk-beograd",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "ofk-beograd",
+              "away": "fc-spartak-moscow",
+              "score": "1:3"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "fc-spartak-moscow",
+              "away": "ofk-beograd",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-24",
+              "home": "sk-rapid-wien",
+              "away": "galatasaray-sk",
+              "score": "4:0"
+            },
+            {
+              "date": "1966-09-07",
+              "home": "galatasaray-sk",
+              "away": "sk-rapid-wien",
+              "score": "3:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "ca-spora-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "shamrock-rovers-fc",
+              "away": "ca-spora-luxembourg",
+              "score": "4:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "ca-spora-luxembourg",
+              "away": "shamrock-rovers-fc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-tatran-presov",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "1-fc-tatran-presov",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "fc-bayern-munich",
+              "away": "1-fc-tatran-presov",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "acf-fiorentina",
+              "away": "gyori-eto-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "gyori-eto-fc",
+              "away": "acf-fiorentina",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "aek-athens-fc",
+              "away": "sc-braga",
+              "score": "0:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "sc-braga",
+              "away": "aek-athens-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsg-chemie-leipzig",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "bsg-chemie-leipzig",
+              "away": "legia-warsaw",
+              "score": "3:0"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "legia-warsaw",
+              "away": "bsg-chemie-leipzig",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-18",
+              "home": "r-standard-liege",
+              "away": "apollon-limassol-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "apollon-limassol-fc",
+              "away": "r-standard-liege",
+              "score": "0:1",
+              "note": "Played at Stade des Bas-Prés, Namur (Belgium): both legs were played in Belgium"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "aifk-turku"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-14",
+              "home": "servette-fc",
+              "away": "aifk-turku",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "aifk-turku",
+              "away": "servette-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "sparta-rotterdam"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-18",
+              "home": "floriana-fc",
+              "away": "sparta-rotterdam",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "sparta-rotterdam",
+              "away": "floriana-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1966-10-05",
+              "home": "rc-strasbourg",
+              "away": "fcsb",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "fcsb",
+              "away": "rc-strasbourg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-21",
+              "home": "swansea-city-afc",
+              "away": "pfc-slavia-sofia",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "pfc-slavia-sofia",
+              "away": "swansea-city-afc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-27",
+              "home": "glentoran-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-10-05",
+              "home": "rangers-fc",
+              "away": "glentoran-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "skeid-fotball",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1966-08-30",
+              "home": "skeid-fotball",
+              "away": "real-zaragoza",
+              "score": "3:2"
+            },
+            {
+              "date": "1966-10-12",
+              "home": "real-zaragoza",
+              "away": "skeid-fotball",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-09-28",
+              "home": "aab-fodbold",
+              "away": "everton-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1966-10-11",
+              "home": "everton-fc",
+              "away": "aab-fodbold",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "sk-rapid-wien"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-09",
+              "home": "fc-spartak-moscow",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-12-08",
+              "home": "sk-rapid-wien",
+              "away": "fc-spartak-moscow",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-09",
+              "home": "shamrock-rovers-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-11-23",
+              "home": "fc-bayern-munich",
+              "away": "shamrock-rovers-fc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-09",
+              "home": "gyori-eto-fc",
+              "away": "sc-braga",
+              "score": "3:0"
+            },
+            {
+              "date": "1966-12-08",
+              "home": "sc-braga",
+              "away": "gyori-eto-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsg-chemie-leipzig",
+            "r-standard-liege"
+          ],
+          "winner": "r-standard-liege",
+          "note": "Standard Liège won on away goals",
+          "matches": [
+            {
+              "date": "1966-11-30",
+              "home": "bsg-chemie-leipzig",
+              "away": "r-standard-liege",
+              "score": "2:1"
+            },
+            {
+              "date": "1966-12-14",
+              "home": "r-standard-liege",
+              "away": "bsg-chemie-leipzig",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "sparta-rotterdam"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-09",
+              "home": "servette-fc",
+              "away": "sparta-rotterdam",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-11-16",
+              "home": "sparta-rotterdam",
+              "away": "servette-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-23",
+              "home": "rc-strasbourg",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-11-30",
+              "home": "pfc-slavia-sofia",
+              "away": "rc-strasbourg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-23",
+              "home": "rangers-fc",
+              "away": "borussia-dortmund",
+              "score": "2:1"
+            },
+            {
+              "date": "1966-12-06",
+              "home": "borussia-dortmund",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-zaragoza",
+            "everton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-11-09",
+              "home": "real-zaragoza",
+              "away": "everton-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1966-11-23",
+              "home": "everton-fc",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1967-02-15",
+              "home": "sk-rapid-wien",
+              "away": "fc-bayern-munich",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-03-08",
+              "home": "fc-bayern-munich",
+              "away": "sk-rapid-wien",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gyori-eto-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1967-03-01",
+              "home": "gyori-eto-fc",
+              "away": "r-standard-liege",
+              "score": "2:1"
+            },
+            {
+              "date": "1967-03-08",
+              "home": "r-standard-liege",
+              "away": "gyori-eto-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1967-02-26",
+              "home": "servette-fc",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1967-03-08",
+              "home": "pfc-slavia-sofia",
+              "away": "servette-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "real-zaragoza"
+          ],
+          "winner": "rangers-fc",
+          "note": "Rangers won on a coin toss",
+          "matches": [
+            {
+              "date": "1967-03-01",
+              "home": "rangers-fc",
+              "away": "real-zaragoza",
+              "score": "2:0"
+            },
+            {
+              "date": "1967-03-22",
+              "home": "real-zaragoza",
+              "away": "rangers-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1967-04-07",
+              "home": "fc-bayern-munich",
+              "away": "r-standard-liege",
+              "score": "2:0"
+            },
+            {
+              "date": "1967-04-26",
+              "home": "r-standard-liege",
+              "away": "fc-bayern-munich",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-slavia-sofia",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-04-19",
+              "home": "pfc-slavia-sofia",
+              "away": "rangers-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1967-05-03",
+              "home": "rangers-fc",
+              "away": "pfc-slavia-sofia",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1967-05-31",
+              "home": "fc-bayern-munich",
+              "away": "rangers-fc",
+              "score": "1:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Städtisches Stadion, Nuremberg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

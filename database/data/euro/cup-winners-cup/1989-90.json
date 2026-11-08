@@ -1,0 +1,695 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1989-90",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fc-chernomorets-burgas",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "1989-08-16",
+              "home": "fc-chernomorets-burgas",
+              "away": "fc-dinamo-city",
+              "score": "3:1"
+            },
+            {
+              "date": "1989-08-30",
+              "home": "fc-dinamo-city",
+              "away": "fc-chernomorets-burgas",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "real-valladolid",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "real-valladolid",
+              "away": "hamrun-spartans-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "hamrun-spartans-fc",
+              "away": "real-valladolid",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "union-luxembourg",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "union-luxembourg",
+              "away": "djurgardens-if",
+              "score": "0:0"
+            },
+            {
+              "date": "1989-09-27",
+              "home": "djurgardens-if",
+              "away": "union-luxembourg",
+              "score": "5:0",
+              "note": "Played at Råsunda Stadium, Solna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cf-os-belenenses",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "cf-os-belenenses",
+              "away": "as-monaco-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "as-monaco-fc",
+              "away": "cf-os-belenenses",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "sk-slovan-bratislava",
+              "away": "grasshopper-club",
+              "score": "3:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "grasshopper-club",
+              "away": "sk-slovan-bratislava",
+              "score": "4:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "ferencvarosi-tc",
+              "away": "fc-haka",
+              "score": "5:1"
+            },
+            {
+              "date": "1989-09-27",
+              "home": "fc-haka",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "celtic-fc"
+          ],
+          "winner": "fk-partizan",
+          "note": "Partizan won on away goals",
+          "matches": [
+            {
+              "date": "1989-09-12",
+              "home": "fk-partizan",
+              "away": "celtic-fc",
+              "score": "2:1",
+              "note": "Played at Stadion pod Bijelim Brijegom, Mostar (UEFA punishment for crowd trouble against Roma in 1988-89: home matches at least 300 km from Belgrade)"
+            },
+            {
+              "date": "1989-09-27",
+              "home": "celtic-fc",
+              "away": "fk-partizan",
+              "score": "5:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "valur",
+              "away": "bfc-dynamo",
+              "score": "1:2"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "bfc-dynamo",
+              "away": "valur",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "besiktas-jk",
+              "away": "borussia-dortmund",
+              "score": "0:1"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "borussia-dortmund",
+              "away": "besiktas-jk",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-brann",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "sk-brann",
+              "away": "uc-sampdoria",
+              "score": "0:2"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "uc-sampdoria",
+              "away": "sk-brann",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "cork-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "fc-torpedo-moscow",
+              "away": "cork-city-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "cork-city-fc",
+              "away": "fc-torpedo-moscow",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "ballymena-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "rsc-anderlecht",
+              "away": "ballymena-united-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "ballymena-united-fc",
+              "away": "rsc-anderlecht",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "fc-barcelona",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "legia-warsaw",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "ael-limassol"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "admira-wacker",
+              "away": "ael-limassol",
+              "score": "3:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "ael-limassol",
+              "away": "admira-wacker",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "swansea-city-afc"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "panathinaikos-fc",
+              "away": "swansea-city-afc",
+              "score": "3:2"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "swansea-city-afc",
+              "away": "panathinaikos-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "fc-dinamo-city",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fc-dinamo-city",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "ikast-fs"
+          ],
+          "matches": [
+            {
+              "date": "1989-09-13",
+              "home": "fc-groningen",
+              "away": "ikast-fs",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-09-26",
+              "home": "ikast-fs",
+              "away": "fc-groningen",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "bfc-dynamo"
+          ],
+          "winner": "as-monaco-fc",
+          "note": "Monaco won on away goals",
+          "matches": [
+            {
+              "date": "1989-10-17",
+              "home": "as-monaco-fc",
+              "away": "bfc-dynamo",
+              "score": "0:0"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "bfc-dynamo",
+              "away": "as-monaco-fc",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-17",
+              "home": "borussia-dortmund",
+              "away": "uc-sampdoria",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "uc-sampdoria",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-valladolid",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "real-valladolid",
+              "away": "djurgardens-if",
+              "score": "2:0"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "djurgardens-if",
+              "away": "real-valladolid",
+              "score": "2:2",
+              "note": "Played at Råsunda Stadium, Solna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "fc-torpedo-moscow",
+              "away": "grasshopper-club",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "grasshopper-club",
+              "away": "fc-torpedo-moscow",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "rsc-anderlecht",
+              "away": "fc-barcelona",
+              "score": "2:0"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "fc-barcelona",
+              "away": "rsc-anderlecht",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "admira-wacker",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "ferencvarosi-tc",
+              "away": "admira-wacker",
+              "score": "0:1",
+              "note": "Played at Felső Tisza-parti Stadion, Szeged"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panathinaikos-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "panathinaikos-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:2"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "fc-dinamo-bucuresti",
+              "away": "panathinaikos-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-groningen",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1989-10-18",
+              "home": "fc-groningen",
+              "away": "fk-partizan",
+              "score": "4:3"
+            },
+            {
+              "date": "1989-11-01",
+              "home": "fk-partizan",
+              "away": "fc-groningen",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "1990-03-06",
+              "home": "rsc-anderlecht",
+              "away": "admira-wacker",
+              "score": "2:0"
+            },
+            {
+              "date": "1990-03-21",
+              "home": "admira-wacker",
+              "away": "rsc-anderlecht",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-valladolid",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1990-03-07",
+              "home": "real-valladolid",
+              "away": "as-monaco-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1990-03-20",
+              "home": "as-monaco-fc",
+              "away": "real-valladolid",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "AS Monaco FC won 3:1 on penalties"
+            }
+          ],
+          "winner": "as-monaco-fc"
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1990-03-07",
+              "home": "uc-sampdoria",
+              "away": "grasshopper-club",
+              "score": "2:0"
+            },
+            {
+              "date": "1990-03-22",
+              "home": "grasshopper-club",
+              "away": "uc-sampdoria",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "fk-partizan"
+          ],
+          "matches": [
+            {
+              "date": "1990-03-07",
+              "home": "fc-dinamo-bucuresti",
+              "away": "fk-partizan",
+              "score": "2:1"
+            },
+            {
+              "date": "1990-03-21",
+              "home": "fk-partizan",
+              "away": "fc-dinamo-bucuresti",
+              "score": "0:2",
+              "note": "Played at Stadion pod Goricom, Titograd (UEFA punishment for crowd trouble against Groningen: home matches at least 300 km from Belgrade)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1990-04-03",
+              "home": "as-monaco-fc",
+              "away": "uc-sampdoria",
+              "score": "2:2"
+            },
+            {
+              "date": "1990-04-18",
+              "home": "uc-sampdoria",
+              "away": "as-monaco-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1990-04-04",
+              "home": "rsc-anderlecht",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1990-04-18",
+              "home": "fc-dinamo-bucuresti",
+              "away": "rsc-anderlecht",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1990-05-09",
+              "home": "uc-sampdoria",
+              "away": "rsc-anderlecht",
+              "score": "2:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Ullevi, Gothenburg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

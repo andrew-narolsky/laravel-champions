@@ -1,0 +1,687 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1976-77",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "servette-fc"
+          ],
+          "winner": "cardiff-city-fc",
+          "note": "Cardiff City won on away goals",
+          "matches": [
+            {
+              "date": "1976-08-04",
+              "home": "cardiff-city-fc",
+              "away": "servette-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-08-11",
+              "home": "servette-fc",
+              "away": "cardiff-city-fc",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "mtk-budapest-fc",
+              "away": "ac-sparta-prague",
+              "score": "3:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ac-sparta-prague",
+              "away": "mtk-budapest-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-lierse-sk",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-14",
+              "home": "k-lierse-sk",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "hnk-hajduk-split",
+              "away": "k-lierse-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "cardiff-city-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "fc-dinamo-tbilisi",
+              "away": "cardiff-city-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcm-dunarea-galati",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fcm-dunarea-galati",
+              "away": "boavista-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "boavista-fc",
+              "away": "fcm-dunarea-galati",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "fk-bodoglimt",
+              "away": "ssc-napoli",
+              "score": "0:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "ssc-napoli",
+              "away": "fk-bodoglimt",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "iraklis-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "iraklis-fc",
+              "away": "apoel-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "apoel-fc",
+              "away": "iraklis-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "keflavik"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "hamburger-sv",
+              "away": "keflavik",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "keflavik",
+              "away": "hamburger-sv",
+              "score": "1:1",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "roda-jc-kerkrade"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "rsc-anderlecht",
+              "away": "roda-jc-kerkrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "roda-jc-kerkrade",
+              "away": "rsc-anderlecht",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "sk-rapid-wien",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "atletico-madrid",
+              "away": "sk-rapid-wien",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "heart-of-midlothian-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "heart-of-midlothian-fc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "esbjerg-fb"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "bohemian-fc",
+              "away": "esbjerg-fb",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "esbjerg-fb",
+              "away": "bohemian-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "southampton-fc",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "southampton-fc",
+              "away": "olympique-de-marseille",
+              "score": "4:0"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "olympique-de-marseille",
+              "away": "southampton-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aik-fotboll",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "aik-fotboll",
+              "away": "galatasaray-sk",
+              "score": "1:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "galatasaray-sk",
+              "away": "aik-fotboll",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "carrick-rangers-fc",
+            "fc-aris-bonnevoie"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-15",
+              "home": "carrick-rangers-fc",
+              "away": "fc-aris-bonnevoie",
+              "score": "3:1",
+              "note": "Played at Seaview, Belfast"
+            },
+            {
+              "date": "1976-10-06",
+              "home": "fc-aris-bonnevoie",
+              "away": "carrick-rangers-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "reipas-lahti"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-16",
+              "home": "pfc-levski-sofia",
+              "away": "reipas-lahti",
+              "score": "12:2"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "reipas-lahti",
+              "away": "pfc-levski-sofia",
+              "score": "1:7",
+              "note": "Played at Helsinki Olympic Stadium, Helsinki"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1976-09-23",
+              "home": "floriana-fc",
+              "away": "slask-wroclaw",
+              "score": "1:4"
+            },
+            {
+              "date": "1976-09-29",
+              "home": "slask-wroclaw",
+              "away": "floriana-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "fc-dinamo-tbilisi",
+              "away": "mtk-budapest-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "mtk-budapest-fc",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boavista-fc",
+            "pfc-levski-sofia"
+          ],
+          "winner": "pfc-levski-sofia",
+          "note": "Levski-Spartak won on away goals",
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "boavista-fc",
+              "away": "pfc-levski-sofia",
+              "score": "3:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "pfc-levski-sofia",
+              "away": "boavista-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "bohemian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "slask-wroclaw",
+              "away": "bohemian-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "bohemian-fc",
+              "away": "slask-wroclaw",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "rsc-anderlecht",
+              "away": "galatasaray-sk",
+              "score": "5:1"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "galatasaray-sk",
+              "away": "rsc-anderlecht",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "hamburger-sv",
+              "away": "heart-of-midlothian-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "heart-of-midlothian-fc",
+              "away": "hamburger-sv",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "carrick-rangers-fc",
+            "southampton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "carrick-rangers-fc",
+              "away": "southampton-fc",
+              "score": "2:5",
+              "note": "Played at Seaview, Belfast"
+            },
+            {
+              "date": "1976-11-03",
+              "home": "southampton-fc",
+              "away": "carrick-rangers-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "atletico-madrid",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "1976-11-04",
+              "home": "hnk-hajduk-split",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "apoel-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1976-10-20",
+              "home": "apoel-fc",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            },
+            {
+              "date": "1976-11-04",
+              "home": "ssc-napoli",
+              "away": "apoel-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "slask-wroclaw",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "slask-wroclaw",
+              "away": "ssc-napoli",
+              "score": "0:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "ssc-napoli",
+              "away": "slask-wroclaw",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "mtk-budapest-fc",
+              "away": "hamburger-sv",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "hamburger-sv",
+              "away": "mtk-budapest-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "southampton-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "rsc-anderlecht",
+              "away": "southampton-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "southampton-fc",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1977-03-02",
+              "home": "pfc-levski-sofia",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1977-03-16",
+              "home": "atletico-madrid",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "atletico-madrid",
+              "away": "hamburger-sv",
+              "score": "3:1"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "hamburger-sv",
+              "away": "atletico-madrid",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ssc-napoli",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1977-04-06",
+              "home": "ssc-napoli",
+              "away": "rsc-anderlecht",
+              "score": "1:0"
+            },
+            {
+              "date": "1977-04-20",
+              "home": "rsc-anderlecht",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1977-05-11",
+              "home": "rsc-anderlecht",
+              "away": "hamburger-sv",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Olympisch Stadion, Amsterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

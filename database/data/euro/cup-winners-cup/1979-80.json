@@ -1,0 +1,697 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1979-80",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-08-15",
+              "home": "boldklubben-1903",
+              "away": "apoel-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1979-09-08",
+              "home": "apoel-fc",
+              "away": "boldklubben-1903",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1979-08-21",
+              "home": "rangers-fc",
+              "away": "lillestrom-sk",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-09-05",
+              "home": "lillestrom-sk",
+              "away": "rangers-fc",
+              "score": "0:2",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-12",
+              "home": "sliema-wanderers-fc",
+              "away": "boavista-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-05",
+              "home": "boavista-fc",
+              "away": "sliema-wanderers-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "fc-lokomotiva-kosice"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "fc-wacker-innsbruck",
+              "away": "fc-lokomotiva-kosice",
+              "score": "1:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-lokomotiva-kosice",
+              "away": "fc-wacker-innsbruck",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "k-beerschot-vac",
+              "away": "hnk-rijeka",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "hnk-rijeka",
+              "away": "k-beerschot-vac",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "fenerbahce-sk"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "arsenal-fc",
+              "away": "fenerbahce-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fenerbahce-sk",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fortuna-dusseldorf"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "rangers-fc",
+              "away": "fortuna-dusseldorf",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fortuna-dusseldorf",
+              "away": "rangers-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wrexham-afc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "wrexham-afc",
+              "away": "1-fc-magdeburg",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "1-fc-magdeburg",
+              "away": "wrexham-afc",
+              "score": "5:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panionios-fc",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "panionios-fc",
+              "away": "fc-twente",
+              "score": "4:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-twente",
+              "away": "panionios-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "boldklubben-1903",
+              "away": "valencia-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "valencia-cf",
+              "away": "boldklubben-1903",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "gyori-eto-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "juventus-fc",
+              "away": "gyori-eto-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "gyori-eto-fc",
+              "away": "juventus-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arka-gdynia",
+            "pfc-beroe-stara-zagora"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "arka-gdynia",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "arka-gdynia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "fc-aris-bonnevoie"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "reipas-lahti",
+              "away": "fc-aris-bonnevoie",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-aris-bonnevoie",
+              "away": "reipas-lahti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "bsc-young-boys",
+              "away": "fcsb",
+              "score": "2:2"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fcsb",
+              "away": "bsc-young-boys",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "waterford-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-19",
+              "home": "ifk-goteborg",
+              "away": "waterford-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "waterford-fc",
+              "away": "ifk-goteborg",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cliftonville-fc",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-20",
+              "home": "cliftonville-fc",
+              "away": "fc-nantes",
+              "score": "0:1"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-nantes",
+              "away": "cliftonville-fc",
+              "score": "7:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1979-09-26",
+              "home": "ia-akranes",
+              "away": "fc-barcelona",
+              "score": "0:1",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1979-10-03",
+              "home": "fc-barcelona",
+              "away": "ia-akranes",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "kf-vllaznia"
+          ],
+          "winner": "fc-dynamo-moscow",
+          "note": "Walkover: Vllaznia withdrew",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "pfc-beroe-stara-zagora",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "pfc-beroe-stara-zagora",
+              "away": "juventus-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "juventus-fc",
+              "away": "pfc-beroe-stara-zagora",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "arsenal-fc",
+              "away": "1-fc-magdeburg",
+              "score": "2:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "1-fc-magdeburg",
+              "away": "arsenal-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "panionios-fc",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "panionios-fc",
+              "away": "ifk-goteborg",
+              "score": "1:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "ifk-goteborg",
+              "away": "panionios-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "valencia-cf",
+              "away": "rangers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "rangers-fc",
+              "away": "valencia-cf",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "boavista-fc"
+          ],
+          "winner": "fc-dynamo-moscow",
+          "note": "Dynamo Moscow won on away goals",
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-dynamo-moscow",
+              "away": "boavista-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "boavista-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-nantes",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-nantes",
+              "away": "fcsb",
+              "score": "3:2"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fcsb",
+              "away": "fc-nantes",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aris-bonnevoie",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-aris-bonnevoie",
+              "away": "fc-barcelona",
+              "score": "1:4"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "fc-barcelona",
+              "away": "fc-aris-bonnevoie",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiva-kosice",
+            "hnk-rijeka"
+          ],
+          "matches": [
+            {
+              "date": "1979-10-24",
+              "home": "fc-lokomotiva-kosice",
+              "away": "hnk-rijeka",
+              "score": "2:0"
+            },
+            {
+              "date": "1979-11-07",
+              "home": "hnk-rijeka",
+              "away": "fc-lokomotiva-kosice",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dynamo-moscow",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "fc-dynamo-moscow",
+              "away": "fc-nantes",
+              "score": "0:2",
+              "note": "Played at Dinamo Stadium, Tbilisi"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "fc-nantes",
+              "away": "fc-dynamo-moscow",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "fc-barcelona",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "valencia-cf",
+              "away": "fc-barcelona",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "ifk-goteborg"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "arsenal-fc",
+              "away": "ifk-goteborg",
+              "score": "5:1"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "ifk-goteborg",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-rijeka",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-03-05",
+              "home": "hnk-rijeka",
+              "away": "juventus-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1980-03-19",
+              "home": "juventus-fc",
+              "away": "hnk-rijeka",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-nantes",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "fc-nantes",
+              "away": "valencia-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-04-23",
+              "home": "valencia-cf",
+              "away": "fc-nantes",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1980-04-09",
+              "home": "arsenal-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1980-04-23",
+              "home": "juventus-fc",
+              "away": "arsenal-fc",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1980-05-14",
+              "home": "arsenal-fc",
+              "away": "valencia-cf",
+              "score": "0:0",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Heysel Stadium, Brussels; Valencia CF won 5:4 on penalties"
+            }
+          ],
+          "winner": "valencia-cf"
+        }
+      ]
+    }
+  ]
+}

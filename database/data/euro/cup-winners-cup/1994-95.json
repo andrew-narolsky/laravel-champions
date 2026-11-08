@@ -1,0 +1,923 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1994-95",
+  "competition_name": "UEFA Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "bangor-fc",
+            "1-fc-tatran-presov"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "bangor-fc",
+              "away": "1-fc-tatran-presov",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "1-fc-tatran-presov",
+              "away": "bangor-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "barry-town-united-fc",
+            "fk-zalgiris"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "barry-town-united-fc",
+              "away": "fk-zalgiris",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "fk-zalgiris",
+              "away": "barry-town-united-fc",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "olimpija-riga"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "fk-bodoglimt",
+              "away": "olimpija-riga",
+              "score": "6:0"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "olimpija-riga",
+              "away": "fk-bodoglimt",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bobruisk",
+            "kf-tirana"
+          ],
+          "winner": "kf-tirana",
+          "note": "Tirana won on away goals",
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "fc-bobruisk",
+              "away": "kf-tirana",
+              "score": "4:1",
+              "note": "Played at Dinamo Stadium, Minsk"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "kf-tirana",
+              "away": "fc-bobruisk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "f91-dudelange"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "ferencvarosi-tc",
+              "away": "f91-dudelange",
+              "score": "6:1"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "f91-dudelange",
+              "away": "ferencvarosi-tc",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "sligo-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "floriana-fc",
+              "away": "sligo-rovers-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "sligo-rovers-fc",
+              "away": "floriana-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "keflavik",
+            "maccabi-tel-aviv-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "keflavik",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "keflavik",
+              "score": "4:1",
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-norma-tallinn",
+            "nk-maribor"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "fc-norma-tallinn",
+              "away": "nk-maribor",
+              "score": "1:4"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "nk-maribor",
+              "away": "fc-norma-tallinn",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofc-pirin-blagoevgrad",
+            "fc-schaan"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "ofc-pirin-blagoevgrad",
+              "away": "fc-schaan",
+              "score": "3:0",
+              "note": "Played at Vasil Levski National Stadium, Sofia"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "fc-schaan",
+              "away": "ofc-pirin-blagoevgrad",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "b71-sandur",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "b71-sandur",
+              "away": "hjk-helsinki",
+              "score": "0:5"
+            },
+            {
+              "date": "1994-08-24",
+              "home": "hjk-helsinki",
+              "away": "b71-sandur",
+              "score": "2:0",
+              "note": "Played at Tapiolan urheilupuisto, Espoo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-tiligul-tiras-tiraspol",
+            "ac-omonia"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "cs-tiligul-tiras-tiraspol",
+              "away": "ac-omonia",
+              "score": "0:1",
+              "note": "Played at Stadionul Republican, Chișinău"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "ac-omonia",
+              "away": "cs-tiligul-tiras-tiraspol",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-viktoria-zizkov",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1994-08-11",
+              "home": "fk-viktoria-zizkov",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-08-25",
+              "home": "ifk-norrkoping",
+              "away": "fk-viktoria-zizkov",
+              "score": "3:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "maccabi-tel-aviv-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-13",
+              "home": "maccabi-tel-aviv-fc",
+              "away": "sv-werder-bremen",
+              "score": "0:0",
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "sv-werder-bremen",
+              "away": "maccabi-tel-aviv-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zalgiris",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "fk-zalgiris",
+              "away": "feyenoord",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "feyenoord",
+              "away": "fk-zalgiris",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "1-fc-tatran-presov"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "dundee-united-fc",
+              "away": "1-fc-tatran-presov",
+              "score": "3:2"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "1-fc-tatran-presov",
+              "away": "dundee-united-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-gloria-bistrita",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "acf-gloria-bistrita",
+              "away": "real-zaragoza",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "real-zaragoza",
+              "away": "acf-gloria-bistrita",
+              "score": "4:0",
+              "note": "Played at Mestalla, Valencia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sligo-rovers-fc",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "sligo-rovers-fc",
+              "away": "club-brugge-kv",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "club-brugge-kv",
+              "away": "sligo-rovers-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofc-pirin-blagoevgrad",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "ofc-pirin-blagoevgrad",
+              "away": "panathinaikos-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "panathinaikos-fc",
+              "away": "ofc-pirin-blagoevgrad",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fk-viktoria-zizkov"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "chelsea-fc",
+              "away": "fk-viktoria-zizkov",
+              "score": "4:2"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "fk-viktoria-zizkov",
+              "away": "chelsea-fc",
+              "score": "0:0",
+              "note": "Played at Stadion Střelnice, Jablonec nad Nisou"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "nk-maribor",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "fk-austria-wien",
+              "away": "nk-maribor",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "brondby-if",
+              "away": "kf-tirana",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "kf-tirana",
+              "away": "brondby-if",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "ac-omonia",
+              "away": "arsenal-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "arsenal-fc",
+              "away": "ac-omonia",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "hjk-helsinki"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "besiktas-jk",
+              "away": "hjk-helsinki",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "hjk-helsinki",
+              "away": "besiktas-jk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "gnk-dinamo-zagreb",
+              "away": "aj-auxerre",
+              "score": "3:1"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "aj-auxerre",
+              "away": "gnk-dinamo-zagreb",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-bodoglimt",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "fk-bodoglimt",
+              "away": "uc-sampdoria",
+              "score": "3:2",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "uc-sampdoria",
+              "away": "fk-bodoglimt",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grasshopper-club",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "grasshopper-club",
+              "away": "fc-chornomorets-odesa",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "fc-chornomorets-odesa",
+              "away": "grasshopper-club",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "lks-lodz"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "fc-porto",
+              "away": "lks-lodz",
+              "score": "2:0"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "lks-lodz",
+              "away": "fc-porto",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1994-09-15",
+              "home": "pfc-cska-moscow",
+              "away": "ferencvarosi-tc",
+              "score": "2:1"
+            },
+            {
+              "date": "1994-09-29",
+              "home": "ferencvarosi-tc",
+              "away": "pfc-cska-moscow",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Ferencvárosi TC won 7:6 on penalties"
+            }
+          ],
+          "winner": "ferencvarosi-tc"
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "feyenoord",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "feyenoord",
+              "away": "sv-werder-bremen",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "sv-werder-bremen",
+              "away": "feyenoord",
+              "score": "3:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-tatran-presov",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "1-fc-tatran-presov",
+              "away": "real-zaragoza",
+              "score": "0:4"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "real-zaragoza",
+              "away": "1-fc-tatran-presov",
+              "score": "2:1",
+              "note": "Played at Mestalla, Valencia"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "club-brugge-kv",
+              "away": "panathinaikos-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "panathinaikos-fc",
+              "away": "club-brugge-kv",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "fk-austria-wien"
+          ],
+          "winner": "chelsea-fc",
+          "note": "Chelsea won on away goals",
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "chelsea-fc",
+              "away": "fk-austria-wien",
+              "score": "0:0"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "fk-austria-wien",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "brondby-if",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "brondby-if",
+              "away": "arsenal-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "arsenal-fc",
+              "away": "brondby-if",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "besiktas-jk",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "besiktas-jk",
+              "away": "aj-auxerre",
+              "score": "2:2"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "aj-auxerre",
+              "away": "besiktas-jk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "uc-sampdoria",
+              "away": "grasshopper-club",
+              "score": "3:0"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "grasshopper-club",
+              "away": "uc-sampdoria",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1994-10-20",
+              "home": "fc-porto",
+              "away": "ferencvarosi-tc",
+              "score": "6:0"
+            },
+            {
+              "date": "1994-11-03",
+              "home": "ferencvarosi-tc",
+              "away": "fc-porto",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-02-28",
+              "home": "club-brugge-kv",
+              "away": "chelsea-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-03-14",
+              "home": "chelsea-fc",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-02",
+              "home": "feyenoord",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            },
+            {
+              "date": "1995-03-16",
+              "home": "real-zaragoza",
+              "away": "feyenoord",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "aj-auxerre"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-02",
+              "home": "arsenal-fc",
+              "away": "aj-auxerre",
+              "score": "1:1"
+            },
+            {
+              "date": "1995-03-16",
+              "home": "aj-auxerre",
+              "away": "arsenal-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1995-03-02",
+              "home": "uc-sampdoria",
+              "away": "fc-porto",
+              "score": "0:1"
+            },
+            {
+              "date": "1995-03-16",
+              "home": "fc-porto",
+              "away": "uc-sampdoria",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "UC Sampdoria won 5:3 on penalties"
+            }
+          ],
+          "winner": "uc-sampdoria"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-06",
+              "home": "real-zaragoza",
+              "away": "chelsea-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1995-04-20",
+              "home": "chelsea-fc",
+              "away": "real-zaragoza",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1995-04-06",
+              "home": "arsenal-fc",
+              "away": "uc-sampdoria",
+              "score": "3:2"
+            },
+            {
+              "date": "1995-04-20",
+              "home": "uc-sampdoria",
+              "away": "arsenal-fc",
+              "score": "3:2",
+              "extra_time": true,
+              "note": "Arsenal FC won 3:2 on penalties"
+            }
+          ],
+          "winner": "arsenal-fc"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1995-05-10",
+              "home": "arsenal-fc",
+              "away": "real-zaragoza",
+              "score": "1:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Parc des Princes, Paris"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1991-92",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "sv-stockerau",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-08-21",
+              "home": "sv-stockerau",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:1",
+              "note": "Played at Praterstadion, Vienna"
+            },
+            {
+              "date": "1991-09-04",
+              "home": "tottenham-hotspur-fc",
+              "away": "sv-stockerau",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galway-united-fc",
+            "odense-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1991-08-21",
+              "home": "galway-united-fc",
+              "away": "odense-boldklub",
+              "score": "0:3",
+              "note": "Played at Ballinderreen GAA, Ballinderreen"
+            },
+            {
+              "date": "1991-09-03",
+              "home": "odense-boldklub",
+              "away": "galway-united-fc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "glenavon-fc",
+            "fc-ilves"
+          ],
+          "winner": "fc-ilves",
+          "note": "Ilves won on away goals",
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "glenavon-fc",
+              "away": "fc-ilves",
+              "score": "3:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-ilves",
+              "away": "glenavon-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "swansea-city-afc",
+              "away": "as-monaco-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "as-monaco-fc",
+              "away": "swansea-city-afc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "valur",
+              "away": "fc-sion",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-sion",
+              "away": "valur",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-17",
+              "home": "hnk-hajduk-split",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Played at Linzer Stadion, Linz (Austria): UEFA suspended Yugoslav teams from playing home matches in Yugoslavia due to the deteriorating security situation"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "tottenham-hotspur-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fyllingen-fotball",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "fyllingen-fotball",
+              "away": "atletico-madrid",
+              "score": "0:1",
+              "note": "Played at Brann Stadion, Bergen"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "atletico-madrid",
+              "away": "fyllingen-fotball",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "athinaikos-fc",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "athinaikos-fc",
+              "away": "manchester-united-fc",
+              "score": "0:0",
+              "note": "Played at Leoforos Alexandras Stadium, Athens"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "manchester-united-fc",
+              "away": "athinaikos-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "motherwell-fc"
+          ],
+          "winner": "gks-katowice",
+          "note": "GKS Katowice won on away goals",
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "gks-katowice",
+              "away": "motherwell-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "motherwell-fc",
+              "away": "gks-katowice",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-omonia",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "ac-omonia",
+              "away": "club-brugge-kv",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "club-brugge-kv",
+              "away": "ac-omonia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcm-bacau",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "fcm-bacau",
+              "away": "sv-werder-bremen",
+              "score": "0:6"
+            },
+            {
+              "date": "1991-10-01",
+              "home": "sv-werder-bremen",
+              "away": "fcm-bacau",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "pfc-levski-sofia",
+              "away": "ferencvarosi-tc",
+              "score": "2:3"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "ferencvarosi-tc",
+              "away": "pfc-levski-sofia",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eisenhuttenstadter-fc-stahl",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "eisenhuttenstadter-fc-stahl",
+              "away": "galatasaray-sk",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "galatasaray-sk",
+              "away": "eisenhuttenstadter-fc-stahl",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "odense-boldklub",
+            "fc-banik-ostrava"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "odense-boldklub",
+              "away": "fc-banik-ostrava",
+              "score": "0:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-banik-ostrava",
+              "away": "odense-boldklub",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-moscow",
+            "as-roma"
+          ],
+          "winner": "as-roma",
+          "note": "Roma won on away goals",
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "pfc-cska-moscow",
+              "away": "as-roma",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "as-roma",
+              "away": "pfc-cska-moscow",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "jeunesse-esch"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "ifk-norrkoping",
+              "away": "jeunesse-esch",
+              "score": "4:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "jeunesse-esch",
+              "away": "ifk-norrkoping",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-18",
+              "home": "fk-partizani",
+              "away": "feyenoord",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "feyenoord",
+              "away": "fk-partizani",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1991-09-19",
+              "home": "valletta-fc",
+              "away": "fc-porto",
+              "score": "0:3"
+            },
+            {
+              "date": "1991-10-02",
+              "home": "fc-porto",
+              "away": "valletta-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "ifk-norrkoping",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-22",
+              "home": "ifk-norrkoping",
+              "away": "as-monaco-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1991-11-05",
+              "home": "as-monaco-fc",
+              "away": "ifk-norrkoping",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "atletico-madrid",
+              "away": "manchester-united-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "manchester-united-fc",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "gks-katowice",
+              "away": "club-brugge-kv",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "club-brugge-kv",
+              "away": "gks-katowice",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "sv-werder-bremen",
+              "away": "ferencvarosi-tc",
+              "score": "3:2"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "ferencvarosi-tc",
+              "away": "sv-werder-bremen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fc-banik-ostrava"
+          ],
+          "winner": "galatasaray-sk",
+          "note": "Galatasaray won on away goals",
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "galatasaray-sk",
+              "away": "fc-banik-ostrava",
+              "score": "0:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "fc-banik-ostrava",
+              "away": "galatasaray-sk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "fc-ilves",
+              "away": "as-roma",
+              "score": "1:1"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "as-roma",
+              "away": "fc-ilves",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "fc-sion",
+              "away": "feyenoord",
+              "score": "0:0"
+            },
+            {
+              "date": "1991-11-06",
+              "home": "feyenoord",
+              "away": "fc-sion",
+              "score": "0:0",
+              "extra_time": true,
+              "note": "Feyenoord won 5:3 on penalties"
+            }
+          ],
+          "winner": "feyenoord"
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1991-10-23",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-porto",
+              "score": "3:1"
+            },
+            {
+              "date": "1991-11-07",
+              "home": "fc-porto",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "club-brugge-kv"
+          ],
+          "winner": "club-brugge-kv",
+          "note": "Club Brugge won on away goals",
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "atletico-madrid",
+              "away": "club-brugge-kv",
+              "score": "3:2"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "club-brugge-kv",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "sv-werder-bremen",
+              "away": "galatasaray-sk",
+              "score": "2:1"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "galatasaray-sk",
+              "away": "sv-werder-bremen",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "as-roma",
+              "away": "as-monaco-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "as-monaco-fc",
+              "away": "as-roma",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-03-04",
+              "home": "feyenoord",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-03-18",
+              "home": "tottenham-hotspur-fc",
+              "away": "feyenoord",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1992-04-01",
+              "home": "club-brugge-kv",
+              "away": "sv-werder-bremen",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-04-15",
+              "home": "sv-werder-bremen",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "feyenoord"
+          ],
+          "winner": "as-monaco-fc",
+          "note": "Monaco won on away goals",
+          "matches": [
+            {
+              "date": "1992-04-01",
+              "home": "as-monaco-fc",
+              "away": "feyenoord",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-04-15",
+              "home": "feyenoord",
+              "away": "as-monaco-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "sv-werder-bremen"
+          ],
+          "matches": [
+            {
+              "date": "1992-05-06",
+              "home": "as-monaco-fc",
+              "away": "sv-werder-bremen",
+              "score": "0:2",
+              "neutral": true,
+              "note": "Estádio da Luz, Lisbon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1971-72",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "boldklubben-1909",
+            "fk-austria-wien"
+          ],
+          "winner": "fk-austria-wien",
+          "note": "Austria Wien won on away goals",
+          "matches": [
+            {
+              "date": "1971-08-18",
+              "home": "boldklubben-1909",
+              "away": "fk-austria-wien",
+              "score": "4:2"
+            },
+            {
+              "date": "1971-08-25",
+              "home": "fk-austria-wien",
+              "away": "boldklubben-1909",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fram-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1971-08-28",
+              "home": "hibernians-fc",
+              "away": "fram-reykjavik",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-09-01",
+              "home": "fram-reykjavik",
+              "away": "hibernians-fc",
+              "score": "2:0",
+              "note": "Played at Empire Stadium, Gżira (Malta): both legs were played in Malta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "lisburn-distillery-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "lisburn-distillery-fc",
+              "away": "fc-barcelona",
+              "score": "1:3",
+              "note": "Played at Windsor Park, Belfast"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-barcelona",
+              "away": "lisburn-distillery-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-14",
+              "home": "hibernians-fc",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fcsb",
+              "away": "hibernians-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "servette-fc",
+              "away": "liverpool-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "liverpool-fc",
+              "away": "servette-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-viktoria-plzen",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-viktoria-plzen",
+              "away": "fc-bayern-munich",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fc-bayern-munich",
+              "away": "fc-viktoria-plzen",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "limerick-fc",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "limerick-fc",
+              "away": "torino-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "torino-fc",
+              "away": "limerick-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-city",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "fc-dinamo-city",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "fk-austria-wien",
+              "away": "fc-dinamo-city",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stade-rennais-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "stade-rennais-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-28",
+              "home": "rangers-fc",
+              "away": "stade-rennais-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "sporting-cp",
+              "away": "lyn-fotball",
+              "score": "4:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "lyn-fotball",
+              "away": "sporting-cp",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zaglebie-sosnowiec",
+            "atvidabergs-ff"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "zaglebie-sosnowiec",
+              "away": "atvidabergs-ff",
+              "score": "3:4"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "atvidabergs-ff",
+              "away": "zaglebie-sosnowiec",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-hautcharage",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "jeunesse-hautcharage",
+              "away": "chelsea-fc",
+              "score": "0:8",
+              "note": "Played at Stade Municipal, Luxembourg City"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "chelsea-fc",
+              "away": "jeunesse-hautcharage",
+              "score": "13:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "anorthosis-famagusta-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-23",
+              "home": "k-beerschot-vac",
+              "away": "anorthosis-famagusta-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "anorthosis-famagusta-fc",
+              "away": "k-beerschot-vac",
+              "score": "0:1",
+              "note": "Played at Olympisch Stadion, Antwerp (Belgium): both legs were played in Belgium"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "cardiff-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "bfc-dynamo",
+              "away": "cardiff-city-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "cardiff-city-fc",
+              "away": "bfc-dynamo",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "BFC Dynamo won 5:4 on penalties"
+            }
+          ],
+          "winner": "bfc-dynamo"
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "sparta-rotterdam"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-16",
+              "home": "pfc-levski-sofia",
+              "away": "sparta-rotterdam",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "sparta-rotterdam",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "komloi-banyasz-sk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "komloi-banyasz-sk",
+              "away": "red-star-belgrade",
+              "score": "2:7"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "red-star-belgrade",
+              "away": "komloi-banyasz-sk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mp-mikkeli",
+            "eskisehirspor"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "mp-mikkeli",
+              "away": "eskisehirspor",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-09-29",
+              "home": "eskisehirspor",
+              "away": "mp-mikkeli",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1971-09-15",
+              "home": "olympiacos-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "0:2"
+            },
+            {
+              "date": "1971-09-30",
+              "home": "fc-dynamo-moscow",
+              "away": "olympiacos-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "fc-barcelona",
+              "away": "fcsb",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fcsb",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "torino-fc",
+              "away": "fk-austria-wien",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fk-austria-wien",
+              "away": "torino-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "sporting-cp"
+          ],
+          "winner": "rangers-fc",
+          "note": "Rangers won on away goals; the referee wrongly ordered a penalty shoot-out, which Sporting won, but UEFA awarded the tie to Rangers",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "rangers-fc",
+              "away": "sporting-cp",
+              "score": "3:2"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "sporting-cp",
+              "away": "rangers-fc",
+              "score": "4:3",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-beerschot-vac",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "k-beerschot-vac",
+              "away": "bfc-dynamo",
+              "score": "1:3"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "bfc-dynamo",
+              "away": "k-beerschot-vac",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "liverpool-fc",
+              "away": "fc-bayern-munich",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fc-bayern-munich",
+              "away": "liverpool-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "sparta-rotterdam",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "red-star-belgrade",
+              "away": "sparta-rotterdam",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "chelsea-fc"
+          ],
+          "winner": "atvidabergs-ff",
+          "note": "Åtvidaberg won on away goals",
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "atvidabergs-ff",
+              "away": "chelsea-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "chelsea-fc",
+              "away": "atvidabergs-ff",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eskisehirspor",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1971-10-20",
+              "home": "eskisehirspor",
+              "away": "fc-dynamo-moscow",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-11-03",
+              "home": "fc-dynamo-moscow",
+              "away": "eskisehirspor",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fcsb",
+            "fc-bayern-munich"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "fcsb",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "fc-bayern-munich",
+              "away": "fcsb",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "torino-fc",
+              "away": "rangers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "rangers-fc",
+              "away": "torino-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "bfc-dynamo"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "atvidabergs-ff",
+              "away": "bfc-dynamo",
+              "score": "0:2",
+              "note": "Played at Råsunda Stadium, Solna"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "bfc-dynamo",
+              "away": "atvidabergs-ff",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1972-03-08",
+              "home": "red-star-belgrade",
+              "away": "fc-dynamo-moscow",
+              "score": "1:2"
+            },
+            {
+              "date": "1972-03-22",
+              "home": "fc-dynamo-moscow",
+              "away": "red-star-belgrade",
+              "score": "1:1",
+              "note": "Played at Pakhtakor Stadium, Tashkent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "fc-bayern-munich",
+              "away": "rangers-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-04-19",
+              "home": "rangers-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bfc-dynamo",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1972-04-05",
+              "home": "bfc-dynamo",
+              "away": "fc-dynamo-moscow",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-04-20",
+              "home": "fc-dynamo-moscow",
+              "away": "bfc-dynamo",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Played at Druzhba Stadium, Lviv; Dynamo Moscow won 4:1 on penalties"
+            }
+          ],
+          "winner": "fc-dynamo-moscow"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-dynamo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1972-05-24",
+              "home": "rangers-fc",
+              "away": "fc-dynamo-moscow",
+              "score": "3:2",
+              "neutral": true,
+              "note": "Camp Nou, Barcelona"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

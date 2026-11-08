@@ -1,0 +1,668 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1972-73",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "red-boys-differdange",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-06",
+              "home": "red-boys-differdange",
+              "away": "ac-milan",
+              "score": "1:4"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ac-milan",
+              "away": "red-boys-differdange",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pezoporikos-larnaca-fc",
+            "cork-hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-10",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "cork-hibernians-fc",
+              "score": "1:2",
+              "note": "Played at Flower Lodge, Cork (Ireland): both legs were played in Cork"
+            },
+            {
+              "date": "1972-09-13",
+              "home": "cork-hibernians-fc",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "sporting-cp",
+              "away": "hibernian-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "hibernian-fc",
+              "away": "sporting-cp",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fremad-amager",
+            "kf-besa"
+          ],
+          "winner": "kf-besa",
+          "note": "Besa won on away goals",
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fremad-amager",
+              "away": "kf-besa",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "kf-besa",
+              "away": "fremad-amager",
+              "score": "0:0",
+              "note": "Played at Niko Dovana Stadium, Durrës"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "r-standard-liege",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ac-sparta-prague",
+              "away": "r-standard-liege",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "fredrikstad-fk"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "hnk-hajduk-split",
+              "away": "fredrikstad-fk",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "fredrikstad-fk",
+              "away": "hnk-hajduk-split",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-rapid-bucuresti",
+            "landskrona-bois"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-rapid-bucuresti",
+              "away": "landskrona-bois",
+              "score": "3:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "landskrona-bois",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "wrexham-afc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-zurich",
+              "away": "wrexham-afc",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "wrexham-afc",
+              "away": "fc-zurich",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "paok-fc"
+          ],
+          "winner": "sk-rapid-wien",
+          "note": "Rapid Wien won on away goals",
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "sk-rapid-wien",
+              "away": "paok-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "paok-fc",
+              "away": "sk-rapid-wien",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mke-ankaragucu",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "mke-ankaragucu",
+              "away": "leeds-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "leeds-united-fc",
+              "away": "mke-ankaragucu",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "ado-den-haag"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-spartak-moscow",
+              "away": "ado-den-haag",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ado-den-haag",
+              "away": "fc-spartak-moscow",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vikingur-reykjavik",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "vikingur-reykjavik",
+              "away": "legia-warsaw",
+              "score": "0:2"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "legia-warsaw",
+              "away": "vikingur-reykjavik",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "mp-mikkeli"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-carl-zeiss-jena",
+              "away": "mp-mikkeli",
+              "score": "6:1"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "mp-mikkeli",
+              "away": "fc-carl-zeiss-jena",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-13",
+              "home": "fc-schalke-04",
+              "away": "pfc-slavia-sofia",
+              "score": "2:1"
+            },
+            {
+              "date": "1972-09-28",
+              "home": "pfc-slavia-sofia",
+              "away": "fc-schalke-04",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-14",
+              "home": "sc-bastia",
+              "away": "atletico-madrid",
+              "score": "0:0",
+              "note": "Played at Stade François Coty, Ajaccio"
+            },
+            {
+              "date": "1972-09-26",
+              "home": "atletico-madrid",
+              "away": "sc-bastia",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1972-09-20",
+              "home": "floriana-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            },
+            {
+              "date": "1972-09-27",
+              "home": "ferencvarosi-tc",
+              "away": "floriana-fc",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "sk-rapid-wien",
+              "away": "fc-rapid-bucuresti",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "fc-rapid-bucuresti",
+              "away": "sk-rapid-wien",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "fc-carl-zeiss-jena",
+              "away": "leeds-united-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "leeds-united-fc",
+              "away": "fc-carl-zeiss-jena",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wrexham-afc",
+            "hnk-hajduk-split"
+          ],
+          "winner": "hnk-hajduk-split",
+          "note": "Hajduk Split won on away goals",
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "wrexham-afc",
+              "away": "hnk-hajduk-split",
+              "score": "3:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "hnk-hajduk-split",
+              "away": "wrexham-afc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-hibernians-fc",
+            "fc-schalke-04"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "cork-hibernians-fc",
+              "away": "fc-schalke-04",
+              "score": "0:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "fc-schalke-04",
+              "away": "cork-hibernians-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fc-spartak-moscow"
+          ],
+          "winner": "fc-spartak-moscow",
+          "note": "Spartak Moscow won on away goals",
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "atletico-madrid",
+              "away": "fc-spartak-moscow",
+              "score": "3:4"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "fc-spartak-moscow",
+              "away": "atletico-madrid",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "kf-besa"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "hibernian-fc",
+              "away": "kf-besa",
+              "score": "7:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "kf-besa",
+              "away": "hibernian-fc",
+              "score": "1:1",
+              "note": "Played at Niko Dovana Stadium, Durrës"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "ferencvarosi-tc",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "ac-sparta-prague",
+              "away": "ferencvarosi-tc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1972-10-25",
+              "home": "legia-warsaw",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1972-11-08",
+              "home": "ac-milan",
+              "away": "legia-warsaw",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "fc-rapid-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "leeds-united-fc",
+              "away": "fc-rapid-bucuresti",
+              "score": "5:0"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "fc-rapid-bucuresti",
+              "away": "leeds-united-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "hibernian-fc",
+              "away": "hnk-hajduk-split",
+              "score": "4:2"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "hnk-hajduk-split",
+              "away": "hibernian-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-schalke-04",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "fc-schalke-04",
+              "away": "ac-sparta-prague",
+              "score": "2:1"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "ac-sparta-prague",
+              "away": "fc-schalke-04",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1973-03-07",
+              "home": "fc-spartak-moscow",
+              "away": "ac-milan",
+              "score": "0:1",
+              "note": "Played at Central Stadium, Sochi"
+            },
+            {
+              "date": "1973-03-21",
+              "home": "ac-milan",
+              "away": "fc-spartak-moscow",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1973-04-11",
+              "home": "leeds-united-fc",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "hnk-hajduk-split",
+              "away": "leeds-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1973-04-11",
+              "home": "ac-milan",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "1973-04-25",
+              "home": "ac-sparta-prague",
+              "away": "ac-milan",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1973-05-16",
+              "home": "ac-milan",
+              "away": "leeds-united-fc",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Kaftanzoglio Stadium, Thessaloniki"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

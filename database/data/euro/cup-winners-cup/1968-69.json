@@ -1,0 +1,570 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1968-69",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "apoel-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "dunfermline-athletic-fc",
+              "away": "apoel-fc",
+              "score": "10:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "apoel-fc",
+              "away": "dunfermline-athletic-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "kr-reykjavik"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-20",
+              "home": "olympiacos-fc",
+              "away": "kr-reykjavik",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-09-22",
+              "home": "kr-reykjavik",
+              "away": "olympiacos-fc",
+              "score": "0:2",
+              "note": "Played at Kaftanzoglio Stadium, Thessaloniki (Greece): both legs were played in Greece"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "gyori-eto-fc"
+          ],
+          "winner": "fc-dinamo-bucuresti",
+          "note": "Walkover: Rába ETO withdrew, like other Eastern Bloc clubs, after UEFA redrew the first round following the Warsaw Pact invasion of Czechoslovakia",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "west-bromwich-albion-fc"
+          ],
+          "winner": "west-bromwich-albion-fc",
+          "note": "West Bromwich Albion won on away goals",
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "club-brugge-kv",
+              "away": "west-bromwich-albion-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "west-bromwich-albion-fc",
+              "away": "club-brugge-kv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizani",
+            "torino-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "fk-partizani",
+              "away": "torino-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "torino-fc",
+              "away": "fk-partizani",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "cardiff-city-fc",
+              "away": "fc-porto",
+              "score": "2:2"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "fc-porto",
+              "away": "cardiff-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "fk-bor-1919"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "sk-slovan-bratislava",
+              "away": "fk-bor-1919",
+              "score": "3:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "fk-bor-1919",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ado-den-haag",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-19",
+              "home": "ado-den-haag",
+              "away": "grazer-ak",
+              "score": "4:1"
+            },
+            {
+              "date": "1968-10-03",
+              "home": "grazer-ak",
+              "away": "ado-den-haag",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "1-fc-koln",
+              "score": "2:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "1-fc-koln",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-sportsklub-freja",
+            "shamrock-rovers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "randers-sportsklub-freja",
+              "away": "shamrock-rovers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "shamrock-rovers-fc",
+              "away": "randers-sportsklub-freja",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "us-rumelange",
+            "sliema-wanderers-fc"
+          ],
+          "winner": "sliema-wanderers-fc",
+          "note": "Sliema Wanderers won on away goals",
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "us-rumelange",
+              "away": "sliema-wanderers-fc",
+              "score": "2:1",
+              "note": "Played at Stade de la Frontière, Esch-sur-Alzette"
+            },
+            {
+              "date": "1968-09-29",
+              "home": "sliema-wanderers-fc",
+              "away": "us-rumelange",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lugano",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "fc-lugano",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "fc-barcelona",
+              "away": "fc-lugano",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "altay-sk",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "altay-sk",
+              "away": "lyn-fotball",
+              "score": "3:1"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "lyn-fotball",
+              "away": "altay-sk",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "crusaders-fc",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1968-09-18",
+              "home": "crusaders-fc",
+              "away": "ifk-norrkoping",
+              "score": "2:2"
+            },
+            {
+              "date": "1968-10-02",
+              "home": "ifk-norrkoping",
+              "away": "crusaders-fc",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "dunfermline-athletic-fc",
+              "away": "olympiacos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "olympiacos-fc",
+              "away": "dunfermline-athletic-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "fc-dinamo-bucuresti",
+              "away": "west-bromwich-albion-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "west-bromwich-albion-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "fc-porto",
+              "away": "sk-slovan-bratislava",
+              "score": "1:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-porto",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ado-den-haag",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-12",
+              "home": "ado-den-haag",
+              "away": "1-fc-koln",
+              "score": "0:1"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "1-fc-koln",
+              "away": "ado-den-haag",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "randers-sportsklub-freja",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1968-11-13",
+              "home": "randers-sportsklub-freja",
+              "away": "sliema-wanderers-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1968-11-27",
+              "home": "sliema-wanderers-fc",
+              "away": "randers-sportsklub-freja",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lyn-fotball",
+            "ifk-norrkoping"
+          ],
+          "matches": [
+            {
+              "date": "1968-10-31",
+              "home": "lyn-fotball",
+              "away": "ifk-norrkoping",
+              "score": "2:0"
+            },
+            {
+              "date": "1968-11-17",
+              "home": "ifk-norrkoping",
+              "away": "lyn-fotball",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "west-bromwich-albion-fc"
+          ],
+          "matches": [
+            {
+              "date": "1969-01-15",
+              "home": "dunfermline-athletic-fc",
+              "away": "west-bromwich-albion-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1969-02-19",
+              "home": "west-bromwich-albion-fc",
+              "away": "dunfermline-athletic-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "torino-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1969-02-19",
+              "home": "torino-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "0:1"
+            },
+            {
+              "date": "1969-03-05",
+              "home": "sk-slovan-bratislava",
+              "away": "torino-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "randers-sportsklub-freja"
+          ],
+          "matches": [
+            {
+              "date": "1969-03-08",
+              "home": "1-fc-koln",
+              "away": "randers-sportsklub-freja",
+              "score": "2:1"
+            },
+            {
+              "date": "1969-03-12",
+              "home": "randers-sportsklub-freja",
+              "away": "1-fc-koln",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "lyn-fotball"
+          ],
+          "matches": [
+            {
+              "date": "1969-01-30",
+              "home": "fc-barcelona",
+              "away": "lyn-fotball",
+              "score": "3:2"
+            },
+            {
+              "date": "1969-02-08",
+              "home": "lyn-fotball",
+              "away": "fc-barcelona",
+              "score": "2:2",
+              "note": "Played at Camp Nou, Barcelona (Spain): both legs were played in Barcelona"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "dunfermline-athletic-fc",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1969-04-09",
+              "home": "dunfermline-athletic-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            },
+            {
+              "date": "1969-04-23",
+              "home": "sk-slovan-bratislava",
+              "away": "dunfermline-athletic-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1969-04-02",
+              "home": "1-fc-koln",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1969-04-19",
+              "home": "fc-barcelona",
+              "away": "1-fc-koln",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1969-05-21",
+              "home": "fc-barcelona",
+              "away": "sk-slovan-bratislava",
+              "score": "2:3",
+              "neutral": true,
+              "note": "St. Jakob Stadium, Basel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

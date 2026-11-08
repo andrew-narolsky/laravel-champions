@@ -1,0 +1,662 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1974-75",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "stromsgodset"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-17",
+              "home": "liverpool-fc",
+              "away": "stromsgodset",
+              "score": "11:0"
+            },
+            {
+              "date": "1974-10-01",
+              "home": "stromsgodset",
+              "away": "liverpool-fc",
+              "score": "0:1",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-17",
+              "home": "eintracht-frankfurt",
+              "away": "as-monaco-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "as-monaco-fc",
+              "away": "eintracht-frankfurt",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "ards-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "psv-eindhoven",
+              "away": "ards-fc",
+              "score": "10:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "ards-fc",
+              "away": "psv-eindhoven",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "fc-dynamo-kyiv",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "pfc-cska-sofia",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paok-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "paok-fc",
+              "away": "red-star-belgrade",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "red-star-belgrade",
+              "away": "paok-fc",
+              "score": "2:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gwardia-warsaw",
+            "bologna-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "gwardia-warsaw",
+              "away": "bologna-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "bologna-fc",
+              "away": "gwardia-warsaw",
+              "score": "2:1",
+              "extra_time": true,
+              "note": "Gwardia Warsaw won 5:3 on penalties"
+            }
+          ],
+          "winner": "gwardia-warsaw"
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "vanlose-if"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sl-benfica",
+              "away": "vanlose-if",
+              "score": "4:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "vanlose-if",
+              "away": "sl-benfica",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "cardiff-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "ferencvarosi-tc",
+              "away": "cardiff-city-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "cardiff-city-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksv-waregem",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "ksv-waregem",
+              "away": "fk-austria-wien",
+              "score": "2:1"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fk-austria-wien",
+              "away": "ksv-waregem",
+              "score": "4:1",
+              "note": "Played at Bundesstadion Südstadt, Maria Enzersdorf"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bursaspor",
+            "finn-harps-fc"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "bursaspor",
+              "away": "finn-harps-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "finn-harps-fc",
+              "away": "bursaspor",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "csm-jiul-petrosani"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "dundee-united-fc",
+              "away": "csm-jiul-petrosani",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "csm-jiul-petrosani",
+              "away": "dundee-united-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "malmo-ff",
+              "away": "fc-sion",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-sion",
+              "away": "malmo-ff",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "Malmö FF won 5:4 on penalties"
+            }
+          ],
+          "winner": "malmo-ff"
+        },
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "reipas-lahti"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sliema-wanderers-fc",
+              "away": "reipas-lahti",
+              "score": "2:0"
+            },
+            {
+              "date": "1974-10-01",
+              "home": "reipas-lahti",
+              "away": "sliema-wanderers-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slavia-prague",
+            "fc-carl-zeiss-jena"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-18",
+              "home": "sk-slavia-prague",
+              "away": "fc-carl-zeiss-jena",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-10-02",
+              "home": "fc-carl-zeiss-jena",
+              "away": "sk-slavia-prague",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "FC Carl Zeiss Jena won 3:2 on penalties"
+            }
+          ],
+          "winner": "fc-carl-zeiss-jena"
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1974-09-19",
+              "home": "fram-reykjavik",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            },
+            {
+              "date": "1974-10-01",
+              "home": "real-madrid-cf",
+              "away": "fram-reykjavik",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "enosis-neon-paralimni-fc"
+          ],
+          "winner": "fc-avenir-beggen",
+          "note": "Walkover: Enosis Neon Paralimni withdrew because of the political situation in Cyprus",
+          "matches": []
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "bursaspor"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "dundee-united-fc",
+              "away": "bursaspor",
+              "score": "0:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "bursaspor",
+              "away": "dundee-united-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-carl-zeiss-jena",
+            "sl-benfica"
+          ],
+          "winner": "sl-benfica",
+          "note": "Benfica won on away goals",
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-carl-zeiss-jena",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "sl-benfica",
+              "away": "fc-carl-zeiss-jena",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "reipas-lahti"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "malmo-ff",
+              "away": "reipas-lahti",
+              "score": "3:1"
+            },
+            {
+              "date": "1974-11-03",
+              "home": "reipas-lahti",
+              "away": "malmo-ff",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gwardia-warsaw",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "gwardia-warsaw",
+              "away": "psv-eindhoven",
+              "score": "1:5"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "psv-eindhoven",
+              "away": "gwardia-warsaw",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "fc-avenir-beggen",
+              "away": "red-star-belgrade",
+              "score": "1:6"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "red-star-belgrade",
+              "away": "fc-avenir-beggen",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "real-madrid-cf",
+              "away": "fk-austria-wien",
+              "score": "3:0"
+            },
+            {
+              "date": "1974-11-06",
+              "home": "fk-austria-wien",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "eintracht-frankfurt",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:3"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "fc-dynamo-kyiv",
+              "away": "eintracht-frankfurt",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "ferencvarosi-tc"
+          ],
+          "winner": "ferencvarosi-tc",
+          "note": "Ferencváros won on away goals",
+          "matches": [
+            {
+              "date": "1974-10-23",
+              "home": "liverpool-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:1"
+            },
+            {
+              "date": "1974-11-05",
+              "home": "ferencvarosi-tc",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "real-madrid-cf",
+              "away": "red-star-belgrade",
+              "score": "2:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "red-star-belgrade",
+              "away": "real-madrid-cf",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Red Star Belgrade won 6:5 on penalties"
+            }
+          ],
+          "winner": "red-star-belgrade"
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "malmo-ff",
+              "away": "ferencvarosi-tc",
+              "score": "1:3"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "ferencvarosi-tc",
+              "away": "malmo-ff",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "psv-eindhoven",
+              "away": "sl-benfica",
+              "score": "0:0"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "sl-benfica",
+              "away": "psv-eindhoven",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bursaspor",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1975-03-05",
+              "home": "bursaspor",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "1975-03-19",
+              "home": "fc-dynamo-kyiv",
+              "away": "bursaspor",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ferencvarosi-tc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-09",
+              "home": "ferencvarosi-tc",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1975-04-23",
+              "home": "red-star-belgrade",
+              "away": "ferencvarosi-tc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1975-04-09",
+              "home": "fc-dynamo-kyiv",
+              "away": "psv-eindhoven",
+              "score": "3:0"
+            },
+            {
+              "date": "1975-04-23",
+              "home": "psv-eindhoven",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1975-05-14",
+              "home": "fc-dynamo-kyiv",
+              "away": "ferencvarosi-tc",
+              "score": "3:0",
+              "neutral": true,
+              "note": "St. Jakob Stadium, Basel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

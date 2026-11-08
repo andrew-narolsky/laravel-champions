@@ -1,0 +1,522 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1962-63",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "ofk-beograd",
+            "hallescher-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-05",
+              "home": "ofk-beograd",
+              "away": "hallescher-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1962-09-19",
+              "home": "hallescher-fc",
+              "away": "ofk-beograd",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bangor-city-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-05",
+              "home": "bangor-city-fc",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            },
+            {
+              "date": "1962-09-26",
+              "home": "ssc-napoli",
+              "away": "bangor-city-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1962-10-10",
+              "home": "ssc-napoli",
+              "away": "bangor-city-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Play-off, Highbury, London"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "sparta-rotterdam"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-19",
+              "home": "fc-lausanne-sport",
+              "away": "sparta-rotterdam",
+              "score": "3:0"
+            },
+            {
+              "date": "1962-10-03",
+              "home": "sparta-rotterdam",
+              "away": "fc-lausanne-sport",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-05",
+              "home": "rangers-fc",
+              "away": "sevilla-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1962-09-26",
+              "home": "sevilla-fc",
+              "away": "rangers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-20",
+              "home": "as-saint-etienne",
+              "away": "vitoria-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-09-23",
+              "home": "vitoria-fc",
+              "away": "as-saint-etienne",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "alliance-dudelange",
+            "boldklubben-1909"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-05",
+              "home": "alliance-dudelange",
+              "away": "boldklubben-1909",
+              "score": "1:1",
+              "note": "Played at Stade Émile Mayrisch, Esch-sur-Alzette"
+            },
+            {
+              "date": "1962-09-18",
+              "home": "boldklubben-1909",
+              "away": "alliance-dudelange",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fcsb",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-13",
+              "home": "fcsb",
+              "away": "botev-plovdiv",
+              "score": "3:2"
+            },
+            {
+              "date": "1962-09-19",
+              "home": "botev-plovdiv",
+              "away": "fcsb",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "zaglebie-sosnowiec"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-12",
+              "home": "ujpest-fc",
+              "away": "zaglebie-sosnowiec",
+              "score": "5:0"
+            },
+            {
+              "date": "1962-09-26",
+              "home": "zaglebie-sosnowiec",
+              "away": "ujpest-fc",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "ofk-beograd",
+            "portadown-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-11-07",
+              "home": "ofk-beograd",
+              "away": "portadown-fc",
+              "score": "5:1"
+            },
+            {
+              "date": "1962-11-21",
+              "home": "portadown-fc",
+              "away": "ofk-beograd",
+              "score": "3:2",
+              "note": "Played at Windsor Park, Belfast"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1962-11-14",
+              "home": "ujpest-fc",
+              "away": "ssc-napoli",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-11-28",
+              "home": "ssc-napoli",
+              "away": "ujpest-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-12-04",
+              "home": "ssc-napoli",
+              "away": "ujpest-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Stade Olympique de la Pontaise, Lausanne"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1962-11-14",
+              "home": "fc-lausanne-sport",
+              "away": "sk-slovan-bratislava",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-11-28",
+              "home": "sk-slovan-bratislava",
+              "away": "fc-lausanne-sport",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-10-31",
+              "home": "tottenham-hotspur-fc",
+              "away": "rangers-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1962-12-11",
+              "home": "rangers-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-saint-etienne",
+            "1-fc-nurnberg"
+          ],
+          "matches": [
+            {
+              "date": "1962-10-18",
+              "home": "as-saint-etienne",
+              "away": "1-fc-nurnberg",
+              "score": "0:0"
+            },
+            {
+              "date": "1962-11-14",
+              "home": "1-fc-nurnberg",
+              "away": "as-saint-etienne",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "grazer-ak",
+            "boldklubben-1909"
+          ],
+          "matches": [
+            {
+              "date": "1962-10-30",
+              "home": "grazer-ak",
+              "away": "boldklubben-1909",
+              "score": "1:1"
+            },
+            {
+              "date": "1962-11-14",
+              "home": "boldklubben-1909",
+              "away": "grazer-ak",
+              "score": "5:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1962-10-24",
+              "home": "shamrock-rovers-fc",
+              "away": "botev-plovdiv",
+              "score": "0:4"
+            },
+            {
+              "date": "1962-11-14",
+              "home": "botev-plovdiv",
+              "away": "shamrock-rovers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "hibernians-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-10-24",
+              "home": "atletico-madrid",
+              "away": "hibernians-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1962-11-07",
+              "home": "hibernians-fc",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "ofk-beograd",
+            "ssc-napoli"
+          ],
+          "matches": [
+            {
+              "date": "1963-02-06",
+              "home": "ofk-beograd",
+              "away": "ssc-napoli",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-03-20",
+              "home": "ssc-napoli",
+              "away": "ofk-beograd",
+              "score": "3:1"
+            },
+            {
+              "date": "1963-04-03",
+              "home": "ofk-beograd",
+              "away": "ssc-napoli",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Stade Vélodrome, Marseille"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-slovan-bratislava",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-03-05",
+              "home": "sk-slovan-bratislava",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1963-03-14",
+              "home": "tottenham-hotspur-fc",
+              "away": "sk-slovan-bratislava",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1909",
+            "1-fc-nurnberg"
+          ],
+          "matches": [
+            {
+              "date": "1963-03-21",
+              "home": "boldklubben-1909",
+              "away": "1-fc-nurnberg",
+              "score": "0:1",
+              "note": "Played at Rosenaustadion, Augsburg (West Germany): both legs were played in West Germany"
+            },
+            {
+              "date": "1963-03-24",
+              "home": "1-fc-nurnberg",
+              "away": "boldklubben-1909",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1963-02-27",
+              "home": "botev-plovdiv",
+              "away": "atletico-madrid",
+              "score": "1:1"
+            },
+            {
+              "date": "1963-03-13",
+              "home": "atletico-madrid",
+              "away": "botev-plovdiv",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "ofk-beograd",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-04-24",
+              "home": "ofk-beograd",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1963-05-01",
+              "home": "tottenham-hotspur-fc",
+              "away": "ofk-beograd",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-nurnberg",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1963-04-10",
+              "home": "1-fc-nurnberg",
+              "away": "atletico-madrid",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-04-24",
+              "home": "atletico-madrid",
+              "away": "1-fc-nurnberg",
+              "score": "2:0",
+              "note": "Played at Santiago Bernabéu, Madrid, to allow a larger attendance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-05-15",
+              "home": "atletico-madrid",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:5",
+              "neutral": true,
+              "note": "Feijenoord Stadion, Rotterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1992-93",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1992%E2%80%9393_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "nk-maribor",
+            "hamrun-spartans-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "nk-maribor",
+              "away": "hamrun-spartans-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "hamrun-spartans-fc",
+              "away": "nk-maribor",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-vaduz",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "fc-vaduz",
+              "away": "fc-chornomorets-odesa",
+              "score": "0:5"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "fc-chornomorets-odesa",
+              "away": "fc-vaduz",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "b36-torshavn"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "fc-avenir-beggen",
+              "away": "b36-torshavn",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "b36-torshavn",
+              "away": "fc-avenir-beggen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "hapoel-petah-tikva-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-08-19",
+              "home": "stromsgodset",
+              "away": "hapoel-petah-tikva-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1992-09-02",
+              "home": "hapoel-petah-tikva-fc",
+              "away": "stromsgodset",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aik-fotboll",
+            "agf-aarhus"
+          ],
+          "winner": "agf-aarhus",
+          "note": "AGF won on away goals",
+          "matches": [
+            {
+              "date": "1992-09-15",
+              "home": "aik-fotboll",
+              "away": "agf-aarhus",
+              "score": "3:3",
+              "note": "Played at Råsunda Stadium, Solna"
+            },
+            {
+              "date": "1992-09-29",
+              "home": "agf-aarhus",
+              "away": "aik-fotboll",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "airdrieonians-fc-1878",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-15",
+              "home": "airdrieonians-fc-1878",
+              "away": "ac-sparta-prague",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "ac-sparta-prague",
+              "away": "airdrieonians-fc-1878",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glenavon-fc",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-15",
+              "home": "glenavon-fc",
+              "away": "r-antwerp-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "r-antwerp-fc",
+              "away": "glenavon-fc",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "R Antwerp FC won 3:1 on penalties"
+            }
+          ],
+          "winner": "r-antwerp-fc"
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "hannover-96"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-15",
+              "home": "sv-werder-bremen",
+              "away": "hannover-96",
+              "score": "3:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "hannover-96",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "miedz-legnica",
+            "as-monaco-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "miedz-legnica",
+              "away": "as-monaco-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "as-monaco-fc",
+              "away": "miedz-legnica",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "tps-turku"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "trabzonspor",
+              "away": "tps-turku",
+              "score": "2:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "tps-turku",
+              "away": "trabzonspor",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-maribor",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "nk-maribor",
+              "away": "atletico-madrid",
+              "score": "0:3"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "atletico-madrid",
+              "away": "nk-maribor",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fc-luzern"
+          ],
+          "winner": "fc-luzern",
+          "note": "Luzern won on away goals",
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "pfc-levski-sofia",
+              "away": "fc-luzern",
+              "score": "2:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fc-luzern",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "fc-avenir-beggen"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "fc-spartak-moscow",
+              "away": "fc-avenir-beggen",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fc-avenir-beggen",
+              "away": "fc-spartak-moscow",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "admira-wacker"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "cardiff-city-fc",
+              "away": "admira-wacker",
+              "score": "1:1"
+            },
+            {
+              "date": "1992-09-29",
+              "home": "admira-wacker",
+              "away": "cardiff-city-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "bohemian-fc",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-09-29",
+              "home": "fcsb",
+              "away": "bohemian-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "liverpool-fc",
+              "away": "apollon-limassol-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "1992-09-29",
+              "home": "apollon-limassol-fc",
+              "away": "liverpool-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "feyenoord",
+            "hapoel-petah-tikva-fc"
+          ],
+          "winner": "feyenoord",
+          "note": "Feyenoord won on away goals",
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "feyenoord",
+              "away": "hapoel-petah-tikva-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "hapoel-petah-tikva-fc",
+              "away": "feyenoord",
+              "score": "2:1",
+              "note": "Played at Ramat Gan Stadium, Ramat Gan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-16",
+              "home": "parma-calcio",
+              "away": "ujpest-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-10-01",
+              "home": "ujpest-fc",
+              "away": "parma-calcio",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valur",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-17",
+              "home": "valur",
+              "away": "boavista-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-10-01",
+              "home": "boavista-fc",
+              "away": "valur",
+              "score": "3:0",
+              "note": "Played at Estádio Municipal Dr. Alves Vieira, Torres Novas"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "fc-chornomorets-odesa"
+          ],
+          "matches": [
+            {
+              "date": "1992-09-17",
+              "home": "olympiacos-fc",
+              "away": "fc-chornomorets-odesa",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-09-30",
+              "home": "fc-chornomorets-odesa",
+              "away": "olympiacos-fc",
+              "score": "0:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "trabzonspor",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "trabzonspor",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "atletico-madrid",
+              "away": "trabzonspor",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "parma-calcio",
+            "boavista-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "parma-calcio",
+              "away": "boavista-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "boavista-fc",
+              "away": "parma-calcio",
+              "score": "0:2",
+              "note": "Played at Estádio Municipal Dr. Alves Vieira, Torres Novas"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-luzern",
+            "feyenoord"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "fc-luzern",
+              "away": "feyenoord",
+              "score": "1:0"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "feyenoord",
+              "away": "fc-luzern",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "sv-werder-bremen",
+              "away": "ac-sparta-prague",
+              "score": "2:3"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "ac-sparta-prague",
+              "away": "sv-werder-bremen",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-monaco-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "as-monaco-fc",
+              "away": "olympiacos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "olympiacos-fc",
+              "away": "as-monaco-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "fcsb"
+          ],
+          "winner": "fcsb",
+          "note": "Steaua București won on away goals",
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "agf-aarhus",
+              "away": "fcsb",
+              "score": "3:2"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "fcsb",
+              "away": "agf-aarhus",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "admira-wacker",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-21",
+              "home": "admira-wacker",
+              "away": "r-antwerp-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "r-antwerp-fc",
+              "away": "admira-wacker",
+              "score": "3:4",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1992-10-22",
+              "home": "fc-spartak-moscow",
+              "away": "liverpool-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1992-11-04",
+              "home": "liverpool-fc",
+              "away": "fc-spartak-moscow",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "feyenoord",
+            "fc-spartak-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1993-03-02",
+              "home": "feyenoord",
+              "away": "fc-spartak-moscow",
+              "score": "0:1"
+            },
+            {
+              "date": "1993-03-18",
+              "home": "fc-spartak-moscow",
+              "away": "feyenoord",
+              "score": "3:1",
+              "note": "Played at Torpedo Stadium, Moscow (the match at Luzhniki Stadium on 17 March was cancelled due to bad pitch condition)"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "parma-calcio"
+          ],
+          "matches": [
+            {
+              "date": "1993-03-03",
+              "home": "ac-sparta-prague",
+              "away": "parma-calcio",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-03-17",
+              "home": "parma-calcio",
+              "away": "ac-sparta-prague",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-antwerp-fc",
+            "fcsb"
+          ],
+          "winner": "r-antwerp-fc",
+          "note": "Antwerp won on away goals",
+          "matches": [
+            {
+              "date": "1993-03-04",
+              "home": "r-antwerp-fc",
+              "away": "fcsb",
+              "score": "0:0"
+            },
+            {
+              "date": "1993-03-17",
+              "home": "fcsb",
+              "away": "r-antwerp-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1993-03-04",
+              "home": "olympiacos-fc",
+              "away": "atletico-madrid",
+              "score": "1:1",
+              "note": "Played at Olympic Stadium, Athens"
+            },
+            {
+              "date": "1993-03-18",
+              "home": "atletico-madrid",
+              "away": "olympiacos-fc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "atletico-madrid",
+            "parma-calcio"
+          ],
+          "winner": "parma-calcio",
+          "note": "Parma won on away goals",
+          "matches": [
+            {
+              "date": "1993-04-06",
+              "home": "atletico-madrid",
+              "away": "parma-calcio",
+              "score": "1:2"
+            },
+            {
+              "date": "1993-04-22",
+              "home": "parma-calcio",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-moscow",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-04-07",
+              "home": "fc-spartak-moscow",
+              "away": "r-antwerp-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1993-04-22",
+              "home": "r-antwerp-fc",
+              "away": "fc-spartak-moscow",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "parma-calcio",
+            "r-antwerp-fc"
+          ],
+          "matches": [
+            {
+              "date": "1993-05-12",
+              "home": "parma-calcio",
+              "away": "r-antwerp-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Wembley Stadium, London"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

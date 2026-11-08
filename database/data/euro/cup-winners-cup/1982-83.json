@@ -1,0 +1,707 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1982-83",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "sc-braga"
+          ],
+          "matches": [
+            {
+              "date": "1982-08-17",
+              "home": "swansea-city-afc",
+              "away": "sc-braga",
+              "score": "3:0"
+            },
+            {
+              "date": "1982-08-25",
+              "home": "sc-braga",
+              "away": "swansea-city-afc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1982-08-18",
+              "home": "aberdeen-fc",
+              "away": "fc-sion",
+              "score": "7:0"
+            },
+            {
+              "date": "1982-09-01",
+              "home": "fc-sion",
+              "away": "aberdeen-fc",
+              "score": "1:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "coleraine-fc",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "coleraine-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "0:3"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "tottenham-hotspur-fc",
+              "away": "coleraine-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "fc-bayern-munich"
+          ],
+          "winner": "fc-bayern-munich",
+          "note": "Bayern Munich won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-torpedo-moscow",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-bayern-munich",
+              "away": "fc-torpedo-moscow",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-dinamo-city"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "aberdeen-fc",
+              "away": "fc-dinamo-city",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-dinamo-city",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ibv-vestmannaeyjar",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-14",
+              "home": "ibv-vestmannaeyjar",
+              "away": "lech-poznan",
+              "score": "0:1",
+              "note": "Played at Kópavogsvöllur, Kópavogur"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "lech-poznan",
+              "away": "ibv-vestmannaeyjar",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "swansea-city-afc",
+              "away": "sliema-wanderers-fc",
+              "score": "12:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "sliema-wanderers-fc",
+              "away": "swansea-city-afc",
+              "score": "0:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lokomotiv-1929-sofia",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-lokomotiv-1929-sofia",
+              "away": "paris-saint-germain-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-09-28",
+              "home": "paris-saint-germain-fc",
+              "away": "fc-lokomotiv-1929-sofia",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sg-dynamo-dresden",
+            "boldklubben-1893"
+          ],
+          "winner": "boldklubben-1893",
+          "note": "B 93 won on away goals",
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "sg-dynamo-dresden",
+              "away": "boldklubben-1893",
+              "score": "3:2"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "boldklubben-1893",
+              "away": "sg-dynamo-dresden",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "k-waterschei-sv-thor",
+            "red-boys-differdange"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-22",
+              "home": "k-waterschei-sv-thor",
+              "away": "red-boys-differdange",
+              "score": "7:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "red-boys-differdange",
+              "away": "k-waterschei-sv-thor",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fc-kuusysi"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "galatasaray-sk",
+              "away": "fc-kuusysi",
+              "score": "2:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "fc-kuusysi",
+              "away": "galatasaray-sk",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "panathinaikos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fk-austria-wien",
+              "away": "panathinaikos-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "panathinaikos-fc",
+              "away": "fk-austria-wien",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "lillestrom-sk",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "lillestrom-sk",
+              "away": "red-star-belgrade",
+              "score": "0:4"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "red-star-belgrade",
+              "away": "lillestrom-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "fc-barcelona",
+              "away": "apollon-limassol-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "apollon-limassol-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "limerick-fc",
+            "az-alkmaar"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "limerick-fc",
+              "away": "az-alkmaar",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-30",
+              "home": "az-alkmaar",
+              "away": "limerick-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "sk-slovan-bratislava"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "inter-milan",
+              "away": "sk-slovan-bratislava",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "sk-slovan-bratislava",
+              "away": "inter-milan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-minaur-baia-mare",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "cs-minaur-baia-mare",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "real-madrid-cf",
+              "away": "cs-minaur-baia-mare",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ifk-goteborg",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-09-15",
+              "home": "ifk-goteborg",
+              "away": "ujpest-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-09-29",
+              "home": "ujpest-fc",
+              "away": "ifk-goteborg",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-bayern-munich",
+              "away": "tottenham-hotspur-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "lech-poznan"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "aberdeen-fc",
+              "away": "lech-poznan",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "lech-poznan",
+              "away": "aberdeen-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "swansea-city-afc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "paris-saint-germain-fc",
+              "away": "swansea-city-afc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1893",
+            "k-waterschei-sv-thor"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "boldklubben-1893",
+              "away": "k-waterschei-sv-thor",
+              "score": "0:2"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "k-waterschei-sv-thor",
+              "away": "boldklubben-1893",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "galatasaray-sk",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "galatasaray-sk",
+              "away": "fk-austria-wien",
+              "score": "2:4"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fk-austria-wien",
+              "away": "galatasaray-sk",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "red-star-belgrade",
+              "away": "fc-barcelona",
+              "score": "2:4"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "fc-barcelona",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "az-alkmaar",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "az-alkmaar",
+              "away": "inter-milan",
+              "score": "1:0"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "inter-milan",
+              "away": "az-alkmaar",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1982-10-20",
+              "home": "real-madrid-cf",
+              "away": "ujpest-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1982-11-03",
+              "home": "ujpest-fc",
+              "away": "real-madrid-cf",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "fc-bayern-munich",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "aberdeen-fc",
+              "away": "fc-bayern-munich",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "k-waterschei-sv-thor"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "paris-saint-germain-fc",
+              "away": "k-waterschei-sv-thor",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "k-waterschei-sv-thor",
+              "away": "paris-saint-germain-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "fc-barcelona"
+          ],
+          "winner": "fk-austria-wien",
+          "note": "Austria Wien won on away goals",
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "fk-austria-wien",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "fc-barcelona",
+              "away": "fk-austria-wien",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1983-03-02",
+              "home": "inter-milan",
+              "away": "real-madrid-cf",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-03-16",
+              "home": "real-madrid-cf",
+              "away": "inter-milan",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "k-waterschei-sv-thor"
+          ],
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "aberdeen-fc",
+              "away": "k-waterschei-sv-thor",
+              "score": "5:1"
+            },
+            {
+              "date": "1983-04-19",
+              "home": "k-waterschei-sv-thor",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1983-04-06",
+              "home": "fk-austria-wien",
+              "away": "real-madrid-cf",
+              "score": "2:2"
+            },
+            {
+              "date": "1983-04-20",
+              "home": "real-madrid-cf",
+              "away": "fk-austria-wien",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1983-05-11",
+              "home": "aberdeen-fc",
+              "away": "real-madrid-cf",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Nya Ullevi, Gothenburg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

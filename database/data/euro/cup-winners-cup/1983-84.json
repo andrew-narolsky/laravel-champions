@@ -1,0 +1,694 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1983-84",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1983-08-24",
+              "home": "swansea-city-afc",
+              "away": "1-fc-magdeburg",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-08-31",
+              "home": "1-fc-magdeburg",
+              "away": "swansea-city-afc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "nec-nijmegen",
+            "sk-brann"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "nec-nijmegen",
+              "away": "sk-brann",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "sk-brann",
+              "away": "nec-nijmegen",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-magdeburg",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "1-fc-magdeburg",
+              "away": "fc-barcelona",
+              "score": "1:5"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-barcelona",
+              "away": "1-fc-magdeburg",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mersin-talim-yurdu",
+            "fc-spartak-varna"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "mersin-talim-yurdu",
+              "away": "fc-spartak-varna",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-spartak-varna",
+              "away": "mersin-talim-yurdu",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fk-dukla-prague"
+          ],
+          "winner": "manchester-united-fc",
+          "note": "Manchester United won on away goals",
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "manchester-united-fc",
+              "away": "fk-dukla-prague",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-09-27",
+              "home": "fk-dukla-prague",
+              "away": "manchester-united-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "kf-tirana"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "hammarby-if",
+              "away": "kf-tirana",
+              "score": "4:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "kf-tirana",
+              "away": "hammarby-if",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sligo-rovers-fc",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "sligo-rovers-fc",
+              "away": "fc-haka",
+              "score": "0:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-haka",
+              "away": "sligo-rovers-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "paris-saint-germain-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "glentoran-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "paris-saint-germain-fc",
+              "away": "glentoran-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "lechia-gdansk"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "juventus-fc",
+              "away": "lechia-gdansk",
+              "score": "7:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "lechia-gdansk",
+              "away": "juventus-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valletta-fc",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "valletta-fc",
+              "away": "rangers-fc",
+              "score": "0:8"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "rangers-fc",
+              "away": "valletta-fc",
+              "score": "10:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-porto"
+          ],
+          "winner": "fc-porto",
+          "note": "Porto won on away goals",
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-porto",
+              "score": "2:1"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-porto",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1901",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "boldklubben-1901",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:5"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "fc-shakhtar-donetsk",
+              "away": "boldklubben-1901",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "servette-fc",
+            "fc-avenir-beggen"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "servette-fc",
+              "away": "fc-avenir-beggen",
+              "score": "4:0"
+            },
+            {
+              "date": "1983-09-27",
+              "home": "fc-avenir-beggen",
+              "away": "servette-fc",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "aek-athens-fc",
+              "away": "ujpest-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "ujpest-fc",
+              "away": "aek-athens-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "fc-wacker-innsbruck",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "1-fc-koln",
+              "away": "fc-wacker-innsbruck",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "enosis-neon-paralimni-fc",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "enosis-neon-paralimni-fc",
+              "away": "ksk-beveren",
+              "score": "2:4"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "ksk-beveren",
+              "away": "enosis-neon-paralimni-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-09-14",
+              "home": "ia-akranes",
+              "away": "aberdeen-fc",
+              "score": "1:2",
+              "note": "Played at Laugardalsvöllur, Reykjavík"
+            },
+            {
+              "date": "1983-09-28",
+              "home": "aberdeen-fc",
+              "away": "ia-akranes",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "nec-nijmegen",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "nec-nijmegen",
+              "away": "fc-barcelona",
+              "score": "2:3"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "fc-barcelona",
+              "away": "nec-nijmegen",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-varna",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "fc-spartak-varna",
+              "away": "manchester-united-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "manchester-united-fc",
+              "away": "fc-spartak-varna",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hammarby-if",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "hammarby-if",
+              "away": "fc-haka",
+              "score": "1:1"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "fc-haka",
+              "away": "hammarby-if",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "juventus-fc"
+          ],
+          "winner": "juventus-fc",
+          "note": "Juventus won on away goals",
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "paris-saint-germain-fc",
+              "away": "juventus-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "juventus-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rangers-fc",
+            "fc-porto"
+          ],
+          "winner": "fc-porto",
+          "note": "Porto won on away goals",
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "rangers-fc",
+              "away": "fc-porto",
+              "score": "2:1"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "fc-porto",
+              "away": "rangers-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-shakhtar-donetsk",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "fc-shakhtar-donetsk",
+              "away": "servette-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-11-01",
+              "home": "servette-fc",
+              "away": "fc-shakhtar-donetsk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "1-fc-koln"
+          ],
+          "winner": "ujpest-fc",
+          "note": "Újpest won on away goals",
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "ujpest-fc",
+              "away": "1-fc-koln",
+              "score": "3:1"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "1-fc-koln",
+              "away": "ujpest-fc",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ksk-beveren",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-10-19",
+              "home": "ksk-beveren",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-11-02",
+              "home": "aberdeen-fc",
+              "away": "ksk-beveren",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "fc-barcelona",
+              "away": "manchester-united-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "manchester-united-fc",
+              "away": "fc-barcelona",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "fc-haka",
+              "away": "juventus-fc",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Played at Stade de la Meinau, Strasbourg (France)"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "juventus-fc",
+              "away": "fc-haka",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "fc-shakhtar-donetsk"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "fc-porto",
+              "away": "fc-shakhtar-donetsk",
+              "score": "3:2"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "fc-shakhtar-donetsk",
+              "away": "fc-porto",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-03-07",
+              "home": "ujpest-fc",
+              "away": "aberdeen-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1984-03-21",
+              "home": "aberdeen-fc",
+              "away": "ujpest-fc",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-04-11",
+              "home": "manchester-united-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1984-04-25",
+              "home": "juventus-fc",
+              "away": "manchester-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1984-04-11",
+              "home": "fc-porto",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1984-04-25",
+              "home": "aberdeen-fc",
+              "away": "fc-porto",
+              "score": "0:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1984-05-16",
+              "home": "juventus-fc",
+              "away": "fc-porto",
+              "score": "2:1",
+              "neutral": true,
+              "note": "St. Jakob Stadium, Basel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

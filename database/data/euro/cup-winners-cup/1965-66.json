@@ -1,0 +1,639 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1965-66",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "ac-omonia",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-25",
+              "home": "ac-omonia",
+              "away": "olympiacos-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1965-09-19",
+              "home": "olympiacos-fc",
+              "away": "ac-omonia",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-magdeburg",
+            "ca-spora-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-22",
+              "home": "sc-magdeburg",
+              "away": "ca-spora-luxembourg",
+              "score": "1:0"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "ca-spora-luxembourg",
+              "away": "sc-magdeburg",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sion",
+            "galatasaray-sk"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-15",
+              "home": "fc-sion",
+              "away": "galatasaray-sk",
+              "score": "5:1"
+            },
+            {
+              "date": "1965-09-29",
+              "home": "galatasaray-sk",
+              "away": "fc-sion",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-wiener-neustadter-sc",
+            "fc-universitatea-cluj"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-01",
+              "home": "1-wiener-neustadter-sc",
+              "away": "fc-universitatea-cluj",
+              "score": "0:1"
+            },
+            {
+              "date": "1965-10-06",
+              "home": "fc-universitatea-cluj",
+              "away": "1-wiener-neustadter-sc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-15",
+              "home": "atletico-madrid",
+              "away": "gnk-dinamo-zagreb",
+              "score": "4:0"
+            },
+            {
+              "date": "1965-09-22",
+              "home": "gnk-dinamo-zagreb",
+              "away": "atletico-madrid",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-29",
+              "home": "floriana-fc",
+              "away": "borussia-dortmund",
+              "score": "1:5"
+            },
+            {
+              "date": "1965-10-10",
+              "home": "borussia-dortmund",
+              "away": "floriana-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "limerick-fc",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1965-10-07",
+              "home": "limerick-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:2",
+              "note": "Played at Dalymount Park, Dublin"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "pfc-cska-sofia",
+              "away": "limerick-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-25",
+              "home": "agf-aarhus",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1965-09-19",
+              "home": "vitoria-fc",
+              "away": "agf-aarhus",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "go-ahead-eagles",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-29",
+              "home": "go-ahead-eagles",
+              "away": "celtic-fc",
+              "score": "0:6"
+            },
+            {
+              "date": "1965-10-07",
+              "home": "celtic-fc",
+              "away": "go-ahead-eagles",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kr-reykjavik",
+            "rosenborg-bk"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-24",
+              "home": "kr-reykjavik",
+              "away": "rosenborg-bk",
+              "score": "1:3"
+            },
+            {
+              "date": "1965-09-12",
+              "home": "rosenborg-bk",
+              "away": "kr-reykjavik",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "coleraine-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-02",
+              "home": "coleraine-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:6"
+            },
+            {
+              "date": "1965-09-08",
+              "home": "fc-dynamo-kyiv",
+              "away": "coleraine-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "stade-rennais-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-22",
+              "home": "fk-dukla-prague",
+              "away": "stade-rennais-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1965-09-29",
+              "home": "stade-rennais-fc",
+              "away": "fk-dukla-prague",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "reipas-lahti",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-08-25",
+              "home": "reipas-lahti",
+              "away": "budapest-honved-fc",
+              "score": "2:10"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "budapest-honved-fc",
+              "away": "reipas-lahti",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-29",
+              "home": "juventus-fc",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1965-10-13",
+              "home": "liverpool-fc",
+              "away": "juventus-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1965-09-08",
+              "home": "cardiff-city-fc",
+              "away": "r-standard-liege",
+              "score": "1:2"
+            },
+            {
+              "date": "1965-10-20",
+              "home": "r-standard-liege",
+              "away": "cardiff-city-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-24",
+              "home": "west-ham-united-fc",
+              "away": "olympiacos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1965-12-01",
+              "home": "olympiacos-fc",
+              "away": "west-ham-united-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-magdeburg",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-17",
+              "home": "sc-magdeburg",
+              "away": "fc-sion",
+              "score": "8:1"
+            },
+            {
+              "date": "1965-11-24",
+              "home": "fc-sion",
+              "away": "sc-magdeburg",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-universitatea-cluj",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-17",
+              "home": "fc-universitatea-cluj",
+              "away": "atletico-madrid",
+              "score": "0:2"
+            },
+            {
+              "date": "1965-12-15",
+              "home": "atletico-madrid",
+              "away": "fc-universitatea-cluj",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "pfc-cska-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-10",
+              "home": "borussia-dortmund",
+              "away": "pfc-cska-sofia",
+              "score": "3:0"
+            },
+            {
+              "date": "1965-11-24",
+              "home": "pfc-cska-sofia",
+              "away": "borussia-dortmund",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "agf-aarhus",
+            "celtic-fc"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-03",
+              "home": "agf-aarhus",
+              "away": "celtic-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1965-11-17",
+              "home": "celtic-fc",
+              "away": "agf-aarhus",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rosenborg-bk",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1965-10-24",
+              "home": "rosenborg-bk",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:4"
+            },
+            {
+              "date": "1965-10-28",
+              "home": "fc-dynamo-kyiv",
+              "away": "rosenborg-bk",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "budapest-honved-fc"
+          ],
+          "winner": "budapest-honved-fc",
+          "note": "Budapest Honvéd won on away goals",
+          "matches": [
+            {
+              "date": "1965-11-03",
+              "home": "fk-dukla-prague",
+              "away": "budapest-honved-fc",
+              "score": "2:3"
+            },
+            {
+              "date": "1965-11-10",
+              "home": "budapest-honved-fc",
+              "away": "fk-dukla-prague",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1965-11-24",
+              "home": "liverpool-fc",
+              "away": "r-standard-liege",
+              "score": "3:1"
+            },
+            {
+              "date": "1965-12-15",
+              "home": "r-standard-liege",
+              "away": "liverpool-fc",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "1-fc-magdeburg"
+          ],
+          "matches": [
+            {
+              "date": "1966-03-02",
+              "home": "west-ham-united-fc",
+              "away": "1-fc-magdeburg",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-03-16",
+              "home": "1-fc-magdeburg",
+              "away": "west-ham-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1966-02-16",
+              "home": "atletico-madrid",
+              "away": "borussia-dortmund",
+              "score": "1:1"
+            },
+            {
+              "date": "1966-03-02",
+              "home": "borussia-dortmund",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1966-01-12",
+              "home": "celtic-fc",
+              "away": "fc-dynamo-kyiv",
+              "score": "3:0"
+            },
+            {
+              "date": "1966-01-26",
+              "home": "fc-dynamo-kyiv",
+              "away": "celtic-fc",
+              "score": "1:1",
+              "note": "Played at Dinamo Stadium, Tbilisi"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-03-01",
+              "home": "budapest-honved-fc",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1966-03-08",
+              "home": "liverpool-fc",
+              "away": "budapest-honved-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "west-ham-united-fc",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1966-04-05",
+              "home": "west-ham-united-fc",
+              "away": "borussia-dortmund",
+              "score": "1:2"
+            },
+            {
+              "date": "1966-04-13",
+              "home": "borussia-dortmund",
+              "away": "west-ham-united-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "celtic-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-04-14",
+              "home": "celtic-fc",
+              "away": "liverpool-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1966-04-19",
+              "home": "liverpool-fc",
+              "away": "celtic-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "borussia-dortmund",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1966-05-05",
+              "home": "borussia-dortmund",
+              "away": "liverpool-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Hampden Park, Glasgow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

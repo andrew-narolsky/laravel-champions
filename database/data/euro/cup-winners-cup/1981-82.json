@@ -1,0 +1,687 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1981-82",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "fc-politehnica-timisoara",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1981-08-19",
+              "home": "fc-politehnica-timisoara",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-08-26",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fc-politehnica-timisoara",
+              "score": "5:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fram-reykjavik",
+              "away": "dundalk-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "dundalk-fc",
+              "away": "fram-reykjavik",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "afc-ajax",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "tottenham-hotspur-fc",
+              "away": "afc-ajax",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ska-rostov-on-don",
+            "mke-ankaragucu"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-ska-rostov-on-don",
+              "away": "mke-ankaragucu",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "mke-ankaragucu",
+              "away": "fc-ska-rostov-on-don",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eintracht-frankfurt",
+            "paok-fc"
+          ],
+          "winner": "eintracht-frankfurt",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "eintracht-frankfurt",
+              "away": "paok-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "paok-fc",
+              "away": "eintracht-frankfurt",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Eintracht Frankfurt won 5:4 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "swansea-city-afc",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "swansea-city-afc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "0:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "swansea-city-afc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "jeunesse-esch",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-15",
+              "home": "jeunesse-esch",
+              "away": "fk-velez-mostar",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fk-velez-mostar",
+              "away": "jeunesse-esch",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fk-dukla-prague",
+              "away": "rangers-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "rangers-fc",
+              "away": "fk-dukla-prague",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "botev-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-barcelona",
+              "away": "botev-plovdiv",
+              "score": "4:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "botev-plovdiv",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valerenga-fotball",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "valerenga-fotball",
+              "away": "legia-warsaw",
+              "score": "2:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "legia-warsaw",
+              "away": "valerenga-fotball",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "kalmar-ff"
+          ],
+          "winner": "fc-lausanne-sport",
+          "note": "Lausanne-Sport won on away goals",
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-lausanne-sport",
+              "away": "kalmar-ff",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "kalmar-ff",
+              "away": "fc-lausanne-sport",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ktp-kotka",
+            "sc-bastia"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ktp-kotka",
+              "away": "sc-bastia",
+              "score": "0:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "sc-bastia",
+              "away": "ktp-kotka",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "grazer-ak"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "fc-dinamo-tbilisi",
+              "away": "grazer-ak",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "grazer-ak",
+              "away": "fc-dinamo-tbilisi",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "enosis-neon-paralimni-fc",
+            "vasas-sc"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "enosis-neon-paralimni-fc",
+              "away": "vasas-sc",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "vasas-sc",
+              "away": "enosis-neon-paralimni-fc",
+              "score": "8:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "floriana-fc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-23",
+              "home": "floriana-fc",
+              "away": "r-standard-liege",
+              "score": "1:3"
+            },
+            {
+              "date": "1981-10-01",
+              "home": "r-standard-liege",
+              "away": "floriana-fc",
+              "score": "9:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vejle-boldklub",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "vejle-boldklub",
+              "away": "fc-porto",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "fc-porto",
+              "away": "vejle-boldklub",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ballymena-united-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1981-09-16",
+              "home": "ballymena-united-fc",
+              "away": "as-roma",
+              "score": "0:2"
+            },
+            {
+              "date": "1981-09-30",
+              "home": "as-roma",
+              "away": "ballymena-united-fc",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "dundalk-fc",
+            "tottenham-hotspur-fc"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "dundalk-fc",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "tottenham-hotspur-fc",
+              "away": "dundalk-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ska-rostov-on-don",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fc-ska-rostov-on-don",
+              "away": "eintracht-frankfurt",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "eintracht-frankfurt",
+              "away": "fc-ska-rostov-on-don",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "fk-velez-mostar"
+          ],
+          "winner": "1-fc-lokomotive-leipzig",
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fk-velez-mostar",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fk-velez-mostar",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "Lokomotive Leipzig won 3:0 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-dukla-prague",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fk-dukla-prague",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-barcelona",
+              "away": "fk-dukla-prague",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "legia-warsaw",
+              "away": "fc-lausanne-sport",
+              "score": "2:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-lausanne-sport",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sc-bastia",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "sc-bastia",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:1"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "fc-dinamo-tbilisi",
+              "away": "sc-bastia",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "vasas-sc",
+              "away": "r-standard-liege",
+              "score": "0:2"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "r-standard-liege",
+              "away": "vasas-sc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-porto",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1981-10-21",
+              "home": "fc-porto",
+              "away": "as-roma",
+              "score": "2:0"
+            },
+            {
+              "date": "1981-11-04",
+              "home": "as-roma",
+              "away": "fc-porto",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "tottenham-hotspur-fc",
+              "away": "eintracht-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "eintracht-frankfurt",
+              "away": "tottenham-hotspur-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fc-barcelona",
+              "score": "0:3"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "fc-barcelona",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-dinamo-tbilisi"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "legia-warsaw",
+              "away": "fc-dinamo-tbilisi",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "fc-dinamo-tbilisi",
+              "away": "legia-warsaw",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-standard-liege",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1982-03-03",
+              "home": "r-standard-liege",
+              "away": "fc-porto",
+              "score": "2:0"
+            },
+            {
+              "date": "1982-03-17",
+              "home": "fc-porto",
+              "away": "r-standard-liege",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "tottenham-hotspur-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "tottenham-hotspur-fc",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "fc-barcelona",
+              "away": "tottenham-hotspur-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-tbilisi",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1982-04-07",
+              "home": "fc-dinamo-tbilisi",
+              "away": "r-standard-liege",
+              "score": "0:1"
+            },
+            {
+              "date": "1982-04-21",
+              "home": "r-standard-liege",
+              "away": "fc-dinamo-tbilisi",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "r-standard-liege"
+          ],
+          "matches": [
+            {
+              "date": "1982-05-12",
+              "home": "fc-barcelona",
+              "away": "r-standard-liege",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Camp Nou, Barcelona"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

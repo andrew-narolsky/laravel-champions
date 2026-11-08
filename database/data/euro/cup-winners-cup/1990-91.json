@@ -1,0 +1,686 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1990-91",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "bray-wanderers-fc",
+            "trabzonspor"
+          ],
+          "matches": [
+            {
+              "date": "1990-08-19",
+              "home": "bray-wanderers-fc",
+              "away": "trabzonspor",
+              "score": "1:1",
+              "note": "Played at Tolka Park, Dublin"
+            },
+            {
+              "date": "1990-09-04",
+              "home": "trabzonspor",
+              "away": "bray-wanderers-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "sliema-wanderers-fc",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-18",
+              "home": "sliema-wanderers-fc",
+              "away": "fk-dukla-prague",
+              "score": "1:2"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fk-dukla-prague",
+              "away": "sliema-wanderers-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nea-salamis-famagusta-fc",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "nea-salamis-famagusta-fc",
+              "away": "aberdeen-fc",
+              "score": "0:2",
+              "note": "Played at Tsirion Stadium, Limassol"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "aberdeen-fc",
+              "away": "nea-salamis-famagusta-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "legia-warsaw",
+            "fc-swift-hesperange"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "legia-warsaw",
+              "away": "fc-swift-hesperange",
+              "score": "3:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fc-swift-hesperange",
+              "away": "legia-warsaw",
+              "score": "0:3",
+              "note": "Played at Stade de la Frontière, Esch-sur-Alzette"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "flamurtari-fc"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "olympiacos-fc",
+              "away": "flamurtari-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "flamurtari-fc",
+              "away": "olympiacos-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-kaiserslautern",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "1-fc-kaiserslautern",
+              "away": "uc-sampdoria",
+              "score": "1:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "uc-sampdoria",
+              "away": "1-fc-kaiserslautern",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "pecsi-mfc"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "manchester-united-fc",
+              "away": "pecsi-mfc",
+              "score": "2:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "pecsi-mfc",
+              "away": "manchester-united-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wrexham-afc",
+            "lyngby-boldklub"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "wrexham-afc",
+              "away": "lyngby-boldklub",
+              "score": "0:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "lyngby-boldklub",
+              "away": "wrexham-afc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "montpellier-hsc",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "montpellier-hsc",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "psv-eindhoven",
+              "away": "montpellier-hsc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "glentoran-fc",
+              "away": "fcsb",
+              "score": "1:1"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fcsb",
+              "away": "glentoran-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kups-kuopio",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "kups-kuopio",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:2"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fc-dynamo-kyiv",
+              "away": "kups-kuopio",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "djurgardens-if"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "fram-reykjavik",
+              "away": "djurgardens-if",
+              "score": "3:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "djurgardens-if",
+              "away": "fram-reykjavik",
+              "score": "1:1",
+              "note": "Played at Råsunda Stadium, Solna"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "trabzonspor",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "trabzonspor",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fc-barcelona",
+              "away": "trabzonspor",
+              "score": "7:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "viking-fk",
+            "rfc-liege"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "viking-fk",
+              "away": "rfc-liege",
+              "score": "0:2"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "rfc-liege",
+              "away": "viking-fk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cf-estrela-da-amadora",
+            "neuchatel-xamax-fcs"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "cf-estrela-da-amadora",
+              "away": "neuchatel-xamax-fcs",
+              "score": "1:1"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "neuchatel-xamax-fcs",
+              "away": "cf-estrela-da-amadora",
+              "score": "1:1",
+              "extra_time": true,
+              "note": "CF Estrela da Amadora won 4:3 on penalties"
+            }
+          ],
+          "winner": "cf-estrela-da-amadora"
+        },
+        {
+          "clubs": [
+            "1-fsv-schwerin",
+            "fk-austria-wien"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "1-fsv-schwerin",
+              "away": "fk-austria-wien",
+              "score": "0:2"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "fk-austria-wien",
+              "away": "1-fsv-schwerin",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-sliven",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1990-09-19",
+              "home": "fc-sliven",
+              "away": "juventus-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1990-10-03",
+              "home": "juventus-fc",
+              "away": "fc-sliven",
+              "score": "6:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "wrexham-afc"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-23",
+              "home": "manchester-united-fc",
+              "away": "wrexham-afc",
+              "score": "3:0"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "wrexham-afc",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-23",
+              "home": "fram-reykjavik",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "fc-barcelona",
+              "away": "fram-reykjavik",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "legia-warsaw"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "aberdeen-fc",
+              "away": "legia-warsaw",
+              "score": "0:0"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "legia-warsaw",
+              "away": "aberdeen-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "olympiacos-fc",
+              "away": "uc-sampdoria",
+              "score": "0:1"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "uc-sampdoria",
+              "away": "olympiacos-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "montpellier-hsc",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "montpellier-hsc",
+              "away": "fcsb",
+              "score": "5:0"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "fcsb",
+              "away": "montpellier-hsc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fk-dukla-prague"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "fc-dynamo-kyiv",
+              "away": "fk-dukla-prague",
+              "score": "1:0"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "fk-dukla-prague",
+              "away": "fc-dynamo-kyiv",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "cf-estrela-da-amadora"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "rfc-liege",
+              "away": "cf-estrela-da-amadora",
+              "score": "2:0"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "cf-estrela-da-amadora",
+              "away": "rfc-liege",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-austria-wien",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-24",
+              "home": "fk-austria-wien",
+              "away": "juventus-fc",
+              "score": "0:4"
+            },
+            {
+              "date": "1990-11-07",
+              "home": "juventus-fc",
+              "away": "fk-austria-wien",
+              "score": "4:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "legia-warsaw",
+            "uc-sampdoria"
+          ],
+          "matches": [
+            {
+              "date": "1991-03-06",
+              "home": "legia-warsaw",
+              "away": "uc-sampdoria",
+              "score": "1:0"
+            },
+            {
+              "date": "1991-03-20",
+              "home": "uc-sampdoria",
+              "away": "legia-warsaw",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "montpellier-hsc"
+          ],
+          "matches": [
+            {
+              "date": "1991-03-06",
+              "home": "manchester-united-fc",
+              "away": "montpellier-hsc",
+              "score": "1:1"
+            },
+            {
+              "date": "1991-03-19",
+              "home": "montpellier-hsc",
+              "away": "manchester-united-fc",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dynamo-kyiv",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1991-03-06",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-barcelona",
+              "score": "2:3"
+            },
+            {
+              "date": "1991-03-20",
+              "home": "fc-barcelona",
+              "away": "fc-dynamo-kyiv",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-03-06",
+              "home": "rfc-liege",
+              "away": "juventus-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1991-03-20",
+              "home": "juventus-fc",
+              "away": "rfc-liege",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "legia-warsaw",
+            "manchester-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-04-10",
+              "home": "legia-warsaw",
+              "away": "manchester-united-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1991-04-24",
+              "home": "manchester-united-fc",
+              "away": "legia-warsaw",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1991-04-10",
+              "home": "fc-barcelona",
+              "away": "juventus-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1991-04-24",
+              "home": "juventus-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1991-05-15",
+              "home": "manchester-united-fc",
+              "away": "fc-barcelona",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Stadion Feijenoord, Rotterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

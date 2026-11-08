@@ -1,0 +1,692 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1987-88",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "ael-limassol",
+            "fc-dac-1904"
+          ],
+          "matches": [
+            {
+              "date": "1987-08-23",
+              "home": "ael-limassol",
+              "away": "fc-dac-1904",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-08-27",
+              "home": "fc-dac-1904",
+              "away": "ael-limassol",
+              "score": "5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-13",
+              "home": "kf-vllaznia",
+              "away": "sliema-wanderers-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-29",
+              "home": "sliema-wanderers-fc",
+              "away": "kf-vllaznia",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ia-akranes",
+            "kalmar-ff"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-15",
+              "home": "ia-akranes",
+              "away": "kalmar-ff",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "kalmar-ff",
+              "away": "ia-akranes",
+              "score": "1:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sporting-cp",
+            "fc-swarovski-tirol"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-15",
+              "home": "sporting-cp",
+              "away": "fc-swarovski-tirol",
+              "score": "4:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-swarovski-tirol",
+              "away": "sporting-cp",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-avenir-beggen",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-15",
+              "home": "fc-avenir-beggen",
+              "away": "hamburger-sv",
+              "score": "0:5"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "hamburger-sv",
+              "away": "fc-avenir-beggen",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kv-mechelen",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "kv-mechelen",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "fc-dinamo-bucuresti",
+              "away": "kv-mechelen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "st-mirren-fc",
+            "tromso-il"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "st-mirren-fc",
+              "away": "tromso-il",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "tromso-il",
+              "away": "st-mirren-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "slask-wroclaw"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "real-sociedad",
+              "away": "slask-wroclaw",
+              "score": "0:0",
+              "note": "Played at Estadio San Mamés, Bilbao"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "slask-wroclaw",
+              "away": "real-sociedad",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-minsk",
+            "genclerbirligi-sk"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-dinamo-minsk",
+              "away": "genclerbirligi-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "genclerbirligi-sk",
+              "away": "fc-dinamo-minsk",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "ofi-crete-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "pfc-levski-sofia",
+              "away": "ofi-crete-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ofi-crete-fc",
+              "away": "pfc-levski-sofia",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "merthyr-tydfil-fc",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "merthyr-tydfil-fc",
+              "away": "atalanta-bc",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "atalanta-bc",
+              "away": "merthyr-tydfil-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rops-rovaniemi",
+            "glentoran-fc"
+          ],
+          "winner": "rops-rovaniemi",
+          "note": "RoPS won on away goals",
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "rops-rovaniemi",
+              "away": "glentoran-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-28",
+              "home": "glentoran-fc",
+              "away": "rops-rovaniemi",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "olympique-de-marseille",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "olympique-de-marseille",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "aab-fodbold",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "hnk-hajduk-split",
+              "away": "aab-fodbold",
+              "score": "1:0",
+              "extra_time": true,
+              "note": "HNK Hajduk Split won 4:2 on penalties"
+            }
+          ],
+          "winner": "hnk-hajduk-split"
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "ado-den-haag"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "ujpest-fc",
+              "away": "ado-den-haag",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "ado-den-haag",
+              "away": "ujpest-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dac-1904",
+            "bsc-young-boys"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "fc-dac-1904",
+              "away": "bsc-young-boys",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "bsc-young-boys",
+              "away": "fc-dac-1904",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "dundalk-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-09-16",
+              "home": "afc-ajax",
+              "away": "dundalk-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1987-09-30",
+              "home": "dundalk-fc",
+              "away": "afc-ajax",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "kv-mechelen",
+            "st-mirren-fc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "kv-mechelen",
+              "away": "st-mirren-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1987-11-03",
+              "home": "st-mirren-fc",
+              "away": "kv-mechelen",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-sociedad",
+            "fc-dinamo-minsk"
+          ],
+          "winner": "fc-dinamo-minsk",
+          "note": "Dinamo Minsk won on away goals",
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "real-sociedad",
+              "away": "fc-dinamo-minsk",
+              "score": "1:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "fc-dinamo-minsk",
+              "away": "real-sociedad",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ofi-crete-fc",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "ofi-crete-fc",
+              "away": "atalanta-bc",
+              "score": "1:0",
+              "note": "Played at Toumba Stadium, Thessaloniki"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "atalanta-bc",
+              "away": "ofi-crete-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kalmar-ff",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "kalmar-ff",
+              "away": "sporting-cp",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-11-03",
+              "home": "sporting-cp",
+              "away": "kalmar-ff",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-vllaznia",
+            "rops-rovaniemi"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "kf-vllaznia",
+              "away": "rops-rovaniemi",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-11-03",
+              "home": "rops-rovaniemi",
+              "away": "kf-vllaznia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ado-den-haag",
+            "bsc-young-boys"
+          ],
+          "winner": "bsc-young-boys",
+          "note": "Young Boys won on away goals",
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "ado-den-haag",
+              "away": "bsc-young-boys",
+              "score": "2:1"
+            },
+            {
+              "date": "1987-11-03",
+              "home": "bsc-young-boys",
+              "away": "ado-den-haag",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hamburger-sv",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-21",
+              "home": "hamburger-sv",
+              "away": "afc-ajax",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-11-04",
+              "home": "afc-ajax",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1987-10-22",
+              "home": "olympique-de-marseille",
+              "away": "hnk-hajduk-split",
+              "score": "4:0"
+            },
+            {
+              "date": "1987-11-05",
+              "home": "hnk-hajduk-split",
+              "away": "olympique-de-marseille",
+              "score": "0:3",
+              "note": "Finished 2:0; awarded 3:0 to Marseille by UEFA due to crowd trouble (tear gas, flares and a pitch invasion by Hajduk fans)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "kv-mechelen",
+            "fc-dinamo-minsk"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-01",
+              "home": "kv-mechelen",
+              "away": "fc-dinamo-minsk",
+              "score": "1:0"
+            },
+            {
+              "date": "1988-03-15",
+              "home": "fc-dinamo-minsk",
+              "away": "kv-mechelen",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atalanta-bc",
+            "sporting-cp"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-02",
+              "home": "atalanta-bc",
+              "away": "sporting-cp",
+              "score": "2:0"
+            },
+            {
+              "date": "1988-03-15",
+              "home": "sporting-cp",
+              "away": "atalanta-bc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rops-rovaniemi",
+            "olympique-de-marseille"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-01",
+              "home": "rops-rovaniemi",
+              "away": "olympique-de-marseille",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-03-15",
+              "home": "olympique-de-marseille",
+              "away": "rops-rovaniemi",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bsc-young-boys",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1988-03-09",
+              "home": "bsc-young-boys",
+              "away": "afc-ajax",
+              "score": "0:1"
+            },
+            {
+              "date": "1988-03-16",
+              "home": "afc-ajax",
+              "away": "bsc-young-boys",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "kv-mechelen",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "kv-mechelen",
+              "away": "atalanta-bc",
+              "score": "2:1"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "atalanta-bc",
+              "away": "kv-mechelen",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-de-marseille",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1988-04-06",
+              "home": "olympique-de-marseille",
+              "away": "afc-ajax",
+              "score": "0:3"
+            },
+            {
+              "date": "1988-04-20",
+              "home": "afc-ajax",
+              "away": "olympique-de-marseille",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "kv-mechelen",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1988-05-11",
+              "home": "kv-mechelen",
+              "away": "afc-ajax",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Stade de la Meinau, Strasbourg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

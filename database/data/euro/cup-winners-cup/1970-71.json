@@ -1,0 +1,733 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1970-71",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "preliminary",
+      "ties": [
+        {
+          "clubs": [
+            "atvidabergs-ff",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "1970-08-23",
+              "home": "atvidabergs-ff",
+              "away": "fk-partizani",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-02",
+              "home": "fk-partizani",
+              "away": "atvidabergs-ff",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bohemian-fc",
+            "fc-zlin"
+          ],
+          "matches": [
+            {
+              "date": "1970-08-26",
+              "home": "bohemian-fc",
+              "away": "fc-zlin",
+              "score": "1:2"
+            },
+            {
+              "date": "1970-09-02",
+              "home": "fc-zlin",
+              "away": "bohemian-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "kickers-offenbach",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "kickers-offenbach",
+              "away": "club-brugge-kv",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "club-brugge-kv",
+              "away": "kickers-offenbach",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zurich",
+            "iba-akureyri"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-zurich",
+              "away": "iba-akureyri",
+              "score": "7:1"
+            },
+            {
+              "date": "1970-09-22",
+              "home": "iba-akureyri",
+              "away": "fc-zurich",
+              "score": "0:7",
+              "note": "Played at Espenmoos, St. Gallen (Switzerland): both legs were played in Switzerland"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "fc-haka"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "pfc-cska-sofia",
+              "away": "fc-haka",
+              "score": "9:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fc-haka",
+              "away": "pfc-cska-sofia",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aris-thessaloniki-fc",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "aris-thessaloniki-fc",
+              "away": "chelsea-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "chelsea-fc",
+              "away": "aris-thessaloniki-fc",
+              "score": "5:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "budapest-honved-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "aberdeen-fc",
+              "away": "budapest-honved-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "budapest-honved-fc",
+              "away": "aberdeen-fc",
+              "score": "3:1",
+              "extra_time": true,
+              "note": "Budapest Honvéd FC won 5:4 on penalties"
+            }
+          ],
+          "winner": "budapest-honved-fc"
+        },
+        {
+          "clubs": [
+            "manchester-city-fc",
+            "linfield-fc"
+          ],
+          "winner": "manchester-city-fc",
+          "note": "Manchester City won on away goals",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "manchester-city-fc",
+              "away": "linfield-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "linfield-fc",
+              "away": "manchester-city-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "goztepe-sk",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "goztepe-sk",
+              "away": "union-luxembourg",
+              "score": "5:0"
+            },
+            {
+              "date": "1970-09-23",
+              "home": "union-luxembourg",
+              "away": "goztepe-sk",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aab-fodbold",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "aab-fodbold",
+              "away": "gornik-zabrze",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "gornik-zabrze",
+              "away": "aab-fodbold",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zlin",
+            "psv-eindhoven"
+          ],
+          "winner": "psv-eindhoven",
+          "note": "PSV Eindhoven won on away goals",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-zlin",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "psv-eindhoven",
+              "away": "fc-zlin",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-karpaty-lviv",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-karpaty-lviv",
+              "away": "fcsb",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fcsb",
+              "away": "fc-karpaty-lviv",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-olimpija",
+            "sl-benfica"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "nk-olimpija",
+              "away": "sl-benfica",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "sl-benfica",
+              "away": "nk-olimpija",
+              "score": "8:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-frankfurt",
+            "bologna-fc"
+          ],
+          "winner": "1-fc-frankfurt",
+          "note": "Vorwärts Berlin won on away goals",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "1-fc-frankfurt",
+              "away": "bologna-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "bologna-fc",
+              "away": "1-fc-frankfurt",
+              "score": "1:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "pezoporikos-larnaca-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "cardiff-city-fc",
+              "away": "pezoporikos-larnaca-fc",
+              "score": "8:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "pezoporikos-larnaca-fc",
+              "away": "cardiff-city-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "stromsgodset",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "stromsgodset",
+              "away": "fc-nantes",
+              "score": "0:5"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fc-nantes",
+              "away": "stromsgodset",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernians-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "hibernians-fc",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "real-madrid-cf",
+              "away": "hibernians-fc",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-wacker-innsbruck",
+            "fk-partizani"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-wacker-innsbruck",
+              "away": "fk-partizani",
+              "score": "3:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "fk-partizani",
+              "away": "fc-wacker-innsbruck",
+              "score": "1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "fc-zurich"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "club-brugge-kv",
+              "away": "fc-zurich",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-zurich",
+              "away": "club-brugge-kv",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-cska-sofia",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "pfc-cska-sofia",
+              "away": "chelsea-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "chelsea-fc",
+              "away": "pfc-cska-sofia",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "budapest-honved-fc",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "budapest-honved-fc",
+              "away": "manchester-city-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "manchester-city-fc",
+              "away": "budapest-honved-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "goztepe-sk",
+            "gornik-zabrze"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "goztepe-sk",
+              "away": "gornik-zabrze",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "gornik-zabrze",
+              "away": "goztepe-sk",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "fcsb"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "psv-eindhoven",
+              "away": "fcsb",
+              "score": "4:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fcsb",
+              "away": "psv-eindhoven",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "sl-benfica",
+              "away": "1-fc-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "1-fc-frankfurt",
+              "away": "sl-benfica",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "1. FC Frankfurt won 5:3 on penalties"
+            }
+          ],
+          "winner": "1-fc-frankfurt"
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "fc-nantes"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "cardiff-city-fc",
+              "away": "fc-nantes",
+              "score": "5:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-nantes",
+              "away": "cardiff-city-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "fc-wacker-innsbruck"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "real-madrid-cf",
+              "away": "fc-wacker-innsbruck",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-wacker-innsbruck",
+              "away": "real-madrid-cf",
+              "score": "0:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "club-brugge-kv",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "club-brugge-kv",
+              "away": "chelsea-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "chelsea-fc",
+              "away": "club-brugge-kv",
+              "score": "4:0",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gornik-zabrze",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "gornik-zabrze",
+              "away": "manchester-city-fc",
+              "score": "2:0",
+              "note": "Played at Silesian Stadium, Chorzów"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "manchester-city-fc",
+              "away": "gornik-zabrze",
+              "score": "2:0",
+              "extra_time": true
+            },
+            {
+              "date": "1971-03-31",
+              "home": "manchester-city-fc",
+              "away": "gornik-zabrze",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Play-off, Idrætsparken, Copenhagen"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "1-fc-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "psv-eindhoven",
+              "away": "1-fc-frankfurt",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "1-fc-frankfurt",
+              "away": "psv-eindhoven",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cardiff-city-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "cardiff-city-fc",
+              "away": "real-madrid-cf",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "real-madrid-cf",
+              "away": "cardiff-city-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "manchester-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "chelsea-fc",
+              "away": "manchester-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "manchester-city-fc",
+              "away": "chelsea-fc",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "psv-eindhoven",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "psv-eindhoven",
+              "away": "real-madrid-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "real-madrid-cf",
+              "away": "psv-eindhoven",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "real-madrid-cf"
+          ],
+          "matches": [
+            {
+              "date": "1971-05-19",
+              "home": "chelsea-fc",
+              "away": "real-madrid-cf",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Karaiskakis Stadium, Piraeus"
+            },
+            {
+              "date": "1971-05-21",
+              "home": "chelsea-fc",
+              "away": "real-madrid-cf",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Replay, Karaiskakis Stadium, Piraeus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

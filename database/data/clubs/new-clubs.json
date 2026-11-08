@@ -1324,5 +1324,32 @@
         "stadium": "Esplanādes stadions, Cap. 700",
         "city": "Daugavpils",
         "names": []
+    },
+    {
+        "country": "azerbaijan",
+        "name": "MKT Araz FK",
+        "description": "Azerbaijan · Founded: 2004",
+        "country_id": 5,
+        "primary_country_id": 5,
+        "nickname": "Pambıqçılar",
+        "content": "<p>MKT Araz FK was an Azerbaijani football club based in Imishli. It was founded in 2004 by MKT Istehsalat-Kommersiya, a cotton manufacturing company, which gave the team its nickname, Pambıqçılar (The Cottongrowers). The club was admitted straight to the Azerbaijan Top League and played at the Heydar Aliyev Stadium in Imishli, which opened in March 2006 and holds 8,500 spectators.</p><p>MKT Araz finished 8th in its first season and 9th in 2005–06. In 2006–07, its best season, it came 5th in the league and reached the final of the Azerbaijan Cup, where it lost 1–0 to Khazar Lankaran. Because Khazar also won the league, MKT Araz qualified for the 2007–08 UEFA Cup, where it went out in the first qualifying round to Dyskobolia Grodzisk Wielkopolski (0–0 at home and 0–1 away).</p><p>UEFA declared the club defunct in August 2007, and after that it dropped to the First Division and was dissolved several times. In 2013 it was re-established as Mil-Muğan FK and played in the First Division until it ceased to exist in 2018. In 2022 a new club, İmişli FK, was founded in the city and carries on its football tradition.</p>",
+        "founded_at": "2004-00-00",
+        "destroyed_at": "2018-00-00",
+        "stadium": "Heydar Aliyev – MKT Araz Stadium, Cap. 8,500",
+        "city": "Imishli",
+        "names": [
+            {
+                "name": "MKT-Araz",
+                "from_year": 2004,
+                "to_year": 2013,
+                "note": null
+            },
+            {
+                "name": "Mil-Muğan",
+                "from_year": 2013,
+                "to_year": 2018,
+                "note": "Re-established under this name"
+            }
+        ]
     }
 ]

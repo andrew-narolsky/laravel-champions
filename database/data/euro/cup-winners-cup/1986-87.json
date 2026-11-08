@@ -1,0 +1,672 @@
+{
+  "competition": {
+    "name": "UEFA Cup Winners' Cup",
+    "slug": "cup-winners-cup",
+    "description": "European Cup Winners' Cup (1960–1999)"
+  },
+  "season": "1986-87",
+  "competition_name": "European Cup Winners' Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners%27_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "as-roma",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "as-roma",
+              "away": "real-zaragoza",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "real-zaragoza",
+              "away": "as-roma",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Real Zaragoza won 4:3 on penalties"
+            }
+          ],
+          "winner": "real-zaragoza"
+        },
+        {
+          "clubs": [
+            "zurrieq-fc",
+            "wrexham-afc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "zurrieq-fc",
+              "away": "wrexham-afc",
+              "score": "0:3"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "wrexham-afc",
+              "away": "zurrieq-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1903",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-16",
+              "home": "boldklubben-1903",
+              "away": "pfc-levski-sofia",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "pfc-levski-sofia",
+              "away": "boldklubben-1903",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vasas-sc",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "vasas-sc",
+              "away": "fk-velez-mostar",
+              "score": "2:2"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fk-velez-mostar",
+              "away": "vasas-sc",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "kf-tirana",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-dinamo-bucuresti",
+              "away": "kf-tirana",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "apollon-limassol-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "malmo-ff",
+              "away": "apollon-limassol-fc",
+              "score": "6:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "apollon-limassol-fc",
+              "away": "malmo-ff",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "bursaspor",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "bursaspor",
+              "away": "afc-ajax",
+              "score": "0:2"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "afc-ajax",
+              "away": "bursaspor",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympiacos-fc",
+            "union-luxembourg"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "olympiacos-fc",
+              "away": "union-luxembourg",
+              "score": "3:0",
+              "note": "Played at Olympic Stadium, Athens"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "union-luxembourg",
+              "away": "olympiacos-fc",
+              "score": "0:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "lillestrom-sk"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "sl-benfica",
+              "away": "lillestrom-sk",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "lillestrom-sk",
+              "away": "sl-benfica",
+              "score": "1:2",
+              "note": "Played at Ullevaal Stadion, Oslo"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "waterford-fc",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "waterford-fc",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:2"
+            },
+            {
+              "date": "1986-09-30",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "waterford-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-haka",
+            "fc-torpedo-moscow"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "fc-haka",
+              "away": "fc-torpedo-moscow",
+              "score": "2:2"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-torpedo-moscow",
+              "away": "fc-haka",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vfb-stuttgart",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "vfb-stuttgart",
+              "away": "fc-spartak-trnava",
+              "score": "1:0"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-spartak-trnava",
+              "away": "vfb-stuttgart",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "club-brugge-kv"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "sk-rapid-wien",
+              "away": "club-brugge-kv",
+              "score": "4:3"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "club-brugge-kv",
+              "away": "sk-rapid-wien",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "glentoran-fc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "glentoran-fc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fram-reykjavik",
+            "gks-katowice"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-16",
+              "home": "fram-reykjavik",
+              "away": "gks-katowice",
+              "score": "0:3"
+            },
+            {
+              "date": "1986-10-02",
+              "home": "gks-katowice",
+              "away": "fram-reykjavik",
+              "score": "1:0",
+              "note": "Played at Stadion Śląski, Chorzów"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "aberdeen-fc",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1986-09-17",
+              "home": "aberdeen-fc",
+              "away": "fc-sion",
+              "score": "2:1"
+            },
+            {
+              "date": "1986-10-01",
+              "home": "fc-sion",
+              "away": "aberdeen-fc",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "wrexham-afc"
+          ],
+          "winner": "real-zaragoza",
+          "note": "Real Zaragoza won on away goals",
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "real-zaragoza",
+              "away": "wrexham-afc",
+              "score": "0:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "wrexham-afc",
+              "away": "real-zaragoza",
+              "score": "2:2",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pfc-levski-sofia",
+            "fk-velez-mostar"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "pfc-levski-sofia",
+              "away": "fk-velez-mostar",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fk-velez-mostar",
+              "away": "pfc-levski-sofia",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kf-tirana",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "kf-tirana",
+              "away": "malmo-ff",
+              "score": "0:3"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "malmo-ff",
+              "away": "kf-tirana",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "afc-ajax",
+            "olympiacos-fc"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "afc-ajax",
+              "away": "olympiacos-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "olympiacos-fc",
+              "away": "afc-ajax",
+              "score": "1:1",
+              "note": "Played at Olympic Stadium, Athens"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sl-benfica",
+            "fc-girondins-de-bordeaux"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "sl-benfica",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "sl-benfica",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-torpedo-moscow",
+            "vfb-stuttgart"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "fc-torpedo-moscow",
+              "away": "vfb-stuttgart",
+              "score": "2:0"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "vfb-stuttgart",
+              "away": "fc-torpedo-moscow",
+              "score": "3:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "sk-rapid-wien",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:1"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "sk-rapid-wien",
+              "score": "2:1",
+              "extra_time": true
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1986-10-22",
+              "home": "gks-katowice",
+              "away": "fc-sion",
+              "score": "2:2",
+              "note": "Played at Stadion Śląski, Chorzów"
+            },
+            {
+              "date": "1986-11-05",
+              "home": "fc-sion",
+              "away": "gks-katowice",
+              "score": "3:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "pfc-levski-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "real-zaragoza",
+              "away": "pfc-levski-sofia",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "pfc-levski-sofia",
+              "away": "real-zaragoza",
+              "score": "0:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "malmo-ff",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-14",
+              "home": "malmo-ff",
+              "away": "afc-ajax",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "afc-ajax",
+              "away": "malmo-ff",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "fc-torpedo-moscow"
+          ],
+          "winner": "fc-girondins-de-bordeaux",
+          "note": "Bordeaux won on away goals",
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "fc-torpedo-moscow",
+              "score": "1:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "fc-torpedo-moscow",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "3:2",
+              "note": "Played at Lenin Dinamo Stadium, Tbilisi"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "fc-sion"
+          ],
+          "matches": [
+            {
+              "date": "1987-03-04",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fc-sion",
+              "score": "2:0"
+            },
+            {
+              "date": "1987-03-18",
+              "home": "fc-sion",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "0:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1987-04-08",
+              "home": "real-zaragoza",
+              "away": "afc-ajax",
+              "score": "2:3"
+            },
+            {
+              "date": "1987-04-22",
+              "home": "afc-ajax",
+              "away": "real-zaragoza",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-girondins-de-bordeaux",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1987-04-08",
+              "home": "fc-girondins-de-bordeaux",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "0:1"
+            },
+            {
+              "date": "1987-04-22",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "fc-girondins-de-bordeaux",
+              "score": "0:1",
+              "extra_time": true,
+              "note": "1. FC Lokomotive Leipzig won 6:5 on penalties"
+            }
+          ],
+          "winner": "1-fc-lokomotive-leipzig"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "afc-ajax",
+            "1-fc-lokomotive-leipzig"
+          ],
+          "matches": [
+            {
+              "date": "1987-05-13",
+              "home": "afc-ajax",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Olympic Stadium, Athens"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
