@@ -1,0 +1,333 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1958-60",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1958%E2%80%931960_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "leipzig-xi"
+          ],
+          "matches": [
+            {
+              "date": "1958-10-29",
+              "home": "r-union-saint-gilloise",
+              "away": "leipzig-xi",
+              "score": "6:1"
+            },
+            {
+              "date": "1959-03-04",
+              "home": "leipzig-xi",
+              "away": "r-union-saint-gilloise",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hannover-96",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-09",
+              "home": "hannover-96",
+              "away": "as-roma",
+              "score": "1:3"
+            },
+            {
+              "date": "1959-01-07",
+              "home": "as-roma",
+              "away": "hannover-96",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cologne-xi",
+            "birmingham-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-10-14",
+              "home": "cologne-xi",
+              "away": "birmingham-city-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-11-11",
+              "home": "birmingham-city-fc",
+              "away": "cologne-xi",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zagreb-xi",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-26",
+              "home": "zagreb-xi",
+              "away": "ujpest-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1958-12-03",
+              "home": "ujpest-fc",
+              "away": "zagreb-xi",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "copenhagen-xi",
+            "chelsea-fc"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-30",
+              "home": "copenhagen-xi",
+              "away": "chelsea-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1958-11-04",
+              "home": "chelsea-fc",
+              "away": "copenhagen-xi",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "belgrade-xi",
+            "fc-lausanne-sport"
+          ],
+          "matches": [
+            {
+              "date": "1958-09-24",
+              "home": "belgrade-xi",
+              "away": "fc-lausanne-sport",
+              "score": "6:1"
+            },
+            {
+              "date": "1958-10-22",
+              "home": "fc-lausanne-sport",
+              "away": "belgrade-xi",
+              "score": "3:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "basel-xi",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1958-11-12",
+              "home": "basel-xi",
+              "away": "fc-barcelona",
+              "score": "1:2"
+            },
+            {
+              "date": "1959-01-06",
+              "home": "fc-barcelona",
+              "away": "basel-xi",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "olympique-lyonnais"
+          ],
+          "matches": [
+            {
+              "date": "1958-12-10",
+              "home": "inter-milan",
+              "away": "olympique-lyonnais",
+              "score": "7:0"
+            },
+            {
+              "date": "1959-01-14",
+              "home": "olympique-lyonnais",
+              "away": "inter-milan",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1959-04-22",
+              "home": "r-union-saint-gilloise",
+              "away": "as-roma",
+              "score": "2:0"
+            },
+            {
+              "date": "1959-05-13",
+              "home": "as-roma",
+              "away": "r-union-saint-gilloise",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birmingham-city-fc",
+            "zagreb-xi"
+          ],
+          "matches": [
+            {
+              "date": "1959-05-06",
+              "home": "birmingham-city-fc",
+              "away": "zagreb-xi",
+              "score": "1:0"
+            },
+            {
+              "date": "1959-05-24",
+              "home": "zagreb-xi",
+              "away": "birmingham-city-fc",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "chelsea-fc",
+            "belgrade-xi"
+          ],
+          "matches": [
+            {
+              "date": "1959-04-29",
+              "home": "chelsea-fc",
+              "away": "belgrade-xi",
+              "score": "1:0"
+            },
+            {
+              "date": "1959-05-13",
+              "home": "belgrade-xi",
+              "away": "chelsea-fc",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1959-05-07",
+              "home": "fc-barcelona",
+              "away": "inter-milan",
+              "score": "4:0"
+            },
+            {
+              "date": "1959-09-30",
+              "home": "inter-milan",
+              "away": "fc-barcelona",
+              "score": "2:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "birmingham-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1959-10-07",
+              "home": "r-union-saint-gilloise",
+              "away": "birmingham-city-fc",
+              "score": "2:4"
+            },
+            {
+              "date": "1959-11-11",
+              "home": "birmingham-city-fc",
+              "away": "r-union-saint-gilloise",
+              "score": "4:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "belgrade-xi",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1959-10-28",
+              "home": "belgrade-xi",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1959-12-09",
+              "home": "fc-barcelona",
+              "away": "belgrade-xi",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "birmingham-city-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1960-03-29",
+              "home": "birmingham-city-fc",
+              "away": "fc-barcelona",
+              "score": "0:0"
+            },
+            {
+              "date": "1960-05-04",
+              "home": "fc-barcelona",
+              "away": "birmingham-city-fc",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

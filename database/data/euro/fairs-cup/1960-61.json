@@ -1,0 +1,346 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1960-61",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1960%E2%80%9361_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "hannover-96"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-13",
+              "home": "inter-milan",
+              "away": "hannover-96",
+              "score": "8:2"
+            },
+            {
+              "date": "1960-10-05",
+              "home": "hannover-96",
+              "away": "inter-milan",
+              "score": "1:6"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leipzig-xi",
+            "belgrade-xi"
+          ],
+          "matches": [
+            {
+              "date": "1960-09-11",
+              "home": "leipzig-xi",
+              "away": "belgrade-xi",
+              "score": "5:2"
+            },
+            {
+              "date": "1960-10-19",
+              "home": "belgrade-xi",
+              "away": "leipzig-xi",
+              "score": "4:1"
+            },
+            {
+              "date": "1960-11-09",
+              "home": "belgrade-xi",
+              "away": "leipzig-xi",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Play-off, Megyeri úti Stadium, Budapest"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "basel-xi"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-19",
+              "home": "kjobenhavns-boldklub",
+              "away": "basel-xi",
+              "score": "8:1"
+            },
+            {
+              "date": "1960-10-26",
+              "home": "basel-xi",
+              "away": "kjobenhavns-boldklub",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birmingham-city-fc",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-16",
+              "home": "birmingham-city-fc",
+              "away": "ujpest-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1960-10-26",
+              "home": "ujpest-fc",
+              "away": "birmingham-city-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "zagreb-xi",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-12",
+              "home": "zagreb-xi",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1960-10-19",
+              "home": "fc-barcelona",
+              "away": "zagreb-xi",
+              "score": "4:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "fc-lausanne-sport"
+          ],
+          "winner": "hibernian-fc",
+          "note": "Walkover: Lausanne-Sport withdrew",
+          "matches": []
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "cologne-xi"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-12",
+              "home": "olympique-lyonnais",
+              "away": "cologne-xi",
+              "score": "1:3"
+            },
+            {
+              "date": "1960-10-19",
+              "home": "cologne-xi",
+              "away": "olympique-lyonnais",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1960-10-04",
+              "home": "r-union-saint-gilloise",
+              "away": "as-roma",
+              "score": "0:0"
+            },
+            {
+              "date": "1960-11-01",
+              "home": "as-roma",
+              "away": "r-union-saint-gilloise",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "belgrade-xi"
+          ],
+          "matches": [
+            {
+              "date": "1961-03-01",
+              "home": "inter-milan",
+              "away": "belgrade-xi",
+              "score": "5:0"
+            },
+            {
+              "date": "1961-03-08",
+              "home": "belgrade-xi",
+              "away": "inter-milan",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kjobenhavns-boldklub",
+            "birmingham-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-11-23",
+              "home": "kjobenhavns-boldklub",
+              "away": "birmingham-city-fc",
+              "score": "4:4"
+            },
+            {
+              "date": "1960-12-07",
+              "home": "birmingham-city-fc",
+              "away": "kjobenhavns-boldklub",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1960-12-27",
+              "home": "fc-barcelona",
+              "away": "hibernian-fc",
+              "score": "4:4"
+            },
+            {
+              "date": "1961-02-22",
+              "home": "hibernian-fc",
+              "away": "fc-barcelona",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cologne-xi",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1961-01-18",
+              "home": "cologne-xi",
+              "away": "as-roma",
+              "score": "0:2"
+            },
+            {
+              "date": "1961-02-08",
+              "home": "as-roma",
+              "away": "cologne-xi",
+              "score": "0:2"
+            },
+            {
+              "date": "1961-03-01",
+              "home": "as-roma",
+              "away": "cologne-xi",
+              "score": "4:1",
+              "neutral": false,
+              "note": "Play-off, Stadio Olimpico, Rome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "inter-milan",
+            "birmingham-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-04-19",
+              "home": "inter-milan",
+              "away": "birmingham-city-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1961-05-03",
+              "home": "birmingham-city-fc",
+              "away": "inter-milan",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1961-04-19",
+              "home": "hibernian-fc",
+              "away": "as-roma",
+              "score": "2:2"
+            },
+            {
+              "date": "1961-04-26",
+              "home": "as-roma",
+              "away": "hibernian-fc",
+              "score": "3:3"
+            },
+            {
+              "date": "1961-05-27",
+              "home": "as-roma",
+              "away": "hibernian-fc",
+              "score": "6:0",
+              "neutral": false,
+              "note": "Play-off, Stadio Olimpico, Rome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "birmingham-city-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-27",
+              "home": "birmingham-city-fc",
+              "away": "as-roma",
+              "score": "2:2"
+            },
+            {
+              "date": "1961-10-11",
+              "home": "as-roma",
+              "away": "birmingham-city-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

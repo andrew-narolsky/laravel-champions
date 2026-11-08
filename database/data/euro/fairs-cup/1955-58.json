@@ -1,0 +1,208 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1955-58",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1955%E2%80%931958_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "group",
+      "matches": [
+        {
+          "group": "A",
+          "date": "1955-12-25",
+          "home": "fc-barcelona",
+          "away": "copenhagen-xi",
+          "score": "6:2"
+        },
+        {
+          "group": "A",
+          "date": "1956-04-26",
+          "home": "copenhagen-xi",
+          "away": "fc-barcelona",
+          "score": "1:1"
+        },
+        {
+          "group": "B",
+          "date": "1956-05-16",
+          "home": "inter-milan",
+          "away": "birmingham-city-fc",
+          "score": "0:0"
+        },
+        {
+          "group": "B",
+          "date": "1956-05-22",
+          "home": "zagreb-xi",
+          "away": "birmingham-city-fc",
+          "score": "0:1"
+        },
+        {
+          "group": "B",
+          "date": "1956-06-06",
+          "home": "zagreb-xi",
+          "away": "inter-milan",
+          "score": "0:1"
+        },
+        {
+          "group": "B",
+          "date": "1956-12-03",
+          "home": "birmingham-city-fc",
+          "away": "zagreb-xi",
+          "score": "3:0"
+        },
+        {
+          "group": "B",
+          "date": "1957-03-19",
+          "home": "inter-milan",
+          "away": "zagreb-xi",
+          "score": "4:0"
+        },
+        {
+          "group": "B",
+          "date": "1957-04-17",
+          "home": "birmingham-city-fc",
+          "away": "inter-milan",
+          "score": "2:1"
+        },
+        {
+          "group": "C",
+          "date": "1956-03-06",
+          "home": "leipzig-xi",
+          "away": "fc-lausanne-sport",
+          "score": "6:3"
+        },
+        {
+          "group": "C",
+          "date": "1956-10-21",
+          "home": "fc-lausanne-sport",
+          "away": "leipzig-xi",
+          "score": "7:3"
+        },
+        {
+          "group": "D",
+          "date": "1955-06-04",
+          "home": "basel-xi",
+          "away": "london-xi",
+          "score": "0:5"
+        },
+        {
+          "group": "D",
+          "date": "1955-10-26",
+          "home": "london-xi",
+          "away": "frankfurt-xi",
+          "score": "3:2"
+        },
+        {
+          "group": "D",
+          "date": "1956-05-04",
+          "home": "london-xi",
+          "away": "basel-xi",
+          "score": "1:0"
+        },
+        {
+          "group": "D",
+          "date": "1956-06-20",
+          "home": "frankfurt-xi",
+          "away": "basel-xi",
+          "score": "5:1"
+        },
+        {
+          "group": "D",
+          "date": "1957-03-27",
+          "home": "frankfurt-xi",
+          "away": "london-xi",
+          "score": "1:0"
+        },
+        {
+          "group": "D",
+          "date": "1957-06-12",
+          "home": "basel-xi",
+          "away": "frankfurt-xi",
+          "score": "6:2"
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "london-xi"
+          ],
+          "matches": [
+            {
+              "date": "1957-10-23",
+              "home": "fc-lausanne-sport",
+              "away": "london-xi",
+              "score": "2:1"
+            },
+            {
+              "date": "1957-11-13",
+              "home": "london-xi",
+              "away": "fc-lausanne-sport",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "birmingham-city-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1957-10-23",
+              "home": "birmingham-city-fc",
+              "away": "fc-barcelona",
+              "score": "4:3"
+            },
+            {
+              "date": "1957-11-13",
+              "home": "fc-barcelona",
+              "away": "birmingham-city-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1957-11-26",
+              "home": "fc-barcelona",
+              "away": "birmingham-city-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Play-off, St. Jakob Stadium, Basel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "london-xi",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1958-03-05",
+              "home": "london-xi",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            },
+            {
+              "date": "1958-05-01",
+              "home": "fc-barcelona",
+              "away": "london-xi",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1961-62",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "nottingham-forest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "valencia-cf",
+              "away": "nottingham-forest-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "nottingham-forest-fc",
+              "away": "valencia-cf",
+              "score": "1:5"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "r-union-saint-gilloise",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-27",
+              "home": "r-union-saint-gilloise",
+              "away": "heart-of-midlothian-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "heart-of-midlothian-fc",
+              "away": "r-union-saint-gilloise",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-27",
+              "home": "1-fc-koln",
+              "away": "inter-milan",
+              "score": "4:2"
+            },
+            {
+              "date": "1961-10-11",
+              "home": "inter-milan",
+              "away": "1-fc-koln",
+              "score": "2:0"
+            },
+            {
+              "date": "1961-10-25",
+              "home": "inter-milan",
+              "away": "1-fc-koln",
+              "score": "5:3",
+              "neutral": false,
+              "note": "Play-off, San Siro, Milan"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-milan",
+            "novi-sad-xi"
+          ],
+          "matches": [
+            {
+              "date": "1961-08-30",
+              "home": "ac-milan",
+              "away": "novi-sad-xi",
+              "score": "0:0"
+            },
+            {
+              "date": "1961-09-20",
+              "home": "novi-sad-xi",
+              "away": "ac-milan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rc-strasbourg",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "rc-strasbourg",
+              "away": "mtk-budapest-fc",
+              "score": "1:3"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "mtk-budapest-fc",
+              "away": "rc-strasbourg",
+              "score": "10:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "leipzig-xi"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-27",
+              "home": "fc-zbrojovka-brno",
+              "away": "leipzig-xi",
+              "score": "2:2"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "leipzig-xi",
+              "away": "fc-zbrojovka-brno",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hannover-96",
+            "rcd-espanyol"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-13",
+              "home": "hannover-96",
+              "away": "rcd-espanyol",
+              "score": "0:1"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "rcd-espanyol",
+              "away": "hannover-96",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "basel-xi",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-04",
+              "home": "basel-xi",
+              "away": "red-star-belgrade",
+              "score": "1:1"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "red-star-belgrade",
+              "away": "basel-xi",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-04",
+              "home": "hibernian-fc",
+              "away": "cf-os-belenenses",
+              "score": "3:3"
+            },
+            {
+              "date": "1961-09-27",
+              "home": "cf-os-belenenses",
+              "away": "hibernian-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "olympique-lyonnais",
+            "sheffield-wednesday-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-12",
+              "home": "olympique-lyonnais",
+              "away": "sheffield-wednesday-fc",
+              "score": "4:2"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "sheffield-wednesday-fc",
+              "away": "olympique-lyonnais",
+              "score": "5:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "west-berlin-xi",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-20",
+              "home": "west-berlin-xi",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "fc-barcelona",
+              "away": "west-berlin-xi",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "copenhagen-xi",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1961-09-07",
+              "home": "copenhagen-xi",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:7"
+            },
+            {
+              "date": "1961-10-04",
+              "home": "gnk-dinamo-zagreb",
+              "away": "copenhagen-xi",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "heart-of-midlothian-fc",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-06",
+              "home": "heart-of-midlothian-fc",
+              "away": "inter-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1961-11-22",
+              "home": "inter-milan",
+              "away": "heart-of-midlothian-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "iraklis-fc",
+            "novi-sad-xi"
+          ],
+          "matches": [
+            {
+              "date": "1961-10-26",
+              "home": "iraklis-fc",
+              "away": "novi-sad-xi",
+              "score": "2:1"
+            },
+            {
+              "date": "1961-11-15",
+              "home": "novi-sad-xi",
+              "away": "iraklis-fc",
+              "score": "9:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "mtk-budapest-fc",
+            "leipzig-xi"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-06",
+              "home": "mtk-budapest-fc",
+              "away": "leipzig-xi",
+              "score": "3:0"
+            },
+            {
+              "date": "1961-11-22",
+              "home": "leipzig-xi",
+              "away": "mtk-budapest-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1961-11-30",
+              "home": "mtk-budapest-fc",
+              "away": "leipzig-xi",
+              "score": "2:0",
+              "neutral": false,
+              "note": "Play-off, Hidegkuti Nándor Stadium, Budapest"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "birmingham-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-15",
+              "home": "rcd-espanyol",
+              "away": "birmingham-city-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1961-12-07",
+              "home": "birmingham-city-fc",
+              "away": "rcd-espanyol",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "hibernian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-01",
+              "home": "red-star-belgrade",
+              "away": "hibernian-fc",
+              "score": "4:0"
+            },
+            {
+              "date": "1961-11-15",
+              "home": "hibernian-fc",
+              "away": "red-star-belgrade",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sheffield-wednesday-fc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1961-11-29",
+              "home": "sheffield-wednesday-fc",
+              "away": "as-roma",
+              "score": "4:0"
+            },
+            {
+              "date": "1961-12-13",
+              "home": "as-roma",
+              "away": "sheffield-wednesday-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1961-12-13",
+              "home": "fc-barcelona",
+              "away": "gnk-dinamo-zagreb",
+              "score": "5:1"
+            },
+            {
+              "date": "1961-12-20",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-barcelona",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-lausanne-sport"
+          ],
+          "winner": "valencia-cf",
+          "note": "Second leg not played: the clubs could not agree on a date, and Valencia were declared winners",
+          "matches": [
+            {
+              "date": "1961-12-23",
+              "home": "valencia-cf",
+              "away": "fc-lausanne-sport",
+              "score": "4:3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "rcd-espanyol",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-01",
+              "home": "rcd-espanyol",
+              "away": "red-star-belgrade",
+              "score": "2:1"
+            },
+            {
+              "date": "1962-03-14",
+              "home": "red-star-belgrade",
+              "away": "rcd-espanyol",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "novi-sad-xi",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-11",
+              "home": "novi-sad-xi",
+              "away": "mtk-budapest-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1962-02-18",
+              "home": "mtk-budapest-fc",
+              "away": "novi-sad-xi",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "inter-milan"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-14",
+              "home": "valencia-cf",
+              "away": "inter-milan",
+              "score": "2:0"
+            },
+            {
+              "date": "1962-03-21",
+              "home": "inter-milan",
+              "away": "valencia-cf",
+              "score": "3:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sheffield-wednesday-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1962-02-28",
+              "home": "sheffield-wednesday-fc",
+              "away": "fc-barcelona",
+              "score": "3:2"
+            },
+            {
+              "date": "1962-03-28",
+              "home": "fc-barcelona",
+              "away": "sheffield-wednesday-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "mtk-budapest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1962-04-24",
+              "home": "valencia-cf",
+              "away": "mtk-budapest-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1962-05-01",
+              "home": "mtk-budapest-fc",
+              "away": "valencia-cf",
+              "score": "3:7"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "red-star-belgrade",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1962-04-17",
+              "home": "red-star-belgrade",
+              "away": "fc-barcelona",
+              "score": "0:2"
+            },
+            {
+              "date": "1962-04-24",
+              "home": "fc-barcelona",
+              "away": "red-star-belgrade",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "valencia-cf",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1962-09-08",
+              "home": "valencia-cf",
+              "away": "fc-barcelona",
+              "score": "6:2"
+            },
+            {
+              "date": "1962-09-12",
+              "home": "fc-barcelona",
+              "away": "valencia-cf",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

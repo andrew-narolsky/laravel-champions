@@ -1,0 +1,684 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1963-64",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1963%E2%80%9364_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "iraklis-fc",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-08",
+              "home": "iraklis-fc",
+              "away": "real-zaragoza",
+              "score": "0:3"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "real-zaragoza",
+              "away": "iraklis-fc",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "heart-of-midlothian-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "fc-lausanne-sport",
+              "away": "heart-of-midlothian-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "heart-of-midlothian-fc",
+              "away": "fc-lausanne-sport",
+              "score": "2:2"
+            },
+            {
+              "date": "1963-10-15",
+              "home": "fc-lausanne-sport",
+              "away": "heart-of-midlothian-fc",
+              "score": "3:2",
+              "extra_time": true,
+              "note": "Play-off, Lausanne"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "atletico-madrid",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-02",
+              "home": "atletico-madrid",
+              "away": "fc-porto",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "fc-porto",
+              "away": "atletico-madrid",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "ofk-beograd"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-02",
+              "home": "juventus-fc",
+              "away": "ofk-beograd",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "ofk-beograd",
+              "away": "juventus-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-10-30",
+              "home": "juventus-fc",
+              "away": "ofk-beograd",
+              "score": "1:0",
+              "neutral": true,
+              "note": "Play-off, Trieste"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-zbrojovka-brno",
+            "servette-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-02",
+              "home": "fc-zbrojovka-brno",
+              "away": "servette-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "servette-fc",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "glentoran-fc",
+            "partick-thistle-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-16",
+              "home": "glentoran-fc",
+              "away": "partick-thistle-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1963-09-30",
+              "home": "partick-thistle-fc",
+              "away": "glentoran-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "copenhagen-xi",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "copenhagen-xi",
+              "away": "arsenal-fc",
+              "score": "1:7"
+            },
+            {
+              "date": "1963-10-22",
+              "home": "arsenal-fc",
+              "away": "copenhagen-xi",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-aris-bonnevoie",
+            "rfc-liege"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-04",
+              "home": "fc-aris-bonnevoie",
+              "away": "rfc-liege",
+              "score": "0:2"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "rfc-liege",
+              "away": "fc-aris-bonnevoie",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "kaa-gent"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-04",
+              "home": "1-fc-koln",
+              "away": "kaa-gent",
+              "score": "3:1"
+            },
+            {
+              "date": "1963-10-16",
+              "home": "kaa-gent",
+              "away": "1-fc-koln",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dos-utrecht",
+            "sheffield-wednesday-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "dos-utrecht",
+              "away": "sheffield-wednesday-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1963-10-15",
+              "home": "sheffield-wednesday-fc",
+              "away": "dos-utrecht",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "nk-tresnjevka",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-25",
+              "home": "nk-tresnjevka",
+              "away": "cf-os-belenenses",
+              "score": "0:2"
+            },
+            {
+              "date": "1963-10-08",
+              "home": "cf-os-belenenses",
+              "away": "nk-tresnjevka",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "as-roma"
+          ],
+          "matches": [
+            {
+              "date": "1963-10-16",
+              "home": "hertha-bsc",
+              "away": "as-roma",
+              "score": "1:3"
+            },
+            {
+              "date": "1963-10-30",
+              "home": "as-roma",
+              "away": "hertha-bsc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-lokomotive-leipzig",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-04",
+              "home": "1-fc-lokomotive-leipzig",
+              "away": "ujpest-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-09-11",
+              "home": "ujpest-fc",
+              "away": "1-fc-lokomotive-leipzig",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-brasov",
+            "pfc-lokomotiv-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-19",
+              "home": "fc-brasov",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "1:3"
+            },
+            {
+              "date": "1963-10-09",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "fc-brasov",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "racing-club-de-france"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-11",
+              "home": "sk-rapid-wien",
+              "away": "racing-club-de-france",
+              "score": "1:0"
+            },
+            {
+              "date": "1963-10-02",
+              "home": "racing-club-de-france",
+              "away": "sk-rapid-wien",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "shamrock-rovers-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1963-09-18",
+              "home": "shamrock-rovers-fc",
+              "away": "valencia-cf",
+              "score": "0:1"
+            },
+            {
+              "date": "1963-10-10",
+              "home": "valencia-cf",
+              "away": "shamrock-rovers-fc",
+              "score": "2:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-06",
+              "home": "fc-lausanne-sport",
+              "away": "real-zaragoza",
+              "score": "1:2"
+            },
+            {
+              "date": "1963-11-20",
+              "home": "real-zaragoza",
+              "away": "fc-lausanne-sport",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "1963-12-04",
+              "home": "juventus-fc",
+              "away": "atletico-madrid",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-01-01",
+              "home": "atletico-madrid",
+              "away": "juventus-fc",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "partick-thistle-fc",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-18",
+              "home": "partick-thistle-fc",
+              "away": "fc-zbrojovka-brno",
+              "score": "3:2"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "fc-zbrojovka-brno",
+              "away": "partick-thistle-fc",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "rfc-liege"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-13",
+              "home": "arsenal-fc",
+              "away": "rfc-liege",
+              "score": "1:1"
+            },
+            {
+              "date": "1963-12-18",
+              "home": "rfc-liege",
+              "away": "arsenal-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "sheffield-wednesday-fc"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-06",
+              "home": "1-fc-koln",
+              "away": "sheffield-wednesday-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "sheffield-wednesday-fc",
+              "away": "1-fc-koln",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "cf-os-belenenses"
+          ],
+          "matches": [
+            {
+              "date": "1963-12-04",
+              "home": "as-roma",
+              "away": "cf-os-belenenses",
+              "score": "2:1"
+            },
+            {
+              "date": "1963-12-11",
+              "home": "cf-os-belenenses",
+              "away": "as-roma",
+              "score": "0:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ujpest-fc",
+            "pfc-lokomotiv-plovdiv"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-20",
+              "home": "ujpest-fc",
+              "away": "pfc-lokomotiv-plovdiv",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-12-04",
+              "home": "pfc-lokomotiv-plovdiv",
+              "away": "ujpest-fc",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-rapid-wien",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1963-11-06",
+              "home": "sk-rapid-wien",
+              "away": "valencia-cf",
+              "score": "0:0"
+            },
+            {
+              "date": "1963-11-27",
+              "home": "valencia-cf",
+              "away": "sk-rapid-wien",
+              "score": "3:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-01-29",
+              "home": "real-zaragoza",
+              "away": "juventus-fc",
+              "score": "3:2"
+            },
+            {
+              "date": "1964-02-12",
+              "home": "juventus-fc",
+              "away": "real-zaragoza",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rfc-liege",
+            "fc-zbrojovka-brno"
+          ],
+          "matches": [
+            {
+              "date": "1964-02-19",
+              "home": "rfc-liege",
+              "away": "fc-zbrojovka-brno",
+              "score": "2:0"
+            },
+            {
+              "date": "1964-03-11",
+              "home": "fc-zbrojovka-brno",
+              "away": "rfc-liege",
+              "score": "2:0"
+            },
+            {
+              "date": "1964-03-25",
+              "home": "rfc-liege",
+              "away": "fc-zbrojovka-brno",
+              "score": "1:0",
+              "note": "Play-off, Liège"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "as-roma",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1964-01-29",
+              "home": "as-roma",
+              "away": "1-fc-koln",
+              "score": "3:1"
+            },
+            {
+              "date": "1964-03-05",
+              "home": "1-fc-koln",
+              "away": "as-roma",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "ujpest-fc"
+          ],
+          "matches": [
+            {
+              "date": "1964-03-08",
+              "home": "valencia-cf",
+              "away": "ujpest-fc",
+              "score": "5:2"
+            },
+            {
+              "date": "1964-04-08",
+              "home": "ujpest-fc",
+              "away": "valencia-cf",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "rfc-liege",
+            "real-zaragoza"
+          ],
+          "matches": [
+            {
+              "date": "1964-04-22",
+              "home": "rfc-liege",
+              "away": "real-zaragoza",
+              "score": "1:0"
+            },
+            {
+              "date": "1964-05-07",
+              "home": "real-zaragoza",
+              "away": "rfc-liege",
+              "score": "2:1"
+            },
+            {
+              "date": "1964-05-28",
+              "home": "real-zaragoza",
+              "away": "rfc-liege",
+              "score": "2:0",
+              "note": "Play-off, Zaragoza"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1964-05-06",
+              "home": "valencia-cf",
+              "away": "1-fc-koln",
+              "score": "4:1"
+            },
+            {
+              "date": "1964-05-14",
+              "home": "1-fc-koln",
+              "away": "valencia-cf",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1964-06-25",
+              "home": "real-zaragoza",
+              "away": "valencia-cf",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Camp Nou, Barcelona"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

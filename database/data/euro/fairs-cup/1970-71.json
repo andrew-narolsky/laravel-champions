@@ -1,0 +1,1316 @@
+{
+  "competition": {
+    "name": "Inter-Cities Fairs Cup",
+    "slug": "fairs-cup",
+    "description": "Inter-Cities Fairs Cup (1955–1971)"
+  },
+  "season": "1970-71",
+  "competition_name": "Inter-Cities Fairs Cup",
+  "points_for_win": 2,
+  "source": "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
+  "stages": [
+    {
+      "stage": "round_1",
+      "ties": [
+        {
+          "clubs": [
+            "aek-athens-fc",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-02",
+              "home": "aek-athens-fc",
+              "away": "fc-twente",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-08",
+              "home": "fc-twente",
+              "away": "aek-athens-fc",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-zeljeznicar-sarajevo",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-02",
+              "home": "fk-zeljeznicar-sarajevo",
+              "away": "rsc-anderlecht",
+              "score": "3:4"
+            },
+            {
+              "date": "1970-09-16",
+              "home": "rsc-anderlecht",
+              "away": "fk-zeljeznicar-sarajevo",
+              "score": "5:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "kaa-gent",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-02",
+              "home": "kaa-gent",
+              "away": "hamburger-sv",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-15",
+              "home": "hamburger-sv",
+              "away": "kaa-gent",
+              "score": "7:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sevilla-fc",
+            "eskisehirspor"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-05",
+              "home": "sevilla-fc",
+              "away": "eskisehirspor",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-09-16",
+              "home": "eskisehirspor",
+              "away": "sevilla-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "coleraine-fc",
+            "kilmarnock-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "coleraine-fc",
+              "away": "kilmarnock-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "kilmarnock-fc",
+              "away": "coleraine-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "dundee-united-fc",
+            "grasshopper-club"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "dundee-united-fc",
+              "away": "grasshopper-club",
+              "score": "3:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "grasshopper-club",
+              "away": "dundee-united-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sarpsborg-fk",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "sarpsborg-fk",
+              "away": "leeds-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "leeds-united-fc",
+              "away": "sarpsborg-fk",
+              "score": "5:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "olympique-de-marseille"
+          ],
+          "winner": "fc-spartak-trnava",
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-spartak-trnava",
+              "away": "olympique-de-marseille",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "olympique-de-marseille",
+              "away": "fc-spartak-trnava",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Spartak Trnava won 4:3 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "cs-sedan-ardennes"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "1-fc-koln",
+              "away": "cs-sedan-ardennes",
+              "score": "5:1"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "cs-sedan-ardennes",
+              "away": "1-fc-koln",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-lausanne-sport",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "fc-lausanne-sport",
+              "away": "vitoria-fc",
+              "score": "0:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "vitoria-fc",
+              "away": "fc-lausanne-sport",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "malmo-ff"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "hibernian-fc",
+              "away": "malmo-ff",
+              "score": "6:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "malmo-ff",
+              "away": "hibernian-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "ferencvarosi-tc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-15",
+              "home": "liverpool-fc",
+              "away": "ferencvarosi-tc",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "ferencvarosi-tc",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "botev-plovdiv",
+            "coventry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "botev-plovdiv",
+              "away": "coventry-city-fc",
+              "score": "1:4"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "coventry-city-fc",
+              "away": "botev-plovdiv",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ss-lazio",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "ss-lazio",
+              "away": "arsenal-fc",
+              "score": "2:2"
+            },
+            {
+              "date": "1970-09-23",
+              "home": "arsenal-fc",
+              "away": "ss-lazio",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rangers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-bayern-munich",
+              "away": "rangers-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "rangers-fc",
+              "away": "fc-bayern-munich",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-dinamo-bucuresti",
+            "paok-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-dinamo-bucuresti",
+              "away": "paok-fc",
+              "score": "5:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "paok-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cs-universitatea-craiova",
+            "pecsi-mfc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "cs-universitatea-craiova",
+              "away": "pecsi-mfc",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "pecsi-mfc",
+              "away": "cs-universitatea-craiova",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gks-katowice",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "gks-katowice",
+              "away": "fc-barcelona",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-09-23",
+              "home": "fc-barcelona",
+              "away": "gks-katowice",
+              "score": "3:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "wiener-sport-club",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "wiener-sport-club",
+              "away": "ksk-beveren",
+              "score": "0:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "ksk-beveren",
+              "away": "wiener-sport-club",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-ilves",
+            "sk-sturm-graz"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-ilves",
+              "away": "sk-sturm-graz",
+              "score": "4:2"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "sk-sturm-graz",
+              "away": "fc-ilves",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barreirense",
+            "gnk-dinamo-zagreb"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fc-barreirense",
+              "away": "gnk-dinamo-zagreb",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-barreirense",
+              "score": "6:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hnk-hajduk-split",
+            "pfc-slavia-sofia"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "hnk-hajduk-split",
+              "away": "pfc-slavia-sofia",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "pfc-slavia-sofia",
+              "away": "hnk-hajduk-split",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "cork-hibernians-fc",
+            "valencia-cf"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "cork-hibernians-fc",
+              "away": "valencia-cf",
+              "score": "0:3"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "valencia-cf",
+              "away": "cork-hibernians-fc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "athletic-bilbao"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "ac-sparta-prague",
+              "away": "athletic-bilbao",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "athletic-bilbao",
+              "away": "ac-sparta-prague",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fk-partizan",
+            "sg-dynamo-dresden"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "fk-partizan",
+              "away": "sg-dynamo-dresden",
+              "score": "0:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "sg-dynamo-dresden",
+              "away": "fk-partizan",
+              "score": "6:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "akademisk-boldklub",
+            "sliema-wanderers-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "akademisk-boldklub",
+              "away": "sliema-wanderers-fc",
+              "score": "7:0"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "sliema-wanderers-fc",
+              "away": "akademisk-boldklub",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "juventus-fc",
+            "us-rumelange"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "juventus-fc",
+              "away": "us-rumelange",
+              "score": "7:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "us-rumelange",
+              "away": "juventus-fc",
+              "score": "0:4"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "boldklubben-1901",
+            "hertha-bsc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "boldklubben-1901",
+              "away": "hertha-bsc",
+              "score": "2:4"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "hertha-bsc",
+              "away": "boldklubben-1901",
+              "score": "4:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ruch-chorzow",
+            "acf-fiorentina"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "ruch-chorzow",
+              "away": "acf-fiorentina",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "acf-fiorentina",
+              "away": "ruch-chorzow",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "inter-milan",
+            "newcastle-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-23",
+              "home": "inter-milan",
+              "away": "newcastle-united-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "newcastle-united-fc",
+              "away": "inter-milan",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "ia-akranes"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-23",
+              "home": "sparta-rotterdam",
+              "away": "ia-akranes",
+              "score": "6:0"
+            },
+            {
+              "date": "1970-09-29",
+              "home": "ia-akranes",
+              "away": "sparta-rotterdam",
+              "score": "0:9"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-sc",
+            "angouleme-charente-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-09-16",
+              "home": "vitoria-sc",
+              "away": "angouleme-charente-fc",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-09-30",
+              "home": "angouleme-charente-fc",
+              "away": "vitoria-sc",
+              "score": "3:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_2",
+      "ties": [
+        {
+          "clubs": [
+            "hibernian-fc",
+            "vitoria-sc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-14",
+              "home": "hibernian-fc",
+              "away": "vitoria-sc",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-10-28",
+              "home": "vitoria-sc",
+              "away": "hibernian-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sparta-rotterdam",
+            "coleraine-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-20",
+              "home": "sparta-rotterdam",
+              "away": "coleraine-fc",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-11-03",
+              "home": "coleraine-fc",
+              "away": "sparta-rotterdam",
+              "score": "1:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "coventry-city-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-20",
+              "home": "fc-bayern-munich",
+              "away": "coventry-city-fc",
+              "score": "6:1"
+            },
+            {
+              "date": "1970-11-03",
+              "home": "coventry-city-fc",
+              "away": "fc-bayern-munich",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-barcelona",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-20",
+              "home": "fc-barcelona",
+              "away": "juventus-fc",
+              "score": "1:2"
+            },
+            {
+              "date": "1970-10-28",
+              "home": "juventus-fc",
+              "away": "fc-barcelona",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "acf-fiorentina",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-20",
+              "home": "acf-fiorentina",
+              "away": "1-fc-koln",
+              "score": "1:2"
+            },
+            {
+              "date": "1970-11-03",
+              "home": "1-fc-koln",
+              "away": "acf-fiorentina",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "sk-sturm-graz",
+            "arsenal-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "sk-sturm-graz",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "arsenal-fc",
+              "away": "sk-sturm-graz",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "sg-dynamo-dresden"
+          ],
+          "winner": "leeds-united-fc",
+          "note": "Leeds United won on away goals",
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "leeds-united-fc",
+              "away": "sg-dynamo-dresden",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "sg-dynamo-dresden",
+              "away": "leeds-united-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-dinamo-bucuresti"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "liverpool-fc",
+              "away": "fc-dinamo-bucuresti",
+              "score": "3:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-dinamo-bucuresti",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "akademisk-boldklub",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "akademisk-boldklub",
+              "away": "rsc-anderlecht",
+              "score": "1:3"
+            },
+            {
+              "date": "1970-10-28",
+              "home": "rsc-anderlecht",
+              "away": "akademisk-boldklub",
+              "score": "4:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "newcastle-united-fc",
+            "pecsi-mfc"
+          ],
+          "winner": "pecsi-mfc",
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "newcastle-united-fc",
+              "away": "pecsi-mfc",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "pecsi-mfc",
+              "away": "newcastle-united-fc",
+              "score": "2:0",
+              "extra_time": true,
+              "note": "Pécsi Dózsa won 5:2 on penalties"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "ac-sparta-prague",
+            "dundee-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "ac-sparta-prague",
+              "away": "dundee-united-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "dundee-united-fc",
+              "away": "ac-sparta-prague",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hertha-bsc",
+            "fc-spartak-trnava"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "hertha-bsc",
+              "away": "fc-spartak-trnava",
+              "score": "1:0"
+            },
+            {
+              "date": "1970-10-28",
+              "home": "fc-spartak-trnava",
+              "away": "hertha-bsc",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "hamburger-sv"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "gnk-dinamo-zagreb",
+              "away": "hamburger-sv",
+              "score": "4:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "hamburger-sv",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "vitoria-fc",
+            "hnk-hajduk-split"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "vitoria-fc",
+              "away": "hnk-hajduk-split",
+              "score": "2:0"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "hnk-hajduk-split",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "valencia-cf",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-21",
+              "home": "valencia-cf",
+              "away": "ksk-beveren",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "ksk-beveren",
+              "away": "valencia-cf",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "eskisehirspor",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1970-10-28",
+              "home": "eskisehirspor",
+              "away": "fc-twente",
+              "score": "3:2"
+            },
+            {
+              "date": "1970-11-04",
+              "home": "fc-twente",
+              "away": "eskisehirspor",
+              "score": "6:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "round_3",
+      "ties": [
+        {
+          "clubs": [
+            "fc-spartak-trnava",
+            "1-fc-koln"
+          ],
+          "matches": [
+            {
+              "date": "1970-11-25",
+              "home": "fc-spartak-trnava",
+              "away": "1-fc-koln",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-12-09",
+              "home": "1-fc-koln",
+              "away": "fc-spartak-trnava",
+              "score": "3:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "sparta-rotterdam"
+          ],
+          "matches": [
+            {
+              "date": "1970-11-25",
+              "home": "fc-bayern-munich",
+              "away": "sparta-rotterdam",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-12-09",
+              "home": "sparta-rotterdam",
+              "away": "fc-bayern-munich",
+              "score": "1:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "ac-sparta-prague"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-02",
+              "home": "leeds-united-fc",
+              "away": "ac-sparta-prague",
+              "score": "6:0"
+            },
+            {
+              "date": "1970-12-09",
+              "home": "ac-sparta-prague",
+              "away": "leeds-united-fc",
+              "score": "2:3"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "ksk-beveren"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-02",
+              "home": "arsenal-fc",
+              "away": "ksk-beveren",
+              "score": "4:0"
+            },
+            {
+              "date": "1970-12-16",
+              "home": "ksk-beveren",
+              "away": "arsenal-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "pecsi-mfc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-03",
+              "home": "pecsi-mfc",
+              "away": "juventus-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-12-16",
+              "home": "juventus-fc",
+              "away": "pecsi-mfc",
+              "score": "2:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "gnk-dinamo-zagreb",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-09",
+              "home": "gnk-dinamo-zagreb",
+              "away": "fc-twente",
+              "score": "2:2"
+            },
+            {
+              "date": "1970-12-16",
+              "home": "fc-twente",
+              "away": "gnk-dinamo-zagreb",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-09",
+              "home": "rsc-anderlecht",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1970-12-23",
+              "home": "vitoria-fc",
+              "away": "rsc-anderlecht",
+              "score": "3:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "hibernian-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1970-12-09",
+              "home": "hibernian-fc",
+              "away": "liverpool-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1970-12-15",
+              "home": "liverpool-fc",
+              "away": "hibernian-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "quarter_final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "fc-twente"
+          ],
+          "matches": [
+            {
+              "date": "1971-01-27",
+              "home": "juventus-fc",
+              "away": "fc-twente",
+              "score": "2:0"
+            },
+            {
+              "date": "1971-02-17",
+              "home": "fc-twente",
+              "away": "juventus-fc",
+              "score": "2:2"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "arsenal-fc",
+            "1-fc-koln"
+          ],
+          "winner": "1-fc-koln",
+          "note": "Köln won on away goals",
+          "matches": [
+            {
+              "date": "1971-03-09",
+              "home": "arsenal-fc",
+              "away": "1-fc-koln",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-03-23",
+              "home": "1-fc-koln",
+              "away": "arsenal-fc",
+              "score": "1:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "leeds-united-fc",
+            "vitoria-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "leeds-united-fc",
+              "away": "vitoria-fc",
+              "score": "2:1"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "vitoria-fc",
+              "away": "leeds-united-fc",
+              "score": "1:1"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "liverpool-fc",
+            "fc-bayern-munich"
+          ],
+          "matches": [
+            {
+              "date": "1971-03-10",
+              "home": "liverpool-fc",
+              "away": "fc-bayern-munich",
+              "score": "3:0"
+            },
+            {
+              "date": "1971-03-24",
+              "home": "fc-bayern-munich",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "semi_final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "leeds-united-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "liverpool-fc",
+              "away": "leeds-united-fc",
+              "score": "0:1"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "leeds-united-fc",
+              "away": "liverpool-fc",
+              "score": "0:0"
+            }
+          ]
+        },
+        {
+          "clubs": [
+            "1-fc-koln",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1971-04-14",
+              "home": "1-fc-koln",
+              "away": "juventus-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1971-04-28",
+              "home": "juventus-fc",
+              "away": "1-fc-koln",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "leeds-united-fc"
+          ],
+          "winner": "leeds-united-fc",
+          "note": "Leeds United won on away goals",
+          "matches": [
+            {
+              "date": "1971-05-28",
+              "home": "juventus-fc",
+              "away": "leeds-united-fc",
+              "score": "2:2",
+              "note": "Replay: the original first leg on 26 May was abandoned at 0:0 in the 51st minute because of heavy rain and a waterlogged pitch"
+            },
+            {
+              "date": "1971-06-03",
+              "home": "leeds-united-fc",
+              "away": "juventus-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

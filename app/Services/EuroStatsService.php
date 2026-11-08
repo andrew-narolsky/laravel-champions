@@ -357,7 +357,7 @@ class EuroStatsService
                     'seasons' => $seasons,
                 ];
             })
-            ->sortByDesc(fn ($c) => [$c['titles']->count(), $c['seasons']->count()])
+            ->sortBy(fn ($c) => EuroCompetition::sortPosition($c['competition']->slug))
             ->values();
     }
 

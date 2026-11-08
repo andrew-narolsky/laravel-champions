@@ -30,7 +30,7 @@ class StatsService
             'euroCompetitions' => EuroCompetition::query()
                 ->with('attachment')
                 ->withCount('seasons')
-                ->orderBy('id')
+                ->ordered()
                 ->get(['id', 'name', 'slug', 'description']),
         ];
 
