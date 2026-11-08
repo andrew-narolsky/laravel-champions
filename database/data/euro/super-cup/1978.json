@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1978",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1978_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "rsc-anderlecht",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1978-12-04",
+              "home": "rsc-anderlecht",
+              "away": "liverpool-fc",
+              "score": "3:1"
+            },
+            {
+              "date": "1978-12-19",
+              "home": "liverpool-fc",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

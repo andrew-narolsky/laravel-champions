@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1996",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1996_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "juventus-fc"
+          ],
+          "matches": [
+            {
+              "date": "1997-01-15",
+              "home": "paris-saint-germain-fc",
+              "away": "juventus-fc",
+              "score": "1:6"
+            },
+            {
+              "date": "1997-02-05",
+              "home": "juventus-fc",
+              "away": "paris-saint-germain-fc",
+              "score": "3:1",
+              "note": "Played at Stadio La Favorita, Palermo: Juventus moved their home leg because of poor attendances at the Stadio delle Alpi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

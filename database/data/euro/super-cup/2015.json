@@ -1,0 +1,34 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2015",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2015_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2015-08-11",
+              "home": "fc-barcelona",
+              "away": "sevilla-fc",
+              "score": "5:4",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Boris Paichadze Dinamo Arena, Tbilisi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

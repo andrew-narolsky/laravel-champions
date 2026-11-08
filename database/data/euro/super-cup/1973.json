@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1973",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1973_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1974-01-09",
+              "home": "ac-milan",
+              "away": "afc-ajax",
+              "score": "1:0"
+            },
+            {
+              "date": "1974-01-16",
+              "home": "afc-ajax",
+              "away": "ac-milan",
+              "score": "6:0",
+              "note": "Played at Olympic Stadium, Amsterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

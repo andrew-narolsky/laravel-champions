@@ -1,0 +1,32 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1991",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1991_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "red-star-belgrade"
+          ],
+          "matches": [
+            {
+              "date": "1991-11-19",
+              "home": "manchester-united-fc",
+              "away": "red-star-belgrade",
+              "score": "1:0",
+              "note": "Played as a single match at Old Trafford: UEFA decided not to play in Belgrade because of the war in Yugoslavia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1992",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1992_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "sv-werder-bremen",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1993-02-10",
+              "home": "sv-werder-bremen",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            },
+            {
+              "date": "1993-03-10",
+              "home": "fc-barcelona",
+              "away": "sv-werder-bremen",
+              "score": "2:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

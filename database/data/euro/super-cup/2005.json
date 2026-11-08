@@ -1,0 +1,34 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2005",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2005_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "pfc-cska-moscow"
+          ],
+          "matches": [
+            {
+              "date": "2005-08-26",
+              "home": "liverpool-fc",
+              "away": "pfc-cska-moscow",
+              "score": "3:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

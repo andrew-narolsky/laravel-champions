@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1979",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1979_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "fc-barcelona"
+          ],
+          "matches": [
+            {
+              "date": "1980-01-30",
+              "home": "nottingham-forest-fc",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            },
+            {
+              "date": "1980-02-05",
+              "home": "fc-barcelona",
+              "away": "nottingham-forest-fc",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

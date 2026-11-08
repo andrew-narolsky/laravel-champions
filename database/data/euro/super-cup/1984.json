@@ -1,0 +1,32 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1984",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1984_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "juventus-fc",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1985-01-16",
+              "home": "juventus-fc",
+              "away": "liverpool-fc",
+              "score": "2:0",
+              "note": "Played as a single match in Turin because both clubs had fixture congestion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

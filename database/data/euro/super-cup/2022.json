@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2022",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2022_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "eintracht-frankfurt"
+          ],
+          "matches": [
+            {
+              "date": "2022-08-10",
+              "home": "real-madrid-cf",
+              "away": "eintracht-frankfurt",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Olympic Stadium, Helsinki"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

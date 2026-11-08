@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2012",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2012_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "atletico-madrid"
+          ],
+          "matches": [
+            {
+              "date": "2012-08-31",
+              "home": "chelsea-fc",
+              "away": "atletico-madrid",
+              "score": "1:4",
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

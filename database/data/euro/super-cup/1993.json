@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1993",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1993_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "parma-calcio",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1994-01-12",
+              "home": "parma-calcio",
+              "away": "ac-milan",
+              "score": "0:1"
+            },
+            {
+              "date": "1994-02-02",
+              "home": "ac-milan",
+              "away": "parma-calcio",
+              "score": "0:2",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

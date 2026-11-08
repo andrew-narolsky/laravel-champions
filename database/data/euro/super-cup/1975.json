@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1975",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1975_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "fc-dynamo-kyiv"
+          ],
+          "matches": [
+            {
+              "date": "1975-09-09",
+              "home": "fc-bayern-munich",
+              "away": "fc-dynamo-kyiv",
+              "score": "0:1"
+            },
+            {
+              "date": "1975-10-06",
+              "home": "fc-dynamo-kyiv",
+              "away": "fc-bayern-munich",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

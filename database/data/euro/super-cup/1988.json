@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1988",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1988_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "kv-mechelen",
+            "psv-eindhoven"
+          ],
+          "matches": [
+            {
+              "date": "1989-02-01",
+              "home": "kv-mechelen",
+              "away": "psv-eindhoven",
+              "score": "3:0"
+            },
+            {
+              "date": "1989-02-08",
+              "home": "psv-eindhoven",
+              "away": "kv-mechelen",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

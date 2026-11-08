@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2007",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2007_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "ac-milan",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2007-08-31",
+              "home": "ac-milan",
+              "away": "sevilla-fc",
+              "score": "3:1",
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

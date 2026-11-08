@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1982",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1982_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-01-19",
+              "home": "fc-barcelona",
+              "away": "aston-villa-fc",
+              "score": "1:0"
+            },
+            {
+              "date": "1983-01-26",
+              "home": "aston-villa-fc",
+              "away": "fc-barcelona",
+              "score": "3:0",
+              "extra_time": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

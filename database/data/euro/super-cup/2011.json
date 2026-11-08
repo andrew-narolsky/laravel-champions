@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2011",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2011_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "fc-porto"
+          ],
+          "matches": [
+            {
+              "date": "2011-08-26",
+              "home": "fc-barcelona",
+              "away": "fc-porto",
+              "score": "2:0",
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

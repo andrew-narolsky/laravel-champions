@@ -1,0 +1,39 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1980",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1980_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "nottingham-forest-fc",
+            "valencia-cf"
+          ],
+          "winner": "valencia-cf",
+          "note": "Valencia won on away goals",
+          "matches": [
+            {
+              "date": "1980-11-25",
+              "home": "nottingham-forest-fc",
+              "away": "valencia-cf",
+              "score": "2:1"
+            },
+            {
+              "date": "1980-12-17",
+              "home": "valencia-cf",
+              "away": "nottingham-forest-fc",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

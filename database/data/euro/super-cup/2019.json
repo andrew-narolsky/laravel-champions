@@ -1,0 +1,35 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2019",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2019_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "liverpool-fc",
+            "chelsea-fc"
+          ],
+          "winner": "liverpool-fc",
+          "matches": [
+            {
+              "date": "2019-08-14",
+              "home": "liverpool-fc",
+              "away": "chelsea-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Vodafone Park, Istanbul; Liverpool won 5:4 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

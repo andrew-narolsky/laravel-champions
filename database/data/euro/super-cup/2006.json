@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2006",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2006_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2006-08-25",
+              "home": "fc-barcelona",
+              "away": "sevilla-fc",
+              "score": "0:3",
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

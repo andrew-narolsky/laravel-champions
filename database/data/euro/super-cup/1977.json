@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1977",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1977_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "liverpool-fc"
+          ],
+          "matches": [
+            {
+              "date": "1977-11-22",
+              "home": "hamburger-sv",
+              "away": "liverpool-fc",
+              "score": "1:1"
+            },
+            {
+              "date": "1977-12-06",
+              "home": "liverpool-fc",
+              "away": "hamburger-sv",
+              "score": "6:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

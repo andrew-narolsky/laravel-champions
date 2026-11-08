@@ -1,0 +1,35 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2021",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2021_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "chelsea-fc",
+            "villarreal-cf"
+          ],
+          "winner": "chelsea-fc",
+          "matches": [
+            {
+              "date": "2021-08-11",
+              "home": "chelsea-fc",
+              "away": "villarreal-cf",
+              "score": "1:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Windsor Park, Belfast; Chelsea won 6:5 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

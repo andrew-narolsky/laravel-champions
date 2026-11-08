@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1976",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1976_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "rsc-anderlecht"
+          ],
+          "matches": [
+            {
+              "date": "1976-08-17",
+              "home": "fc-bayern-munich",
+              "away": "rsc-anderlecht",
+              "score": "2:1"
+            },
+            {
+              "date": "1976-08-30",
+              "home": "rsc-anderlecht",
+              "away": "fc-bayern-munich",
+              "score": "4:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

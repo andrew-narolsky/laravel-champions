@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1990",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1990_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "uc-sampdoria",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1990-10-10",
+              "home": "uc-sampdoria",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1990-11-29",
+              "home": "ac-milan",
+              "away": "uc-sampdoria",
+              "score": "2:0",
+              "note": "Played at Stadio Renato Dall'Ara, Bologna: the San Siro pitch was in poor condition after the 1990 World Cup"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1983",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1983_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "hamburger-sv",
+            "aberdeen-fc"
+          ],
+          "matches": [
+            {
+              "date": "1983-11-22",
+              "home": "hamburger-sv",
+              "away": "aberdeen-fc",
+              "score": "0:0"
+            },
+            {
+              "date": "1983-12-20",
+              "home": "aberdeen-fc",
+              "away": "hamburger-sv",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

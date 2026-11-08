@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2026",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2026_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "paris-saint-germain-fc",
+            "aston-villa-fc"
+          ],
+          "matches": [
+            {
+              "date": "2026-08-12",
+              "home": "paris-saint-germain-fc",
+              "away": "aston-villa-fc",
+              "score": "2:1",
+              "neutral": true,
+              "note": "Red Bull Arena, Salzburg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

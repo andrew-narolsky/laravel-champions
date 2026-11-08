@@ -1,0 +1,34 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2020",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2020_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "sevilla-fc"
+          ],
+          "matches": [
+            {
+              "date": "2020-09-24",
+              "home": "fc-bayern-munich",
+              "away": "sevilla-fc",
+              "score": "2:1",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Puskás Aréna, Budapest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

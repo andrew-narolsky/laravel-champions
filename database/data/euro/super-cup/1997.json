@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1997",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1997_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "borussia-dortmund"
+          ],
+          "matches": [
+            {
+              "date": "1998-01-08",
+              "home": "fc-barcelona",
+              "away": "borussia-dortmund",
+              "score": "2:0"
+            },
+            {
+              "date": "1998-03-11",
+              "home": "borussia-dortmund",
+              "away": "fc-barcelona",
+              "score": "1:1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

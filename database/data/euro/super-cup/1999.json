@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1999",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1999_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "manchester-united-fc",
+            "ss-lazio"
+          ],
+          "matches": [
+            {
+              "date": "1999-08-27",
+              "home": "manchester-united-fc",
+              "away": "ss-lazio",
+              "score": "0:1",
+              "neutral": true,
+              "note": "Stade Louis II, Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

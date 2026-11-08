@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1994",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1994_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "arsenal-fc",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1995-02-01",
+              "home": "arsenal-fc",
+              "away": "ac-milan",
+              "score": "0:0"
+            },
+            {
+              "date": "1995-02-08",
+              "home": "ac-milan",
+              "away": "arsenal-fc",
+              "score": "2:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

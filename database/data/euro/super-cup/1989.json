@@ -1,0 +1,37 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1989",
+  "competition_name": "European Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1989_European_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-barcelona",
+            "ac-milan"
+          ],
+          "matches": [
+            {
+              "date": "1989-11-23",
+              "home": "fc-barcelona",
+              "away": "ac-milan",
+              "score": "1:1"
+            },
+            {
+              "date": "1989-12-07",
+              "home": "ac-milan",
+              "away": "fc-barcelona",
+              "score": "1:0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

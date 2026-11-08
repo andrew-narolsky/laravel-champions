@@ -1,0 +1,35 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2013",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2013_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "fc-bayern-munich",
+            "chelsea-fc"
+          ],
+          "winner": "fc-bayern-munich",
+          "matches": [
+            {
+              "date": "2013-08-30",
+              "home": "fc-bayern-munich",
+              "away": "chelsea-fc",
+              "score": "2:2",
+              "extra_time": true,
+              "neutral": true,
+              "note": "Eden Arena, Prague; Bayern Munich won 5:4 on penalties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

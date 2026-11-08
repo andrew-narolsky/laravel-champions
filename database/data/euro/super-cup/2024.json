@@ -1,0 +1,33 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "2024",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/2024_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-madrid-cf",
+            "atalanta-bc"
+          ],
+          "matches": [
+            {
+              "date": "2024-08-14",
+              "home": "real-madrid-cf",
+              "away": "atalanta-bc",
+              "score": "2:0",
+              "neutral": true,
+              "note": "National Stadium, Warsaw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

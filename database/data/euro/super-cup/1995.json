@@ -1,0 +1,38 @@
+{
+  "competition": {
+    "name": "UEFA Super Cup",
+    "slug": "super-cup",
+    "description": "Formerly the European Super Cup"
+  },
+  "season": "1995",
+  "competition_name": "UEFA Super Cup",
+  "source": "https://en.wikipedia.org/wiki/1995_UEFA_Super_Cup",
+  "stages": [
+    {
+      "stage": "final",
+      "ties": [
+        {
+          "clubs": [
+            "real-zaragoza",
+            "afc-ajax"
+          ],
+          "matches": [
+            {
+              "date": "1996-02-06",
+              "home": "real-zaragoza",
+              "away": "afc-ajax",
+              "score": "1:1"
+            },
+            {
+              "date": "1996-02-28",
+              "home": "afc-ajax",
+              "away": "real-zaragoza",
+              "score": "4:0",
+              "note": "Played at Olympic Stadium, Amsterdam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
