@@ -13,14 +13,43 @@
     {
         "name": "FC Dinamo Minsk",
         "description": "Belarus · Founded: 1927",
-        "country_id": [6, 58],
+        "country_id": [
+            6,
+            58
+        ],
         "primary_country_id": 6,
         "nickname": "",
         "content": "<p>FC Dinamo Minsk is one of the oldest and most historic football clubs in Belarus, based in Minsk and founded in 1927 as part of the Dinamo sports society. It currently competes in the Belarusian Premier League and is traditionally associated with white and blue colors. The club was the only representative of the Belarusian SSR to play extensively in the Soviet Top League, where it spent many seasons competing at the highest level.</p><p>During the Soviet era, Dinamo Minsk achieved its greatest success by winning the Soviet Top League title in 1982, marking a historic milestone for Belarusian football. The club also enjoyed notable European runs in the 1980s, reaching the quarter-finals of major UEFA competitions such as the European Cup and UEFA Cup. These achievements established Dinamo Minsk as one of the most respected teams from the Soviet Union at the time.</p><p>After Belarus gained independence in 1991, Dinamo Minsk became the dominant force in the newly formed domestic league, winning the inaugural Belarusian Premier League in 1992 and securing multiple titles throughout the 1990s. Although later overshadowed by clubs like BATE Borisov, Dinamo Minsk remains one of the most decorated teams in Belarus, with numerous league titles and domestic trophies, and continues to be a regular participant in European competitions.</p>",
         "founded_at": "1927-06-18",
         "destroyed_at": "",
         "stadium": "Dinamo Stadium, Cap. 22,000",
-        "city": "Minsk"
+        "city": "Minsk",
+        "names": [
+            {
+                "name": "Dinamo Minsk",
+                "from_year": 1927,
+                "to_year": 1954,
+                "note": "Club founded under this name as part of the Dynamo sports society"
+            },
+            {
+                "name": "Spartak Minsk",
+                "from_year": 1954,
+                "to_year": 1959,
+                "note": "Transferred to the Spartak sports society"
+            },
+            {
+                "name": "Belarus Minsk",
+                "from_year": 1959,
+                "to_year": 1962,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Dinamo Minsk",
+                "from_year": 1962,
+                "to_year": null,
+                "note": "Transferred back to the Dynamo society and renamed Dinamo Minsk"
+            }
+        ]
     },
     {
         "name": "FC Shakhtyor Soligorsk",
@@ -42,7 +71,45 @@
         "founded_at": "1987-00-00",
         "destroyed_at": "",
         "stadium": "Yunost Stadium, Cap. 5,300",
-        "city": "Mozyr"
+        "city": "Mozyr",
+        "names": [
+            {
+                "name": "Palyessye Mazyr",
+                "from_year": 1987,
+                "to_year": 1994,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC MPKC Mazyr",
+                "from_year": 1994,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Slavia Mazyr",
+                "from_year": 1998,
+                "to_year": 2006,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Mozyr-ZLiN",
+                "from_year": 2006,
+                "to_year": 2007,
+                "note": "Merged with ZLiN Gomel and renamed"
+            },
+            {
+                "name": "FC Mozyr",
+                "from_year": 2007,
+                "to_year": 2008,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Slavia Mozyr",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Gomel",
@@ -53,7 +120,45 @@
         "founded_at": "1959-00-00",
         "destroyed_at": "",
         "stadium": "Central Stadium, Cap. 14,307",
-        "city": "Gomel"
+        "city": "Gomel",
+        "names": [
+            {
+                "name": "Lokomotiv Gomel",
+                "from_year": 1959,
+                "to_year": 1965,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Spartak Gomel",
+                "from_year": 1965,
+                "to_year": 1969,
+                "note": "Renamed"
+            },
+            {
+                "name": "Gomselmash Gomel",
+                "from_year": 1969,
+                "to_year": 1976,
+                "note": "Renamed"
+            },
+            {
+                "name": "Mashinostroitel Gomel",
+                "from_year": 1976,
+                "to_year": 1978,
+                "note": "Renamed"
+            },
+            {
+                "name": "Gomselmash Gomel",
+                "from_year": 1978,
+                "to_year": 1995,
+                "note": "Name restored"
+            },
+            {
+                "name": "FC Gomel",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Belshina Bobruisk",
@@ -64,7 +169,21 @@
         "founded_at": "1976-00-00",
         "destroyed_at": "",
         "stadium": "Spartak Stadium, Cap. 3,700",
-        "city": "Bobruisk"
+        "city": "Bobruisk",
+        "names": [
+            {
+                "name": "Shinnik Bobruisk",
+                "from_year": 1976,
+                "to_year": 1996,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Belshina Bobruisk",
+                "from_year": 1996,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Dnepr Mogilev",
@@ -75,7 +194,51 @@
         "founded_at": "1960-01-04",
         "destroyed_at": "",
         "stadium": "Spartak Stadium, Cap. 7,350",
-        "city": "Mogilev"
+        "city": "Mogilev",
+        "names": [
+            {
+                "name": "Khimik Mogilev",
+                "from_year": 1960,
+                "to_year": 1963,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Spartak Mogilev",
+                "from_year": 1963,
+                "to_year": 1973,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnepr Mogilev",
+                "from_year": 1973,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnepr-Transmash Mogilev",
+                "from_year": 1998,
+                "to_year": 2006,
+                "note": "Absorbed Transmash Mogilev and renamed"
+            },
+            {
+                "name": "FC Dnepr Mogilev",
+                "from_year": 2006,
+                "to_year": 2019,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnyapro Mogilev",
+                "from_year": 2019,
+                "to_year": 2020,
+                "note": "Merged with Luch Minsk"
+            },
+            {
+                "name": "FC Dnepr Mogilev",
+                "from_year": 2020,
+                "to_year": null,
+                "note": "Reestablished"
+            }
+        ]
     },
     {
         "name": "FC Dynamo Brest",
@@ -86,7 +249,39 @@
         "founded_at": "1960-00-00",
         "destroyed_at": "",
         "stadium": "Regional Sport Complex Brestsky, Cap. 10,169",
-        "city": "Brest"
+        "city": "Brest",
+        "names": [
+            {
+                "name": "Spartak Brest",
+                "from_year": 1960,
+                "to_year": 1972,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Bug Brest",
+                "from_year": 1972,
+                "to_year": 1976,
+                "note": "Renamed after the Bug River"
+            },
+            {
+                "name": "Dinamo Brest",
+                "from_year": 1976,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Brest",
+                "from_year": 2012,
+                "to_year": 2013,
+                "note": "Used because of legal issues with the Dynamo brand"
+            },
+            {
+                "name": "FC Dynamo Brest",
+                "from_year": 2013,
+                "to_year": null,
+                "note": "Dinamo Brest again; Latin spelling changed to Dynamo in 2017"
+            }
+        ]
     },
     {
         "name": "FC Maxline Vitebsk",
@@ -97,7 +292,69 @@
         "founded_at": "1983-00-00",
         "destroyed_at": "",
         "stadium": "Vitebsky Central Sport Complex, Cap. 8,144",
-        "city": "Vitebsk"
+        "city": "Vitebsk",
+        "names": [
+            {
+                "name": "Avtomobilist Rogachev",
+                "from_year": 1983,
+                "to_year": 1984,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "KSM Rogachev",
+                "from_year": 1984,
+                "to_year": 1988,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnepr Rogachev",
+                "from_year": 1988,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Rogachev",
+                "from_year": 1998,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "Rogachev-DYUSSh-1",
+                "from_year": 2001,
+                "to_year": 2002,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnepr-DYUSSh-1 Rogachev",
+                "from_year": 2002,
+                "to_year": 2007,
+                "note": "Renamed"
+            },
+            {
+                "name": "RMKK Rogachev",
+                "from_year": 2007,
+                "to_year": 2014,
+                "note": "Renamed"
+            },
+            {
+                "name": "Rogachev-MK",
+                "from_year": 2014,
+                "to_year": 2017,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dnepr Rogachev",
+                "from_year": 2017,
+                "to_year": 2021,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Maxline Vitebsk",
+                "from_year": 2021,
+                "to_year": null,
+                "note": "Renamed Maxline; ML Vitebsk from 2025"
+            }
+        ]
     },
     {
         "name": "FC Neman Grodno",
@@ -108,7 +365,39 @@
         "founded_at": "1964-00-00",
         "destroyed_at": "",
         "stadium": "Neman Stadium, Cap. 8,479",
-        "city": "Grodno"
+        "city": "Grodno",
+        "names": [
+            {
+                "name": "Neman Grodno",
+                "from_year": 1964,
+                "to_year": 1973,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Khimik Grodno",
+                "from_year": 1973,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Neman Grodno",
+                "from_year": 1993,
+                "to_year": 1999,
+                "note": "Name restored"
+            },
+            {
+                "name": "Neman-Belcard Grodno",
+                "from_year": 1999,
+                "to_year": 2002,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Neman Grodno",
+                "from_year": 2002,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Vitebsk",
@@ -119,7 +408,57 @@
         "founded_at": "1960-00-00",
         "destroyed_at": "",
         "stadium": "Vitebsky Central Sport Complex, Cap. 8,144",
-        "city": "Vitebsk"
+        "city": "Vitebsk",
+        "names": [
+            {
+                "name": "Krasnoye Znamya Vitebsk",
+                "from_year": 1960,
+                "to_year": 1963,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dvina Vitebsk",
+                "from_year": 1963,
+                "to_year": 1985,
+                "note": "Renamed after the local river"
+            },
+            {
+                "name": "Vityaz Vitebsk",
+                "from_year": 1985,
+                "to_year": 1989,
+                "note": "Renamed"
+            },
+            {
+                "name": "KIM Vitebsk",
+                "from_year": 1989,
+                "to_year": 1994,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dvina Vitebsk",
+                "from_year": 1994,
+                "to_year": 1996,
+                "note": "Name restored"
+            },
+            {
+                "name": "Lokomotiv-96 Vitebsk",
+                "from_year": 1996,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "Lokomotiv Vitebsk",
+                "from_year": 2003,
+                "to_year": 2006,
+                "note": "Shortened name"
+            },
+            {
+                "name": "FC Vitebsk",
+                "from_year": 2006,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Dinamo-93 Minsk",
@@ -130,7 +469,21 @@
         "founded_at": "1992-00-00",
         "destroyed_at": "1998-00-00",
         "stadium": "Dinamo Stadium, Cap. 22,000",
-        "city": "Minsk"
+        "city": "Minsk",
+        "names": [
+            {
+                "name": "FC Belarus Minsk",
+                "from_year": 1992,
+                "to_year": 1993,
+                "note": "Founded in spring 1992 as Dinamo-2 Minsk, renamed in summer"
+            },
+            {
+                "name": "FC Dinamo-93 Minsk",
+                "from_year": 1993,
+                "to_year": 1998,
+                "note": "Renamed; disbanded in 1998"
+            }
+        ]
     },
     {
         "name": "FC Torpedo-BelAZ Zhodino",
@@ -141,7 +494,27 @@
         "founded_at": "1961-00-00",
         "destroyed_at": "",
         "stadium": "Torpedo Stadium, Cap. 6,524",
-        "city": "Zhodino"
+        "city": "Zhodino",
+        "names": [
+            {
+                "name": "BelAZ Zhodino",
+                "from_year": 1989,
+                "to_year": 1993,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Torpedo Zhodino",
+                "from_year": 1993,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Torpedo-BelAZ Zhodino",
+                "from_year": 2011,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Partizan Minsk",
@@ -152,7 +525,33 @@
         "founded_at": "2002-00-00",
         "destroyed_at": "2014-00-00",
         "stadium": "SOK Olimpiysky, Cap. 1,500",
-        "city": "Minsk"
+        "city": "Minsk",
+        "names": [
+            {
+                "name": "MTZ-RIPO Minsk",
+                "from_year": 2002,
+                "to_year": 2010,
+                "note": "Club founded under this name (merger of Traktor Minsk and Trudovye Rezervy-RIPO)"
+            },
+            {
+                "name": "FC Partizan Minsk",
+                "from_year": 2010,
+                "to_year": 2013,
+                "note": "Renamed"
+            },
+            {
+                "name": "Partizan-MTZ Minsk",
+                "from_year": 2013,
+                "to_year": 2014,
+                "note": "Joined the Second League"
+            },
+            {
+                "name": "FC Partizan Minsk",
+                "from_year": 2014,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Minsk",
@@ -174,7 +573,45 @@
         "founded_at": "1963-00-00",
         "destroyed_at": "",
         "stadium": "Atlant Stadium, Cap. 5,300",
-        "city": "Novopolotsk"
+        "city": "Novopolotsk",
+        "names": [
+            {
+                "name": "Neftyanik Novopolotsk",
+                "from_year": 1963,
+                "to_year": 1981,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dvina Novopolotsk",
+                "from_year": 1981,
+                "to_year": 1989,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kommunalnik Novopolotsk",
+                "from_year": 1989,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Naftan Novopolotsk",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Naftan-Devon Novopolotsk",
+                "from_year": 1995,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Naftan Novopolotsk",
+                "from_year": 2001,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Isloch Minsk Raion",
@@ -196,7 +633,51 @@
         "founded_at": "1952-00-00",
         "destroyed_at": "2016-00-00",
         "stadium": "Central Stadium, Cap. 3,550",
-        "city": "Rechitsa"
+        "city": "Rechitsa",
+        "names": [
+            {
+                "name": "Krasnaya Zvezda Rechitsa",
+                "from_year": 1952,
+                "to_year": 1962,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dnepr Rechitsa",
+                "from_year": 1962,
+                "to_year": 1977,
+                "note": "Renamed"
+            },
+            {
+                "name": "Neftyanik Rechitsa",
+                "from_year": 1977,
+                "to_year": 1980,
+                "note": "Renamed"
+            },
+            {
+                "name": "Sputnik Rechitsa",
+                "from_year": 1980,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vedrich Rechitsa",
+                "from_year": 1992,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vedrich-97 Rechitsa",
+                "from_year": 1997,
+                "to_year": 2014,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Rechitsa-2014",
+                "from_year": 2014,
+                "to_year": 2016,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Bobruisk",
@@ -207,7 +688,27 @@
         "founded_at": "1984-00-00",
         "destroyed_at": "1995-00-00",
         "stadium": "Spartak Stadium, Cap. 3,700",
-        "city": "Bobruisk"
+        "city": "Bobruisk",
+        "names": [
+            {
+                "name": "Traktor Bobruisk",
+                "from_year": 1984,
+                "to_year": 1992,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Fandok Bobruisk",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Bobruisk",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Torpedo Mogilev",
@@ -218,7 +719,33 @@
         "founded_at": "1959-00-00",
         "destroyed_at": "2016-00-00",
         "stadium": "Torpedo Stadium, Cap. 3,500",
-        "city": "Mogilev"
+        "city": "Mogilev",
+        "names": [
+            {
+                "name": "Kirovets Mogilev",
+                "from_year": 1959,
+                "to_year": 1974,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Torpedo Mogilev",
+                "from_year": 1974,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Torpedo-Kadino Mogilev",
+                "from_year": 1996,
+                "to_year": 2005,
+                "note": "Disbanded in 2005"
+            },
+            {
+                "name": "FC Torpedo Mogilev",
+                "from_year": 2014,
+                "to_year": null,
+                "note": "Reformed under the original name"
+            }
+        ]
     },
     {
         "name": "FC Torpedo Minsk",
@@ -240,6 +767,26 @@
         "founded_at": "2000-00-00",
         "destroyed_at": "2014-00-00",
         "stadium": "Lokomotiv Stadium, Cap. 1,500",
-        "city": "Minsk"
+        "city": "Minsk",
+        "names": [
+            {
+                "name": "SKVICh Minsk",
+                "from_year": 2000,
+                "to_year": 2001,
+                "note": "Club founded under this name by the travel company SKVICh"
+            },
+            {
+                "name": "Lokomotiv Minsk",
+                "from_year": 2001,
+                "to_year": 2009,
+                "note": "Renamed after support from Belarusian Railways"
+            },
+            {
+                "name": "FC SKVICh Minsk",
+                "from_year": 2009,
+                "to_year": 2014,
+                "note": "Reverted to the original name"
+            }
+        ]
     }
 ]
