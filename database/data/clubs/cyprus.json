@@ -107,7 +107,21 @@
         "founded_at": "1930-01-03",
         "destroyed_at": "",
         "stadium": "Nicosia Atatürk Stadium, Cap. 28,000",
-        "city": "North Nicosia"
+        "city": "North Nicosia",
+        "names": [
+            {
+                "name": "Lefkoşa Türk Spor Kulübü",
+                "from_year": 1930,
+                "to_year": 1949,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Çetinkaya Türk SK",
+                "from_year": 1949,
+                "to_year": null,
+                "note": "Merged with Çetinkaya Türk Esnaf Ocağı and renamed Çetinkaya Türk Spor Birliği"
+            }
+        ]
     },
     {
         "name": "Pafos FC",
