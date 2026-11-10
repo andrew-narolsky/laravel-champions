@@ -8,7 +8,21 @@
         "founded_at": "1992-01-20",
         "destroyed_at": "",
         "stadium": "Vazgen Sargsyan Republican Stadium, Cap. 14,403",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "Homenetmen Yerevan",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Pyunik",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Renamed Pyunik (\"Phoenix\")"
+            }
+        ]
     },
     {
         "name": "FC Shirak",
@@ -19,7 +33,21 @@
         "founded_at": "1958-00-00",
         "destroyed_at": "",
         "stadium": "Gyumri City Stadium, Cap. 4,500",
-        "city": "Gyumri"
+        "city": "Gyumri",
+        "names": [
+            {
+                "name": "Shirak Leninakan",
+                "from_year": 1958,
+                "to_year": 1992,
+                "note": "Club founded under this name (Leninakan was the Soviet-era name of Gyumri)"
+            },
+            {
+                "name": "FC Shirak",
+                "from_year": 1992,
+                "to_year": null,
+                "note": "Shirak Kumayri for a short time in 1992, then Shirak Gyumri after the city name was changed"
+            }
+        ]
     },
     {
         "name": "FC Alashkert",
@@ -41,7 +69,21 @@
         "founded_at": "1992-01-20",
         "destroyed_at": "",
         "stadium": "Urartu Stadium, Cap. 4,860",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "FC Banants",
+                "from_year": 1992,
+                "to_year": 2019,
+                "note": "Club founded under this name in Kotayk (Banants Kotayk until 1995)"
+            },
+            {
+                "name": "FC Urartu",
+                "from_year": 2019,
+                "to_year": null,
+                "note": "Renamed Urartu"
+            }
+        ]
     },
     {
         "name": "FC Ararat-Armenia",
@@ -52,7 +94,21 @@
         "founded_at": "2017-00-00",
         "destroyed_at": "",
         "stadium": "Yerevan Football Academy Stadium, Cap. 1,428",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "FC Avan Academy",
+                "from_year": 2017,
+                "to_year": 2018,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Ararat-Armenia",
+                "from_year": 2018,
+                "to_year": null,
+                "note": "Taken over in 2018, renamed Ararat-Moskva and then Ararat-Armenia"
+            }
+        ]
     },
     {
         "name": "Araks Ararat FC",
@@ -63,12 +119,35 @@
         "founded_at": "1986-00-00",
         "destroyed_at": "",
         "stadium": "Ayg Stadium, Cap. 1,280",
-        "city": "Ararat"
+        "city": "Ararat",
+        "names": [
+            {
+                "name": "FC Ararat",
+                "from_year": 1986,
+                "to_year": 1993,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Tsement Ararat",
+                "from_year": 1993,
+                "to_year": 2000,
+                "note": "Taken over by the Ararat Cement Factory and renamed"
+            },
+            {
+                "name": "Araks Ararat FC",
+                "from_year": 2000,
+                "to_year": null,
+                "note": "Renamed Araks Ararat"
+            }
+        ]
     },
     {
         "name": "FC Ararat Yerevan",
         "description": "Armenia · Founded: 1935",
-        "country_id": [3, 58],
+        "country_id": [
+            3,
+            58
+        ],
         "primary_country_id": 3,
         "nickname": "",
         "content": "<p>FC Ararat Yerevan is one of the oldest and most historic football clubs in Armenia, based in the capital city Yerevan. The club was founded in 1935 and became especially prominent during the Soviet era, when it competed under the Armenian SSR system. Its nickname is “The White Eagles,” and it plays its home matches at the Vazgen Sargsyan Republican Stadium, one of the main stadiums in Armenia. The club has long been considered a symbol of Armenian football tradition.</p><p>The greatest period in Ararat Yerevan’s history came in the 1970s. In 1973, the club achieved its most famous success by winning the Soviet Top League and the Soviet Cup in the same season, becoming one of the strongest teams in the USSR at the time. This achievement made Ararat Yerevan internationally recognized and remains the club’s most iconic sporting accomplishment. It also established the team as a historic name in post-Soviet Armenian football culture.</p><p>After the collapse of the Soviet Union, Ararat Yerevan continued competing in the Armenian Premier League, where it became one of the most popular and traditional clubs in the country. While the club has not dominated consistently like some modern Armenian teams, it has still won domestic trophies and remains highly respected for its legacy, fan base, and contribution to Armenian football development. Today, Ararat Yerevan is seen as a historic institution rather than a modern powerhouse, but it still plays an important role in the national league.</p>",
@@ -86,7 +165,21 @@
         "founded_at": "2017-00-00",
         "destroyed_at": "",
         "stadium": "Abovyan City Stadium, Cap. 3,946",
-        "city": "Abovyan"
+        "city": "Abovyan",
+        "names": [
+            {
+                "name": "FC Artsakh",
+                "from_year": 2017,
+                "to_year": 2019,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Noah",
+                "from_year": 2019,
+                "to_year": null,
+                "note": "Rebranded after a change of owner"
+            }
+        ]
     },
     {
         "name": "Ulisses FC",
@@ -97,7 +190,27 @@
         "founded_at": "2000-00-00",
         "destroyed_at": "2016-00-00",
         "stadium": "Vazgen Sargsyan Republican Stadium, Cap. 14,403",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "Dinamo-2000 Yerevan",
+                "from_year": 2000,
+                "to_year": 2004,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dinamo-Zenit Yerevan",
+                "from_year": 2004,
+                "to_year": 2006,
+                "note": "Renamed after a new sponsor"
+            },
+            {
+                "name": "Ulisses FC",
+                "from_year": 2006,
+                "to_year": 2016,
+                "note": "Renamed after a new sponsor; dissolved in 2016"
+            }
+        ]
     },
     {
         "name": "FC Yerevan",
@@ -152,7 +265,27 @@
         "founded_at": "1992-00-00",
         "destroyed_at": "2000-00-00",
         "stadium": "Erebuni Stadium, Cap. 544",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "Homenmen-FIMA FC",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Homenmen Yerevan FC",
+                "from_year": 1995,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "Erebuni-Homenmen FC",
+                "from_year": 1997,
+                "to_year": 2000,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Spartak Yerevan FC",
@@ -163,7 +296,21 @@
         "founded_at": "2000-00-00",
         "destroyed_at": "2003-00-00",
         "stadium": "Ayg Stadium, Cap. 1,280",
-        "city": "Yerevan"
+        "city": "Yerevan",
+        "names": [
+            {
+                "name": "FC Araks-Impeks",
+                "from_year": 2000,
+                "to_year": 2001,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Spartak Yerevan FC",
+                "from_year": 2001,
+                "to_year": 2003,
+                "note": "Renamed in August 2001, dissolved after the 2003 merger with Banants"
+            }
+        ]
     },
     {
         "name": "FC Kotayk",
