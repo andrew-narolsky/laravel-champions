@@ -74,7 +74,33 @@
         "founded_at": "1934-00-00",
         "destroyed_at": "",
         "stadium": "Kisapuisto, Cap. 4,400",
-        "city": "Lahti"
+        "city": "Lahti",
+        "names": [
+            {
+                "name": "Lahden Pallo-Miehet",
+                "from_year": 1934,
+                "to_year": 1963,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Upon Pallo",
+                "from_year": 1963,
+                "to_year": 1969,
+                "note": "Connection with the UPO white goods company"
+            },
+            {
+                "name": "Lahti-69",
+                "from_year": 1969,
+                "to_year": 1974,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Kuusysi",
+                "from_year": 1974,
+                "to_year": null,
+                "note": "Nickname became the official name in 1974"
+            }
+        ]
     },
     {
         "name": "FC Kiffen 08",
@@ -107,7 +133,27 @@
         "founded_at": "1891-00-00",
         "destroyed_at": "1996-00-00",
         "stadium": "Lahden kisapuisto, Cap. 4,000",
-        "city": "Lahti"
+        "city": "Lahti",
+        "names": [
+            {
+                "name": "Reipas Viipuri",
+                "from_year": 1891,
+                "to_year": 1962,
+                "note": "Club founded under this name in Viipuri; continued in Lahti under the original name"
+            },
+            {
+                "name": "Reipas",
+                "from_year": 1962,
+                "to_year": 1975,
+                "note": "Ball game section simply Reipas"
+            },
+            {
+                "name": "Lahden Reipas",
+                "from_year": 1975,
+                "to_year": 1996,
+                "note": "Football became an independent club; merged with Kuusysi in 1996"
+            }
+        ]
     },
     {
         "name": "VIFK Vaasa",
@@ -118,7 +164,27 @@
         "founded_at": "1900-00-00",
         "destroyed_at": "",
         "stadium": "Hietalahti Stadium, Cap. 6,009",
-        "city": "Vaasa"
+        "city": "Vaasa",
+        "names": [
+            {
+                "name": "VIFK Vaasa",
+                "from_year": 1900,
+                "to_year": 1988,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "BK-IFK",
+                "from_year": 1988,
+                "to_year": 2000,
+                "note": "Merger with BK-48"
+            },
+            {
+                "name": "VIFK Vaasa",
+                "from_year": 2000,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Tampere United",
@@ -173,7 +239,21 @@
         "founded_at": "1934-09-22",
         "destroyed_at": "",
         "stadium": "Pori Stadium, Cap. 12,600",
-        "city": "Pori"
+        "city": "Pori",
+        "names": [
+            {
+                "name": "Porin Pallo-Toverit",
+                "from_year": 1934,
+                "to_year": 1991,
+                "note": "Club founded under this name (PPT)"
+            },
+            {
+                "name": "FC Jazz",
+                "from_year": 1991,
+                "to_year": null,
+                "note": "Renamed in November 1991"
+            }
+        ]
     },
     {
         "name": "MyPa Myllykoski",
@@ -239,7 +319,27 @@
         "founded_at": "1912-00-00",
         "destroyed_at": "",
         "stadium": "Keskusurheilukenttä, Cap. 12,000",
-        "city": "Kouvola"
+        "city": "Kouvola",
+        "names": [
+            {
+                "name": "Wiipurin Bandy & Jalkapalloseura",
+                "from_year": 1912,
+                "to_year": 1924,
+                "note": "Club founded under this name in Viipuri"
+            },
+            {
+                "name": "Wiipurin Sudet",
+                "from_year": 1924,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Sudet Kouvola",
+                "from_year": 1950,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "KPV Kokkola",
@@ -283,7 +383,27 @@
         "founded_at": "1932-00-00",
         "destroyed_at": "",
         "stadium": "Kaupin stadion, Cap. 800",
-        "city": "Tampere"
+        "city": "Tampere",
+        "names": [
+            {
+                "name": "Urheilu-Pojat",
+                "from_year": 1932,
+                "to_year": 1934,
+                "note": "Club founded under this name in Viipuri"
+            },
+            {
+                "name": "Viipurin Ilves",
+                "from_year": 1934,
+                "to_year": 1940,
+                "note": "Renamed"
+            },
+            {
+                "name": "Ilves-Kissat",
+                "from_year": 1940,
+                "to_year": null,
+                "note": "Relocated to Tampere after the Winter War"
+            }
+        ]
     },
     {
         "name": "Pyrkivä Turku",
@@ -327,7 +447,21 @@
         "founded_at": "1957-00-00",
         "destroyed_at": "",
         "stadium": "Tapiolan Urheilupuisto, Cap. 6,000",
-        "city": "Espoo"
+        "city": "Espoo",
+        "names": [
+            {
+                "name": "Tapion Honka",
+                "from_year": 1957,
+                "to_year": 1975,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Honka",
+                "from_year": 1975,
+                "to_year": null,
+                "note": "Renamed FC Honka in 1975"
+            }
+        ]
     },
     {
         "name": "RoPS Rovaniemi",
