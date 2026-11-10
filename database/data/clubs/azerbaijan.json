@@ -8,19 +8,74 @@
         "founded_at": "1987-00-00",
         "destroyed_at": "",
         "stadium": "Azersun Arena, Cap. 5,800",
-        "city": "Aghdam"
+        "city": "Aghdam",
+        "names": [
+            {
+                "name": "Məhsul Ağdam",
+                "from_year": 1951,
+                "to_year": 1977,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Şəfəq Ağdam",
+                "from_year": 1977,
+                "to_year": 1982,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kooperator Ağdam",
+                "from_year": 1982,
+                "to_year": 1987,
+                "note": "Renamed"
+            },
+            {
+                "name": "Qarabağ FK",
+                "from_year": 1987,
+                "to_year": 2002,
+                "note": "Renamed Qarabağ"
+            },
+            {
+                "name": "Qarabağ-Azersun",
+                "from_year": 2002,
+                "to_year": 2004,
+                "note": "Sponsor name (Azersun Holding)"
+            },
+            {
+                "name": "Qarabağ FK",
+                "from_year": 2004,
+                "to_year": null,
+                "note": "Returned to the original name"
+            }
+        ]
     },
     {
         "name": "Neftçi PFK",
         "description": "Azerbaijan · Founded: 1937",
-        "country_id": [5, 58],
+        "country_id": [
+            5,
+            58
+        ],
         "primary_country_id": 5,
         "nickname": "Neftçilər",
         "content": "<p>Neftçi PFK is one of the oldest and most successful football clubs in Azerbaijan, based in Baku and founded in 1937. Originally known as Neftyanik, the club became a prominent representative of Azerbaijani football during the Soviet era, competing in the top division of the USSR championship and achieving its best result in 1966 by finishing third.</p><p>Following Azerbaijan’s independence in 1991, Neftçi established itself as a dominant force in domestic football, winning multiple league titles and national cups. The club is widely regarded as one of the country’s most historic and popular teams, often competing at the top level and playing a key role in shaping Azerbaijani football culture.</p><p>In international competitions, Neftçi has represented Azerbaijan regularly in UEFA tournaments. A major milestone came in the 2012–13 season when the club became the first Azerbaijani team to reach the group stage of a European competition (UEFA Europa League). These achievements have helped raise the profile of Azerbaijani clubs on the European stage.</p>",
         "founded_at": "1937-03-18",
         "destroyed_at": "",
         "stadium": "Neftçi Arena, Cap. 11,000",
-        "city": "Baku"
+        "city": "Baku",
+        "names": [
+            {
+                "name": "Neftyanik Baku",
+                "from_year": 1937,
+                "to_year": 1968,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Neftçi PFK",
+                "from_year": 1968,
+                "to_year": null,
+                "note": "Renamed Neftçi (the Azerbaijani translation)"
+            }
+        ]
     },
     {
         "name": "Kapaz PFK",
@@ -31,7 +86,39 @@
         "founded_at": "1959-00-00",
         "destroyed_at": "",
         "stadium": "Ganja City Stadium, Cap. 15.343",
-        "city": "Ganja"
+        "city": "Ganja",
+        "names": [
+            {
+                "name": "Toxucu Kirovabad",
+                "from_year": 1959,
+                "to_year": 1968,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dinamo Kirovobad",
+                "from_year": 1968,
+                "to_year": 1982,
+                "note": "Name when promoted to the Soviet Top League in 1968"
+            },
+            {
+                "name": "Kapaz",
+                "from_year": 1982,
+                "to_year": 2005,
+                "note": "Renamed Kapaz after the nearby mountain"
+            },
+            {
+                "name": "Ganja",
+                "from_year": 2005,
+                "to_year": 2011,
+                "note": "Renamed by the new owners"
+            },
+            {
+                "name": "Kapaz PFK",
+                "from_year": 2011,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Şamaxı FK",
@@ -45,28 +132,28 @@
         "city": "Shamakhi",
         "names": [
             {
-                "name": "Khazar University",
+                "name": "Xəzər Universiteti FK",
                 "from_year": 1997,
                 "to_year": 2004,
-                "note": "Club founded under this name"
+                "note": "Club founded under this name by Khazar University"
             },
             {
-                "name": "Inter Baku",
+                "name": "İnter Bakı PİK",
                 "from_year": 2004,
                 "to_year": 2017,
-                "note": null
+                "note": "Rights transferred to the new Inter Baku Professional Football Club"
             },
             {
                 "name": "Keşlə FK",
                 "from_year": 2017,
                 "to_year": 2022,
-                "note": null
+                "note": "Renamed"
             },
             {
                 "name": "Şamaxı FK",
                 "from_year": 2022,
                 "to_year": null,
-                "note": "Moved to Shamakhi"
+                "note": "Renamed"
             }
         ]
     },
@@ -90,7 +177,27 @@
         "founded_at": "1997-00-00",
         "destroyed_at": "2018-00-00",
         "stadium": "FC Baku Training Base, Cap. 2,500",
-        "city": "Baku"
+        "city": "Baku",
+        "names": [
+            {
+                "name": "Dinamo Baku",
+                "from_year": 1997,
+                "to_year": 2000,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dinamo Bakılı",
+                "from_year": 2000,
+                "to_year": 2004,
+                "note": "Renamed after a change of management"
+            },
+            {
+                "name": "FC Baku",
+                "from_year": 2004,
+                "to_year": 2018,
+                "note": "Renamed by the new chairman"
+            }
+        ]
     },
     {
         "name": "Khazar Lankaran FK",
@@ -134,7 +241,27 @@
         "founded_at": "2005-05-04",
         "destroyed_at": "",
         "stadium": "Qabala City Stadium, Cap. 4,500",
-        "city": "Qabala"
+        "city": "Qabala",
+        "names": [
+            {
+                "name": "Goy Gol",
+                "from_year": 2005,
+                "to_year": 2006,
+                "note": "Club founded under this name in Goygol (the club dates back to 1995 in the source)"
+            },
+            {
+                "name": "Gilan PFK",
+                "from_year": 2006,
+                "to_year": 2007,
+                "note": "Moved to Qabala and renamed"
+            },
+            {
+                "name": "Qabala İK",
+                "from_year": 2007,
+                "to_year": null,
+                "note": "Renamed Qəbələ PFK on 31 August 2007"
+            }
+        ]
     },
     {
         "name": "FK Khazar Sumgayit",
@@ -145,7 +272,75 @@
         "founded_at": "1960-00-00",
         "destroyed_at": "2004-00-00",
         "stadium": "Sumgayit City Stadium, Cap. 10,047",
-        "city": "Sumgayit"
+        "city": "Sumgayit",
+        "names": [
+            {
+                "name": "Metallurg Sumgayit",
+                "from_year": 1960,
+                "to_year": 1961,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Temp Sumgayit",
+                "from_year": 1961,
+                "to_year": 1963,
+                "note": "Renamed"
+            },
+            {
+                "name": "Himik Sumgayit",
+                "from_year": 1963,
+                "to_year": 1964,
+                "note": "Renamed"
+            },
+            {
+                "name": "Polad Sumgayit",
+                "from_year": 1964,
+                "to_year": 1974,
+                "note": "Renamed"
+            },
+            {
+                "name": "Hazar Sumgayit",
+                "from_year": 1974,
+                "to_year": 1987,
+                "note": "Renamed"
+            },
+            {
+                "name": "Voshod Sumgayit",
+                "from_year": 1987,
+                "to_year": 1988,
+                "note": "Renamed"
+            },
+            {
+                "name": "Hazar Sumgayit",
+                "from_year": 1988,
+                "to_year": 1992,
+                "note": "Name restored"
+            },
+            {
+                "name": "Khazar Sumgayit",
+                "from_year": 1992,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Sumqayıt",
+                "from_year": 1997,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kimyaçı Sumgayit",
+                "from_year": 1998,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Khazar Sumgayit",
+                "from_year": 2001,
+                "to_year": 2004,
+                "note": "Renamed; liquidated in 2004"
+            }
+        ]
     },
     {
         "name": "Karvan İK",
@@ -189,7 +384,27 @@
         "founded_at": "2005-00-00",
         "destroyed_at": "2019-00-00",
         "stadium": "AZAL Arena, Cap. 3,500",
-        "city": "Şüvəlan"
+        "city": "Şüvəlan",
+        "names": [
+            {
+                "name": "Olimpik-Shuvalan PFC",
+                "from_year": 2009,
+                "to_year": 2010,
+                "note": "Moved to the Shuvalan settlement and renamed"
+            },
+            {
+                "name": "AZAL PFC",
+                "from_year": 2010,
+                "to_year": 2017,
+                "note": "Sponsor name (Azerbaijan Airlines); used Olimpik-Shuvalan in UEFA competitions"
+            },
+            {
+                "name": "Shuvalan FK",
+                "from_year": 2017,
+                "to_year": 2019,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Araz-Naxçıvan PFK",
@@ -222,7 +437,21 @@
         "founded_at": "2005-00-00",
         "destroyed_at": "2015-00-00",
         "stadium": "Zaqatala City Stadium, Cap. 3,500",
-        "city": "Zaqatala"
+        "city": "Zaqatala",
+        "names": [
+            {
+                "name": "Simurq PFK",
+                "from_year": 2005,
+                "to_year": 2013,
+                "note": "Professional Football Club until June 2013"
+            },
+            {
+                "name": "Simurq PİK",
+                "from_year": 2013,
+                "to_year": 2015,
+                "note": "Renamed Professional Sports Club"
+            }
+        ]
     },
     {
         "name": "Sumgayit FK",
@@ -255,7 +484,21 @@
         "founded_at": "1935-00-00",
         "destroyed_at": "1995-00-00",
         "stadium": "ASK Arena, Cap. 8,500",
-        "city": "Baku"
+        "city": "Baku",
+        "names": [
+            {
+                "name": "Stroitel Baku",
+                "from_year": 1935,
+                "to_year": 1992,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "İnşaatçı Baku FK",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Renamed; dissolved in 1995"
+            }
+        ]
     },
     {
         "name": "Shafa Baku FK",
@@ -277,7 +520,39 @@
         "founded_at": "1966-00-00",
         "destroyed_at": "",
         "stadium": "Yashar Mammadzade Stadium, Cap. 5,000",
-        "city": "Mingachevir"
+        "city": "Mingachevir",
+        "names": [
+            {
+                "name": "Textilshchik Mingachevir",
+                "from_year": 1966,
+                "to_year": 1970,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Avtomobilist Mingachevir",
+                "from_year": 1980,
+                "to_year": 1987,
+                "note": "Name used in this period"
+            },
+            {
+                "name": "Kur Mingachevir",
+                "from_year": 1990,
+                "to_year": 1993,
+                "note": "Name used in this period"
+            },
+            {
+                "name": "Kur-Nur Mingachevir",
+                "from_year": 1993,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Energetik FK",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Club re-established under Mingachevir HPP"
+            }
+        ]
     },
     {
         "name": "İnşaatçı Sabirabad FK",
@@ -288,7 +563,21 @@
         "founded_at": "1989-00-00",
         "destroyed_at": "1995-00-00",
         "stadium": "Sabirabad mərkəzi stadionu, Cap. 2,000",
-        "city": "Sabirabad"
+        "city": "Sabirabad",
+        "names": [
+            {
+                "name": "Stroitel Sabirabad",
+                "from_year": 1989,
+                "to_year": 1992,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "İnşaatçı Sabirabad FK",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Renamed; dissolved in 1995"
+            }
+        ]
     },
     {
         "name": "İmişli FK",
