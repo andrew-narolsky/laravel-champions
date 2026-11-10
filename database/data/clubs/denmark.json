@@ -41,7 +41,21 @@
         "founded_at": "1889-00-00",
         "destroyed_at": "",
         "stadium": "Gladsaxe Stadium, Cap. 13,507",
-        "city": "Copenhagen"
+        "city": "Copenhagen",
+        "names": [
+            {
+                "name": "Akademisk Boldklub",
+                "from_year": 1889,
+                "to_year": 2012,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Akademisk Boldklub Gladsaxe",
+                "from_year": 2012,
+                "to_year": null,
+                "note": "Renamed in cooperation with Gladsaxe Municipality"
+            }
+        ]
     },
     {
         "name": "Boldklubben 1893",
@@ -162,7 +176,27 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "",
         "stadium": "Lyngby Stadion, Cap. 10,000",
-        "city": "Lyngby"
+        "city": "Lyngby",
+        "names": [
+            {
+                "name": "Lyngby Boldklub",
+                "from_year": 1921,
+                "to_year": 1994,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Lyngby FC",
+                "from_year": 1994,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "Lyngby Boldklub",
+                "from_year": 2001,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Køge Boldklub",
@@ -195,7 +229,21 @@
         "founded_at": "1991-00-00",
         "destroyed_at": "",
         "stadium": "Right to Dream Park, Cap. 9,200",
-        "city": "Farum"
+        "city": "Farum",
+        "names": [
+            {
+                "name": "Farum BK",
+                "from_year": 1991,
+                "to_year": 2003,
+                "note": "Club founded under this name (merger of Farum IK and Stavnsholt BK)"
+            },
+            {
+                "name": "FC Nordsjælland",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Silkeborg IF",
@@ -228,7 +276,33 @@
         "founded_at": "2004-01-01",
         "destroyed_at": "",
         "stadium": "Sydbank Park, Cap. 10,000",
-        "city": "Haderslev"
+        "city": "Haderslev",
+        "names": [
+            {
+                "name": "Haderslev FK",
+                "from_year": 1906,
+                "to_year": 2001,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "HFK Sønderjylland",
+                "from_year": 2001,
+                "to_year": 2004,
+                "note": "Renamed"
+            },
+            {
+                "name": "SønderjyskE Fodbold",
+                "from_year": 2004,
+                "to_year": 2022,
+                "note": "Under Sønderjysk Elitesport A/S"
+            },
+            {
+                "name": "Sønderjyske Fodbold",
+                "from_year": 2022,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Næstved Boldklub",
@@ -261,7 +335,27 @@
         "founded_at": "1931-00-00",
         "destroyed_at": "",
         "stadium": "Holbæk Sportsby, Cap. 4,000",
-        "city": "Holbæk"
+        "city": "Holbæk",
+        "names": [
+            {
+                "name": "Holbæk B&I",
+                "from_year": 1931,
+                "to_year": 2008,
+                "note": "Club founded under this name (merger of Holbæk IF and Holbæk Boldklub)"
+            },
+            {
+                "name": "Nordvest FC",
+                "from_year": 2008,
+                "to_year": 2014,
+                "note": "Name of the first team"
+            },
+            {
+                "name": "Holbæk B&I",
+                "from_year": 2014,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Randers Sportsklub Freja",
@@ -327,7 +421,27 @@
         "founded_at": "1912-09-01",
         "destroyed_at": "",
         "stadium": "Chang Stadium, Cap. 0,000",
-        "city": "Aalborg"
+        "city": "Aalborg",
+        "names": [
+            {
+                "name": "Aalborg Chang",
+                "from_year": 1912,
+                "to_year": 2001,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Nordjylland",
+                "from_year": 2001,
+                "to_year": 2004,
+                "note": "Professional team established under this name"
+            },
+            {
+                "name": "Aalborg Chang",
+                "from_year": 2004,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Randers FC",
