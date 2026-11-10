@@ -38,7 +38,7 @@
                     @endisset
                     <div class="lc-info">
                         <div class="lc-season">Last Champion</div>
-                        <div class="lc-name">{{ $champion->name }}</div>
+                        <div class="lc-name">{{ $champion->nameAt($latestChampion->startYear()) }}</div>
                         <div class="lc-detail">Season {{ $latestChampion->name }}</div>
                     </div>
                 </div>
@@ -131,9 +131,9 @@
                     <tbody>
                     @foreach($seasons as $season)
                         @php
-                            $champions = $season->result?->champions?->pluck('name')->join(', ');
-                            $runnerUps = $season->result?->runnerUps?->pluck('name')->join(', ');
-                            $thirdPlaces = $season->result?->thirdPlaces?->pluck('name')->join(', ');
+                            $champions = $season->result?->champions?->map(fn ($c) => $c->nameAt($season->startYear()))->join(', ');
+                            $runnerUps = $season->result?->runnerUps?->map(fn ($c) => $c->nameAt($season->startYear()))->join(', ');
+                            $thirdPlaces = $season->result?->thirdPlaces?->map(fn ($c) => $c->nameAt($season->startYear()))->join(', ');
 
                             preg_match('/\d{4}/', $season->name, $matches);
                             $year = $matches[0] ?? null;

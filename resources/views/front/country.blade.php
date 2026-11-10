@@ -152,11 +152,11 @@
                                         @if($champion)
                                             <a href="{{ route('club.show', $champion) }}" class="cl-az-item">
                                                 @if($champion->attachment?->getFileUrl())
-                                                    <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->name }}" loading="lazy">
+                                                    <img class="cl-flag" src="{{ $champion->attachment?->getFileUrl() }}" alt="{{ $champion->nameAt($season->startYear()) }}" loading="lazy">
                                                 @else
                                                     <span class="cl-flag">⚽</span>
                                                 @endif
-                                                {{ $champion->name }}
+                                                {{ $champion->nameAt($season->startYear()) }}
                                             </a>
                                         @else
                                             {{ '—' }}

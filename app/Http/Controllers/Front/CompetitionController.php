@@ -18,8 +18,11 @@ class CompetitionController extends Controller
             ->select(['id', 'name', 'competition_id'])
             ->with([
                 'result.champions' => fn($q) => $q->select(['clubs.id', 'name']),
+                'result.champions.names',
                 'result.runnerUps' => fn($q) => $q->select(['clubs.id', 'name']),
+                'result.runnerUps.names',
                 'result.thirdPlaces' => fn($q) => $q->select(['clubs.id', 'name']),
+                'result.thirdPlaces.names',
                 'result.clubs'
             ])
             ->orderByDesc('name')

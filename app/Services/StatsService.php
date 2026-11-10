@@ -82,7 +82,8 @@ class StatsService
             ->with([
                 'competition:id,name,country_id',
                 'competition.country:id,name',
-                'result.champions.attachment'
+                'result.champions.attachment',
+                'result.champions.names',
             ])
             ->whereHas('competition', function ($q) use ($countryId, $type, $competitionId) {
 
