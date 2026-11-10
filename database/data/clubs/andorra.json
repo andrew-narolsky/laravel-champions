@@ -153,7 +153,27 @@
         "destroyed_at": "",
         "stadium": "Andorra Football Federation stadiums, Cap. 1,600",
         "city": "La Massana",
-        "link": "https://en.wikipedia.org/wiki/UE_Extremenya"
+        "link": "https://en.wikipedia.org/wiki/UE_Extremenya",
+        "names": [
+            {
+                "name": "CE Cerni",
+                "from_year": 1998,
+                "to_year": 2002,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Cerni",
+                "from_year": 2002,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "UE Extremenya",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "FC Pas de la Casa",
