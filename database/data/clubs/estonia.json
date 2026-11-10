@@ -19,7 +19,27 @@
         "founded_at": "1998-10-22",
         "destroyed_at": "",
         "stadium": "Lilleküla Stadium, Cap. 14,336",
-        "city": "Tallinn"
+        "city": "Tallinn",
+        "names": [
+            {
+                "name": "Levadia Maardu",
+                "from_year": 1998,
+                "to_year": 2004,
+                "note": "Club founded under this name (sponsored by Levadia Group, took over the Olümp licence)"
+            },
+            {
+                "name": "Levadia Tallinn",
+                "from_year": 2004,
+                "to_year": 2017,
+                "note": "Moved to Tallinn and renamed"
+            },
+            {
+                "name": "FCI Levadia Tallinn",
+                "from_year": 2017,
+                "to_year": null,
+                "note": "Merged with FCI Tallinn"
+            }
+        ]
     },
     {
         "name": "Nõmme Kalju FC",
@@ -63,7 +83,27 @@
         "founded_at": "1951-00-00",
         "destroyed_at": "2008-00-00",
         "stadium": "Kadriorg Stadium, Cap. 4,750",
-        "city": "Tallinn"
+        "city": "Tallinn",
+        "names": [
+            {
+                "name": "TVMK Tallinn",
+                "from_year": 1951,
+                "to_year": 1992,
+                "note": "Club founded under this name (named after the TVMK plywood factory)"
+            },
+            {
+                "name": "FC Nikol",
+                "from_year": 1992,
+                "to_year": 1994,
+                "note": "Sponsor name for the 1992–93 and 1993–94 seasons"
+            },
+            {
+                "name": "FC TVMK",
+                "from_year": 1994,
+                "to_year": 2008,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FCI Tallinn",
@@ -107,7 +147,27 @@
         "founded_at": "1979-00-00",
         "destroyed_at": "",
         "stadium": "Narva Kalev-Fama Stadium, Cap. 1,000",
-        "city": "Narva"
+        "city": "Narva",
+        "names": [
+            {
+                "name": "Avtomobilist Narva",
+                "from_year": 1979,
+                "to_year": 1989,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Autobaas Narva",
+                "from_year": 1989,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "JK Narva Trans",
+                "from_year": 1992,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Viljandi JK Tulevik",
@@ -173,7 +233,21 @@
         "founded_at": "1909-00-00",
         "destroyed_at": "",
         "stadium": "Kadriorg Stadium, Cap. 5,000",
-        "city": "Tallinn"
+        "city": "Tallinn",
+        "names": [
+            {
+                "name": "Meteor",
+                "from_year": 1909,
+                "to_year": 1911,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "JK Tallinna Kalev",
+                "from_year": 1911,
+                "to_year": null,
+                "note": "Joined the Estonian Sports Association Kalev and renamed Kalev"
+            }
+        ]
     },
     {
         "name": "Tallinna JK",
@@ -261,7 +335,27 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "",
         "stadium": "Raeküla Staadion, Cap. 500",
-        "city": "Pärnu"
+        "city": "Pärnu",
+        "names": [
+            {
+                "name": "Spordiselts Pärnu Tervis",
+                "from_year": 1921,
+                "to_year": 1996,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Lelle SK",
+                "from_year": 1996,
+                "to_year": 1999,
+                "note": "Played in Lelle"
+            },
+            {
+                "name": "Pärnu JK Tervis",
+                "from_year": 1999,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Tartu JK Tammeka",
