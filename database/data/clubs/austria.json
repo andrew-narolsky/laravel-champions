@@ -2,14 +2,31 @@
     {
         "name": "SK Rapid Wien",
         "description": "Austria · Founded: 1899",
-        "country_id": [4, 20],
+        "country_id": [
+            4,
+            20
+        ],
         "primary_country_id": 4,
         "nickname": "Die Grün-Weißen",
         "content": "<p>SK Rapid Wien is one of the most historic and successful football clubs in Austria, based in Vienna and founded in 1899. Originally established as the First Viennese Workers’ Football Club, it was renamed Rapid shortly after, reflecting its working-class roots. The club plays its home matches at the Allianz Stadion and is known for its green and white colors, as well as its large and passionate fanbase.</p><p>Rapid Wien quickly became a dominant force in Austrian football, winning the first national championship in 1911–12 and going on to claim a record 32 league titles. During the interwar years, the club was a major power in Central European football, and it continued to succeed even during the period of Nazi annexation, when it competed in the Gauliga Ostmark and won the German championship in 1941. The post-war era, particularly from the late 1940s to the 1960s, is often considered one of the most successful periods in the club’s history.</p><p>On the international stage, Rapid Wien has also achieved notable success, reaching the final of the UEFA Cup Winners’ Cup twice, in 1985 and 1996. Although the club has been less dominant domestically in recent decades, it remains a key figure in Austrian football and regularly competes in European competitions. Rapid is also famous for its traditions, especially the “Rapidviertelstunde,” where fans passionately support the team in the final 15 minutes of matches, symbolizing the club’s fighting spirit.</p>",
         "founded_at": "1899-01-08",
         "destroyed_at": "",
         "stadium": "Allianz Stadion, Cap. 28,345",
-        "city": "Vienna"
+        "city": "Vienna",
+        "names": [
+            {
+                "name": "Erster Wiener Arbeiter-Fußball-Club",
+                "from_year": 1897,
+                "to_year": 1899,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SK Rapid Wien",
+                "from_year": 1899,
+                "to_year": null,
+                "note": "Renamed Sportklub Rapid in January 1899"
+            }
+        ]
     },
     {
         "name": "FK Austria Wien",
@@ -20,7 +37,45 @@
         "founded_at": "1911-03-15",
         "destroyed_at": "",
         "stadium": "Generali Arena, Cap. 17,565",
-        "city": "Vienna"
+        "city": "Vienna",
+        "names": [
+            {
+                "name": "Wiener Amateur-SV",
+                "from_year": 1911,
+                "to_year": 1926,
+                "note": "Renamed from Wiener Cricketer"
+            },
+            {
+                "name": "FK Austria Wien",
+                "from_year": 1926,
+                "to_year": 1977,
+                "note": "Renamed when the club turned professional"
+            },
+            {
+                "name": "FK Austria Memphis",
+                "from_year": 1977,
+                "to_year": 1999,
+                "note": "Sponsor name (Austria Tabakwerke, Memphis)"
+            },
+            {
+                "name": "FK Austria Memphis Magna",
+                "from_year": 1999,
+                "to_year": 2004,
+                "note": "Taken over by the Magna consortium"
+            },
+            {
+                "name": "FK Austria Magna",
+                "from_year": 2004,
+                "to_year": 2008,
+                "note": "Memphis dropped from the name"
+            },
+            {
+                "name": "FK Austria Wien",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Original name reinstated without a sponsor"
+            }
+        ]
     },
     {
         "name": "FC Red Bull Salzburg",
@@ -31,7 +86,57 @@
         "founded_at": "1933-09-13",
         "destroyed_at": "",
         "stadium": "Red Bull Arena, Cap. 30,188",
-        "city": "Wals-Siezenheim"
+        "city": "Wals-Siezenheim",
+        "names": [
+            {
+                "name": "SV Austria Salzburg",
+                "from_year": 1933,
+                "to_year": 1946,
+                "note": "Club founded under this name (merger of FC Rapid Salzburg and FC Hertha Salzburg)"
+            },
+            {
+                "name": "TSV Austria Salzburg",
+                "from_year": 1946,
+                "to_year": 1950,
+                "note": "Merger with ATSV Salzburg"
+            },
+            {
+                "name": "SV Austria Salzburg",
+                "from_year": 1950,
+                "to_year": 1973,
+                "note": "Merger dissolved"
+            },
+            {
+                "name": "SV Gerngroß Austria Salzburg",
+                "from_year": 1973,
+                "to_year": 1976,
+                "note": "Sponsor name (Gerngroß department store)"
+            },
+            {
+                "name": "SV Sparkasse Austria Salzburg",
+                "from_year": 1976,
+                "to_year": 1978,
+                "note": "Sponsor name (Erste Group savings bank)"
+            },
+            {
+                "name": "SV Casino Salzburg",
+                "from_year": 1978,
+                "to_year": 1997,
+                "note": "Sponsor name (Casinos Austria)"
+            },
+            {
+                "name": "SV Wüstenrot Salzburg",
+                "from_year": 1997,
+                "to_year": 2005,
+                "note": "Sponsor name (Wüstenrot-Gruppe)"
+            },
+            {
+                "name": "FC Red Bull Salzburg",
+                "from_year": 2005,
+                "to_year": null,
+                "note": "Acquired by Red Bull GmbH"
+            }
+        ]
     },
     {
         "name": "FC Wacker Innsbruck",
@@ -42,7 +147,27 @@
         "founded_at": "1915-02-04",
         "destroyed_at": "1999-03-20",
         "stadium": "Tivoli, Cap. 15.922",
-        "city": "Innsbruck"
+        "city": "Innsbruck",
+        "names": [
+            {
+                "name": "FC Wacker Innsbruck",
+                "from_year": 1915,
+                "to_year": 1971,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SSW Innsbruck",
+                "from_year": 1971,
+                "to_year": 1986,
+                "note": "Merged with SV Wattens as SpG Swarovski Wattens-Innsbruck"
+            },
+            {
+                "name": "FC Wacker Innsbruck",
+                "from_year": 1986,
+                "to_year": 1999,
+                "note": "Renamed back; dissolved in 1999"
+            }
+        ]
     },
     {
         "name": "FC Swarovski Tirol",
@@ -69,14 +194,43 @@
     {
         "name": "Admira Wacker",
         "description": "Austria · Founded: 1905",
-        "country_id": [4, 20],
+        "country_id": [
+            4,
+            20
+        ],
         "primary_country_id": 4,
         "nickname": "Admiraner",
         "content": "<p>Admira Wacker is a professional football club based in Maria Enzersdorf, Austria, with roots that trace back to two historic Vienna clubs: SK Admira (founded in 1905) and SC Wacker (founded in 1907). The modern club was formed in 1971 through the merger of these two sides, combining their traditions and successes. Admira was particularly dominant in the interwar period, winning multiple Austrian championships and cups, while Wacker also enjoyed success, especially in the 1940s, including a league and cup double in 1947.</p><p>During the 20th century, both predecessor clubs played important roles in Austrian football. SK Admira was one of the strongest teams of its era, regularly competing at the top level and even reaching the final of the Mitropa Cup in 1934. During the Nazi period, the club participated in the Gauliga Ostmark and reached the final of the German championship in 1939. After World War II, both Admira and Wacker experienced fluctuations in performance and financial stability, which ultimately led to their merger as a way to remain competitive.</p><p>Since becoming Admira/Wacker, the club has had periods in both the top and lower divisions of Austrian football. One of its notable achievements in the modern era was reaching the quarter-finals of the European Cup Winners’ Cup in 1990. The club has also undergone further structural changes, including a merger with VfB Mödling in 1997 and several financial restructurings. Despite challenges, Admira Wacker remains an important part of Austrian football history, known for its development of players and its long-standing presence in the national league system.</p>",
         "founded_at": "1905-06-17",
         "destroyed_at": "",
         "stadium": "Datenpol Arena, Cap. 10,600",
-        "city": "Maria Enzersdorf["
+        "city": "Maria Enzersdorf",
+        "names": [
+            {
+                "name": "SK Admira Vienna",
+                "from_year": 1905,
+                "to_year": 1953,
+                "note": "Club founded under this name (merger of Burschenschaft Einigkeit and Sportklub Vindobona)"
+            },
+            {
+                "name": "ESV Admira Vienna",
+                "from_year": 1953,
+                "to_year": 1960,
+                "note": "Merged with the railroad sports club ESV Vienna"
+            },
+            {
+                "name": "ESV Admira-NÖ Energie Vienna",
+                "from_year": 1960,
+                "to_year": 1971,
+                "note": "Sponsor name (NEWAG/NIOGAS)"
+            },
+            {
+                "name": "FC Admira/Wacker",
+                "from_year": 1971,
+                "to_year": null,
+                "note": "Merger of SK Admira and SC Wacker (Admira Wacker Mödling after the 1997 merger with VfB Mödling)"
+            }
+        ]
     },
     {
         "name": "SC Wacker Wien",
@@ -92,7 +246,10 @@
     {
         "name": "First Vienna FC",
         "description": "Austria · Founded: 1894",
-        "country_id": [4, 20],
+        "country_id": [
+            4,
+            20
+        ],
         "primary_country_id": 4,
         "nickname": "Die Vienna",
         "content": "<p>First Vienna FC is one of the oldest football club in Austria, founded on 22 August 1894 in the Döbling district of Vienna. The club was established by a mix of British and Austrian gardeners working on the Rothschild estate, which also influenced its traditional blue and yellow colors. As a pioneer of football in Austria, First Vienna played an important role in the early development of the sport and participated in some of the first organized competitions in Central Europe, including winning the Challenge Cup in 1899 and 1900.</p><p>The club enjoyed its golden era between the late 1920s and 1940s, when it became one of the strongest teams in Austrian and Central European football. During this period, First Vienna won multiple Austrian championships and cups, as well as the prestigious Mitropa Cup in 1931. After the annexation of Austria in 1938, the club competed in the Gauliga system and achieved further success, including winning several league titles and the German Cup in 1943, while also reaching the German championship final in 1942.</p><p>Following World War II, the club added another Austrian championship in 1955 but gradually declined in the following decades, experiencing relegations and financial difficulties. Despite occasional returns to the top division and appearances in European competitions, First Vienna spent much of the late 20th and early 21st centuries in lower leagues. In recent years, however, the club has undergone a revival, achieving promotions and re-establishing itself as a competitive side while maintaining its historical importance in Austrian football.</p>",
@@ -154,7 +311,27 @@
         "founded_at": "1908-08-07",
         "destroyed_at": "",
         "stadium": "Raiffeisen Arena, Cap. 19,080",
-        "city": "Linz"
+        "city": "Linz",
+        "names": [
+            {
+                "name": "Linzer ASK",
+                "from_year": 1908,
+                "to_year": 1997,
+                "note": null
+            },
+            {
+                "name": "LASK Linz",
+                "from_year": 1997,
+                "to_year": 2017,
+                "note": "Merged with FC Linz"
+            },
+            {
+                "name": "LASK",
+                "from_year": 2017,
+                "to_year": null,
+                "note": "The \"Linz\" part of the name removed"
+            }
+        ]
     },
     {
         "name": "FC Stahl Linz",
@@ -165,7 +342,39 @@
         "founded_at": "1946-00-00",
         "destroyed_at": "",
         "stadium": "ASKÖ Neue Heimat",
-        "city": "Linz"
+        "city": "Linz",
+        "names": [
+            {
+                "name": "SV Eisen und Stahl Linz",
+                "from_year": 1946,
+                "to_year": 1949,
+                "note": "Club founded under this name as a factory team of VÖEST"
+            },
+            {
+                "name": "SK VÖEST Linz",
+                "from_year": 1949,
+                "to_year": 1978,
+                "note": "Renamed"
+            },
+            {
+                "name": "SK VOEST Linz",
+                "from_year": 1978,
+                "to_year": 1991,
+                "note": "Umlaut dropped from the name"
+            },
+            {
+                "name": "FC Stahl Linz",
+                "from_year": 1991,
+                "to_year": 1993,
+                "note": "Renamed after the steel company withdrew funds"
+            },
+            {
+                "name": "FC Linz",
+                "from_year": 1993,
+                "to_year": 1997,
+                "note": "Renamed; dissolved in 1997 by merger with LASK"
+            }
+        ]
     },
     {
         "name": "Grazer AK",
@@ -187,7 +396,27 @@
         "founded_at": "1897-00-00",
         "destroyed_at": "1983-00-00",
         "stadium": "WAC-Platz",
-        "city": "Vienna"
+        "city": "Vienna",
+        "names": [
+            {
+                "name": "Wiener AC",
+                "from_year": 1897,
+                "to_year": 1936,
+                "note": null
+            },
+            {
+                "name": "Schwarz-Rot Wien",
+                "from_year": 1936,
+                "to_year": 1945,
+                "note": "Name used under the Nazi regime"
+            },
+            {
+                "name": "Wiener AC",
+                "from_year": 1945,
+                "to_year": 1983,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Hakoah Vienna",
@@ -264,7 +493,27 @@
         "founded_at": "1946-05-28",
         "destroyed_at": "2007-06-01",
         "stadium": "Waldstadion, Cap. 7,152",
-        "city": "Pasching"
+        "city": "Pasching",
+        "names": [
+            {
+                "name": "ATSV Pasching",
+                "from_year": 1946,
+                "to_year": 1986,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "ASKÖ Pasching",
+                "from_year": 1986,
+                "to_year": 2003,
+                "note": "Renamed (later also SV PlusCity Pasching)"
+            },
+            {
+                "name": "FC Superfund",
+                "from_year": 2003,
+                "to_year": 2007,
+                "note": "Sponsor name until the club ended"
+            }
+        ]
     },
     {
         "name": "SV Mattersburg",
@@ -319,7 +568,27 @@
         "founded_at": "1920-00-00",
         "destroyed_at": "2009-00-00",
         "stadium": "Sportzentrum Fischl, Cap. 3,000",
-        "city": "Klagenfurt"
+        "city": "Klagenfurt",
+        "names": [
+            {
+                "name": "KSK Klagenfurt",
+                "from_year": 1920,
+                "to_year": 1997,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Austria Klagenfurt/VSV",
+                "from_year": 1997,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Kärnten",
+                "from_year": 1999,
+                "to_year": null,
+                "note": "Formal merger of the clubs"
+            }
+        ]
     },
     {
         "name": "Kremser SC",
@@ -363,7 +632,21 @@
         "founded_at": "2007-05-16",
         "destroyed_at": "",
         "stadium": "TGW Arena, Cap. 7,870",
-        "city": "Pasching"
+        "city": "Pasching",
+        "names": [
+            {
+                "name": "SPG FC Pasching/LASK Juniors",
+                "from_year": 2014,
+                "to_year": 2017,
+                "note": "Syndicate with the LASK second team"
+            },
+            {
+                "name": "FC Juniors OÖ",
+                "from_year": 2017,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "SC Austria Lustenau",
@@ -385,7 +668,21 @@
         "founded_at": "1902-01-11",
         "destroyed_at": "",
         "stadium": "Slovanplatz Hütteldorf, Cap. 1,500",
-        "city": "Vienna"
+        "city": "Vienna",
+        "names": [
+            {
+                "name": "SK Slovan-Olympia",
+                "from_year": 1960,
+                "to_year": 1976,
+                "note": "Merged with ÖMV Olympia 33"
+            },
+            {
+                "name": "SK Slovan-HAC",
+                "from_year": 1976,
+                "to_year": null,
+                "note": "Merged with Hütteldorfer AC"
+            }
+        ]
     },
     {
         "name": "SK Vorwärts Steyr",
@@ -418,7 +715,33 @@
         "founded_at": "1928-00-00",
         "destroyed_at": "",
         "stadium": "Donawitz Stadium, Cap. 6,000",
-        "city": "Leoben"
+        "city": "Leoben",
+        "names": [
+            {
+                "name": "WSV Donawitz",
+                "from_year": 1928,
+                "to_year": 1970,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "WSV Alpine Donawitz",
+                "from_year": 1970,
+                "to_year": 1971,
+                "note": "Renamed"
+            },
+            {
+                "name": "DSV Alpine",
+                "from_year": 1971,
+                "to_year": 1992,
+                "note": "Renamed Donawitzer SV Alpine"
+            },
+            {
+                "name": "DSV Leoben",
+                "from_year": 1992,
+                "to_year": null,
+                "note": "Merger with FC Leoben"
+            }
+        ]
     },
     {
         "name": "SV Feldkirchen",
