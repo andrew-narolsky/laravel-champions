@@ -8,7 +8,57 @@
         "founded_at": "1948-05-05",
         "destroyed_at": "",
         "stadium": "Vasil Levski National Stadium, Cap. 43,230",
-        "city": "Sofia"
+        "city": "Sofia",
+        "names": [
+            {
+                "name": "Septemvri pri CDV",
+                "from_year": 1948,
+                "to_year": 1950,
+                "note": "Union of CDV (Chavdar) and Septemvri Sofia"
+            },
+            {
+                "name": "CDNV Sofia",
+                "from_year": 1950,
+                "to_year": 1953,
+                "note": "Central House of the People's Troops"
+            },
+            {
+                "name": "Otbor na Sofiyskiya Garnizon",
+                "from_year": 1953,
+                "to_year": 1954,
+                "note": "Renamed by the authorities"
+            },
+            {
+                "name": "CDNA Sofia",
+                "from_year": 1954,
+                "to_year": 1962,
+                "note": "Central House of the People's Army"
+            },
+            {
+                "name": "CSKA Cherveno Zname",
+                "from_year": 1962,
+                "to_year": 1968,
+                "note": "Merger with DSO Cherveno Zname"
+            },
+            {
+                "name": "CSKA Septemvriysko Zname",
+                "from_year": 1968,
+                "to_year": 1987,
+                "note": "Merger with Septemvri Sofia"
+            },
+            {
+                "name": "CFKA Sredets",
+                "from_year": 1987,
+                "to_year": 1989,
+                "note": "Renamed by the authorities"
+            },
+            {
+                "name": "PFC CSKA Sofia",
+                "from_year": 1989,
+                "to_year": null,
+                "note": "The CSKA name restored from the 1989–90 season"
+            }
+        ]
     },
     {
         "name": "PFC Levski Sofia",
@@ -19,7 +69,45 @@
         "founded_at": "1914-05-24",
         "destroyed_at": "",
         "stadium": "Stadion Georgi Asparuhov, Cap. 17,688",
-        "city": "Sofia"
+        "city": "Sofia",
+        "names": [
+            {
+                "name": "Levski Sofia",
+                "from_year": 1914,
+                "to_year": 1949,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dinamo Sofia",
+                "from_year": 1949,
+                "to_year": 1957,
+                "note": "Renamed following Soviet traditions"
+            },
+            {
+                "name": "Levski Sofia",
+                "from_year": 1957,
+                "to_year": 1969,
+                "note": "Name restored after de-Stalinization"
+            },
+            {
+                "name": "Levski-Spartak",
+                "from_year": 1969,
+                "to_year": 1985,
+                "note": "Forced merger with Spartak Sofia"
+            },
+            {
+                "name": "Vitosha Sofia",
+                "from_year": 1985,
+                "to_year": 1989,
+                "note": "Renamed by the authorities after the 1985 Cup final"
+            },
+            {
+                "name": "PFC Levski Sofia",
+                "from_year": 1989,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "PFC Ludogorets Razgrad",
@@ -52,7 +140,33 @@
         "founded_at": "1913-03-03",
         "destroyed_at": "",
         "stadium": "Stadion Ticha, Cap. 8,250",
-        "city": "Varna"
+        "city": "Varna",
+        "names": [
+            {
+                "name": "Ticha-Vladislav",
+                "from_year": 1945,
+                "to_year": 1947,
+                "note": "Merger of SC Ticha and SC Vladislav"
+            },
+            {
+                "name": "TVP Varna",
+                "from_year": 1947,
+                "to_year": 1948,
+                "note": "SC Primoretz joined the club"
+            },
+            {
+                "name": "Botev Varna",
+                "from_year": 1948,
+                "to_year": 1959,
+                "note": "Renamed Botev (Varna was called Stalin until 1956)"
+            },
+            {
+                "name": "PFC Cherno More Varna",
+                "from_year": 1959,
+                "to_year": null,
+                "note": "Merged with the team Cherno More"
+            }
+        ]
     },
     {
         "name": "FC Lokomotiv 1929 Sofia",
@@ -63,7 +177,21 @@
         "founded_at": "1929-09-02",
         "destroyed_at": "",
         "stadium": "Stadion Lokomotiv, Cap. 22,000",
-        "city": "Sofia"
+        "city": "Sofia",
+        "names": [
+            {
+                "name": "Railway Sports Club",
+                "from_year": 1929,
+                "to_year": 1945,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Lokomotiv Sofia",
+                "from_year": 1945,
+                "to_year": null,
+                "note": "Renamed Lokomotiv Sofia"
+            }
+        ]
     },
     {
         "name": "FC Lovech",
@@ -74,7 +202,39 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "2026-00-00",
         "stadium": "Gradski Stadion, Cap. 8,000",
-        "city": "Lovech"
+        "city": "Lovech",
+        "names": [
+            {
+                "name": "Hisarya Lovech",
+                "from_year": 1921,
+                "to_year": 1957,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Karpachev Lovech",
+                "from_year": 1957,
+                "to_year": 1979,
+                "note": "Renamed"
+            },
+            {
+                "name": "Osam Lovech",
+                "from_year": 1979,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Litex Lovech",
+                "from_year": 1996,
+                "to_year": 2016,
+                "note": "Renamed after the club was bought by Grisha Ganchev"
+            },
+            {
+                "name": "FC Lovech",
+                "from_year": 2016,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Botev Plovdiv",
@@ -85,7 +245,45 @@
         "founded_at": "1912-03-11",
         "destroyed_at": "",
         "stadium": "Stadion Hristo Botev, Cap. 18,777",
-        "city": "Plovdiv"
+        "city": "Plovdiv",
+        "names": [
+            {
+                "name": "Botev Plovdiv",
+                "from_year": 1912,
+                "to_year": 1947,
+                "note": "Club founded as Hristo Botyov FD"
+            },
+            {
+                "name": "DNV Plovdiv",
+                "from_year": 1947,
+                "to_year": 1951,
+                "note": "Renamed for political reasons"
+            },
+            {
+                "name": "DNA Plovdiv",
+                "from_year": 1952,
+                "to_year": 1957,
+                "note": "Renamed for political reasons"
+            },
+            {
+                "name": "Botev Plovdiv",
+                "from_year": 1957,
+                "to_year": 1968,
+                "note": "Name restored (SKNA in 1957)"
+            },
+            {
+                "name": "Trakia Plovdiv",
+                "from_year": 1968,
+                "to_year": 1989,
+                "note": "Merger with Spartak Plovdiv and Akademik (AFD Trakia)"
+            },
+            {
+                "name": "Botev Plovdiv",
+                "from_year": 1989,
+                "to_year": null,
+                "note": "Authentic name restored on 29 November 1989"
+            }
+        ]
     },
     {
         "name": "FC Spartak Varna",
@@ -173,7 +371,51 @@
         "founded_at": "1919-00-00",
         "destroyed_at": "",
         "stadium": "Osogovo Stadium, Cap. 13,000",
-        "city": "Kyustendil"
+        "city": "Kyustendil",
+        "names": [
+            {
+                "name": "Velbazhd Kyustendil",
+                "from_year": 1919,
+                "to_year": 1920,
+                "note": "Club formed under this name"
+            },
+            {
+                "name": "SC Motsion",
+                "from_year": 1920,
+                "to_year": 1928,
+                "note": "Renamed"
+            },
+            {
+                "name": "SC Borislav",
+                "from_year": 1928,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Levski Kyustendil",
+                "from_year": 1956,
+                "to_year": 1970,
+                "note": "Renamed"
+            },
+            {
+                "name": "Velbazhd Kyustendil",
+                "from_year": 1970,
+                "to_year": 1995,
+                "note": "Name restored"
+            },
+            {
+                "name": "Levski Kyustendil",
+                "from_year": 1995,
+                "to_year": 1999,
+                "note": "Renamed under the ownership of Georgi Iliev"
+            },
+            {
+                "name": "Velbazhd Kyustendil",
+                "from_year": 1999,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "PFC Neftochimic Burgas",
@@ -184,7 +426,21 @@
         "founded_at": "1962-00-00",
         "destroyed_at": "",
         "stadium": "Stadion Lazur, Cap. 18 037",
-        "city": "Burgas"
+        "city": "Burgas",
+        "names": [
+            {
+                "name": "Stroitel Burgas",
+                "from_year": 1962,
+                "to_year": 1964,
+                "note": "Club established under this name"
+            },
+            {
+                "name": "PFC Neftochimic Burgas",
+                "from_year": 1964,
+                "to_year": null,
+                "note": "Renamed Neftochimic (Naftex Burgas in the early 2000s)"
+            }
+        ]
     },
     {
         "name": "FC Marek Dupnitsa",
@@ -311,7 +567,10 @@
         "name": "Gragjanski Skopje",
         "description": "Bulgaria · Founded: 1922",
         "primary_country_id": 37,
-        "country_id": [9, 37],
+        "country_id": [
+            9,
+            37
+        ],
         "nickname": "",
         "content": "<p>Gragjanski Skopje was a football club from Skopje, founded in 1922 under the name FC Citizens Skopje. In its early development it quickly became one of the most important clubs in the city, and in 1926 it merged with FC Vardar and moved to Vardar’s ground in the City Park. From that point, the club became a regular participant in the Yugoslav football system and later in regional competitions organized in the Skopje area.</p><p>During the late 1920s and 1930s, Gragjanski established itself as the strongest club from the Vardar Banovina region. It competed in the Skopje Football Subassociation and later reached higher levels of Yugoslav football, even taking part in the Royal League system. The club won several regional championships and had its best domestic form in the late 1930s, when it was considered one of the most competitive teams outside the major Yugoslav centers.</p><p>In 1941, during World War II, the club was effectively transformed due to political and territorial changes, as the region came under Bulgarian administration. Gragjanski merged with several local clubs to form FK Makedonia, which competed in the Bulgarian championship during the war years. After the war ended, the club went through further mergers, eventually contributing to the creation of FK Vardar in 1947, ending Gragjanski’s independent existence but leaving a lasting legacy in Skopje football history.</p>",
         "founded_at": "1922-00-00",
@@ -394,7 +653,27 @@
         "founded_at": "1921-03-20",
         "destroyed_at": "",
         "stadium": "Stadion Ogosta, Cap. 8,000",
-        "city": "Montana"
+        "city": "Montana",
+        "names": [
+            {
+                "name": "SC Hristo Mihaylov",
+                "from_year": 1947,
+                "to_year": 1957,
+                "note": "Merger of local clubs"
+            },
+            {
+                "name": "Septemvriyska Slava",
+                "from_year": 1957,
+                "to_year": 1990,
+                "note": "Merged into SFS Septemvriyska Slava"
+            },
+            {
+                "name": "PFC Montana 1921",
+                "from_year": 1990,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "OFC Pomorie",
@@ -460,7 +739,57 @@
         "founded_at": "1919-04-16",
         "destroyed_at": "",
         "stadium": "Stadion Minyor, Cap. 8,000",
-        "city": "Pernik"
+        "city": "Pernik",
+        "names": [
+            {
+                "name": "SC Krakra",
+                "from_year": 1919,
+                "to_year": 1944,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SC Rudnichar",
+                "from_year": 1944,
+                "to_year": 1946,
+                "note": "Merger of Krakra, Svetkavitsa, Benkovski and ZHSK"
+            },
+            {
+                "name": "Republicanets '46",
+                "from_year": 1946,
+                "to_year": 1948,
+                "note": "Renamed"
+            },
+            {
+                "name": "Torpedo Pernik",
+                "from_year": 1948,
+                "to_year": 1952,
+                "note": "Renamed"
+            },
+            {
+                "name": "Minyor Pernik",
+                "from_year": 1952,
+                "to_year": 1969,
+                "note": "Renamed after the mining history of Pernik"
+            },
+            {
+                "name": "Krakra Pernik",
+                "from_year": 1969,
+                "to_year": 1970,
+                "note": "Renamed"
+            },
+            {
+                "name": "Pernik",
+                "from_year": 1970,
+                "to_year": 1973,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Minyor Pernik",
+                "from_year": 1973,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Chernolomets Popovo",
