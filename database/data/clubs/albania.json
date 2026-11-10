@@ -78,7 +78,33 @@
         "destroyed_at": "",
         "stadium": "Selman Stërmasi Stadium, Cap. 9,600",
         "city": "Tirana",
-        "link": "https://en.wikipedia.org/wiki/FC_Dinamo_City"
+        "link": "https://en.wikipedia.org/wiki/FC_Dinamo_City",
+        "names": [
+            {
+                "name": "Dinamo Tirana",
+                "from_year": 1950,
+                "to_year": 1995,
+                "note": "Club founded under this name by the Interior Ministry"
+            },
+            {
+                "name": "KS Olimpik Tirana",
+                "from_year": 1995,
+                "to_year": 1997,
+                "note": "Renamed to leave behind the communist past"
+            },
+            {
+                "name": "Dinamo Tirana",
+                "from_year": 1997,
+                "to_year": 2023,
+                "note": "Name restored"
+            },
+            {
+                "name": "FC Dinamo City",
+                "from_year": 2023,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "FK Partizani",
@@ -102,7 +128,45 @@
         "destroyed_at": "",
         "stadium": "Loro Boriçi Stadium, Cap. 16,000",
         "city": "Shkodër",
-        "link": "https://en.wikipedia.org/wiki/KF_Vllaznia"
+        "link": "https://en.wikipedia.org/wiki/KF_Vllaznia",
+        "names": [
+            {
+                "name": "Vllaznia",
+                "from_year": 1919,
+                "to_year": 1929,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Bashkimi Shkodran",
+                "from_year": 1929,
+                "to_year": 1935,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vllaznia",
+                "from_year": 1935,
+                "to_year": 1950,
+                "note": "Name restored"
+            },
+            {
+                "name": "Shkodra",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "Puna Shkodër",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "KF Vllaznia",
+                "from_year": 1958,
+                "to_year": null,
+                "note": "Current name (KS Vllaznia from 1958)"
+            }
+        ]
     },
     {
         "name": "KF Skënderbeu",
@@ -126,7 +190,57 @@
         "destroyed_at": "",
         "stadium": "Stadiumi \"Niko Dovana\", Cap. 12,040",
         "city": "Durrës",
-        "link": "https://en.wikipedia.org/wiki/KF_Teuta"
+        "link": "https://en.wikipedia.org/wiki/KF_Teuta",
+        "names": [
+            {
+                "name": "KS Urani",
+                "from_year": 1920,
+                "to_year": 1922,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SK Durrës",
+                "from_year": 1922,
+                "to_year": 1930,
+                "note": "Renamed"
+            },
+            {
+                "name": "KS Teuta Durrës",
+                "from_year": 1930,
+                "to_year": 1947,
+                "note": "Renamed before entering the national championship"
+            },
+            {
+                "name": "KS Ylli i Kuq Durrës",
+                "from_year": 1947,
+                "to_year": 1950,
+                "note": "Renamed after the communists took power"
+            },
+            {
+                "name": "SK Durrës",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "SK Puna Durrës",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "KS Lokomotiva Durrës",
+                "from_year": 1958,
+                "to_year": 1991,
+                "note": "Renamed"
+            },
+            {
+                "name": "KF Teuta",
+                "from_year": 1991,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "KF Elbasani",
@@ -138,7 +252,45 @@
         "destroyed_at": "2022-00-00",
         "stadium": "Elbasan Arena, Cap. 12,500",
         "city": "Elbasan",
-        "link": "https://en.wikipedia.org/wiki/KF_Elbasani"
+        "link": "https://en.wikipedia.org/wiki/KF_Elbasani",
+        "names": [
+            {
+                "name": "Urani Elbasan",
+                "from_year": 1929,
+                "to_year": 1933,
+                "note": "Club founded under this name (merger of Afërdita Elbasan and Përparimi Elbasan)"
+            },
+            {
+                "name": "Bashkimi Elbasanas",
+                "from_year": 1933,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "KS Elbasani",
+                "from_year": 1949,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "KF Puna Elbasan",
+                "from_year": 1950,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "KS Labinoti Elbasan",
+                "from_year": 1958,
+                "to_year": 1991,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "KF Elbasani",
+                "from_year": 1991,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "KF Egnatia",
@@ -150,7 +302,27 @@
         "destroyed_at": "",
         "stadium": "Egnatia Arena, Cap. 4,000",
         "city": "Rrogozhinë",
-        "link": "https://en.wikipedia.org/wiki/KF_Egnatia_Rrogozhin%C3%AB"
+        "link": "https://en.wikipedia.org/wiki/KF_Egnatia_Rrogozhin%C3%AB",
+        "names": [
+            {
+                "name": "22 Shtatori Rrogozhinë",
+                "from_year": 1934,
+                "to_year": 1991,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Vullneti Rrogozhinë",
+                "from_year": 1991,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "KF Egnatia",
+                "from_year": 1998,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Flamurtari FC",
@@ -162,7 +334,39 @@
         "destroyed_at": "",
         "stadium": "Flamurtari Stadium, Cap. 9,500",
         "city": "Vlorë",
-        "link": "https://en.wikipedia.org/wiki/Flamurtari_FC"
+        "link": "https://en.wikipedia.org/wiki/Flamurtari_FC",
+        "names": [
+            {
+                "name": "Shoqëria Sportive Vlorë",
+                "from_year": 1923,
+                "to_year": 1935,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Shoqata Sportive Ismail Qemali",
+                "from_year": 1935,
+                "to_year": 1946,
+                "note": "Renamed"
+            },
+            {
+                "name": "KS Flamurtari Vlorë",
+                "from_year": 1946,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Puna Vlorë",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "Flamurtari FC",
+                "from_year": 1958,
+                "to_year": null,
+                "note": "Name restored (Flamurtari Vlorë)"
+            }
+        ]
     },
     {
         "name": "FK Kukësi",
@@ -174,7 +378,33 @@
         "destroyed_at": "",
         "stadium": "Kukës Arena, Cap. 11,300",
         "city": "Kukës",
-        "link": "https://en.wikipedia.org/wiki/FK_Kuk%C3%ABsi"
+        "link": "https://en.wikipedia.org/wiki/FK_Kuk%C3%ABsi",
+        "names": [
+            {
+                "name": "Shoqëria Sportive Kosova",
+                "from_year": 1930,
+                "to_year": 1932,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Sport Klub Kosova",
+                "from_year": 1932,
+                "to_year": 1958,
+                "note": "Registered with the Albanian Football Association"
+            },
+            {
+                "name": "KS Përparimi",
+                "from_year": 1958,
+                "to_year": 2010,
+                "note": "Renamed after promotion to the Kategoria e Parë"
+            },
+            {
+                "name": "FK Kukësi",
+                "from_year": 2010,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "KF Besa",
@@ -186,7 +416,27 @@
         "destroyed_at": "",
         "stadium": "Stadiumi Besa, Cap. 8,000",
         "city": "Kavajë",
-        "link": "https://en.wikipedia.org/wiki/KF_Besa_Kavaj%C3%AB"
+        "link": "https://en.wikipedia.org/wiki/KF_Besa_Kavaj%C3%AB",
+        "names": [
+            {
+                "name": "Shoqata Kulturore Sportive Adriatiku",
+                "from_year": 1925,
+                "to_year": 1930,
+                "note": "Club founded under this name as a multi-sport club"
+            },
+            {
+                "name": "Sport Klub Kavajë",
+                "from_year": 1930,
+                "to_year": 1931,
+                "note": "Renamed"
+            },
+            {
+                "name": "KF Besa",
+                "from_year": 1931,
+                "to_year": null,
+                "note": "Renamed Besa Kavajë; current name"
+            }
+        ]
     },
     {
         "name": "KF Laçi",
@@ -198,7 +448,27 @@
         "destroyed_at": "",
         "stadium": "Laçi Stadium, Cap. 2,271",
         "city": "Laç",
-        "link": "https://en.wikipedia.org/wiki/KF_La%C3%A7i"
+        "link": "https://en.wikipedia.org/wiki/KF_La%C3%A7i",
+        "names": [
+            {
+                "name": "Industriali Laç",
+                "from_year": 1960,
+                "to_year": 1991,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "KS Laçi",
+                "from_year": 1991,
+                "to_year": 1997,
+                "note": "Renamed on debut in the Kategoria Superiore"
+            },
+            {
+                "name": "KF Laçi",
+                "from_year": 1997,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Luftëtari FC",
@@ -210,7 +480,45 @@
         "destroyed_at": "2020-09-29",
         "stadium": "Gjirokastra Stadium, Cap. 8,400",
         "city": "Gjirokastër",
-        "link": "https://en.wikipedia.org/wiki/Luft%C3%ABtari_FC"
+        "link": "https://en.wikipedia.org/wiki/Luft%C3%ABtari_FC",
+        "names": [
+            {
+                "name": "Shqiponja Gjirokastër",
+                "from_year": 1930,
+                "to_year": 1949,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Gjirokastër",
+                "from_year": 1949,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Puna Gjirokastër",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "Luftëtari Gjirokastër",
+                "from_year": 1958,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Shqiponja Gjirokastër",
+                "from_year": 1992,
+                "to_year": 2002,
+                "note": "Renamed"
+            },
+            {
+                "name": "Luftëtari FC",
+                "from_year": 2002,
+                "to_year": null,
+                "note": "Name restored (Luftëtari Gjirokastër)"
+            }
+        ]
     },
     {
         "name": "FK Tomori",
@@ -222,7 +530,39 @@
         "destroyed_at": "",
         "stadium": "Tomori Stadium, Cap. 18,900",
         "city": "Berat",
-        "link": "https://en.wikipedia.org/wiki/FK_Tomori_Berat"
+        "link": "https://en.wikipedia.org/wiki/FK_Tomori_Berat",
+        "names": [
+            {
+                "name": "Tomori",
+                "from_year": 1923,
+                "to_year": 1931,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Muzaka",
+                "from_year": 1931,
+                "to_year": 1936,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tomori",
+                "from_year": 1936,
+                "to_year": 1951,
+                "note": "Name restored"
+            },
+            {
+                "name": "Puna Berati",
+                "from_year": 1951,
+                "to_year": 1957,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "FK Tomori",
+                "from_year": 1957,
+                "to_year": null,
+                "note": "Name restored (KS Tomori)"
+            }
+        ]
     },
     {
         "name": "KF Bylis",
@@ -246,7 +586,45 @@
         "destroyed_at": "",
         "stadium": "Roza Haxhiu Stadium, Cap. 8,000",
         "city": "Lushnjë",
-        "link": "https://en.wikipedia.org/wiki/KS_Lushnja"
+        "link": "https://en.wikipedia.org/wiki/KS_Lushnja",
+        "names": [
+            {
+                "name": "Kongresi i Lushnjës",
+                "from_year": 1930,
+                "to_year": 1945,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "KS Traktori Lushnja",
+                "from_year": 1945,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "SK Lushnja",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Puna Lushnja",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "KS Traktori Lushnja",
+                "from_year": 1958,
+                "to_year": 1991,
+                "note": "Name restored"
+            },
+            {
+                "name": "KS Lushnja",
+                "from_year": 1991,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "KF Albpetrol",
@@ -258,7 +636,33 @@
         "destroyed_at": "",
         "stadium": "Alush Noga Stadium, Cap. 4,000",
         "city": "Patos",
-        "link": "https://en.wikipedia.org/wiki/KF_Albpetrol_Patos"
+        "link": "https://en.wikipedia.org/wiki/KF_Albpetrol_Patos",
+        "names": [
+            {
+                "name": "Patosi",
+                "from_year": 1947,
+                "to_year": 1951,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Puna Patos",
+                "from_year": 1951,
+                "to_year": 1958,
+                "note": "Renamed during the communist era"
+            },
+            {
+                "name": "Punëtori Patos",
+                "from_year": 1958,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "KF Albpetrol",
+                "from_year": 1992,
+                "to_year": null,
+                "note": "Taken over by the Albpetrol company (Albpetrol Patos)"
+            }
+        ]
     },
     {
         "name": "FK Apolonia",
