@@ -52,7 +52,21 @@
         "founded_at": "1887-09-29",
         "destroyed_at": "",
         "stadium": "Volksparkstadion, Cap. 57,000",
-        "city": "Hamburg"
+        "city": "Hamburg",
+        "names": [
+            {
+                "name": "SC Germania",
+                "from_year": 1887,
+                "to_year": 1919,
+                "note": "Club founded under this name (first of the three predecessor clubs)"
+            },
+            {
+                "name": "Hamburger SV",
+                "from_year": 1919,
+                "to_year": null,
+                "note": "Merger of SC Germania, Hamburger FC 1888 and FC Falke Eppendorf on 2 June 1919"
+            }
+        ]
     },
     {
         "name": "VfB Stuttgart",
@@ -74,7 +88,27 @@
         "founded_at": "1900-08-01",
         "destroyed_at": "",
         "stadium": "Borussia-Park, Cap. 54,057",
-        "city": "Mönchengladbach"
+        "city": "Mönchengladbach",
+        "names": [
+            {
+                "name": "FC Borussia",
+                "from_year": 1900,
+                "to_year": 1919,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "1889 VfTuR M.Gladbach",
+                "from_year": 1919,
+                "to_year": 1921,
+                "note": "Merger with Turnverein Germania 1889"
+            },
+            {
+                "name": "Borussia VfL 1900 M.Gladbach",
+                "from_year": 1921,
+                "to_year": null,
+                "note": "The merger lasted only two years"
+            }
+        ]
     },
     {
         "name": "SV Werder Bremen",
@@ -173,7 +207,21 @@
         "founded_at": "1903-09-23",
         "destroyed_at": "",
         "stadium": "Sportpark Ronhof | Thomas Sommer, Cap. 16,626",
-        "city": "Fürth"
+        "city": "Fürth",
+        "names": [
+            {
+                "name": "SpVgg Fürth",
+                "from_year": 1903,
+                "to_year": 1996,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SpVgg Greuther Fürth",
+                "from_year": 1996,
+                "to_year": null,
+                "note": "Merger with the football department of TSV Vestenbergsgreuth"
+            }
+        ]
     },
     {
         "name": "Hertha BSC",
@@ -184,7 +232,33 @@
         "founded_at": "1892-07-25",
         "destroyed_at": "",
         "stadium": "Olympiastadion, Cap. 74,475",
-        "city": "Berlin"
+        "city": "Berlin",
+        "names": [
+            {
+                "name": "BFC Hertha 92",
+                "from_year": 1892,
+                "to_year": 1923,
+                "note": "Club founded under this name (Berliner Fußball Club Hertha 1892)"
+            },
+            {
+                "name": "Hertha BSC",
+                "from_year": 1923,
+                "to_year": 1945,
+                "note": "Merger with Berliner Sport-Club"
+            },
+            {
+                "name": "SG Gesundbrunnen",
+                "from_year": 1945,
+                "to_year": 1949,
+                "note": "Allied ban on German clubs; played together with former members of other clubs"
+            },
+            {
+                "name": "Hertha BSC",
+                "from_year": 1949,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Viktoria 1889",
@@ -287,7 +361,33 @@
         "founded_at": "1894-06-06",
         "destroyed_at": "",
         "stadium": "BBBank Wildpark, Cap. 34,302",
-        "city": "Karlsruhe"
+        "city": "Karlsruhe",
+        "names": [
+            {
+                "name": "Karlsruher FC Phönix",
+                "from_year": 1894,
+                "to_year": 1912,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Karlsruher FC Phönix (Phönix-Alemannia)",
+                "from_year": 1912,
+                "to_year": 1952,
+                "note": "Merger with KFC Alemannia"
+            },
+            {
+                "name": "KSC Phönix-Mühlburg",
+                "from_year": 1952,
+                "to_year": 1953,
+                "note": "Merger with VfB Mühlburg"
+            },
+            {
+                "name": "Karlsruher SC",
+                "from_year": 1953,
+                "to_year": null,
+                "note": "Karlsruher SC von 1894 Mühlburg-Phönix"
+            }
+        ]
     },
     {
         "name": "Fortuna Düsseldorf",
@@ -309,7 +409,27 @@
         "founded_at": "1899-03-08",
         "destroyed_at": "",
         "stadium": "Deutsche Bank Park, Cap. 59,500",
-        "city": "Frankfurt"
+        "city": "Frankfurt",
+        "names": [
+            {
+                "name": "Frankfurter Fußball-Verein (Kickers-Victoria)",
+                "from_year": 1911,
+                "to_year": 1920,
+                "note": "Merger of Frankfurter FV and Victoria Frankfurt"
+            },
+            {
+                "name": "Sportgemeinde Eintracht Frankfurt",
+                "from_year": 1920,
+                "to_year": 1968,
+                "note": "Merged with the gymnastics club; \"Sportgemeinde\" dropped in 1968"
+            },
+            {
+                "name": "Eintracht Frankfurt",
+                "from_year": 1968,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "VfL Wolfsburg",
@@ -353,7 +473,21 @@
         "founded_at": "1907-02-01",
         "destroyed_at": "",
         "stadium": "Stadion an der Hafenstraße, Cap. 20,650",
-        "city": "Essen"
+        "city": "Essen",
+        "names": [
+            {
+                "name": "SV Vogelheim",
+                "from_year": 1907,
+                "to_year": 1923,
+                "note": "Club founded under this name (merger of SC Preußen and Deutsche Eiche)"
+            },
+            {
+                "name": "Rot-Weiss Essen",
+                "from_year": 1923,
+                "to_year": null,
+                "note": "Merger with Turnerbund Bergeborbeck"
+            }
+        ]
     },
     {
         "name": "Eintracht Braunschweig",
@@ -514,7 +648,21 @@
         "founded_at": "1900-12-16",
         "destroyed_at": "",
         "stadium": "Tivoli, Cap. 32,960",
-        "city": "Aachen"
+        "city": "Aachen",
+        "names": [
+            {
+                "name": "TSV Alemannia Aachen 1847",
+                "from_year": 1919,
+                "to_year": 1924,
+                "note": "Merger with Aachener Turnverein 1847"
+            },
+            {
+                "name": "Alemannia Aachen",
+                "from_year": 1924,
+                "to_year": null,
+                "note": "The clubs separated again"
+            }
+        ]
     },
     {
         "name": "TSG 1899 Hoffenheim",
@@ -979,7 +1127,27 @@
         "founded_at": "1950-07-15",
         "destroyed_at": "",
         "stadium": "Sportanlage Felsen, Cap. 1,000",
-        "city": "Halle"
+        "city": "Halle",
+        "names": [
+            {
+                "name": "BSG Turbine Halle",
+                "from_year": 1950,
+                "to_year": 1990,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "UTSV Turbine Halle",
+                "from_year": 1990,
+                "to_year": 1995,
+                "note": "Renamed after German reunification"
+            },
+            {
+                "name": "BSG Turbine Halle",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "UTSV dropped from the name"
+            }
+        ]
     },
     {
         "name": "FC Hansa Rostock",
@@ -1082,7 +1250,33 @@
         "founded_at": "1990-03-19",
         "destroyed_at": "2016-06-30",
         "stadium": "Sportanlagen Waldstraße, Cap. 10,000",
-        "city": "Eisenhüttenstadt"
+        "city": "Eisenhüttenstadt",
+        "names": [
+            {
+                "name": "BSG Stahl Fürstenberg Ost",
+                "from_year": 1950,
+                "to_year": 1953,
+                "note": "Enterprise sports community in Fürstenberg"
+            },
+            {
+                "name": "BSG Stahl Stalinstadt",
+                "from_year": 1953,
+                "to_year": 1961,
+                "note": "Named after the new community of Stalinstadt"
+            },
+            {
+                "name": "BSG Stahl Eisenhüttenstadt",
+                "from_year": 1961,
+                "to_year": 1990,
+                "note": "Fürstenberg, Stalinstadt and Schönfließ merged into Eisenhüttenstadt in 1961"
+            },
+            {
+                "name": "Eisenhüttenstädter FC Stahl",
+                "from_year": 1990,
+                "to_year": 2016,
+                "note": "Dissolved in 2016, merged into FC Eisenhüttenstadt"
+            }
+        ]
     },
     {
         "name": "1. FSV Schwerin",
@@ -1127,7 +1321,69 @@
         "founded_at": "1904-00-00",
         "destroyed_at": "",
         "stadium": "Stadion der Freundschaft, Cap. 15,900",
-        "city": "Gera"
+        "city": "Gera",
+        "names": [
+            {
+                "name": "SpVgg Gera",
+                "from_year": 1922,
+                "to_year": 1936,
+                "note": "Merger of Allgemeine Turngemeinde Gera and 1. VfR Gera"
+            },
+            {
+                "name": "SV Gera 04",
+                "from_year": 1936,
+                "to_year": 1945,
+                "note": "Merger with SC Concordia Gera-Reuß; heritage of SC Reuß (1904)"
+            },
+            {
+                "name": "SG Gera-Pforten",
+                "from_year": 1945,
+                "to_year": 1949,
+                "note": "Re-established after World War II"
+            },
+            {
+                "name": "BSG Gera-Süd",
+                "from_year": 1949,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "BSG Mechanik Gera",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Merger with BSG RFT Gera"
+            },
+            {
+                "name": "BSG Motor Gera",
+                "from_year": 1951,
+                "to_year": 1953,
+                "note": "Renamed in May 1951"
+            },
+            {
+                "name": "BSG Wismut Gera",
+                "from_year": 1953,
+                "to_year": 1990,
+                "note": "Renamed in March 1953"
+            },
+            {
+                "name": "FSV Wismut Gera",
+                "from_year": 1990,
+                "to_year": 2007,
+                "note": "Renamed after German reunification"
+            },
+            {
+                "name": "FV Gera Süd",
+                "from_year": 2007,
+                "to_year": 2009,
+                "note": "Merger of 1. SV Gera, Blau-Weiß Gera and Geraer KFC Dynamos"
+            },
+            {
+                "name": "BSG Wismut Gera",
+                "from_year": 2009,
+                "to_year": null,
+                "note": "Reverted to the old name"
+            }
+        ]
     },
     {
         "name": "SV Stahl Thale",

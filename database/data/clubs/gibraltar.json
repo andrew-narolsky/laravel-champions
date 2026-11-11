@@ -63,7 +63,21 @@
         "founded_at": "1925-00-00",
         "destroyed_at": "",
         "stadium": "Victoria Stadium, Cap. 2,300",
-        "city": "Gibraltar"
+        "city": "Gibraltar",
+        "names": [
+            {
+                "name": "College Europa FC",
+                "from_year": 2013,
+                "to_year": 2015,
+                "note": "Name used after the merger with College; College Cosmos until 2013"
+            },
+            {
+                "name": "Europa FC",
+                "from_year": 2015,
+                "to_year": null,
+                "note": "Renamed back to the original name"
+            }
+        ]
     },
     {
         "name": "Manchester 62 FC",
@@ -74,7 +88,39 @@
         "founded_at": "1962-00-00",
         "destroyed_at": "",
         "stadium": "Victoria Stadium, Cap. 2,300",
-        "city": "Gibraltar"
+        "city": "Gibraltar",
+        "names": [
+            {
+                "name": "Manchester United (Gibraltar) FC",
+                "from_year": 1962,
+                "to_year": 2000,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Manchester United Eurobet FC",
+                "from_year": 2000,
+                "to_year": 2002,
+                "note": "Sponsor name (Eurobet)"
+            },
+            {
+                "name": "Manchester United (Gibraltar) FC",
+                "from_year": 2002,
+                "to_year": 2008,
+                "note": "Name restored"
+            },
+            {
+                "name": "Manchester United Digibet FC",
+                "from_year": 2009,
+                "to_year": 2013,
+                "note": "Sponsor name (Digibet)"
+            },
+            {
+                "name": "Manchester 62 FC",
+                "from_year": 2013,
+                "to_year": null,
+                "note": "Renamed Manchester 62"
+            }
+        ]
     },
     {
         "name": "St Theresa's FC",
