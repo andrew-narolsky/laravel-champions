@@ -8,7 +8,33 @@
         "founded_at": "1899-05-03",
         "destroyed_at": "",
         "stadium": "Ferencváros Stadion, Cap. 23,700",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Ferencvárosi Torna Club",
+                "from_year": 1899,
+                "to_year": 1950,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "ÉDOSZ SE",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Merger with the sports association of the food industry workers' union (16 February 1950)"
+            },
+            {
+                "name": "Budapesti Kinizsi",
+                "from_year": 1951,
+                "to_year": 1956,
+                "note": "Renamed Kinizsi by the authorities; colours changed to red and white"
+            },
+            {
+                "name": "Ferencvárosi TC",
+                "from_year": 1956,
+                "to_year": null,
+                "note": "Original name restored"
+            }
+        ]
     },
     {
         "name": "MTK Budapest FC",
@@ -19,7 +45,81 @@
         "founded_at": "1888-11-16",
         "destroyed_at": "",
         "stadium": "Hidegkuti Nándor Stadion, Cap. 5,322",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Magyar Testgyakorlók Köre",
+                "from_year": 1888,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Hungária Magyar Testgyakorlók Köre Futball Club",
+                "from_year": 1926,
+                "to_year": 1945,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre",
+                "from_year": 1945,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Textiles Sport Egyesület",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Bástya Sport Egyesület",
+                "from_year": 1951,
+                "to_year": 1953,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Vörös Lobogó Sport Egyesület",
+                "from_year": 1953,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre",
+                "from_year": 1956,
+                "to_year": 1975,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre-Vörös Meteor Sport Kör",
+                "from_year": 1975,
+                "to_year": 1990,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre",
+                "from_year": 1990,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre Futball Club",
+                "from_year": 1995,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Testgyakorlók Köre Hungária Futball Club",
+                "from_year": 1998,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "MTK Budapest FC",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Újpest FC",
@@ -30,7 +130,63 @@
         "founded_at": "1885-06-16",
         "destroyed_at": "",
         "stadium": "Szusza Ferenc stadion, Cap. 12,670",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Újpesti Torna Egylet",
+                "from_year": 1885,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Újpest Football Club",
+                "from_year": 1926,
+                "to_year": 1944,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpesti Torna Egylet",
+                "from_year": 1944,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Dózsa Sport Egyesület",
+                "from_year": 1949,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpesti Dózsa Sport Club",
+                "from_year": 1956,
+                "to_year": 1991,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpesti Torna Egylet",
+                "from_year": 1991,
+                "to_year": 1994,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpesti Torna Egylet – Novabau",
+                "from_year": 1994,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpesti Torna Egylet",
+                "from_year": 1995,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Újpest FC",
+                "from_year": 1998,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Budapest Honvéd FC",
@@ -41,7 +197,45 @@
         "founded_at": "1909-08-03",
         "destroyed_at": "",
         "stadium": "Bozsik Aréna, Cap. 8,200",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Kispest AC",
+                "from_year": 1909,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Kispest FC",
+                "from_year": 1926,
+                "to_year": 1944,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kispest AC",
+                "from_year": 1944,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Honvéd SE",
+                "from_year": 1949,
+                "to_year": 1991,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kispest Honvéd FC",
+                "from_year": 1991,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapest Honvéd FC",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Debreceni VSC",
@@ -52,7 +246,45 @@
         "founded_at": "1902-03-12",
         "destroyed_at": "",
         "stadium": "Nagyerdei Stadion, Cap. 20,340",
-        "city": "Debrecen"
+        "city": "Debrecen",
+        "names": [
+            {
+                "name": "Debreceni Vasutas Sport Egyesület",
+                "from_year": 1948,
+                "to_year": 1949,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Debreceni Lokomotív",
+                "from_year": 1949,
+                "to_year": 1955,
+                "note": "Renamed"
+            },
+            {
+                "name": "Debreceni Törekvés",
+                "from_year": 1955,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Debreceni Vasutas SC",
+                "from_year": 1957,
+                "to_year": 1979,
+                "note": "Renamed"
+            },
+            {
+                "name": "DMVSC",
+                "from_year": 1979,
+                "to_year": 1989,
+                "note": "Renamed"
+            },
+            {
+                "name": "Debreceni VSC",
+                "from_year": 1989,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Vasas SC",
@@ -63,7 +295,99 @@
         "founded_at": "1911-03-16",
         "destroyed_at": "",
         "stadium": "Illovszky Rudolf Stadion, Cap. 5,054",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Vas- és Fémmunkások Sport Clubja",
+                "from_year": 1911,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Vasas SC",
+                "from_year": 1926,
+                "to_year": 1943,
+                "note": "Renamed"
+            },
+            {
+                "name": "Nemzeti Nehézipari Munkások Kinizsi SC",
+                "from_year": 1943,
+                "to_year": 1944,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas SC",
+                "from_year": 1944,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Vasas SC",
+                "from_year": 1949,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas SC",
+                "from_year": 1957,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas SC-Smirnoff",
+                "from_year": 1992,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas Ilzer",
+                "from_year": 1993,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas Casino Vígadó",
+                "from_year": 1995,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas Danubius Hotels",
+                "from_year": 1997,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas SC",
+                "from_year": 2001,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Vasas SC",
+                "from_year": 2003,
+                "to_year": 2009,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas SC",
+                "from_year": 2009,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas–HÍD",
+                "from_year": 2011,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vasas FC",
+                "from_year": 2012,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Győri ETO FC",
@@ -74,7 +398,81 @@
         "founded_at": "1904-00-00",
         "destroyed_at": "",
         "stadium": "ETO Park, Cap. 15,600",
-        "city": "Győr"
+        "city": "Győr",
+        "names": [
+            {
+                "name": "Győri Vagongyár ETO",
+                "from_year": 1904,
+                "to_year": 1950,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Győri Vasas",
+                "from_year": 1950,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Vagon- és Gépgyár ETO",
+                "from_year": 1957,
+                "to_year": 1958,
+                "note": "Renamed"
+            },
+            {
+                "name": "Győri Vasas ETO",
+                "from_year": 1958,
+                "to_year": 1968,
+                "note": "Renamed"
+            },
+            {
+                "name": "Rába Vasas ETO",
+                "from_year": 1968,
+                "to_year": 1990,
+                "note": "Renamed"
+            },
+            {
+                "name": "Győri Rába ETO",
+                "from_year": 1990,
+                "to_year": 1994,
+                "note": "Renamed"
+            },
+            {
+                "name": "ETO FC Győr",
+                "from_year": 1994,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Győri ETO FC",
+                "from_year": 1995,
+                "to_year": 2015,
+                "note": "Renamed"
+            },
+            {
+                "name": "ETO FC Győr",
+                "from_year": 2015,
+                "to_year": 2017,
+                "note": "Renamed"
+            },
+            {
+                "name": "WKW ETO FC Győr",
+                "from_year": 2017,
+                "to_year": 2022,
+                "note": "Renamed"
+            },
+            {
+                "name": "ETO FC Győr",
+                "from_year": 2022,
+                "to_year": 2025,
+                "note": "Renamed"
+            },
+            {
+                "name": "ETO FC",
+                "from_year": 2025,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Csepel SC",
@@ -85,7 +483,51 @@
         "founded_at": "1912-00-00",
         "destroyed_at": "",
         "stadium": "Béke téri Stadion, Cap. 10,000",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Csepeli Torna Klub",
+                "from_year": 1912,
+                "to_year": 1944,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Csepel SC",
+                "from_year": 1944,
+                "to_year": 1947,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csepeli Munkás TE",
+                "from_year": 1947,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csepeli Vasas",
+                "from_year": 1950,
+                "to_year": 1958,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csepel SC",
+                "from_year": 1958,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csepel SC-Kordax",
+                "from_year": 1993,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csepel SC",
+                "from_year": 1996,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Videoton FC Fehérvár",
@@ -96,7 +538,123 @@
         "founded_at": "1941-00-00",
         "destroyed_at": "",
         "stadium": "Sóstói Stadion, Cap. 14,201",
-        "city": "Székesfehérvár"
+        "city": "Székesfehérvár",
+        "names": [
+            {
+                "name": "Vadásztölténygyári SK",
+                "from_year": 1941,
+                "to_year": 1942,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Székesfehérvári MOVE Vadásztölténygyár SKE",
+                "from_year": 1942,
+                "to_year": 1947,
+                "note": "Renamed"
+            },
+            {
+                "name": "Székesfehérvári Vadásztölténygyári SE",
+                "from_year": 1947,
+                "to_year": 1948,
+                "note": "Renamed"
+            },
+            {
+                "name": "Fehérvári Dolgozók SE",
+                "from_year": 1948,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Székesfehérvári Vadásztölténygyári Vasas SK",
+                "from_year": 1950,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Székesfehérvári Vasas SC",
+                "from_year": 1957,
+                "to_year": 1962,
+                "note": "Renamed"
+            },
+            {
+                "name": "Székesfehérvári VT Vasas",
+                "from_year": 1962,
+                "to_year": 1968,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton SC",
+                "from_year": 1968,
+                "to_year": 1990,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton-Waltham SC",
+                "from_year": 1990,
+                "to_year": 1991,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton-Waltham FC",
+                "from_year": 1991,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Parmalat FC",
+                "from_year": 1993,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Fehérvár-Parmalat FC",
+                "from_year": 1995,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton FC Fehérvár",
+                "from_year": 1996,
+                "to_year": 2004,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Fehérvár",
+                "from_year": 2004,
+                "to_year": 2009,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton FC",
+                "from_year": 2009,
+                "to_year": 2018,
+                "note": "Renamed"
+            },
+            {
+                "name": "MOL Vidi FC",
+                "from_year": 2018,
+                "to_year": 2019,
+                "note": "Renamed"
+            },
+            {
+                "name": "MOL Fehérvár FC",
+                "from_year": 2019,
+                "to_year": 2023,
+                "note": "Renamed"
+            },
+            {
+                "name": "Fehérvár FC",
+                "from_year": 2023,
+                "to_year": 2025,
+                "note": "Renamed"
+            },
+            {
+                "name": "Videoton FC Fehérvár",
+                "from_year": 2025,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Budapesti TC",
@@ -123,7 +681,10 @@
     {
         "name": "CA Oradea",
         "description": "Romania · Founded: 1910",
-        "country_id": [43, 23],
+        "country_id": [
+            43,
+            23
+        ],
         "primary_country_id": 43,
         "nickname": "Alb-verzii",
         "content": "<p>Club Atletic Oradea, commonly known as CA Oradea, is a football club based in Oradea, Romania, originally founded in 1910 when the city was part of Austria-Hungary. The team became one of the early important clubs in the region and competed in both Hungarian and Romanian football systems during its history. It is notable for its green and white colors and its long-standing connection to the local community.</p><p>The club achieved a rare distinction in European football by winning national league titles in two different countries. It won the Hungarian championship in 1944 and later the Romanian championship in 1949, as well as the Romanian Cup in 1956. These successes made CA Oradea one of the few clubs to claim top-division titles across national borders, highlighting its historical importance in Central European football.</p><p>After World War II, political changes under the communist regime led to frequent name and identity changes, which weakened the club’s stability. Eventually, CA Oradea was dissolved in 1963, ending its original era. Decades later, the club was re-established in 2017 and began rebuilding from the lower divisions, aiming to restore its historical legacy within Romanian football.</p>",
@@ -163,7 +724,27 @@
         "founded_at": "1875-00-00",
         "destroyed_at": "",
         "stadium": "Margitszigeti Atlétikai Centrum, Cap. 1,637",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Magyar Athletikai Club",
+                "from_year": 1875,
+                "to_year": 1993,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "MAC Népstadion SE",
+                "from_year": 1993,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "Magyar Athletikai Club",
+                "from_year": 2011,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Tatabányai SC",
@@ -174,7 +755,105 @@
         "founded_at": "1910-00-00",
         "destroyed_at": "",
         "stadium": "Stadion Gyula Grosics, Cap. 5,021",
-        "city": "Tatabánya"
+        "city": "Tatabánya",
+        "names": [
+            {
+                "name": "Tatabányai Sport Club",
+                "from_year": 1910,
+                "to_year": 1949,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Tatabányai Tárna",
+                "from_year": 1949,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai Bányász SK",
+                "from_year": 1951,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai Sport Club",
+                "from_year": 1956,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai Bányász SC",
+                "from_year": 1957,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai Sport Club",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai FC",
+                "from_year": 1995,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Lombard FC Tatabánya",
+                "from_year": 1996,
+                "to_year": 2002,
+                "note": "Renamed"
+            },
+            {
+                "name": "Auto Trader-FC Tatabánya",
+                "from_year": 2002,
+                "to_year": 2005,
+                "note": "Renamed"
+            },
+            {
+                "name": "Csőszer FC Tatabánya-Auto Trader",
+                "from_year": 2005,
+                "to_year": 2006,
+                "note": "Renamed"
+            },
+            {
+                "name": "Football Club Tatabánya",
+                "from_year": 2006,
+                "to_year": 2010,
+                "note": "Renamed"
+            },
+            {
+                "name": "Enternet-Football Club Tatabánya",
+                "from_year": 2010,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "Duna Football Club Tatabánya",
+                "from_year": 2011,
+                "to_year": 2013,
+                "note": "Renamed"
+            },
+            {
+                "name": "Football Club Tatabánya",
+                "from_year": 2013,
+                "to_year": 2018,
+                "note": "Renamed"
+            },
+            {
+                "name": "Tatabányai Sport Club",
+                "from_year": 2018,
+                "to_year": 2023,
+                "note": "Renamed"
+            },
+            {
+                "name": "OPUS TIGÁZ Tatabánya",
+                "from_year": 2023,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Paksi FC",
@@ -185,7 +864,45 @@
         "founded_at": "1952-11-28",
         "destroyed_at": "",
         "stadium": "Fehérvári úti Stadion, Cap. 6,150",
-        "city": "Paks"
+        "city": "Paks",
+        "names": [
+            {
+                "name": "Paksi Kinizsi Sportkör",
+                "from_year": 1952,
+                "to_year": 1975,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Paksi SE",
+                "from_year": 1975,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Paksi Atomerőmű SE",
+                "from_year": 1993,
+                "to_year": 2006,
+                "note": "Renamed"
+            },
+            {
+                "name": "Paksi FC",
+                "from_year": 2006,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "MVM Paks",
+                "from_year": 2011,
+                "to_year": 2014,
+                "note": "Renamed"
+            },
+            {
+                "name": "Paksi FC",
+                "from_year": 2014,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Puskás Akadémia FC",
@@ -218,7 +935,63 @@
         "founded_at": "1899-00-00",
         "destroyed_at": "",
         "stadium": "Róna utcai Sportpálya, Cap. 5,500",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Budapesti Posta és Távirda Tisztviselők Sport Egyesülete",
+                "from_year": 1899,
+                "to_year": 1901,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Postások Sport Egyesülete",
+                "from_year": 1901,
+                "to_year": 1917,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postás Sport Egyesület",
+                "from_year": 1917,
+                "to_year": 1918,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postások Sport Clubja",
+                "from_year": 1918,
+                "to_year": 1919,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postás Sport Egyesület",
+                "from_year": 1919,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Postás SK",
+                "from_year": 1950,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postás SE",
+                "from_year": 1956,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postás MATÁV SE",
+                "from_year": 1996,
+                "to_year": 2004,
+                "note": "Renamed"
+            },
+            {
+                "name": "Postás SE",
+                "from_year": 2004,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Törekvés SE",
@@ -229,7 +1002,51 @@
         "founded_at": "1900-00-00",
         "destroyed_at": "2001-00-00",
         "stadium": "",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Törekvés SC",
+                "from_year": 1900,
+                "to_year": 1951,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Kőbányai Lokomotív",
+                "from_year": 1951,
+                "to_year": 1955,
+                "note": "Renamed"
+            },
+            {
+                "name": "Kőbányai Törekvés",
+                "from_year": 1955,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Haladás",
+                "from_year": 1957,
+                "to_year": 1958,
+                "note": "Renamed"
+            },
+            {
+                "name": "Törekvés SE",
+                "from_year": 1958,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Törekvés Szent István SE",
+                "from_year": 1995,
+                "to_year": 2000,
+                "note": "Renamed"
+            },
+            {
+                "name": "Törekvés KISE",
+                "from_year": 2000,
+                "to_year": 2001,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Pécsi MFC",
@@ -240,7 +1057,27 @@
         "founded_at": "1950-00-00",
         "destroyed_at": "",
         "stadium": "Stadion PMFC, Cap. 7,000",
-        "city": "Pécs"
+        "city": "Pécs",
+        "names": [
+            {
+                "name": "Pécsi Dózsa Sport Club",
+                "from_year": 1950,
+                "to_year": 1973,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Pécsi Munkás Sport Club",
+                "from_year": 1973,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Pécsi Mecsek Futball Club",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Budapesti VSC",
@@ -251,7 +1088,87 @@
         "founded_at": "1911-00-00",
         "destroyed_at": "",
         "stadium": "Szőnyi úti Stadion, Cap. 12,000",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "MAVOSZ Budapesti VSC",
+                "from_year": 1911,
+                "to_year": 1945,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Vasutas Előre SC",
+                "from_year": 1945,
+                "to_year": 1948,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Lokomotív SK",
+                "from_year": 1948,
+                "to_year": 1954,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Törekvés SE",
+                "from_year": 1954,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti VSC",
+                "from_year": 1956,
+                "to_year": 1990,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Mávtransped",
+                "from_year": 1990,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Dreher",
+                "from_year": 1992,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti VSC",
+                "from_year": 1996,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Zugló FC",
+                "from_year": 1997,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Zugló",
+                "from_year": 1998,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti VSC",
+                "from_year": 1999,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Zugló FC",
+                "from_year": 2001,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVSC-Zugló",
+                "from_year": 2011,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Kisvárda FC",
@@ -273,7 +1190,21 @@
         "founded_at": "1911-06-11",
         "destroyed_at": "",
         "stadium": "Széktói Stadion, Cap. 6,300",
-        "city": "Kecskemét"
+        "city": "Kecskemét",
+        "names": [
+            {
+                "name": "Kecskeméti Kinizsi",
+                "from_year": 1954,
+                "to_year": 1956,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Kecskeméti TE",
+                "from_year": 1956,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Szombathelyi Haladás",
@@ -284,7 +1215,111 @@
         "founded_at": "1919-00-00",
         "destroyed_at": "",
         "stadium": "Haladás Sportkomplexum, Cap. 8,903",
-        "city": "Szombathely"
+        "city": "Szombathely",
+        "names": [
+            {
+                "name": "Szombathelyi Haladás Vasutas Sport Egyesület",
+                "from_year": 1919,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Szombathelyi MÁV",
+                "from_year": 1926,
+                "to_year": 1936,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Haladás VSE",
+                "from_year": 1936,
+                "to_year": 1948,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi VSE",
+                "from_year": 1948,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Lokomotív Sportegyesület",
+                "from_year": 1951,
+                "to_year": 1954,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Törekvés",
+                "from_year": 1954,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Haladás VSE",
+                "from_year": 1956,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Haladás VFC",
+                "from_year": 1995,
+                "to_year": 1997,
+                "note": "Renamed"
+            },
+            {
+                "name": "Haladás-Milos",
+                "from_year": 1997,
+                "to_year": 2000,
+                "note": "Renamed"
+            },
+            {
+                "name": "Haladás",
+                "from_year": 2000,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "S.Oliver-Haladás",
+                "from_year": 2001,
+                "to_year": 2002,
+                "note": "Renamed"
+            },
+            {
+                "name": "Lombard FC Haladás",
+                "from_year": 2002,
+                "to_year": 2004,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Haladás",
+                "from_year": 2004,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "Haladás-Sopron Bank",
+                "from_year": 2011,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Haladás",
+                "from_year": 2012,
+                "to_year": 2015,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi-Swietelsky Haladás",
+                "from_year": 2015,
+                "to_year": 2017,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szombathelyi Haladás",
+                "from_year": 2018,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Békéscsaba 1912 Előre",
@@ -295,7 +1330,39 @@
         "founded_at": "1912-10-22",
         "destroyed_at": "",
         "stadium": "Kórház utcai Stadion, Cap. 4,963",
-        "city": "Békéscsaba"
+        "city": "Békéscsaba",
+        "names": [
+            {
+                "name": "Békéscsabai Előre Munkás Testedző Egyesület",
+                "from_year": 1912,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Békéscsabai Előre SC",
+                "from_year": 1948,
+                "to_year": 1970,
+                "note": "Renamed"
+            },
+            {
+                "name": "Békéscsabai Előre Spartacus SC",
+                "from_year": 1970,
+                "to_year": 1991,
+                "note": "Renamed"
+            },
+            {
+                "name": "Békéscsabai Előre FC",
+                "from_year": 1991,
+                "to_year": 2005,
+                "note": "Renamed"
+            },
+            {
+                "name": "Békéscsaba 1912 Előre SE",
+                "from_year": 2005,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Diósgyőri VTK",
@@ -317,12 +1384,77 @@
         "founded_at": "1920-00-00",
         "destroyed_at": "",
         "stadium": "Szojka Ferenc Stadion, Cap. 7,000",
-        "city": "Salgótarján"
+        "city": "Salgótarján",
+        "names": [
+            {
+                "name": "Salgótarjáni Torna Club",
+                "from_year": 1920,
+                "to_year": 1922,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Salgótarjáni Bányatelepi Torna Club",
+                "from_year": 1922,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Tárna Sport Egyesület",
+                "from_year": 1949,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Bányász Torna Club",
+                "from_year": 1951,
+                "to_year": 1977,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Torna Club",
+                "from_year": 1977,
+                "to_year": 1984,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Bányász Torna Club",
+                "from_year": 1984,
+                "to_year": 1988,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Barátság Torna Club",
+                "from_year": 1988,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Barátság Torna Club – Salgglas Sport Egyesület",
+                "from_year": 1992,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Barátság Torna Club",
+                "from_year": 1993,
+                "to_year": 2001,
+                "note": "Renamed"
+            },
+            {
+                "name": "Salgótarjáni Barátok Torna Club",
+                "from_year": 2001,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Ferar Cluj",
         "description": "Romania · Founded: 1880",
-        "country_id": [43, 23],
+        "country_id": [
+            43,
+            23
+        ],
         "primary_country_id": 43,
         "nickname": "",
         "content": "<p>Ferar Cluj was a football club from Cluj-Napoca, founded in 1907–1918 depending on the source, originally as Kolozsvári Atlétikai Club. It became one of the early football teams in Transylvania and competed in both the Hungarian and Romanian football systems due to the region’s changing political status. The club represented an important part of early Central European football development.</p><p>During the interwar and World War II periods, Ferar Cluj played in Romanian regional leagues and later in the Hungarian championship when Transylvania temporarily returned to Hungarian administration. Its strongest era came in the early 1940s, when the club finished third in the Hungarian top division in 1943–44 and reached the Hungarian Cup final in the same period.</p><p>After World War II, the club competed briefly in the Romanian top division but was unable to maintain stability. In 1948, Ferar Cluj merged with CFR Cluj and ceased to exist as an independent club. Despite its dissolution, it is remembered for its rare achievement of competing successfully in both Hungarian and Romanian top-flight football and for its notable results during the wartime period.</p>",
@@ -340,7 +1472,51 @@
         "founded_at": "1910-05-11",
         "destroyed_at": "",
         "stadium": "Tiszaligeti Stadion, Cap. 4,000",
-        "city": "Szolnok"
+        "city": "Szolnok",
+        "names": [
+            {
+                "name": "Szolnoki MÁV SE",
+                "from_year": 1912,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Szolnoki Vasutas SE",
+                "from_year": 1948,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szolnoki Lokomotív SE",
+                "from_year": 1949,
+                "to_year": 1953,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szolnoki Törekvés SE",
+                "from_year": 1953,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szolnoki MÁV SE",
+                "from_year": 1956,
+                "to_year": 1979,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szolnoki MÁV-MTE",
+                "from_year": 1979,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szolnoki MÁV FC",
+                "from_year": 1996,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Szegedi AK",
@@ -351,7 +1527,51 @@
         "founded_at": "1899-00-00",
         "destroyed_at": "1976-00-00",
         "stadium": "SZAK Stadion, Cap. 8,000",
-        "city": "Szeged"
+        "city": "Szeged",
+        "names": [
+            {
+                "name": "Szegedi Atlétikai Klub",
+                "from_year": 1899,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Bástya FC",
+                "from_year": 1926,
+                "to_year": 1931,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szeged FC",
+                "from_year": 1931,
+                "to_year": 1944,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szegedi Atlétikai Klub",
+                "from_year": 1945,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szegedi MTE",
+                "from_year": 1949,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szegedi Petőfi",
+                "from_year": 1950,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Szegedi Atlétikai Klub",
+                "from_year": 1957,
+                "to_year": 1976,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Bocskai FC",
@@ -373,7 +1593,39 @@
         "founded_at": "1900-00-00",
         "destroyed_at": "",
         "stadium": "Angyalföldi Sportközpont, Cap. 1,500",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Budapesti Athletikai Klub",
+                "from_year": 1900,
+                "to_year": 1910,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Budapest-Csepeli Athletikai Klub",
+                "from_year": 1910,
+                "to_year": 1911,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Atlétikai Klub",
+                "from_year": 1911,
+                "to_year": 1926,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Atlétikai Klub FC",
+                "from_year": 1926,
+                "to_year": 1928,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Atlétikai Klub Testgyakorlók Köre",
+                "from_year": 1928,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Nemzeti SC",
@@ -384,7 +1636,33 @@
         "founded_at": "1906-00-00",
         "destroyed_at": "1957-00-00",
         "stadium": "Millenáris Sporttelep, Cap. 8,130",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Nemzeti Sport Club",
+                "from_year": 1906,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Nemzeti Sportkedvelők Clubja",
+                "from_year": 1926,
+                "to_year": 1931,
+                "note": "Renamed"
+            },
+            {
+                "name": "VII. ker. Nemzeti Sportkedvelők Köre",
+                "from_year": 1931,
+                "to_year": 1940,
+                "note": "Renamed"
+            },
+            {
+                "name": "Nemzeti Sport Club",
+                "from_year": 1940,
+                "to_year": 1957,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "33 FC",
@@ -395,7 +1673,39 @@
         "founded_at": "1900-00-00",
         "destroyed_at": "1958-00-00",
         "stadium": "Promontor utca műfüves pálya, Cap. 1,750",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "33 FC",
+                "from_year": 1900,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Budai 33",
+                "from_year": 1926,
+                "to_year": 1929,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budai 11",
+                "from_year": 1929,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Ganzvillany",
+                "from_year": 1949,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dohánygyár",
+                "from_year": 1957,
+                "to_year": 1958,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Sopron",
@@ -417,7 +1727,63 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "",
         "stadium": "Révész Géza utcai Stadion, Cap. 6,500",
-        "city": "Siófok"
+        "city": "Siófok",
+        "names": [
+            {
+                "name": "Siófok SE",
+                "from_year": 1921,
+                "to_year": 1956,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Siófok Bányász SK",
+                "from_year": 1956,
+                "to_year": 1998,
+                "note": "Renamed"
+            },
+            {
+                "name": "Siófoki FC",
+                "from_year": 1998,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "Balaton TV-Siófok FC",
+                "from_year": 1999,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "Siófoki FC",
+                "from_year": 1999,
+                "to_year": 2003,
+                "note": "Renamed"
+            },
+            {
+                "name": "Balaton FC",
+                "from_year": 2003,
+                "to_year": 2004,
+                "note": "Renamed"
+            },
+            {
+                "name": "Siófoki Bányász SE",
+                "from_year": 2004,
+                "to_year": 2005,
+                "note": "Renamed"
+            },
+            {
+                "name": "Bodajk FC Siófok",
+                "from_year": 2005,
+                "to_year": 2006,
+                "note": "Renamed"
+            },
+            {
+                "name": "BFC Siófok",
+                "from_year": 2006,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Soroksár SC",
@@ -450,7 +1816,45 @@
         "founded_at": "1922-00-00",
         "destroyed_at": "",
         "stadium": "Bányász Stadion, Cap. 10,000",
-        "city": "Komló"
+        "city": "Komló",
+        "names": [
+            {
+                "name": "Komló SC",
+                "from_year": 1922,
+                "to_year": 1931,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Komlói SE",
+                "from_year": 1931,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Komlói Tárna Sport Egyesület",
+                "from_year": 1949,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Komlói Szakszervezeti Sport Egyesület",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Komlói Bányász SK",
+                "from_year": 1951,
+                "to_year": 2016,
+                "note": "Renamed"
+            },
+            {
+                "name": "Sport 36-Komlói Bányász Sport Klub",
+                "from_year": 2016,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "Miskolci AK",
@@ -461,7 +1865,33 @@
         "founded_at": "1926-00-00",
         "destroyed_at": "1940-00-00",
         "stadium": "Borsod Volán Stadion, Cap. 4,800",
-        "city": "Miskolc"
+        "city": "Miskolc",
+        "names": [
+            {
+                "name": "Miskolci Atléta Kör",
+                "from_year": 1926,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Miskolci Attila Kör",
+                "from_year": 1926,
+                "to_year": 1936,
+                "note": "Renamed"
+            },
+            {
+                "name": "Miskolci Attila FC",
+                "from_year": 1936,
+                "to_year": 1939,
+                "note": "Renamed"
+            },
+            {
+                "name": "Miskolci LESOK",
+                "from_year": 1939,
+                "to_year": 1940,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Budapesti EAC",
@@ -472,7 +1902,45 @@
         "founded_at": "1898-00-00",
         "destroyed_at": "",
         "stadium": "Siketek pálya, Cap. 1,000",
-        "city": "Budapest"
+        "city": "Budapest",
+        "names": [
+            {
+                "name": "Budapesti Egyetemi Athletikai Club",
+                "from_year": 1898,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Természettudományi MEFESz",
+                "from_year": 1948,
+                "to_year": 1949,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti MEFESz",
+                "from_year": 1949,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Disz FSE",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Haladás SK",
+                "from_year": 1951,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Egyetemi AC",
+                "from_year": 1957,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     },
     {
         "name": "BKV Előre SC",
@@ -516,6 +1984,80 @@
         "founded_at": "1912-00-00",
         "destroyed_at": "",
         "stadium": "Promontor utcai Stadion, Cap. 1,200",
-        "city": "Budafok"
+        "city": "Budafok",
+        "names": [
+            {
+                "name": "Világosság Football Csapat",
+                "from_year": 1912,
+                "to_year": 1913,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Budafoki Atlétikai és Football Club",
+                "from_year": 1913,
+                "to_year": 1919,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki Munkás Testedző Egyesület",
+                "from_year": 1919,
+                "to_year": 1922,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki Műkedvelő Testedző Egyesület",
+                "from_year": 1922,
+                "to_year": 1950,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Gyárépítők MTE",
+                "from_year": 1950,
+                "to_year": 1951,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budapesti Gyárépítők SK",
+                "from_year": 1951,
+                "to_year": 1956,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki Építők Munkás Testedző Egyesület",
+                "from_year": 1956,
+                "to_year": 1957,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki MTE Kinizsi Sportegyesület",
+                "from_year": 1957,
+                "to_year": 1985,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki MTE-Törley",
+                "from_year": 1985,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki LC",
+                "from_year": 1993,
+                "to_year": 2007,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki Labdarúgó Club",
+                "from_year": 2007,
+                "to_year": 2017,
+                "note": "Renamed"
+            },
+            {
+                "name": "Budafoki MTE",
+                "from_year": 2017,
+                "to_year": null,
+                "note": "Current name"
+            }
+        ]
     }
 ]
