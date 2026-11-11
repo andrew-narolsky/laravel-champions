@@ -2,7 +2,10 @@
     {
         "name": "FC Dinamo Tbilisi",
         "description": "Georgia · Founded: 1925",
-        "country_id": [19, 58],
+        "country_id": [
+            19,
+            58
+        ],
         "primary_country_id": 19,
         "nickname": "Blue-White",
         "content": "<p>FC Dinamo Tbilisi is a professional football club based in Tbilisi, Georgia, founded in 1925. It competes in the top division of Georgian football, the Erovnuli Liga, and plays its home matches at the Boris Paichadze Dinamo Arena. The club has long been one of the most prominent and successful teams in the country, with a strong historical identity linked to the Dynamo sports society during the Soviet era.</p><p>During the Soviet period, Dinamo Tbilisi was among the leading clubs in the Soviet Top League and was notable for never being relegated. Its greatest achievement came in 1981, when the team won the European Cup Winners’ Cup by defeating Carl Zeiss Jena in the final, becoming the only Georgian club to win a major European trophy. The club also won the Soviet league title in 1978 and multiple domestic cups, with legendary coach Nodar Akhalkatsi playing a key role in its success.</p><p>After the dissolution of the Soviet Union, Dinamo Tbilisi continued its dominance domestically, becoming the most successful club in independent Georgia with numerous league titles and cup victories. The club has also developed many notable players who later achieved international recognition. Despite fluctuating results in European competitions in recent years, Dinamo Tbilisi remains a central institution in Georgian football and a symbol of the country’s sporting history.</p>",
@@ -20,7 +23,27 @@
         "founded_at": "1946-05-03",
         "destroyed_at": "",
         "stadium": "Ramaz Shengelia Stadium, Cap. 11,700",
-        "city": "Kutaisi"
+        "city": "Kutaisi",
+        "names": [
+            {
+                "name": "FC Torpedo Kutaisi",
+                "from_year": 1946,
+                "to_year": 1990,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Kutaisi",
+                "from_year": 1990,
+                "to_year": 1993,
+                "note": "Renamed when the Georgian championship started; the old name restored after three years"
+            },
+            {
+                "name": "FC Torpedo Kutaisi",
+                "from_year": 1993,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC Iberia 1999",
@@ -31,7 +54,21 @@
         "founded_at": "1999-08-20",
         "destroyed_at": "",
         "stadium": "David Petriashvili Stadium, Cap. 2,130",
-        "city": "Tbilisi"
+        "city": "Tbilisi",
+        "names": [
+            {
+                "name": "FC Saburtalo",
+                "from_year": 1999,
+                "to_year": 2024,
+                "note": "Club founded under this name (named after a Tbilisi district)"
+            },
+            {
+                "name": "FC Iberia 1999",
+                "from_year": 2024,
+                "to_year": null,
+                "note": "Renamed on 27 February 2024"
+            }
+        ]
     },
     {
         "name": "FC Dinamo Batumi",
@@ -42,7 +79,27 @@
         "founded_at": "1923-10-30",
         "destroyed_at": "",
         "stadium": "Adjarabet Arena, Cap. 20,000",
-        "city": "Batumi"
+        "city": "Batumi",
+        "names": [
+            {
+                "name": "FC Dinamo Batumi",
+                "from_year": 1923,
+                "to_year": 1990,
+                "note": "Merger of Mezgvauri and Tsiteli Raindi"
+            },
+            {
+                "name": "FC Batumi",
+                "from_year": 1990,
+                "to_year": 1994,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Dinamo Batumi",
+                "from_year": 1994,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "FC WIT Georgia",
@@ -196,7 +253,21 @@
         "founded_at": "1906-00-00",
         "destroyed_at": "2022-00-00",
         "stadium": "Shevardeni Ground, Cap. 2,000",
-        "city": "Tbilisi"
+        "city": "Tbilisi",
+        "names": [
+            {
+                "name": "Shevardeni",
+                "from_year": 1906,
+                "to_year": 1990,
+                "note": "Sports society Sokol, later Shevardeni"
+            },
+            {
+                "name": "FC Shevardeni-1906 Tbilisi",
+                "from_year": 1990,
+                "to_year": null,
+                "note": "Renamed after the restoration of Georgia's independence"
+            }
+        ]
     },
     {
         "name": "FC Tskhumi Sokhumi",
@@ -251,7 +322,21 @@
         "founded_at": "1945-00-00",
         "destroyed_at": "",
         "stadium": "26 May Stadium, Cap. 3,500",
-        "city": "Tskaltubo"
+        "city": "Tskaltubo",
+        "names": [
+            {
+                "name": "Shadrevani 83",
+                "from_year": 1983,
+                "to_year": 1990,
+                "note": "Name used in the Georgian Soviet league"
+            },
+            {
+                "name": "FC Samgurali Tskaltubo",
+                "from_year": 1990,
+                "to_year": null,
+                "note": "Name used from the first independent championship"
+            }
+        ]
     },
     {
         "name": "FC Rustavi",
