@@ -8,7 +8,21 @@
         "founded_at": "1897-11-01",
         "destroyed_at": "",
         "stadium": "Juventus Stadium, Cap. 41,507",
-        "city": "Turin"
+        "city": "Turin",
+        "names": [
+            {
+                "name": "Sport-Club Juventus",
+                "from_year": 1897,
+                "to_year": 1899,
+                "note": "Club founded under this name by students of the Massimo d'Azeglio Lyceum"
+            },
+            {
+                "name": "Juventus FC",
+                "from_year": 1899,
+                "to_year": null,
+                "note": "Renamed Foot-Ball Club Juventus in 1899 (Juventus Cisitalia for sponsorship reasons after World War II)"
+            }
+        ]
     },
     {
         "name": "Inter Milan",
@@ -19,7 +33,39 @@
         "founded_at": "1908-03-09",
         "destroyed_at": "",
         "stadium": "San Siro Stadium, Cap. 80,018",
-        "city": "Milan"
+        "city": "Milan",
+        "names": [
+            {
+                "name": "Football Club Internazionale",
+                "from_year": 1908,
+                "to_year": 1928,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Società Sportiva Ambrosiana",
+                "from_year": 1928,
+                "to_year": 1929,
+                "note": "Merger with Unione Sportiva Milanese during the Fascist era"
+            },
+            {
+                "name": "Associazione Sportiva Ambrosiana",
+                "from_year": 1929,
+                "to_year": 1931,
+                "note": "New chairman Oreste Simonotti changed the name"
+            },
+            {
+                "name": "Associazione Sportiva Ambrosiana-Inter",
+                "from_year": 1931,
+                "to_year": 1945,
+                "note": "Shareholder pressure to bring back Inter"
+            },
+            {
+                "name": "Inter Milan",
+                "from_year": 1945,
+                "to_year": null,
+                "note": "Original name Internazionale restored after World War II"
+            }
+        ]
     },
     {
         "name": "AC Milan",
@@ -85,7 +131,21 @@
         "founded_at": "1926-08-25",
         "destroyed_at": "",
         "stadium": "Stadio Diego Armando Maradona, Cap. 54,732",
-        "city": "Naples"
+        "city": "Naples",
+        "names": [
+            {
+                "name": "Associazione Calcio Napoli",
+                "from_year": 1926,
+                "to_year": 1964,
+                "note": "Formed through the merger of Internazionale Napoli and Naples FBC"
+            },
+            {
+                "name": "SSC Napoli",
+                "from_year": 1964,
+                "to_year": null,
+                "note": "Società Sportiva Calcio Napoli"
+            }
+        ]
     },
     {
         "name": "AS Roma",
@@ -118,7 +178,27 @@
         "founded_at": "1926-08-29",
         "destroyed_at": "",
         "stadium": "Stadio Artemio Franchi, Cap. 43,147",
-        "city": "Florence"
+        "city": "Florence",
+        "names": [
+            {
+                "name": "ACF Fiorentina",
+                "from_year": 1926,
+                "to_year": 2002,
+                "note": "Club founded under this name by a merger of two older clubs"
+            },
+            {
+                "name": "Florentia Viola",
+                "from_year": 2002,
+                "to_year": 2003,
+                "note": "Refounded after the bankruptcy"
+            },
+            {
+                "name": "ACF Fiorentina",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "Casale FBC",
@@ -162,7 +242,27 @@
         "founded_at": "1903-00-00",
         "destroyed_at": "",
         "stadium": "Stadio Marcantonio Bentegodi, Cap. 39,211",
-        "city": "Verona"
+        "city": "Verona",
+        "names": [
+            {
+                "name": "Hellas Verona",
+                "from_year": 1919,
+                "to_year": 1959,
+                "note": "Merger with the city rival Verona"
+            },
+            {
+                "name": "Hellas Verona AC",
+                "from_year": 1959,
+                "to_year": 1995,
+                "note": "Merger with another city rival called Hellas"
+            },
+            {
+                "name": "Hellas Verona FC",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Name officially changed back"
+            }
+        ]
     },
     {
         "name": "UC Sampdoria",
@@ -239,7 +339,21 @@
         "founded_at": "1902-03-09",
         "destroyed_at": "",
         "stadium": "Stadio Romeo Menti, Cap. 12,000",
-        "city": "Vicenza"
+        "city": "Vicenza",
+        "names": [
+            {
+                "name": "LR Vicenza",
+                "from_year": 1953,
+                "to_year": 1989,
+                "note": "Lanerossi sponsorship"
+            },
+            {
+                "name": "Vicenza Calcio",
+                "from_year": 1989,
+                "to_year": null,
+                "note": "Club took over by Pieraldo Dalle Carbonare, dropped Lanerossi from the name"
+            }
+        ]
     },
     {
         "name": "Fortitudo-Pro Roma",
@@ -382,7 +496,33 @@
         "founded_at": "1900-11-01",
         "destroyed_at": "",
         "stadium": "Stadio Renzo Barbera, Cap. 36,365",
-        "city": "Palermo"
+        "city": "Palermo",
+        "names": [
+            {
+                "name": "Palermo Foot-Ball Club",
+                "from_year": 1907,
+                "to_year": 1927,
+                "note": "Renamed"
+            },
+            {
+                "name": "Palermo Football Club",
+                "from_year": 1928,
+                "to_year": 1941,
+                "note": "Reformed after the merger with Vigor Palermo"
+            },
+            {
+                "name": "Società Sportiva Calcio Palermo",
+                "from_year": 1968,
+                "to_year": 2020,
+                "note": "Transformation into a joint-stock company"
+            },
+            {
+                "name": "Palermo FC",
+                "from_year": 2020,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Novara FC",
@@ -404,7 +544,15 @@
         "founded_at": "1907-00-00",
         "destroyed_at": "",
         "stadium": "Stadio Paolo Mazza, Cap. 16,134",
-        "city": "Ferrara"
+        "city": "Ferrara",
+        "names": [
+            {
+                "name": "Associazione Calcio Ferrara",
+                "from_year": 1939,
+                "to_year": 1943,
+                "note": "Temporary change of name"
+            }
+        ]
     },
     {
         "name": "US Catanzaro",
@@ -437,7 +585,21 @@
         "founded_at": "1905-00-00",
         "destroyed_at": "2010-00-00",
         "stadium": "Stadio del Conero, Cap. 23,967",
-        "city": "Ancona"
+        "city": "Ancona",
+        "names": [
+            {
+                "name": "US Anconitana",
+                "from_year": 1905,
+                "to_year": 1982,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Ancona Calcio",
+                "from_year": 1982,
+                "to_year": 2010,
+                "note": "Changed the name to Ancona Calcio"
+            }
+        ]
     },
     {
         "name": "Modena FC",
