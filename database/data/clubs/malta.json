@@ -74,7 +74,33 @@
         "founded_at": "1930-00-00",
         "destroyed_at": "",
         "stadium": "Rabat Ajax Football Ground, Cap. 700",
-        "city": "Rabat"
+        "city": "Rabat",
+        "names": [
+            {
+                "name": "Rabat Rovers",
+                "from_year": 1930,
+                "to_year": 1937,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Rabat Zvanks",
+                "from_year": 1937,
+                "to_year": 1938,
+                "note": "Joined with Rabat Rangers and Old City"
+            },
+            {
+                "name": "Rabat FC",
+                "from_year": 1938,
+                "to_year": 1980,
+                "note": "Renamed"
+            },
+            {
+                "name": "Rabat Ajax FC",
+                "from_year": 1980,
+                "to_year": null,
+                "note": "Joined with Rabat Ajax"
+            }
+        ]
     },
     {
         "name": "St. George's FC",
