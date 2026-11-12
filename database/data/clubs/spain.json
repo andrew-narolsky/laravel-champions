@@ -8,7 +8,21 @@
         "founded_at": "1902-03-06",
         "destroyed_at": "",
         "stadium": "Bernabéu Stadium, Cap. 83,186",
-        "city": "Madrid"
+        "city": "Madrid",
+        "names": [
+            {
+                "name": "Madrid Football Club",
+                "from_year": 1902,
+                "to_year": 1920,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Real Madrid CF",
+                "from_year": 1920,
+                "to_year": null,
+                "note": "Royal title granted by King Alfonso XIII on 29 June 1920"
+            }
+        ]
     },
     {
         "name": "FC Barcelona",
@@ -19,7 +33,27 @@
         "founded_at": "1899-11-29",
         "destroyed_at": "",
         "stadium": "Camp Nou, Cap. 105,000",
-        "city": "Barcelona"
+        "city": "Barcelona",
+        "names": [
+            {
+                "name": "Foot-ball Club Barcelona",
+                "from_year": 1899,
+                "to_year": 1941,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Club de Fútbol Barcelona",
+                "from_year": 1941,
+                "to_year": 1973,
+                "note": "Foreign-sounding names were banned under Franco; Catalan flag removed from the crest"
+            },
+            {
+                "name": "FC Barcelona",
+                "from_year": 1973,
+                "to_year": null,
+                "note": "Catalan name restored on 8 November 1973"
+            }
+        ]
     },
     {
         "name": "Atlético Madrid",
@@ -30,7 +64,27 @@
         "founded_at": "1903-04-26",
         "destroyed_at": "",
         "stadium": "Estadio Riyadh Air Metropolitano, Cap. 70,692",
-        "city": "Madrid"
+        "city": "Madrid",
+        "names": [
+            {
+                "name": "Athletic Club Sucursal de Madrid",
+                "from_year": 1903,
+                "to_year": 1939,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Athletic Aviación de Madrid",
+                "from_year": 1939,
+                "to_year": 1947,
+                "note": "Merger with Club Aviación Nacional"
+            },
+            {
+                "name": "Atlético Madrid",
+                "from_year": 1947,
+                "to_year": null,
+                "note": "Club Atlético de Madrid"
+            }
+        ]
     },
     {
         "name": "Athletic Bilbao",
@@ -41,7 +95,27 @@
         "founded_at": "1898-07-18",
         "destroyed_at": "",
         "stadium": "Estadio San Mamés, Cap. 53,289",
-        "city": "Bilbao"
+        "city": "Bilbao",
+        "names": [
+            {
+                "name": "Athletic Club",
+                "from_year": 1898,
+                "to_year": 1941,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Atlético Bilbao",
+                "from_year": 1941,
+                "to_year": 1972,
+                "note": "Foreign-sounding names were banned under Franco (decree issued by Franco)"
+            },
+            {
+                "name": "Athletic Bilbao",
+                "from_year": 1972,
+                "to_year": null,
+                "note": "Original English name Athletic Club recovered"
+            }
+        ]
     },
     {
         "name": "Valencia CF",
@@ -52,7 +126,21 @@
         "founded_at": "1919-03-18",
         "destroyed_at": "",
         "stadium": "Camp de Mestalla, Cap. 49,430",
-        "city": "Valencia"
+        "city": "Valencia",
+        "names": [
+            {
+                "name": "Valencia Foot-ball Club",
+                "from_year": 1919,
+                "to_year": 1941,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Valencia CF",
+                "from_year": 1941,
+                "to_year": null,
+                "note": "Renamed Valencia Club de Fútbol"
+            }
+        ]
     },
     {
         "name": "Real Sociedad",
@@ -63,7 +151,27 @@
         "founded_at": "1909-09-07",
         "destroyed_at": "",
         "stadium": "Reale Arena, Cap. 40,177",
-        "city": "San Sebastián"
+        "city": "San Sebastián",
+        "names": [
+            {
+                "name": "Real Sociedad",
+                "from_year": 1909,
+                "to_year": 1931,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Donostia Foot-ball Club",
+                "from_year": 1931,
+                "to_year": 1940,
+                "note": "Royal titles abolished by the Second Spanish Republic"
+            },
+            {
+                "name": "Real Sociedad",
+                "from_year": 1940,
+                "to_year": null,
+                "note": "Name restored after the Civil War"
+            }
+        ]
     },
     {
         "name": "Deportivo de La Coruña",
@@ -107,7 +215,27 @@
         "founded_at": "1913-02-23",
         "destroyed_at": "",
         "stadium": "Stadium El Sardinero, Cap. 22,222",
-        "city": "Santander"
+        "city": "Santander",
+        "names": [
+            {
+                "name": "Racing Club de Santander",
+                "from_year": 1913,
+                "to_year": 1941,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Real Santander",
+                "from_year": 1941,
+                "to_year": 1973,
+                "note": "Foreign-sounding names were banned under Franco"
+            },
+            {
+                "name": "Racing de Santander",
+                "from_year": 1973,
+                "to_year": null,
+                "note": "Original name restored"
+            }
+        ]
     },
     {
         "name": "UD Las Palmas",
@@ -140,7 +268,27 @@
         "founded_at": "1905-07-01",
         "destroyed_at": "",
         "stadium": "Estadio Municipal El Molinón – Enrique Castro Quini, Cap. 29,371",
-        "city": "Gijón"
+        "city": "Gijón",
+        "names": [
+            {
+                "name": "Real Sporting de Gijón",
+                "from_year": 1905,
+                "to_year": 1939,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Real Gijón",
+                "from_year": 1939,
+                "to_year": 1970,
+                "note": "Foreign-sounding names were banned under Franco"
+            },
+            {
+                "name": "Sporting de Gijón",
+                "from_year": 1970,
+                "to_year": null,
+                "note": "Name \"Sporting\" recovered"
+            }
+        ]
     },
     {
         "name": "Villarreal CF",
@@ -173,7 +321,27 @@
         "founded_at": "1916-03-05",
         "destroyed_at": "",
         "stadium": "Estadi Mallorca Son Moix, Cap. 25,800",
-        "city": "Palma"
+        "city": "Palma",
+        "names": [
+            {
+                "name": "Alfonso XIII Foot-Ball Club",
+                "from_year": 1916,
+                "to_year": 1931,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Club Deportivo Mallorca",
+                "from_year": 1931,
+                "to_year": 1950,
+                "note": "Royal references prohibited by the Second Spanish Republic"
+            },
+            {
+                "name": "RCD Mallorca",
+                "from_year": 1950,
+                "to_year": null,
+                "note": "Real title recovered in the 1949–50 season"
+            }
+        ]
     },
     {
         "name": "RCD Espanyol",
@@ -184,7 +352,33 @@
         "founded_at": "1900-10-28",
         "destroyed_at": "",
         "stadium": "RCDE Stadium, Cap. 40,000",
-        "city": "Barcelona"
+        "city": "Barcelona",
+        "names": [
+            {
+                "name": "Sociedad Española de Football",
+                "from_year": 1900,
+                "to_year": 1901,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Club Español de Fútbol",
+                "from_year": 1901,
+                "to_year": 1912,
+                "note": "Renamed"
+            },
+            {
+                "name": "Real Club Deportivo Español",
+                "from_year": 1912,
+                "to_year": 1995,
+                "note": "Royal title granted by Alfonso XIII in 1912"
+            },
+            {
+                "name": "RCD Espanyol",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Catalan spelling adopted"
+            }
+        ]
     },
     {
         "name": "Real Oviedo",
@@ -294,7 +488,27 @@
         "founded_at": "1920-10-24",
         "destroyed_at": "",
         "stadium": "Estadio El Sadar, Cap. 23,516",
-        "city": "Pamplona"
+        "city": "Pamplona",
+        "names": [
+            {
+                "name": "Sportiva Foot-ball Club",
+                "from_year": 1920,
+                "to_year": 1921,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Club Osasuna",
+                "from_year": 1921,
+                "to_year": 1926,
+                "note": "Renamed"
+            },
+            {
+                "name": "CA Osasuna",
+                "from_year": 1926,
+                "to_year": null,
+                "note": "Club Atlético Osasuna"
+            }
+        ]
     },
     {
         "name": "Bizcaya",
@@ -382,7 +596,21 @@
         "founded_at": "1931-04-06",
         "destroyed_at": "",
         "stadium": "Estadio Nuevo Los Cármenes, Cap. 21,600",
-        "city": "Granada"
+        "city": "Granada",
+        "names": [
+            {
+                "name": "Club Recreativo Granada",
+                "from_year": 1931,
+                "to_year": 1941,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Granada CF",
+                "from_year": 1941,
+                "to_year": null,
+                "note": "Renamed Granada Club de Fútbol"
+            }
+        ]
     },
     {
         "name": "Elche CF",
@@ -437,6 +665,20 @@
         "founded_at": "1921-01-23",
         "destroyed_at": "",
         "stadium": "Campo de fútbol de Mendizorroza, Cap. 19,840",
-        "city": "Vitoria-Gasteiz"
+        "city": "Vitoria-Gasteiz",
+        "names": [
+            {
+                "name": "Sport Friend's Club",
+                "from_year": 1920,
+                "to_year": 1921,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Deportivo Alavés",
+                "from_year": 1921,
+                "to_year": null,
+                "note": "Regularised under the current name"
+            }
+        ]
     }
 ]
