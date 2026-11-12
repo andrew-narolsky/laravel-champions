@@ -85,7 +85,33 @@
         "founded_at": "1915-07-01",
         "destroyed_at": "",
         "stadium": "Stade rue Henri Dunant, Cap. 4,900",
-        "city": "Beggen"
+        "city": "Beggen",
+        "names": [
+            {
+                "name": "FC Daring Beggen",
+                "from_year": 1915,
+                "to_year": 1916,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Avenir Beggen",
+                "from_year": 1916,
+                "to_year": 1940,
+                "note": "Renamed a year later"
+            },
+            {
+                "name": "SV 1915 Beggen",
+                "from_year": 1940,
+                "to_year": 1944,
+                "note": "Renamed during the German occupation (Germanisation)"
+            },
+            {
+                "name": "FC Avenir Beggen",
+                "from_year": 1944,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "US Hollerich Bonnevoie",
@@ -107,7 +133,27 @@
         "founded_at": "1919-08-14",
         "destroyed_at": "",
         "stadium": "Stade Jos Haupert, Cap. 2,800",
-        "city": "Niederkorn"
+        "city": "Niederkorn",
+        "names": [
+            {
+                "name": "FC Progrès Niederkorn",
+                "from_year": 1919,
+                "to_year": 1940,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Niederkorn",
+                "from_year": 1940,
+                "to_year": 1944,
+                "note": "Renamed during the German occupation (Germanisation); played in the Gauliga Moselland"
+            },
+            {
+                "name": "FC Progrès Niederkorn",
+                "from_year": 1944,
+                "to_year": null,
+                "note": "Name restored when football returned in 1944"
+            }
+        ]
     },
     {
         "name": "FC Aris Bonnevoie",
@@ -173,7 +219,27 @@
         "founded_at": "1916-07-02",
         "destroyed_at": "",
         "stadium": "Stade Alphonse Theis, Cap. 4,100",
-        "city": "Hesperange"
+        "city": "Hesperange",
+        "names": [
+            {
+                "name": "FC Swift Hesperange",
+                "from_year": 1916,
+                "to_year": 1940,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FV Rot-Weiß Hesperingen",
+                "from_year": 1940,
+                "to_year": 1944,
+                "note": "Renamed during the German occupation (Germanisation)"
+            },
+            {
+                "name": "FC Swift Hesperange",
+                "from_year": 1944,
+                "to_year": null,
+                "note": "Original name restored"
+            }
+        ]
     },
     {
         "name": "RC Luxembourg",
@@ -195,7 +261,27 @@
         "founded_at": "1912-00-00",
         "destroyed_at": "1991-00-00",
         "stadium": "Stade Jos Nosbaum",
-        "city": "Dudelange"
+        "city": "Dudelange",
+        "names": [
+            {
+                "name": "US Dudelange",
+                "from_year": 1912,
+                "to_year": 1941,
+                "note": "Merger of Minerva Dudelange and Jeunesse de la Frontière 1908 Dudelange"
+            },
+            {
+                "name": "SV Düdelingen",
+                "from_year": 1941,
+                "to_year": 1944,
+                "note": "Renamed during the German occupation (Germanisation)"
+            },
+            {
+                "name": "US Dudelange",
+                "from_year": 1944,
+                "to_year": 1991,
+                "note": "Name restored; merged into F91 Dudelange in 1991"
+            }
+        ]
     },
     {
         "name": "US Rumelange",
@@ -426,7 +512,27 @@
         "founded_at": "1908-00-00",
         "destroyed_at": "",
         "stadium": "Terrain Schintgespesch, Cap. 1,000",
-        "city": "Mersch"
+        "city": "Mersch",
+        "names": [
+            {
+                "name": "FC Marisca Mersch",
+                "from_year": 1908,
+                "to_year": 1940,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Mersch",
+                "from_year": 1940,
+                "to_year": 1944,
+                "note": "Renamed during the German occupation (Germanisation)"
+            },
+            {
+                "name": "FC Marisca Mersch",
+                "from_year": 1944,
+                "to_year": null,
+                "note": "Name restored"
+            }
+        ]
     },
     {
         "name": "National Schifflange",
