@@ -52,7 +52,21 @@
         "founded_at": "2014-06-04",
         "destroyed_at": "",
         "stadium": "Başakşehir Fatih Terim Stadium, Cap. 17,319",
-        "city": "Istanbul"
+        "city": "Istanbul",
+        "names": [
+            {
+                "name": "İstanbul Büyükşehir Belediyespor",
+                "from_year": 1990,
+                "to_year": 2014,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "İstanbul Başakşehir FK",
+                "from_year": 2014,
+                "to_year": null,
+                "note": "Football branch separated from the municipal club and re-founded in June 2014"
+            }
+        ]
     },
     {
         "name": "Bursaspor",
@@ -195,7 +209,21 @@
         "founded_at": "1922-06-22",
         "destroyed_at": "",
         "stadium": "Konya Municipality Stadium, Cap. 42,000",
-        "city": "Konya"
+        "city": "Konya",
+        "names": [
+            {
+                "name": "Konya Gençlerbirliği",
+                "from_year": 1922,
+                "to_year": 1965,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Konyaspor",
+                "from_year": 1965,
+                "to_year": null,
+                "note": "Merger with Meramspor, Selçukspor and Çimentospor"
+            }
+        ]
     },
     {
         "name": "MKE Ankaragücü",
@@ -294,7 +322,21 @@
         "founded_at": "1925-08-16",
         "destroyed_at": "2019-06-30",
         "stadium": "Mersin Arena, Cap. 25,534",
-        "city": "Mersin"
+        "city": "Mersin",
+        "names": [
+            {
+                "name": "Mersin Gençlerbirliği",
+                "from_year": 1925,
+                "to_year": 1926,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Mersin İdman Yurdu",
+                "from_year": 1926,
+                "to_year": 2019,
+                "note": "Colours changed to red and dark blue; Çukurova İdmanyurdu for a few seasons under the Çukurova Group sponsorship"
+            }
+        ]
     },
     {
         "name": "Alanyaspor",
