@@ -2,7 +2,10 @@
     {
         "name": "FK Vardar",
         "description": "North Macedonia · Founded: 1947",
-        "country_id": [37, 59],
+        "country_id": [
+            37,
+            59
+        ],
         "primary_country_id": 37,
         "nickname": "Crveno-Crni",
         "content": "<p>FK Vardar is a professional football club based in Skopje, North Macedonia, and is widely regarded as the most successful football team in the country. The club was formed in 1947 through the merger of several local teams, although its sporting roots in Skopje go back earlier in the 20th century. Vardar is traditionally known by its nickname “The Red-Blacks” due to its team colors and has a strong identity in Macedonian football culture.</p><p>The club has won multiple domestic league titles and national cup trophies, making it a dominant force in Macedonian football for many years. Its most successful period includes consistent championship wins and strong performances in cup competitions, as well as participation in European tournaments. Vardar also made history by becoming the first Macedonian club to reach the group stage of a UEFA competition, which significantly raised its international profile.</p><p>Vardar has experienced both success and financial difficulties, which have led to periods of instability and even relegation struggles. Despite these challenges, the club remains one of the most popular and supported teams in the country, with a passionate fan base known as “Komiti.” Its matches, especially against rival teams like FK Pelister, are considered some of the most intense and important fixtures in Macedonian football.</p>",
@@ -31,7 +34,27 @@
         "founded_at": "1937-10-04",
         "destroyed_at": "",
         "stadium": "National Arena Toše Proeski, Cap. 33,011",
-        "city": "Skopje"
+        "city": "Skopje",
+        "names": [
+            {
+                "name": "FK Rabotnicki",
+                "from_year": 1937,
+                "to_year": 1999,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Rabotnicki Kometal",
+                "from_year": 1999,
+                "to_year": 2008,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Rabotnicki",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FK Sileks",
@@ -53,7 +76,27 @@
         "founded_at": "1927-00-00",
         "destroyed_at": "2009-00-00",
         "stadium": "Čair Stadium, Cap. 6,000",
-        "city": "Skopje"
+        "city": "Skopje",
+        "names": [
+            {
+                "name": "FK Zafer",
+                "from_year": 1927,
+                "to_year": 1947,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Sloga",
+                "from_year": 1947,
+                "to_year": 1989,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Sloga Jugomagnat",
+                "from_year": 1989,
+                "to_year": 2009,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FK Pobeda",
@@ -86,7 +129,33 @@
         "founded_at": "1932-00-00",
         "destroyed_at": "",
         "stadium": "Gjorče Petrov Stadium, Cap. 3,000",
-        "city": "Gjorche Petrov"
+        "city": "Gjorche Petrov",
+        "names": [
+            {
+                "name": "FK Jugokokta",
+                "from_year": 1970,
+                "to_year": 1990,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Makedonija GP",
+                "from_year": 1990,
+                "to_year": 2010,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Treska",
+                "from_year": 2010,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Makedonija GP",
+                "from_year": 2012,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "KF Renova",
@@ -163,7 +232,21 @@
         "founded_at": "1950-00-00",
         "destroyed_at": "",
         "stadium": "Stadion Kukuš, Cap. 1,500",
-        "city": "Turnovo"
+        "city": "Turnovo",
+        "names": [
+            {
+                "name": "FK Turnovo",
+                "from_year": 1950,
+                "to_year": 2008,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Horizont Turnovo",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FK Pelister",
@@ -207,7 +290,21 @@
         "founded_at": "1930-12-21",
         "destroyed_at": "",
         "stadium": "Kavadarci City Stadium, Cap. 7,500",
-        "city": "Kavadarci"
+        "city": "Kavadarci",
+        "names": [
+            {
+                "name": "FK Tikvesh",
+                "from_year": 1930,
+                "to_year": 2009,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "GFK Tikvesh",
+                "from_year": 2009,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FK Voska Sport",
@@ -262,6 +359,26 @@
         "founded_at": "1928-00-00",
         "destroyed_at": "",
         "stadium": "Gradski stadion Kičevo, Cap. 5,000",
-        "city": "Kičevo"
+        "city": "Kičevo",
+        "names": [
+            {
+                "name": "FK Jadran",
+                "from_year": 1928,
+                "to_year": 1945,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Jančica",
+                "from_year": 1945,
+                "to_year": 1952,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Napredok",
+                "from_year": 1952,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     }
 ]
