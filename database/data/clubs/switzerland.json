@@ -63,7 +63,21 @@
         "founded_at": "1896-00-00",
         "destroyed_at": "",
         "stadium": "Stade de la Tuilière, Cap. 12,544",
-        "city": "Lausanne"
+        "city": "Lausanne",
+        "names": [
+            {
+                "name": "Lausanne-Sports FC",
+                "from_year": 1920,
+                "to_year": 2003,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Lausanne-Sport",
+                "from_year": 2003,
+                "to_year": null,
+                "note": "Reformed after the bankruptcy and restarted in the fourth tier"
+            }
+        ]
     },
     {
         "name": "FC Winterthur",
@@ -118,7 +132,21 @@
         "founded_at": "1970-00-00",
         "destroyed_at": "",
         "stadium": "Stade de la Maladière, Cap. 12,000",
-        "city": "Neuchâtel"
+        "city": "Neuchâtel",
+        "names": [
+            {
+                "name": "Neuchâtel Xamax FC",
+                "from_year": 1970,
+                "to_year": 2013,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Neuchâtel Xamax FCS",
+                "from_year": 2013,
+                "to_year": null,
+                "note": "Merger with FC Serrières in May 2013"
+            }
+        ]
     },
     {
         "name": "FC Neuchâtel",
@@ -162,7 +190,21 @@
         "founded_at": "1879-04-19",
         "destroyed_at": "",
         "stadium": "Kybunpark, Cap. 19,694",
-        "city": "St. Gallen"
+        "city": "St. Gallen",
+        "names": [
+            {
+                "name": "Vereinigter FC St. Gallen",
+                "from_year": 1879,
+                "to_year": 1903,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC St. Gallen",
+                "from_year": 1903,
+                "to_year": null,
+                "note": "Officially adopted the name FC St. Gallen on 22 June 1903"
+            }
+        ]
     },
     {
         "name": "Anglo-American Club",
@@ -217,7 +259,27 @@
         "founded_at": "1904-00-00",
         "destroyed_at": "",
         "stadium": "Stadio Comunale Bellinzona, Cap. 5,000",
-        "city": "Bellinzona"
+        "city": "Bellinzona",
+        "names": [
+            {
+                "name": "FC Bellinzona",
+                "from_year": 1904,
+                "to_year": 1906,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Juventus Bellinzona",
+                "from_year": 1906,
+                "to_year": 1909,
+                "note": "Merger of the two Bellinzona clubs"
+            },
+            {
+                "name": "AC Bellinzona",
+                "from_year": 1909,
+                "to_year": null,
+                "note": "Name FC Bellinzona taken again in 1909"
+            }
+        ]
     },
     {
         "name": "FC Luzern",
@@ -349,7 +411,21 @@
         "founded_at": "1900-00-00",
         "destroyed_at": "",
         "stadium": "Lidl Arena, Cap. 6,048",
-        "city": "Wil"
+        "city": "Wil",
+        "names": [
+            {
+                "name": "FC Fors",
+                "from_year": 1902,
+                "to_year": 1907,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Wil",
+                "from_year": 1907,
+                "to_year": null,
+                "note": "Took the name of the hometown"
+            }
+        ]
     },
     {
         "name": "FC Schaffhausen",
@@ -371,7 +447,21 @@
         "founded_at": "1900-10-21",
         "destroyed_at": "",
         "stadium": "Stade Universitaire, Cap. 9,000",
-        "city": "Fribourg"
+        "city": "Fribourg",
+        "names": [
+            {
+                "name": "Stella FC",
+                "from_year": 1904,
+                "to_year": 1917,
+                "note": "Club changed its name to Stella FC on 12 November 1904"
+            },
+            {
+                "name": "FC Fribourg",
+                "from_year": 1917,
+                "to_year": null,
+                "note": "Renamed FC Fribourg on 22 July 1917"
+            }
+        ]
     },
     {
         "name": "FC Locarno",
