@@ -107,7 +107,21 @@
         "founded_at": "1909-03-24",
         "destroyed_at": "",
         "stadium": "Tannadice Park, Cap. 14,223",
-        "city": "Dundee"
+        "city": "Dundee",
+        "names": [
+            {
+                "name": "Dundee Hibernian",
+                "from_year": 1909,
+                "to_year": 1923,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dundee United FC",
+                "from_year": 1923,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Third Lanark AC",
@@ -118,7 +132,21 @@
         "founded_at": "1872-00-00",
         "destroyed_at": "1967-00-00",
         "stadium": "New Cathkin Park",
-        "city": "Glasgow"
+        "city": "Glasgow",
+        "names": [
+            {
+                "name": "Third Lanarkshire Rifle Volunteers",
+                "from_year": 1872,
+                "to_year": 1903,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Third Lanark AC",
+                "from_year": 1903,
+                "to_year": 1967,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Airdrieonians FC 1878",
@@ -151,7 +179,21 @@
         "founded_at": "1874-00-00",
         "destroyed_at": "",
         "stadium": "Cappielow Park, Cap. 11,589",
-        "city": "Greenock"
+        "city": "Greenock",
+        "names": [
+            {
+                "name": "Morton",
+                "from_year": 1874,
+                "to_year": 1994,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Greenock Morton FC",
+                "from_year": 1994,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Clyde FC",
@@ -239,7 +281,33 @@
         "founded_at": "1943-00-00",
         "destroyed_at": "",
         "stadium": "Almondvale Stadium, Cap. 9,713",
-        "city": "Livingston"
+        "city": "Livingston",
+        "names": [
+            {
+                "name": "Ferranti Amateurs",
+                "from_year": 1943,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Ferranti Thistle",
+                "from_year": 1948,
+                "to_year": 1974,
+                "note": "Renamed"
+            },
+            {
+                "name": "Meadowbank Thistle",
+                "from_year": 1974,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Livingston FC",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Raith Rovers FC",
