@@ -52,7 +52,21 @@
         "founded_at": "2014-04-30",
         "destroyed_at": "",
         "stadium": "Skonto Stadium, Cap. 8,087",
-        "city": "Riga"
+        "city": "Riga",
+        "names": [
+            {
+                "name": "FC Caramba/Dinamo",
+                "from_year": 2014,
+                "to_year": 2015,
+                "note": "Merger of FC Caramba and Dinamo Rīga"
+            },
+            {
+                "name": "Riga FC",
+                "from_year": 2015,
+                "to_year": null,
+                "note": "Renamed after winning the 2015 First League"
+            }
+        ]
     },
     {
         "name": "ASK Riga",
@@ -96,7 +110,45 @@
         "founded_at": "1994-00-00",
         "destroyed_at": "2013-00-00",
         "stadium": "Daugava Stadium, Cap. 5,083",
-        "city": "Liepaja"
+        "city": "Liepaja",
+        "names": [
+            {
+                "name": "Sarkanais Metalurgs",
+                "from_year": 1949,
+                "to_year": 1962,
+                "note": "Merger of Daugava Liepāja and Dinamo Liepāja"
+            },
+            {
+                "name": "Zvejnieks Liepāja",
+                "from_year": 1962,
+                "to_year": 1990,
+                "note": "The club changed owners"
+            },
+            {
+                "name": "Olimpija Liepāja",
+                "from_year": 1990,
+                "to_year": 1994,
+                "note": "Named after a former Latvian club of the 1920s–1930s"
+            },
+            {
+                "name": "FK Liepāja",
+                "from_year": 1994,
+                "to_year": 1995,
+                "note": "Played only one season with this name"
+            },
+            {
+                "name": "DAG Liepāja",
+                "from_year": 1995,
+                "to_year": 1997,
+                "note": "Merger of FK Liepāja with FC DAG Rīga"
+            },
+            {
+                "name": "FK Liepājas Metalurgs",
+                "from_year": 1997,
+                "to_year": null,
+                "note": "Name Liepājas Metalurgs"
+            }
+        ]
     },
     {
         "name": "FK Spartaks Jūrmala",
@@ -118,7 +170,21 @@
         "founded_at": "1996-00-00",
         "destroyed_at": "",
         "stadium": "Jānis Daliņš Stadium, Cap. 1,000",
-        "city": "Valmiera"
+        "city": "Valmiera",
+        "names": [
+            {
+                "name": "Valmiera Glass ViA",
+                "from_year": 2016,
+                "to_year": 2020,
+                "note": "Named after the sponsor Valmiera Fiberglass and Vidzeme University"
+            },
+            {
+                "name": "Valmiera FC",
+                "from_year": 2020,
+                "to_year": null,
+                "note": "Renamed Valmiera Football Club"
+            }
+        ]
     },
     {
         "name": "FK Liepāja",
@@ -140,7 +206,21 @@
         "founded_at": "1944-00-00",
         "destroyed_at": "2015-00-00",
         "stadium": "Daugava Stadium, Cap. 4,100",
-        "city": "Daugavpils"
+        "city": "Daugavpils",
+        "names": [
+            {
+                "name": "FC Ditton",
+                "from_year": 2001,
+                "to_year": 2006,
+                "note": "Club founded under this name by the businessman Vladislavs Drīksne (Ditton company)"
+            },
+            {
+                "name": "FC Daugava",
+                "from_year": 2006,
+                "to_year": 2015,
+                "note": "Renamed by Igor Malyshkov, taking the name of the historic Daugavpils club"
+            }
+        ]
     },
     {
         "name": "US Riga",
@@ -162,7 +242,21 @@
         "founded_at": "1927-00-00",
         "destroyed_at": "1944-00-00",
         "stadium": "",
-        "city": "Riga"
+        "city": "Riga",
+        "names": [
+            {
+                "name": "Vanderer",
+                "from_year": 1927,
+                "to_year": 1938,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Rīgas Vilki",
+                "from_year": 1938,
+                "to_year": 1944,
+                "note": "Changed from the foreign-sounding Vanderer to the Latvian Rīgas Vilki (RV)"
+            }
+        ]
     },
     {
         "name": "FK Auda",
@@ -173,7 +267,39 @@
         "founded_at": "1969-00-00",
         "destroyed_at": "",
         "stadium": "Skonto Stadium, Cap. 8,087",
-        "city": "Riga"
+        "city": "Riga",
+        "names": [
+            {
+                "name": "9. maijs",
+                "from_year": 1969,
+                "to_year": 1991,
+                "note": "Kolkhoz football team"
+            },
+            {
+                "name": "FK Auda",
+                "from_year": 1991,
+                "to_year": 1992,
+                "note": "The kolkhoz was transformed into the joint stock company Auda"
+            },
+            {
+                "name": "RFK",
+                "from_year": 1992,
+                "to_year": 1994,
+                "note": "Renamed Riga FK"
+            },
+            {
+                "name": "RFK Auda",
+                "from_year": 1994,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Auda",
+                "from_year": 1995,
+                "to_year": null,
+                "note": "Reverted to the former name"
+            }
+        ]
     },
     {
         "name": "FK Jelgava",
@@ -217,7 +343,39 @@
         "founded_at": "1990-00-00",
         "destroyed_at": "2009-00-00",
         "stadium": "Daugava Stadium, Cap. 3,480",
-        "city": "Daugavpils"
+        "city": "Daugavpils",
+        "names": [
+            {
+                "name": "Celtnieks",
+                "from_year": 1990,
+                "to_year": 1992,
+                "note": "Name used in the Soviet era (Stroitel)"
+            },
+            {
+                "name": "BJSS/Celtnieks",
+                "from_year": 1992,
+                "to_year": 1994,
+                "note": "Renamed"
+            },
+            {
+                "name": "Auseklis",
+                "from_year": 1994,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Vilan-D",
+                "from_year": 1995,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "Dinaburg FC",
+                "from_year": 1996,
+                "to_year": 2009,
+                "note": "Successor to Auseklis and Vilan-D; merged with FK Daugava in 2009"
+            }
+        ]
     },
     {
         "name": "FK Rīga",
@@ -261,7 +419,21 @@
         "founded_at": "1992-00-00",
         "destroyed_at": "1995-00-00",
         "stadium": "Latvijas Universitātes Stadions, Cap. 5б000",
-        "city": "Riga"
+        "city": "Riga",
+        "names": [
+            {
+                "name": "Kompar-Daugava",
+                "from_year": 1992,
+                "to_year": 1993,
+                "note": "Club founded under this name (former FK Daugava and the sponsor)"
+            },
+            {
+                "name": "Olimpija Rīga",
+                "from_year": 1993,
+                "to_year": 1995,
+                "note": "Named after the Rīgas Olimpija bank that financed the club"
+            }
+        ]
     },
     {
         "name": "FK Pārdaugava",
@@ -272,7 +444,45 @@
         "founded_at": "1984-00-00",
         "destroyed_at": "1995-00-00",
         "stadium": "Daugava Stadium",
-        "city": "Riga"
+        "city": "Riga",
+        "names": [
+            {
+                "name": "Daugava-RVR",
+                "from_year": 1984,
+                "to_year": 1985,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Junioru izlase",
+                "from_year": 1985,
+                "to_year": 1988,
+                "note": "Junior Selection"
+            },
+            {
+                "name": "Jaunatnes izlase",
+                "from_year": 1988,
+                "to_year": 1990,
+                "note": "Youth Selection"
+            },
+            {
+                "name": "Pārdaugava/RASMS",
+                "from_year": 1990,
+                "to_year": 1991,
+                "note": "Republican School of Higher Sports Excellence"
+            },
+            {
+                "name": "Pārdaugava/NSS",
+                "from_year": 1991,
+                "to_year": 1992,
+                "note": "National Sports School"
+            },
+            {
+                "name": "FK Pārdaugava",
+                "from_year": 1992,
+                "to_year": 1995,
+                "note": "Played in the restored Virslīga"
+            }
+        ]
     },
     {
         "name": "JKS Rīga",
