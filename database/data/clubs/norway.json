@@ -8,7 +8,21 @@
         "founded_at": "1917-05-19",
         "destroyed_at": "",
         "stadium": "Lerkendal Stadion, Cap. 21,426",
-        "city": "Trondheim"
+        "city": "Trondheim",
+        "names": [
+            {
+                "name": "Odd",
+                "from_year": 1917,
+                "to_year": 1928,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Rosenborg BK",
+                "from_year": 1928,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Odds BK",
@@ -19,7 +33,27 @@
         "founded_at": "1894-03-31",
         "destroyed_at": "",
         "stadium": "Skagerak Arena, Cap. 12,000",
-        "city": "Skien"
+        "city": "Skien",
+        "names": [
+            {
+                "name": "Odd",
+                "from_year": 1894,
+                "to_year": 1994,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Odd Grenland",
+                "from_year": 1994,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "Odds BK",
+                "from_year": 2012,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Sarpsborg 08 FF",
@@ -63,7 +97,21 @@
         "founded_at": "1911-06-19",
         "destroyed_at": "",
         "stadium": "Aker Stadion, Cap. 11,249",
-        "city": "Molde"
+        "city": "Molde",
+        "names": [
+            {
+                "name": "International",
+                "from_year": 1911,
+                "to_year": 1915,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Molde FK",
+                "from_year": 1915,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Lillestrøm SK",
@@ -96,7 +144,21 @@
         "founded_at": "1916-09-19",
         "destroyed_at": "",
         "stadium": "Aspmyra Stadion, Cap. 8,270",
-        "city": "Bodø"
+        "city": "Bodø",
+        "names": [
+            {
+                "name": "Glimt",
+                "from_year": 1916,
+                "to_year": 1948,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FK Bodø/Glimt",
+                "from_year": 1948,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "SK Brann",
@@ -261,7 +323,27 @@
         "founded_at": "1928-03-14",
         "destroyed_at": "",
         "stadium": "Tønsberg Gressbane, Cap. 5,600",
-        "city": "Tønsberg"
+        "city": "Tønsberg",
+        "names": [
+            {
+                "name": "Eik IF",
+                "from_year": 1928,
+                "to_year": 1989,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Eik-Tønsberg",
+                "from_year": 1989,
+                "to_year": 2020,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Eik Tønsberg",
+                "from_year": 2020,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "IL Sparta",
@@ -426,7 +508,39 @@
         "founded_at": "1901-02-01",
         "destroyed_at": "",
         "stadium": "Gjøvik Stadion",
-        "city": "Gjøvik"
+        "city": "Gjøvik",
+        "names": [
+            {
+                "name": "SK Thor",
+                "from_year": 1901,
+                "to_year": 1903,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SK Lyn",
+                "from_year": 1903,
+                "to_year": 1993,
+                "note": "Renamed"
+            },
+            {
+                "name": "SK Gjøvik-Lyn",
+                "from_year": 1993,
+                "to_year": 2014,
+                "note": "Renamed"
+            },
+            {
+                "name": "FK Gjøvik-Lyn",
+                "from_year": 2014,
+                "to_year": 2020,
+                "note": "Renamed"
+            },
+            {
+                "name": "SK Gjøvik-Lyn",
+                "from_year": 2020,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Sandefjord BK",
