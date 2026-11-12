@@ -8,7 +8,21 @@
         "founded_at": "1904-02-28",
         "destroyed_at": "",
         "stadium": "Estádio da Luz, Cap. 68,100",
-        "city": "Lisbon"
+        "city": "Lisbon",
+        "names": [
+            {
+                "name": "Sport Lisboa",
+                "from_year": 1904,
+                "to_year": 1908,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SL Benfica",
+                "from_year": 1908,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "FC Porto",
@@ -118,7 +132,39 @@
         "founded_at": "1937-01-27",
         "destroyed_at": "",
         "stadium": "Estádio Alfredo da Silva, Cap. 21,498",
-        "city": "Barreiro"
+        "city": "Barreiro",
+        "names": [
+            {
+                "name": "Grupo Desportivo CUF do Barreiro",
+                "from_year": 1937,
+                "to_year": 1940,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Unidos Futebol Clube do Barreiro",
+                "from_year": 1940,
+                "to_year": 1944,
+                "note": "Renamed"
+            },
+            {
+                "name": "Grupo Desportivo CUF do Barreiro",
+                "from_year": 1944,
+                "to_year": 1978,
+                "note": "Renamed"
+            },
+            {
+                "name": "Grupo Desportivo Quimigal do Barreiro",
+                "from_year": 1978,
+                "to_year": 2000,
+                "note": "Renamed"
+            },
+            {
+                "name": "GD Fabril",
+                "from_year": 2000,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Atlético CP",
