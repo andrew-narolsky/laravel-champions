@@ -129,7 +129,21 @@
         "founded_at": "1974-00-00",
         "destroyed_at": "",
         "stadium": "Campo Sportivo di Fiorentino, Cap. 700",
-        "city": "Fiorentino"
+        "city": "Fiorentino",
+        "names": [
+            {
+                "name": "SS Montevito",
+                "from_year": 1974,
+                "to_year": 2005,
+                "note": "Club known as S.S. Montevito until the 2004–05 season; won the 1991–92 Campionato Sammarinese under this name"
+            },
+            {
+                "name": "FC Fiorentino",
+                "from_year": 2005,
+                "to_year": null,
+                "note": "Renamed FC Fiorentino"
+            }
+        ]
     },
     {
         "name": "AC Juvenes Dogana",
