@@ -74,7 +74,21 @@
         "founded_at": "1904-06-26",
         "destroyed_at": "",
         "stadium": "Borås Arena, Cap. 14,500",
-        "city": "Borås"
+        "city": "Borås",
+        "names": [
+            {
+                "name": "Borås Fotbollslag",
+                "from_year": 1904,
+                "to_year": 1906,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "IF Elfsborg",
+                "from_year": 1906,
+                "to_year": null,
+                "note": "Too many clubs had \"Borås\" in the name"
+            }
+        ]
     },
     {
         "name": "GAIS",
@@ -151,7 +165,33 @@
         "founded_at": "1910-06-15",
         "destroyed_at": "",
         "stadium": "Guldfågeln Arena, Cap. 12,000",
-        "city": "Kalmar"
+        "city": "Kalmar",
+        "names": [
+            {
+                "name": "IF Göta",
+                "from_year": 1910,
+                "to_year": 1912,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "IF Gothia",
+                "from_year": 1912,
+                "to_year": 1918,
+                "note": "The name Göta was already taken, so the club was not admitted to the Swedish Sports Confederation"
+            },
+            {
+                "name": "Kalmar Idrotts Sällskap",
+                "from_year": 1918,
+                "to_year": 1927,
+                "note": "Merger of IF Gothia and Kamraterna"
+            },
+            {
+                "name": "Kalmar FF",
+                "from_year": 1927,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Åtvidabergs FF",
@@ -162,7 +202,21 @@
         "founded_at": "1907-07-01",
         "destroyed_at": "",
         "stadium": "Kopparvallen, Cap. 8,100",
-        "city": "Åtvidaberg"
+        "city": "Åtvidaberg",
+        "names": [
+            {
+                "name": "Åtvidabergs IF",
+                "from_year": 1907,
+                "to_year": 1935,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Åtvidabergs FF",
+                "from_year": 1935,
+                "to_year": null,
+                "note": "Football section split off from ÅIF"
+            }
+        ]
     },
     {
         "name": "Örebro SK",
@@ -272,7 +326,21 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "",
         "stadium": "Råå IP",
-        "city": "Helsingborg"
+        "city": "Helsingborg",
+        "names": [
+            {
+                "name": "Enighet",
+                "from_year": 1921,
+                "to_year": 1925,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Råå IF",
+                "from_year": 1925,
+                "to_year": null,
+                "note": "Renamed Råå Idrottsförening"
+            }
+        ]
     },
     {
         "name": "IK Brage",
@@ -327,7 +395,21 @@
         "founded_at": "1882-12-05",
         "destroyed_at": "",
         "stadium": "Gavlevallen, Cap. 6,500",
-        "city": "Gävle"
+        "city": "Gävle",
+        "names": [
+            {
+                "name": "Gefle SK",
+                "from_year": 1882,
+                "to_year": 1883,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Gefle IF",
+                "from_year": 1883,
+                "to_year": null,
+                "note": "Changed the name months after formation"
+            }
+        ]
     },
     {
         "name": "AFC Eskilstuna",
