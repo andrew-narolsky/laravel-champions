@@ -24,7 +24,10 @@
     {
         "name": "NK Olimpija",
         "description": "Slovenia · Founded: 1945",
-        "country_id": [49, 59],
+        "country_id": [
+            49,
+            59
+        ],
         "primary_country_id": 49,
         "nickname": "Zmaji",
         "content": "<p>NK Olimpija Ljubljana was a Slovenian football club based in Ljubljana that existed from 1945 until 2005. Founded originally as NK Enotnost, the club adopted the name Olimpija in 1962 and became one of the most recognizable football institutions in Slovenia. Nicknamed “The Dragons” and “The Green and Whites,” the club developed a strong identity connected to the city of Ljubljana and its symbols.</p><p>During the Yugoslav era, Olimpija competed within the national league system and spent many seasons in the Yugoslav First League, particularly between the late 1960s and late 1980s. After Slovenia gained independence in 1991, the club quickly became one of the dominant forces in the new domestic championship. Olimpija won four Slovenian league titles and four national cup trophies while also participating in several European competitions.</p><p>The club played its home matches at Bežigrad Stadium and built a passionate fan culture led by the Green Dragons supporters group. Despite its football success and historical importance, financial difficulties eventually caused severe problems. In 2005, the club was dissolved because of large debts, although a successor club was founded shortly afterward and later continued the Olimpija football tradition in Ljubljana.</p>",
@@ -42,7 +45,27 @@
         "founded_at": "2005-03-02",
         "destroyed_at": "",
         "stadium": "Stožice Stadium, Cap. 16,038",
-        "city": "Ljubljana"
+        "city": "Ljubljana",
+        "names": [
+            {
+                "name": "NK Bežigrad",
+                "from_year": 2005,
+                "to_year": 2007,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "NK Olimpija Bežigrad",
+                "from_year": 2007,
+                "to_year": 2008,
+                "note": "Renamed"
+            },
+            {
+                "name": "ŠD NK Olimpija Ljubljana",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "NK Celje",
@@ -119,7 +142,21 @@
         "founded_at": "1924-00-00",
         "destroyed_at": "2011-00-00",
         "stadium": "Ajdovščina City Stadium, Cap. 1,630",
-        "city": "Ajdovščina"
+        "city": "Ajdovščina",
+        "names": [
+            {
+                "name": "SŠD Mladost",
+                "from_year": 1949,
+                "to_year": 1954,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SŠD Primorje",
+                "from_year": 1954,
+                "to_year": 2011,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "NK Rudar Velenje",
@@ -141,7 +178,33 @@
         "founded_at": "1923-00-00",
         "destroyed_at": "1996-00-00",
         "stadium": "Izola City Stadium",
-        "city": "Izola"
+        "city": "Izola",
+        "names": [
+            {
+                "name": "Edera Izola",
+                "from_year": 1923,
+                "to_year": 1925,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Virtus Izola",
+                "from_year": 1925,
+                "to_year": 1930,
+                "note": "Renamed"
+            },
+            {
+                "name": "Ampelea Isola d'Istria",
+                "from_year": 1930,
+                "to_year": 1946,
+                "note": "Renamed"
+            },
+            {
+                "name": "NK Izola",
+                "from_year": 1946,
+                "to_year": 1996,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "NK IB 1975 Ljubljana",
@@ -152,7 +215,21 @@
         "founded_at": "1975-00-00",
         "destroyed_at": "",
         "stadium": "Štefan Bele Sports Park, Cap. 500",
-        "city": "Ljubljana"
+        "city": "Ljubljana",
+        "names": [
+            {
+                "name": "NK Factor",
+                "from_year": 1975,
+                "to_year": 2007,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "NK Interblock",
+                "from_year": 2007,
+                "to_year": 2010,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "NK Rogaška",
