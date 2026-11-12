@@ -74,7 +74,21 @@
         "founded_at": "1880-00-00",
         "destroyed_at": "",
         "stadium": "New Grosvenor Stadium, Cap. 1,500",
-        "city": "Ballyskeagh"
+        "city": "Ballyskeagh",
+        "names": [
+            {
+                "name": "Distillery FC",
+                "from_year": 1880,
+                "to_year": 1999,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Lisburn Distillery FC",
+                "from_year": 1999,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Portadown FC",
@@ -112,7 +126,10 @@
     {
         "name": "Derry City FC",
         "description": "Republic of Ireland · Founded: 1928",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 42,
         "nickname": "The Candystripes",
         "content": "<p>Derry City Football Club is a professional association football club based in the city of Derry in Northern Ireland. It was founded in 1928 and originally competed in the Northern Irish football system, where it even won the Irish League title in the mid-1960s. The club’s home ground is the Brandywell Stadium, and it is known for its red and white striped kit, which earned them the nickname “The Candystripes.”</p><p>In the early 1970s, the club faced major difficulties due to the political and security situation during the Troubles, which led to them being unable to play home matches at Brandywell. After a period of instability and playing in lower-level football, Derry City eventually joined the League of Ireland in 1985, becoming the only Northern Irish club competing in the Republic of Ireland league system. This move revitalized the club and helped it rebuild both competitively and in terms of support.</p><p>Derry City experienced significant success soon after joining the League of Ireland, including winning a historic domestic treble in the 1988–89 season. Since then, the club has remained one of the stronger teams in Irish football, regularly competing for domestic trophies such as league titles and cups. It is well known for its passionate fanbase and strong identity within Irish football, maintaining a unique cross-border status that sets it apart from other clubs.</p>",
@@ -185,12 +202,29 @@
         "founded_at": "1918-00-00",
         "destroyed_at": "2012-00-00",
         "stadium": "The Showgrounds, Cap. 7,949",
-        "city": "Newry"
+        "city": "Newry",
+        "names": [
+            {
+                "name": "Newry Town FC",
+                "from_year": 1918,
+                "to_year": 2004,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Newry City FC",
+                "from_year": 2004,
+                "to_year": 2012,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Shelbourne FC",
         "description": "Republic of Ireland · Founded: 1895",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 42,
         "nickname": "The Reds",
         "content": "<p>Shelbourne Football Club is a professional football club based in Dublin, Ireland. It was founded in 1895 and is one of the oldest and most historic clubs in Irish football. The team plays its home matches at Tolka Park and is traditionally known by the nickname “The Reds.” Over its long history, Shelbourne has been an important part of the development of football in Ireland and has built a strong identity in the League of Ireland.</p><p>The club has achieved significant success domestically, including multiple League of Ireland titles and FAI Cup victories. One of its most successful periods came in the early 2000s when Shelbourne competed strongly in both domestic and European competitions. The team also made history in European tournaments by advancing further than any previous Irish club at the time, gaining international recognition for its performances.</p><p>In recent years, Shelbourne has experienced both challenges and a revival, including relegations, promotions, and financial restructuring. Despite this instability, the club returned to the top tier and again became competitive in the Premier Division. Shelbourne also won the League of Ireland title again in 2024, marking a major comeback and reaffirming its status as one of the leading clubs in Irish football.</p>",
@@ -224,7 +258,10 @@
     {
         "name": "Bohemian FC",
         "description": "Republic of Ireland · Founded: 1890",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 42,
         "nickname": "The Gypsies",
         "content": "<p>Bohemian Football Club (commonly known as Bohemians or “Bohs”) is a professional football club based in Dublin, Ireland. It was founded in 1890 and is one of the oldest clubs in Irish football history. The team plays its home matches at Dalymount Park and is widely recognised as a fan-owned club, with supporters having full control of its ownership and decision-making. The club is also known for its strong identity and traditional red and black colours.</p><p>Bohemians were among the founding members of the League of Ireland in 1921 and quickly became one of the strongest teams in the early years of the competition. They won several league titles and domestic cups in their early decades, establishing themselves as a major force in Irish football. However, the club later experienced long periods of struggle, partly due to its amateur status, which limited its ability to retain top players. Despite this, Bohemians remained an important and historic presence in Irish football.</p><p>In modern times, the club has returned to competitiveness, winning league titles and cup competitions again in the 2000s and regularly participating in European tournaments. Bohemians are also known for their passionate supporter culture and strong community involvement, which has helped shape their identity beyond just sport. Today, they remain one of the most recognisable and influential clubs in Ireland, both on and off the pitch.</p>",
@@ -324,14 +361,37 @@
     {
         "name": "Derry Celtic FC",
         "description": "Republic of Ireland · Founded: 1890",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 42,
         "nickname": "",
         "content": "<p>Derry Celtic Football Club was an early football club based in Derry, Ireland. It was founded in 1890 under the name St Columb’s Hall, later changing its name to Derry Celtic in 1893. The club played its home matches at venues including Celtic Park and later the Brandywell, and it became the main football team representing the city in the late 19th and early 20th century. It was one of the early clubs involved in organised Irish football and competed in both league and cup competitions.</p><p>During its time in the Irish League, Derry Celtic had mixed results but also achieved some notable moments. The club reached the Irish Cup final in 1898, although it lost the match. In the following years, it struggled to compete consistently against stronger Belfast-based teams, but it did manage occasional mid-table finishes and developed local talent. Despite limited success, it remained an important representative club for the city for many years.</p><p>By 1913, the club’s position had weakened significantly, and it was voted out of the Irish League. After leaving senior football, it effectively ceased operations, later disappearing completely. Derry Celtic is often remembered as the predecessor to later football development in the city, and its legacy is linked to the rise of Derry City FC, which became the main club in Derry after its formation in 1928.</p>",
         "founded_at": "1890-00-00",
         "destroyed_at": "1913-00-00",
         "stadium": "The Brandywell",
-        "city": "Derry"
+        "city": "Derry",
+        "names": [
+            {
+                "name": "St Columb's Hall",
+                "from_year": 1890,
+                "to_year": 1893,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Derry Celtic FC",
+                "from_year": 1893,
+                "to_year": 1896,
+                "note": "Renamed"
+            },
+            {
+                "name": "St Columb's Hall Celtic",
+                "from_year": 1896,
+                "to_year": 1913,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Wellington Park FC",
@@ -380,7 +440,10 @@
     {
         "name": "Freebooters FC",
         "description": "Northern Ireland · Founded: 1898",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 42,
         "nickname": "",
         "content": "<p>Freebooters Football Club was an amateur football club based in Sandymount, Dublin, Ireland. It was founded in 1898 and became known for following the ideals of amateur football, inspired by the famous English club Corinthian FC The team was made up largely of players educated in English public schools, including several talented footballers who later represented Ireland internationally.</p><p>The club quickly became competitive in Irish football and achieved notable success despite its short existence. In 1900, Freebooters reached the Leinster Senior Cup final, where it narrowly lost to Shelbourne. Its greatest achievement came in 1901 when the club reached the Irish Cup final after defeating Linfield in the semi-final. However, Freebooters lost 1–0 to Cliftonville in the final after playing much of the match with only ten men due to an early injury.</p><p>Freebooters played its home matches at Sandymount Road in Dublin, a ground later used by Shelbourne as the club declined. By 1906, the team was struggling with player shortages and organisational problems, eventually resigning from competition and dissolving. Although it existed for less than a decade, Freebooters remains an interesting part of early Irish football history because of its amateur philosophy and strong performances in major competitions.</p>",
