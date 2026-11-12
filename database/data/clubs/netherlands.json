@@ -30,7 +30,21 @@
         "founded_at": "1908-00-00",
         "destroyed_at": "",
         "stadium": "De Kuip, Cap. 51,177",
-        "city": "Rotterdam"
+        "city": "Rotterdam",
+        "names": [
+            {
+                "name": "SC Feijenoord",
+                "from_year": 1912,
+                "to_year": 1974,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Feyenoord",
+                "from_year": 1974,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "HVV Den Haag",
@@ -140,7 +154,21 @@
         "founded_at": "1967-05-10",
         "destroyed_at": "",
         "stadium": "AFAS Stadion, Cap. 19,500",
-        "city": "Alkmaar"
+        "city": "Alkmaar",
+        "names": [
+            {
+                "name": "AZ '67",
+                "from_year": 1967,
+                "to_year": 1986,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "AZ Alkmaar",
+                "from_year": 1986,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Heracles Almelo",
@@ -151,7 +179,21 @@
         "founded_at": "1903-05-03",
         "destroyed_at": "",
         "stadium": "Asito Stadion, Cap. 12,080",
-        "city": "Almelo"
+        "city": "Almelo",
+        "names": [
+            {
+                "name": "SC Heracles '74",
+                "from_year": 1974,
+                "to_year": 1998,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Heracles Almelo",
+                "from_year": 1998,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "ADO Den Haag",
@@ -162,7 +204,27 @@
         "founded_at": "1905-02-01",
         "destroyed_at": "",
         "stadium": "Werktalent Stadion, Cap. 15,000",
-        "city": "The Hague"
+        "city": "The Hague",
+        "names": [
+            {
+                "name": "ADO",
+                "from_year": 1905,
+                "to_year": 1971,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Den Haag",
+                "from_year": 1971,
+                "to_year": 1996,
+                "note": "Renamed"
+            },
+            {
+                "name": "ADO Den Haag",
+                "from_year": 1996,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "RCH Heemstede",
@@ -173,7 +235,21 @@
         "founded_at": "1911-02-25",
         "destroyed_at": "",
         "stadium": "Sportpark Groenendaal",
-        "city": "Heemstede"
+        "city": "Heemstede",
+        "names": [
+            {
+                "name": "Racing Club Haarlem",
+                "from_year": 1911,
+                "to_year": 1965,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "RCH Heemstede",
+                "from_year": 1965,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "NAC Breda",
@@ -206,7 +282,33 @@
         "founded_at": "1907-10-11",
         "destroyed_at": "",
         "stadium": "Spieringhorn",
-        "city": "Amsterdam"
+        "city": "Amsterdam",
+        "names": [
+            {
+                "name": "Hercules",
+                "from_year": 1907,
+                "to_year": 1909,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "DWS",
+                "from_year": 1909,
+                "to_year": 1958,
+                "note": "Renamed"
+            },
+            {
+                "name": "DWS/A",
+                "from_year": 1958,
+                "to_year": 1962,
+                "note": "Renamed"
+            },
+            {
+                "name": "DWS",
+                "from_year": 1962,
+                "to_year": 1972,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Roda JC Kerkrade",
@@ -250,7 +352,21 @@
         "founded_at": "1909-11-16",
         "destroyed_at": "",
         "stadium": "Jan Louwers Stadion, Cap. 4,200",
-        "city": "Eindhoven"
+        "city": "Eindhoven",
+        "names": [
+            {
+                "name": "SBV Eindhoven",
+                "from_year": 1909,
+                "to_year": 2002,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Eindhoven",
+                "from_year": 2002,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "SC Enschede",
@@ -283,7 +399,33 @@
         "founded_at": "1965-08-18",
         "destroyed_at": "",
         "stadium": "de Vliert, Cap. 6,936",
-        "city": "'s-Hertogenbosch"
+        "city": "'s-Hertogenbosch",
+        "names": [
+            {
+                "name": "FC Den Bosch/BVV",
+                "from_year": 1965,
+                "to_year": 1967,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "FC Den Bosch '67",
+                "from_year": 1967,
+                "to_year": 1988,
+                "note": "Renamed"
+            },
+            {
+                "name": "BVV Den Bosch",
+                "from_year": 1988,
+                "to_year": 1992,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Den Bosch",
+                "from_year": 1992,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "BVV Den Bosch",
@@ -327,7 +469,27 @@
         "founded_at": "1920-05-09",
         "destroyed_at": "1998-06-30",
         "stadium": "Park Limburgia, Cap. 14,000",
-        "city": "Brunssum"
+        "city": "Brunssum",
+        "names": [
+            {
+                "name": "Rhenania",
+                "from_year": 1920,
+                "to_year": 1927,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "SV Staatsmijn Hendrik",
+                "from_year": 1927,
+                "to_year": 1936,
+                "note": "Renamed"
+            },
+            {
+                "name": "SV Limburgia",
+                "from_year": 1936,
+                "to_year": 1998,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "SVV Schiedam",
@@ -558,7 +720,27 @@
         "founded_at": "1902-04-02",
         "destroyed_at": "",
         "stadium": "De Geusselt, Cap. 10,234",
-        "city": "Maastricht"
+        "city": "Maastricht",
+        "names": [
+            {
+                "name": "Maastrichtsche Voetbal Club",
+                "from_year": 1902,
+                "to_year": 1908,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Maastrichtse Voetbal Vereniging",
+                "from_year": 1908,
+                "to_year": 2010,
+                "note": "Renamed"
+            },
+            {
+                "name": "MVV Maastricht",
+                "from_year": 2010,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "TSV NOAD",
@@ -855,7 +1037,27 @@
         "founded_at": "1910-06-12",
         "destroyed_at": "",
         "stadium": "MAC³PARK Stadion, Cap. 14,000",
-        "city": "Zwolle"
+        "city": "Zwolle",
+        "names": [
+            {
+                "name": "PEC Zwolle",
+                "from_year": 1971,
+                "to_year": 1982,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "PEC Zwolle '82",
+                "from_year": 1982,
+                "to_year": 2012,
+                "note": "Renamed"
+            },
+            {
+                "name": "PEC Zwolle",
+                "from_year": 2012,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Excelsior",
@@ -943,7 +1145,27 @@
         "founded_at": "1920-06-01",
         "destroyed_at": "",
         "stadium": "Kras Stadion, Cap. 6,984",
-        "city": "Volendam"
+        "city": "Volendam",
+        "names": [
+            {
+                "name": "Victoria",
+                "from_year": 1920,
+                "to_year": 1923,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "RKSV Volendam",
+                "from_year": 1923,
+                "to_year": 1977,
+                "note": "Renamed"
+            },
+            {
+                "name": "FC Volendam",
+                "from_year": 1977,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "DHC Delft",
@@ -987,6 +1209,38 @@
         "founded_at": "1912-07-31",
         "destroyed_at": "",
         "stadium": "Atik Stadion, Cap. 5,000",
-        "city": "Roosendaal"
+        "city": "Roosendaal",
+        "names": [
+            {
+                "name": "Excelsior",
+                "from_year": 1912,
+                "to_year": 1920,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "VV Roosendaal",
+                "from_year": 1920,
+                "to_year": 1927,
+                "note": "Renamed"
+            },
+            {
+                "name": "Roosendaal Boys Combinatie",
+                "from_year": 1927,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "RBC Roosendaal",
+                "from_year": 1999,
+                "to_year": 2011,
+                "note": "Renamed"
+            },
+            {
+                "name": "RBC",
+                "from_year": 2011,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     }
 ]
