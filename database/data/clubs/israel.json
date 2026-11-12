@@ -8,7 +8,21 @@
         "founded_at": "1906-00-00",
         "destroyed_at": "",
         "stadium": "Bloomfield Stadium, Cap. 29,400",
-        "city": "Tel Aviv"
+        "city": "Tel Aviv",
+        "names": [
+            {
+                "name": "HaRishon Le Zion-Yafo Association",
+                "from_year": 1906,
+                "to_year": 1909,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Maccabi Tel Aviv FC",
+                "from_year": 1909,
+                "to_year": null,
+                "note": "Renamed after the establishment of the city of Tel Aviv"
+            }
+        ]
     },
     {
         "name": "Maccabi Haifa FC",
@@ -107,7 +121,33 @@
         "founded_at": "1934-00-00",
         "destroyed_at": "",
         "stadium": "Bloomfield Stadium, Cap. 29,400",
-        "city": "Tel Aviv"
+        "city": "Tel Aviv",
+        "names": [
+            {
+                "name": "Beitar Tel Aviv",
+                "from_year": 1934,
+                "to_year": 2000,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Beitar Shimshon Tel Aviv",
+                "from_year": 2000,
+                "to_year": 2011,
+                "note": "Merger with Shimshon Tel Aviv"
+            },
+            {
+                "name": "Beitar Tel Aviv Ramla",
+                "from_year": 2011,
+                "to_year": 2019,
+                "note": "Merger with Ironi Ramla"
+            },
+            {
+                "name": "Beitar Tel Aviv Bat Yam",
+                "from_year": 2019,
+                "to_year": null,
+                "note": "Merger with Maccabi Ironi Bat Yam; Ramla withdrew on 22 May 2019"
+            }
+        ]
     },
     {
         "name": "Hapoel Ramat Gan Givatayim FC",
@@ -327,7 +367,27 @@
         "founded_at": "1940-00-00",
         "destroyed_at": "",
         "stadium": "Haberfeld Stadium, Cap. 6,000",
-        "city": "Rishon LeZion"
+        "city": "Rishon LeZion",
+        "names": [
+            {
+                "name": "Hapoel Rishon LeZion FC",
+                "from_year": 1940,
+                "to_year": 1991,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Hapoel Ironi Rishon LeZion",
+                "from_year": 1991,
+                "to_year": 2008,
+                "note": "Renamed"
+            },
+            {
+                "name": "Hapoel Rishon LeZion FC",
+                "from_year": 2008,
+                "to_year": null,
+                "note": "Name restored after a change of ownership"
+            }
+        ]
     },
     {
         "name": "48th Battalion British Army",
