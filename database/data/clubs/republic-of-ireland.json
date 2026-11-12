@@ -19,7 +19,21 @@
         "founded_at": "1903-00-00",
         "destroyed_at": "",
         "stadium": "Oriel Park, Cap. 4,500",
-        "city": "Dundalk"
+        "city": "Dundalk",
+        "names": [
+            {
+                "name": "Dundalk G.N.R.",
+                "from_year": 1903,
+                "to_year": 1930,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Dundalk FC",
+                "from_year": 1930,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "St Patrick's Athletic FC",
@@ -140,7 +154,21 @@
         "founded_at": "1935-00-00",
         "destroyed_at": "1980-00-00",
         "stadium": "Turners Cross",
-        "city": "Cork"
+        "city": "Cork",
+        "names": [
+            {
+                "name": "Evergreen United",
+                "from_year": 1935,
+                "to_year": 1959,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Cork Celtic FC",
+                "from_year": 1959,
+                "to_year": 1980,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Drogheda United FC",
@@ -195,7 +223,21 @@
         "founded_at": "1921-00-00",
         "destroyed_at": "1938-00-00",
         "stadium": "The Mardyke",
-        "city": "Cork"
+        "city": "Cork",
+        "names": [
+            {
+                "name": "Fordsons FC",
+                "from_year": 1921,
+                "to_year": 1930,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Cork FC",
+                "from_year": 1930,
+                "to_year": 1938,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Galway United FC",
@@ -206,7 +248,21 @@
         "founded_at": "1937-00-00",
         "destroyed_at": "",
         "stadium": "Eamonn Deacy Park, Cap. 4,323",
-        "city": "Galway"
+        "city": "Galway",
+        "names": [
+            {
+                "name": "Galway Rovers",
+                "from_year": 1977,
+                "to_year": 1981,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Galway United FC",
+                "from_year": 1981,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Bray Wanderers FC",
@@ -217,7 +273,21 @@
         "founded_at": "1942-00-00",
         "destroyed_at": "",
         "stadium": "Carlisle Grounds, Cap. 3,200",
-        "city": "Bray"
+        "city": "Bray",
+        "names": [
+            {
+                "name": "Bray Unknowns",
+                "from_year": 1942,
+                "to_year": 1973,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Bray Wanderers FC",
+                "from_year": 1973,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "University College Dublin AFC",
@@ -255,7 +325,10 @@
     {
         "name": "Alton United FC",
         "description": "Northern Ireland · Founded: 1921",
-        "country_id": [38, 42],
+        "country_id": [
+            38,
+            42
+        ],
         "primary_country_id": 38,
         "nickname": "",
         "content": "<p>Alton United FC was a football club based in Belfast, Northern Ireland, active during the early 1920s. The club competed in the Falls District League, a competition affiliated with the Football Association of Ireland after the split between Irish football authorities following partition. Alton United represented the nationalist Falls Road area of Belfast and played home matches at grounds such as Shauns Park and Celtic Park, which was also used by Belfast Celtic.</p><p>The club became famous for one of the greatest upsets in early Irish football history when it won the 1922–23 FAI Cup. In the final at Dalymount Park, Alton United defeated the heavily favoured Shelbourne side 1–0, with Andy McSherry scoring the winning goal. The victory made Alton United the first team from Northern Ireland to win the FAI Cup and remains the club’s greatest achievement.</p><p>Alton United’s existence was closely linked to the political and sporting tensions of the period following Irish partition. When FIFA recognised the FAI on the condition that it only govern football in the Irish Free State, the Falls District League lost its affiliation and gradually disappeared. Soon afterward, Belfast Celtic returned to the Irish League, and Alton United faded from senior football, eventually dissolving around 1924. Despite its short existence, the club remains an important symbol of early Irish football history and the unique political circumstances of the era.</p>",
@@ -284,7 +357,39 @@
         "founded_at": "1928-00-00",
         "destroyed_at": "",
         "stadium": "Whitehall Stadium, Cap. 1,800",
-        "city": "Dublin"
+        "city": "Dublin",
+        "names": [
+            {
+                "name": "Home Farm FC",
+                "from_year": 1928,
+                "to_year": 1972,
+                "note": "Club founded under this name"
+            },
+            {
+                "name": "Home Farm-Drumcondra",
+                "from_year": 1972,
+                "to_year": 1973,
+                "note": "Renamed"
+            },
+            {
+                "name": "Home Farm FC",
+                "from_year": 1973,
+                "to_year": 1995,
+                "note": "Renamed"
+            },
+            {
+                "name": "Home Farm Everton",
+                "from_year": 1995,
+                "to_year": 1999,
+                "note": "Renamed"
+            },
+            {
+                "name": "Home Farm FC",
+                "from_year": 1999,
+                "to_year": null,
+                "note": "Renamed"
+            }
+        ]
     },
     {
         "name": "Sporting Fingal FC",
